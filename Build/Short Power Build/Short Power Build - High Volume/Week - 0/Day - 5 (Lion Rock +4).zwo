@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Lion Rock +4 is 4 sets of 3x5-minute Threshold efforts that begin with a 15-second sprint at 150% FTP and then settle in for 4 minutes at 95% FTP, aka &quot;racewinners&quot;.Each set finishes with a 30-second &quot;kick to the line&quot; in the form of a ramp from 95% FTP all the way up to 140% FTP.Recoveries between intervals are only 1 minute long but recoveries between sets of intervals are each 10 minutes long.</description>
+    <name>Lion Rock +4</name>
+    <workout>
+        <SteadyState Duration="210.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="210.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="6.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <SteadyState Duration="18.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="6.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <SteadyState Duration="18.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="6.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="246.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="210.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="30.0" PowerLow="0.950" PowerHigh="1.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="210.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="30.0" PowerLow="0.950" PowerHigh="1.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="210.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="30.0" PowerLow="0.950" PowerHigh="1.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950"/>
+        <SteadyState Duration="210.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="30.0" PowerLow="0.950" PowerHigh="1.400"/>
+        <Cooldown Duration="240.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

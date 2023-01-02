@@ -1,0 +1,72 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tomyhoi is 1.5 hours of aerobic Endurance riding spent somewhere between 50-65% FTP.
+FILE NAME = Tomyhoi
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	53
+10	53
+10	56
+15	56
+15	59
+20	59
+20	61
+29	61
+29	64
+35	64
+35	60
+39	60
+39	60
+41	60
+41	61
+47	61
+47	59
+51	59
+51	62
+56	62
+56	63
+60	63
+60	61
+66	61
+66	65
+69	65
+69	61
+74	61
+74	63
+82	63
+82	56
+85	56
+85	56
+90	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	600	Active Recovery 1
+600	900	Endurance 1
+900	1200	Endurance 2
+1200	1740	Endurance 3
+1740	2100	Endurance 4
+2100	2340	Endurance 5
+2340	2460	Endurance 6
+2460	2820	Endurance 7
+2820	3060	Endurance 8
+3060	3360	Endurance 9
+3360	3600	Endurance 10
+3600	3960	Endurance 11
+3960	4140	Endurance 12
+4140	4440	Endurance 13
+4440	4920	Endurance 14
+4920	5100	Endurance 15
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

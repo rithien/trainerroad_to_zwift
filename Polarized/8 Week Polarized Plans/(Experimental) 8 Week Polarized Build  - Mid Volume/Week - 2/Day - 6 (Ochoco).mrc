@@ -1,0 +1,80 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Ochoco is 2 hours 30 minutes of aerobic Endurance riding spent between 65-75% FTP.
+FILE NAME = Ochoco
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	60
+10	60
+10	70
+25	70
+25	70
+26	65
+26	65
+40	65
+40	65
+41	70
+41	70
+55	70
+55	70
+56	75
+56	75
+70	75
+70	75
+71	70
+71	70
+85	70
+85	70
+86	65
+86	65
+100	65
+100	65
+101	70
+101	70
+115	70
+115	70
+116	75
+116	75
+130	75
+130	75
+131	70
+131	70
+145	70
+145	70
+150	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	9000	Workout
+300	600	Endurance 1
+600	1500	Endurance 2
+1500	1560	Endurance 3
+1560	2400	Endurance 4
+2400	2460	Endurance 5
+2460	3300	Endurance 6
+3300	3360	Endurance 7
+3360	4200	Endurance 8
+4200	4260	Endurance 9
+4260	5100	Endurance 10
+5100	5160	Endurance 11
+5160	6000	Endurance 12
+6000	6060	Endurance 13
+6060	6900	Endurance 14
+6900	6960	Endurance 15
+6960	7800	Endurance 16
+7800	7860	Endurance 17
+7860	8700	Endurance 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+             

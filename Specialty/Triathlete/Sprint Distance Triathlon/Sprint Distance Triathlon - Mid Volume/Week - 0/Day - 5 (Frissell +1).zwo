@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Frissell +1 is 5x9-minute intervals at 95% FTP but the recoveries shrink to 5 minutes at 50% FTP.</description>
+    <name>Frissell +1</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="540.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="540.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="540.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="540.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="540.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Cooldown Duration="300.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

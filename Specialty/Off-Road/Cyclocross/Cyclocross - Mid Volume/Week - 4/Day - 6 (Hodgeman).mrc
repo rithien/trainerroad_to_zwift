@@ -1,0 +1,79 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Hodgeman&nbsp;is made up of 4x10-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settles in at 88-89% FTP for the remaining 9 minutes.Each interval is separated by 7 minutes of recovery.
+FILE NAME = Hodgeman
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	72
+9	72
+9	90
+13.5	90
+13.5	150
+13.75	150
+13.75	40
+20.75	40
+20.75	150
+21.25	150
+21.25	80
+21.75	88
+21.75	89
+30.75	89
+30.75	40
+37.75	40
+37.75	150
+38.25	150
+38.25	80
+38.75	88
+38.75	88
+47.75	88
+47.75	40
+54.75	40
+54.75	150
+55.25	150
+55.25	80
+55.75	88
+55.75	89
+64.75	89
+64.75	40
+71.75	40
+71.75	150
+72.25	150
+72.25	80
+72.75	88
+72.75	88
+81.75	88
+81.75	40
+86.5	40
+86.5	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	540	Endurance 1
+540	810	Sweet Spot 1
+810	825	Sprint 1
+1245	1275	Sprint 2
+1275	1305	Tempo 1
+1305	1845	Sweet Spot 2
+2265	2295	Sprint 3
+2295	2325	Tempo 2
+2325	2865	Sweet Spot 3
+3285	3315	Sprint 4
+3315	3345	Tempo 3
+3345	3885	Sweet Spot 4
+4305	4335	Sprint 5
+4335	4365	Tempo 4
+4365	4905	Sweet Spot 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

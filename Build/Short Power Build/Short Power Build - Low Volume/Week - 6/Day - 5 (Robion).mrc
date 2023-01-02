@@ -1,0 +1,145 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Robion&nbsp;consists of 4 sets of short efforts lasting between 1-4 minutes at 100-122% FTP with very short, 30-second recoveries between intervals.Recoveries between sets of intervals last 5 minutes each.
+FILE NAME = Robion
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	60
+4	60
+4	80
+5	80
+5	40
+5.5	40
+5.5	90
+6.5	90
+6.5	40
+7	40
+7	100
+8	100
+8	40
+8.5	40
+8.5	110
+9.5	110
+9.5	40
+12.5	40
+12.5	100
+15.5	100
+15.5	40
+16	40
+16	103
+20	103
+20	40
+20.5	40
+20.5	122
+21.5	122
+21.5	40
+22	40
+22	112
+24	112
+24	40
+24.5	40
+24.5	99
+27.5	99
+27.5	40
+32.5	40
+32.5	100
+35.5	100
+35.5	40
+36	40
+36	103
+40	103
+40	40
+40.5	40
+40.5	122
+41.5	122
+41.5	40
+42	40
+42	112
+44	112
+44	40
+44.5	40
+44.5	99
+47.5	99
+47.5	40
+52.5	40
+52.5	98
+55.5	98
+55.5	40
+56	40
+56	103
+60	103
+60	40
+60.5	40
+60.5	122
+61.5	122
+61.5	40
+62	40
+62	112
+64	112
+64	40
+64.5	40
+64.5	99
+67.5	99
+67.5	40
+72.5	40
+72.5	98
+75.5	98
+75.5	40
+76	40
+76	103
+80	103
+80	40
+80.5	40
+80.5	121
+81.5	121
+81.5	40
+82	40
+82	112
+84	112
+84	40
+84.5	40
+84.5	99
+87.5	99
+87.5	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+120	240	Endurance 1
+240	300	Tempo 1
+330	390	Sweet Spot 1
+420	480	Threshold 1
+510	570	VO2 Max 1
+750	930	Threshold 2
+960	1200	Threshold 3
+1230	1290	Anaerobic Capacity 1
+1320	1440	VO2 Max 2
+1470	1650	Threshold 4
+1950	2130	Threshold 5
+2160	2400	Threshold 6
+2430	2490	Anaerobic Capacity 2
+2520	2640	VO2 Max 3
+2670	2850	Threshold 7
+3150	3330	Threshold 8
+3360	3600	Threshold 9
+3630	3690	Anaerobic Capacity 3
+3720	3840	VO2 Max 4
+3870	4050	Threshold 10
+4350	4530	Threshold 11
+4560	4800	Threshold 12
+4830	4890	Anaerobic Capacity 4
+4920	5040	VO2 Max 5
+5070	5250	Threshold 13
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

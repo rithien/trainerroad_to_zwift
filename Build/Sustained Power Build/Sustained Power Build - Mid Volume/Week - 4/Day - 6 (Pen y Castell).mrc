@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Pen y Castell&nbsp;totals just under&nbsp;60 minutes of Tempo intervals spent between 75-88% FTP with intermittent, 6.5-minute recoveries at 55% FTP. 
+FILE NAME = Pen y Castell
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+8	50
+8	65
+17	65
+17	80
+27	80
+27	55
+33.5	55
+33.5	88
+42.5	88
+42.5	55
+49	55
+49	75
+59	75
+59	55
+65	55
+65	85
+75	85
+75	50
+82	50
+82	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+480	1020	Endurance 1
+1020	1620	Tempo 1
+1620	2010	Endurance 2
+2010	2550	Sweet Spot 1
+2550	2940	Endurance 3
+2940	3540	Endurance 4
+3540	3900	Endurance 5
+3900	4500	Sweet Spot 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -1,0 +1,45 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Goode -2 is 3x15-minute intervals between 95-99% FTP with 5-minute recoveries between intervals.
+FILE NAME = Mount Goode -2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	70
+8	70
+8	90
+12	90
+12	40
+17	40
+17	95
+32	95
+32	40
+37	40
+37	99
+52	99
+52	40
+57	40
+57	97
+72	97
+72	40
+75	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+240	480	Endurance 1
+480	720	Sweet Spot 1
+1020	1920	Sweet Spot 2
+2220	3120	Threshold 1
+3420	4320	Threshold 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

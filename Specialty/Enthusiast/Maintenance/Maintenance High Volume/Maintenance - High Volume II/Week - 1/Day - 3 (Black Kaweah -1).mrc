@@ -1,0 +1,110 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Black Kaweah -1 is 2x21-minute sets of intervals ranging from 20 to 90 seconds at 128-140% FTP. Recovery is at least twice as long as the preceding work interval if not longer, and the recovery between sets of anaerobic repeats lasts 5 minutes.
+FILE NAME = Black Kaweah -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	70
+4	70
+4	120
+4.33	120
+4.33	40
+5	40
+5	130
+5.33	130
+5.33	40
+6	40
+6	140
+6.33	140
+6.33	40
+10.83	40
+10.83	140
+11.16	140
+11.16	40
+12.16	40
+12.16	136
+12.91	136
+12.91	40
+14.91	40
+14.91	132
+16.16	132
+16.16	40
+19.16	40
+19.16	128
+20.66	128
+20.66	40
+24.66	40
+24.66	132
+25.91	132
+25.91	40
+28.91	40
+28.91	136
+29.66	136
+29.66	40
+31.66	40
+31.66	140
+32	140
+32	40
+37	40
+37	140
+37.33	140
+37.33	40
+38.33	40
+38.33	136
+39.08	136
+39.08	40
+41.08	40
+41.08	132
+42.33	132
+42.33	40
+45.33	40
+45.33	128
+46.83	128
+46.83	40
+50.83	40
+50.83	132
+52.08	132
+52.08	40
+55.08	40
+55.08	136
+55.83	136
+55.83	40
+57.83	40
+57.83	140
+58.16	140
+58.16	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+120	240	Endurance 1
+240	260	VO2 Max 1
+300	320	Sprint 1
+360	380	Sprint 2
+650	670	Sprint 3
+730	775	Anaerobic Capacity 1
+895	970	Anaerobic Capacity 2
+1150	1240	Anaerobic Capacity 3
+1480	1555	Anaerobic Capacity 4
+1735	1780	Anaerobic Capacity 5
+1900	1920	Sprint 4
+2220	2240	Sprint 5
+2300	2345	Anaerobic Capacity 6
+2465	2540	Anaerobic Capacity 7
+2720	2810	Anaerobic Capacity 8
+3050	3125	Anaerobic Capacity 9
+3305	3350	Anaerobic Capacity 10
+3470	3490	Sprint 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

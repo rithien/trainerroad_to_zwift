@@ -1,0 +1,97 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Grampians is basically 3x14-minute sets of Sweet Spot work performed between 85-90% FTP with 3 very short, 10-second recovery valleys thrown in to break things up. Recoveries between blocks of work are a scant 1 minute long.
+FILE NAME = Grampians
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	70
+4.5	70
+4.5	40
+5	40
+5	80
+6.5	80
+6.5	40
+7	40
+7	90
+8.5	90
+8.5	40
+10.5	40
+10.5	85
+13.5	85
+13.5	40
+13.66	40
+13.66	90
+17.66	90
+17.66	40
+17.83	40
+17.83	85
+20.83	85
+20.83	40
+21	40
+21	90
+25	90
+25	40
+26	40
+26	85
+29	85
+29	40
+29.16	40
+29.16	90
+33.16	90
+33.16	40
+33.33	40
+33.33	85
+36.33	85
+36.33	40
+36.5	40
+36.5	90
+40.5	90
+40.5	40
+41.5	40
+41.5	85
+44.5	85
+44.5	40
+44.66	40
+44.66	90
+48.66	90
+48.66	40
+48.83	40
+48.83	85
+51.83	85
+51.83	40
+52	40
+52	90
+56	90
+56	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+180	270	Endurance 1
+300	390	Tempo 1
+420	510	Sweet Spot 1
+630	810	Sweet Spot 2
+820	1060	Sweet Spot 3
+1070	1250	Sweet Spot 4
+1260	1500	Sweet Spot 5
+1560	1740	Sweet Spot 6
+1750	1990	Sweet Spot 7
+2000	2180	Sweet Spot 8
+2190	2430	Sweet Spot 9
+2490	2670	Sweet Spot 10
+2680	2920	Sweet Spot 11
+2930	3110	Sweet Spot 12
+3120	3360	Sweet Spot 13
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

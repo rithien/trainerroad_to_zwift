@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Stromlo +1 is 4x8-minute intervals at 102% FTP with 6-minute recoveries between intervals.</description>
+    <name>Stromlo +1</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="10.0" PowerLow="0.670" PowerHigh="1.020"/>
+        <SteadyState Duration="480.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="350.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="10.0" PowerLow="0.670" PowerHigh="1.020"/>
+        <SteadyState Duration="480.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="350.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="10.0" PowerLow="0.670" PowerHigh="1.020"/>
+        <SteadyState Duration="480.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="350.0" PowerLow="0.410" PowerHigh="0.410"/>
+        <Warmup Duration="10.0" PowerLow="0.670" PowerHigh="1.020"/>
+        <SteadyState Duration="480.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

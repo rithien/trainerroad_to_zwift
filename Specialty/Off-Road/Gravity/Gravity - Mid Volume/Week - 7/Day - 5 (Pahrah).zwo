@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Pahrah is a pre-race warmup for events that will require short, intense and repetitive efforts.Starting with a gradual ramp and 1-minute effort at 80% FTP, you then get a chance to collect yourself before a 80-90% 5-minute ramp.After this primer, the warmup becomes more event-specific with decreasing duration 45-second to 8-second intervals offset by increasing rest intervals. The intensity of these intervals grows from 120-220% FTP, making sure you are familiar with the demands of a fast-paced start and short, intense efforts.Finally, the warmup gives you 3-minutes of recovery before you head up to the line.</description>
+    <name>Pahrah</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="150.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="60.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="180.0" PowerLow="0.800" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="45.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="25.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <SteadyState Duration="25.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="50.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="8.0" PowerLow="1.800" PowerHigh="1.800"/>
+        <SteadyState Duration="122.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="8.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="122.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="8.0" PowerLow="2.200" PowerHigh="2.200"/>
+        <Cooldown Duration="182.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

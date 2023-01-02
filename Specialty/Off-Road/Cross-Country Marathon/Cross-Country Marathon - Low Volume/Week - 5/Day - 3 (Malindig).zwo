@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Malindig&amp;nbsp;is made up of 3x14.5-minute hard-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settle in at 99% FTP for the remaining 13.5 minutes. Each interval is separated by 2 minutes of recovery.</description>
+    <name>Malindig</name>
+    <workout>
+        <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="165.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.990"/>
+        <SteadyState Duration="810.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.990"/>
+        <SteadyState Duration="810.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.990"/>
+        <SteadyState Duration="810.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,79 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Kuhe&nbsp;is made up of 4x8-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settles in at 90% FTP for the remaining 7 minutes.Each interval is separated by 9&nbsp;minutes of recovery.
+FILE NAME = Kuhe
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	72
+10	72
+10	96
+13.5	96
+13.5	150
+13.75	150
+13.75	40
+22.75	40
+22.75	150
+23.25	150
+23.25	80
+23.75	90
+23.75	90
+30.75	90
+30.75	40
+39.75	40
+39.75	150
+40.25	150
+40.25	80
+40.75	89
+40.75	89
+47.75	89
+47.75	40
+56.75	40
+56.75	150
+57.25	150
+57.25	80
+57.75	89
+57.75	89
+64.75	89
+64.75	40
+73.75	40
+73.75	150
+74.25	150
+74.25	80
+74.75	90
+74.75	90
+81.75	90
+81.75	40
+86.5	40
+86.5	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	600	Endurance 1
+600	810	Threshold 1
+810	825	Sprint 1
+1365	1395	Sprint 2
+1395	1425	Sweet Spot 1
+1425	1845	Sweet Spot 2
+2385	2415	Sprint 3
+2415	2445	Tempo 1
+2445	2865	Sweet Spot 3
+3405	3435	Sprint 4
+3435	3465	Tempo 2
+3465	3885	Sweet Spot 4
+4425	4455	Sprint 5
+4455	4485	Sweet Spot 5
+4485	4905	Sweet Spot 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

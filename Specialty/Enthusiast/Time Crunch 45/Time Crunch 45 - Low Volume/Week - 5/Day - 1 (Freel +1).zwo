@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Freel +1 is a lighter version of similar workouts and consists of 2 sets of 5x60-seconds at 127% FTP with brief, 70-second recoveries between intervals.Each set of intervals is separated by 10 minutes of recovery and this version includes an extended cooldown.</description>
+    <name>Freel +1</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500">
+            <textevent message="Welcome to Freel" timeoffset="10.000000"/>
+            <textevent message="Let's start things off with several minutes of warmup" timeoffset="16.000000"/>
+            <textevent message="Just keep your spin quick &amp; light..." timeoffset="23.000000"/>
+            <textevent message="for these first few minutes" timeoffset="30.000000"/>
+        </SteadyState>
+        <SteadyState Duration="300.0" PowerLow="0.720" PowerHigh="0.720">
+            <textevent message="Time to ramp things up a little..." timeoffset="0.000000"/>
+            <textevent message="and further your warmup and open your lungs a bit" timeoffset="7.000000"/>
+            <textevent message="Try to keep your spin above 85rpm..." timeoffset="14.000000"/>
+            <textevent message="higher if it's reasonably comfortable" timeoffset="21.000000"/>
+        </SteadyState>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960">
+            <textevent message="Final minutes of your warmup, right next to your FTP" timeoffset="0.000000"/>
+            <textevent message="Increase your spin to 90rpm or higher..." timeoffset="7.000000"/>
+            <textevent message="if you're not already spinning that quickly" timeoffset="14.000000"/>
+            <textevent message="And draw long, full belly-breaths..." timeoffset="21.000000"/>
+            <textevent message="then completely empty your lungs" timeoffset="28.000000"/>
+            <textevent message="Establish this breathing pattern now..." timeoffset="50.000000"/>
+            <textevent message="you'll need it later" timeoffset="57.000000"/>
+        </SteadyState>
+        <SteadyState Duration="240.0" PowerLow="0.460" PowerHigh="0.460">
+            <textevent message="Today's intervals are all in anaerobic territory..." timeoffset="0.000000"/>
+            <textevent message="up at 127% FTP but a couple fewer than similar workouts" timeoffset="7.000000"/>
+            <textevent message="This will allow you to retain the intensity &amp; mental familiarity..." timeoffset="14.000000"/>
+            <textevent message="with these high workloads but trim down the volume" timeoffset="21.000000"/>
+            <textevent message="So while this shortened VO2max workout is far from a recovery ride..." timeoffset="28.000000"/>
+            <textevent message="it can easily be made part of a lighter week..." timeoffset="35.000000"/>
+            <textevent message="aimed at helping you keep the benefit of your hard work..." timeoffset="42.000000"/>
+            <textevent message="while allowing you to 'absorb' some fitness over a de-load week" timeoffset="49.000000"/>
+            <textevent message="And feel free to backpedal during these recovery valleys..." timeoffset="60.000000"/>
+            <textevent message="if you need to reduce the workload a little further" timeoffset="67.000000"/>
+            <textevent message="We'll jump into your first effort in about a minute..." timeoffset="230.000000"/>
+            <textevent message="so establish a quick, sustainable spin before the interval begins..." timeoffset="237.000000"/>
+            <textevent message="somewhere in the 90-100rpm range, if possible" timeoffset="244.000000"/>
+            <textevent message="Each interval jumps right up to Target power..." timeoffset="260.000000"/>
+            <textevent message="and then you'll sustain your effort for 60 seconds" timeoffset="267.000000"/>
+            <textevent message="70 seconds of easy spinning follows each of these little brutes" timeoffset="274.000000"/>
+            <textevent message="So about a minute's worth of work..." timeoffset="281.000000"/>
+            <textevent message="and a little over a minute's worth of recovery" timeoffset="288.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="Pedal comfortably quickly and settle in" timeoffset="0.000000"/>
+            <textevent message="Don't worry about getting aero for these..." timeoffset="7.000000"/>
+            <textevent message="unless you can stay low..." timeoffset="14.000000"/>
+            <textevent message="and still get enough air to work this hard" timeoffset="18.000000"/>
+            <textevent message="Halfway there, stay quick &amp; smooth..." timeoffset="30.000000"/>
+            <textevent message="and make sure your shoulders &amp; elbows are relaxed" timeoffset="37.000000"/>
+            <textevent message="Final 10 seconds!" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="70.0" PowerLow="0.410" PowerHigh="0.410">
+            <textevent message="Good, now keep spinning &amp; breathing fully..." timeoffset="0.000000"/>
+            <textevent message="and backpedal for 20-30 seconds if necessary" timeoffset="7.000000"/>
+            <textevent message="Spin forward if you're backpedaling" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="Quick spin, settle in for 60 seconds of effort" timeoffset="0.000000"/>
+            <textevent message="While the workload won't budge..." timeoffset="10.000000"/>
+            <textevent message="the intervals will grow gradually more demanding..." timeoffset="17.000000"/>
+            <textevent message="as you begin to fatigue" timeoffset="24.000000"/>
+            <textevent message="So it will SEEM like more work..." timeoffset="30.000000"/>
+            <textevent message="but it's really not" timeoffset="37.000000"/>
+            <textevent message="It's just a matter of working through the discomfort..." timeoffset="42.000000"/>
+            <textevent message="by focusing your mind elsewhere or simply embracing the pain" timeoffset="49.000000"/>
+        </SteadyState>
+        <SteadyState Duration="70.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Ease off the gas but keep spinning..." timeoffset="0.000000"/>
+            <textevent message="backpedal if necessary" timeoffset="7.000000"/>
+            <textevent message="Be spinning forward by now" timeoffset="50.000000"/>
+            <textevent message="It's best to have your leg speed stabilized..." timeoffset="60.000000"/>
+            <textevent message="BEFORE each interval begins" timeoffset="67.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="Be quick, start to draw full breaths..." timeoffset="0.000000"/>
+            <textevent message="by letting your belly pooch outward" timeoffset="5.000000"/>
+            <textevent message="Just as importantly, completely clear your lungs" timeoffset="12.000000"/>
+            <textevent message="The more effectively you exhale..." timeoffset="19.000000"/>
+            <textevent message="the better you clear the waste" timeoffset="25.000000"/>
+            <textevent message="30 seconds! Stay focused" timeoffset="30.000000"/>
+            <textevent message="Keep your legs quick for 20 more seconds" timeoffset="40.000000"/>
+            <textevent message="Final 10, don't quit!" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="70.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Ease up, spin lightly, forward or backward" timeoffset="0.000000"/>
+            <textevent message="Forward spin, light &amp; quick" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="Try to start managing the fatigue early by breathing well" timeoffset="0.000000"/>
+            <textevent message="Even though the watts are in well into anaerobic territory..." timeoffset="7.000000"/>
+            <textevent message="these are HIGHLY aerobic efforts..." timeoffset="14.000000"/>
+            <textevent message="lots of air is necessary" timeoffset="21.000000"/>
+            <textevent message="So pay due attention to your breathing" timeoffset="25.000000"/>
+        </SteadyState>
+        <SteadyState Duration="70.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Good! Backpedal if necessary" timeoffset="0.000000"/>
+            <textevent message="Pedal forward with a light &amp; quick spin" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="By now, the discomfort is starting much earlier in the interval..." timeoffset="0.000000"/>
+            <textevent message="but you can mitigate that burn by breathing really well" timeoffset="7.000000"/>
+            <textevent message="Halfway there, just 30 more seconds of focus" timeoffset="30.000000"/>
+            <textevent message="Focus on breathing well, pedaling quickly..." timeoffset="37.000000"/>
+            <textevent message="and keeping your power steady..." timeoffset="44.000000"/>
+            <textevent message="without sacrificing one bit of your form" timeoffset="49.000000"/>
+        </SteadyState>
+        <SteadyState Duration="600.0" PowerLow="0.450" PowerHigh="0.450">
+            <textevent message="Well done, spin lightly for a little while" timeoffset="2.000000"/>
+            <textevent message="Round 2 is just a minute away..." timeoffset="530.000000"/>
+            <textevent message="so start to settle back into your quick, controlled spin..." timeoffset="537.000000"/>
+            <textevent message="then sustain it for the as much of the set as possible" timeoffset="544.000000"/>
+            <textevent message="Keep your breathing elevated but draw full belly-breaths..." timeoffset="551.000000"/>
+            <textevent message="and keep your legs quick" timeoffset="570.000000"/>
+            <textevent message="Shoot for over 100rpm if you can control it" timeoffset="575.000000"/>
+            <textevent message="10-second ramp, 60-second interval, only 5 times" timeoffset="582.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="Be quick, settle into a smooth pedalstroke" timeoffset="0.000000"/>
+            <textevent message="30 seconds, keep your upper body as still as possible" timeoffset="30.000000"/>
+            <textevent message="Final 10 seconds, no slip in form!" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="70.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Spin out the heaviness, backward or forward" timeoffset="0.000000"/>
+            <textevent message="Forward spin, light &amp; quick" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="Breath from your belly and stay relaxed..." timeoffset="0.000000"/>
+            <textevent message="starting with your forehead &amp; jaw..." timeoffset="7.000000"/>
+            <textevent message="ditching any tension you don't need" timeoffset="14.000000"/>
+            <textevent message="Halfway there!" timeoffset="30.000000"/>
+            <textevent message="Keep your cadence and stay relaxed" timeoffset="35.000000"/>
+            <textevent message="If you start to fade, emphasize a light kick &amp; pull" timeoffset="40.000000"/>
+            <textevent message="Final 10 seconds, keep it together!" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="70.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Every time you back off, focus on your exhales..." timeoffset="0.000000"/>
+            <textevent message="and clear that junk well, recover more quickly" timeoffset="7.000000"/>
+            <textevent message="Pedal forward if you aren't already" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="Keep your hands loose on the bars..." timeoffset="0.000000"/>
+            <textevent message="soften up your elbows..." timeoffset="7.000000"/>
+            <textevent message="and keep your shoulders down away from your ears" timeoffset="12.000000"/>
+            <textevent message="Halfway through the interval, halfway through the set" timeoffset="30.000000"/>
+            <textevent message="Final 10 seconds, keep your cadence up!" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="70.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Excellent, backpedal or spin lightly" timeoffset="0.000000"/>
+            <textevent message="Get spinning forward, quick &amp; light for now" timeoffset="30.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="Quick legs, slow breaths" timeoffset="0.000000"/>
+            <textevent message="Quick legs, BIG breaths" timeoffset="10.000000"/>
+            <textevent message="Full breaths still..." timeoffset="30.000000"/>
+            <textevent message="and no panting or gasping" timeoffset="35.000000"/>
+            <textevent message="20 seconds to go, smooth &amp; relaxed" timeoffset="40.000000"/>
+            <textevent message="Final 10 seconds, so smooth it looks easy" timeoffset="50.000000"/>
+        </SteadyState>
+        <SteadyState Duration="70.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Good! Only 1 to go, backpedal if you need to" timeoffset="0.000000"/>
+            <textevent message="Light, forward spin, 20 seconds out" timeoffset="40.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="1.270" PowerHigh="1.270">
+            <textevent message="Perfect practice makes perfect, right?" timeoffset="0.000000"/>
+            <textevent message="By now you've practiced several things..." timeoffset="7.000000"/>
+            <textevent message="and now you get to apply them..." timeoffset="14.000000"/>
+            <textevent message="as the fatigue really ratchets up" timeoffset="21.000000"/>
+            <textevent message="Retaining your form no matter how tired you get..." timeoffset="28.000000"/>
+            <textevent message="Finishing strongly without quitting even a second early..." timeoffset="35.000000"/>
+            <textevent message="'Resisting' fatigue in general..." timeoffset="42.000000"/>
+            <textevent message="all of this no matter how tough things get" timeoffset="49.000000"/>
+        </SteadyState>
+        <Cooldown Duration="220.0" PowerLow="0.400" PowerHigh="0.300">
+            <textevent message="Well done! Clear your legs and slow your breathing" timeoffset="0.000000"/>
+            <textevent message="You're welcome to extend this cooldown if you like..." timeoffset="7.000000"/>
+            <textevent message="especially if you're in the midst of a recovery week" timeoffset="14.000000"/>
+            <textevent message="If this is recovery for you, it's highly ACTIVE recovery" timeoffset="21.000000"/>
+            <textevent message="But if you know from experience..." timeoffset="28.000000"/>
+            <textevent message="how your body responds to multiple weeks of work..." timeoffset="35.000000"/>
+            <textevent message="tailor your rest weeks &amp; recovery workouts..." timeoffset="42.000000"/>
+            <textevent message="as necessary to get rested &amp; ready for what's next" timeoffset="49.000000"/>
+            <textevent message="even if that means dialing some workouts down..." timeoffset="56.000000"/>
+            <textevent message="in order to get you rested &amp; eager for your next week!" timeoffset="62.000000"/>
+            <textevent message="In any case, we'll see you next time" timeoffset="70.000000"/>
+        </Cooldown>
+    </workout>
+</workout_file>

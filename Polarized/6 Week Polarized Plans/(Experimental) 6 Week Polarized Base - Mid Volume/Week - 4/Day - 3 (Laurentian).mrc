@@ -1,0 +1,72 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Laurentian is 2&nbsp;hours 15 minutes&nbsp;of aerobic Endurance spent between 65-75% FTP.
+FILE NAME = Laurentian
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	60
+10	60
+10	70
+25	70
+25	70
+26	73
+26	73
+40	73
+40	73
+41	68
+41	68
+55	68
+55	68
+56	70
+56	70
+70	70
+70	70
+71	72
+71	72
+85	72
+85	72
+86	70
+86	70
+100	70
+100	70
+101	75
+101	75
+115	75
+115	75
+116	70
+116	70
+130	70
+130	70
+135	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	8100	Workout
+300	600	Endurance 1
+600	1500	Endurance 2
+1500	1560	Endurance 3
+1560	2400	Endurance 4
+2400	2460	Endurance 5
+2460	3300	Endurance 6
+3300	3360	Endurance 7
+3360	4200	Endurance 8
+4200	4260	Endurance 9
+4260	5100	Endurance 10
+5100	5160	Endurance 11
+5160	6000	Endurance 12
+6000	6060	Endurance 13
+6060	6900	Endurance 14
+6900	6960	Endurance 15
+6960	7800	Endurance 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

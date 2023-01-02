@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Dashan&amp;nbsp;consists of 6x9-minute sets of varied VO2max/Anaerobic bridging efforts ranging from 105-120% FTP. The bridging bursts range from 30 seconds to 2 minutes in duration with varied intervals at Sweet Spot/Threshold in between (90-100% FTP). Recoveries between sets of intervals vary by trading duration for intensity over the course of the workout.</description>
+    <name>Dashan</name>
+    <workout>
+        <Warmup Duration="240.0" PowerLow="0.500" PowerHigh="0.510"/>
+        <SteadyState Duration="90.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="60.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="90.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="240.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="45.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="45.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="90.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="90.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.380"/>
+    </workout>
+</workout_file>

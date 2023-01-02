@@ -1,0 +1,68 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Humboldt&nbsp;is 7x7-9 minutes Sweet Spot intervals ranging between 88-90% FTP with 6.5 minutes recoveries between intervals. 
+FILE NAME = Humboldt
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	60
+7	60
+7	70
+9	70
+9	90
+12	90
+12	40
+18	40
+18	88
+27	88
+27	40
+33.5	40
+33.5	88
+41.5	88
+41.5	40
+48	40
+48	88
+55	88
+55	40
+61.5	40
+61.5	89
+68.5	89
+68.5	40
+75	40
+75	89
+82	89
+82	40
+88.5	40
+88.5	88
+96.5	88
+96.5	40
+103	40
+103	88
+112	88
+112	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+300	420	Endurance 1
+420	540	Endurance 2
+540	720	Sweet Spot 1
+1080	1620	Sweet Spot 2
+2010	2490	Sweet Spot 3
+2880	3300	Sweet Spot 4
+3690	4110	Sweet Spot 5
+4500	4920	Sweet Spot 6
+5310	5790	Sweet Spot 7
+6180	6720	Sweet Spot 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Round Bald +3 is 4x20-minute intervals at 85% FTP with 6-minute recoveries between intervals.</description>
+    <name>Round Bald +3</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="1200.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="1200.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="1200.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="1200.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <Cooldown Duration="360.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>The time-crunched version of Bear Creek is 2x9-minute Over-Under intervals alternating between 90 seconds at 95% FTP and 90 seconds at 105% FTP with a 3-minute recovery between intervals.</description>
+    <name>Bear Creek -5</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500">
+            <textevent message="The time-crunched version of Bear Creek consists of 2 sets of Over-Under intervals" timeoffset="10.000000"/>
+            <textevent message="As the name would imply, we'll be working slightly over &amp; slightly under FTP" timeoffset="20.000000"/>
+            <textevent message="Over-Unders put you in an uncomfortable place..." timeoffset="30.000000"/>
+            <textevent message="in hopes of increasing both your ability to work near your FTP..." timeoffset="40.000000"/>
+            <textevent message="as well as increasing your FTP itself" timeoffset="50.000000"/>
+            <textevent message="You have two 9-minute over-under intervals ahead of you..." timeoffset="60.000000"/>
+            <textevent message="where you'll alternate between 95 and 105% FTP every 90 seconds" timeoffset="70.000000"/>
+            <textevent message="You'll then have 3 minutes of recovery between intervals" timeoffset="80.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="0.650" PowerHigh="0.650">
+            <textevent message="3-minute clearing effort coming up in 30 seconds" timeoffset="30.000000"/>
+        </SteadyState>
+        <SteadyState Duration="45.0" PowerLow="0.900" PowerHigh="0.900">
+            <textevent message="Settle into a cadence between 85-95rpm..." timeoffset="0.000000"/>
+            <textevent message="and then hold it for the entire warmup" timeoffset="10.000000"/>
+        </SteadyState>
+        <SteadyState Duration="45.0" PowerLow="1.000" PowerHigh="1.000">
+            <textevent message="Same spin, more power" timeoffset="0.000000"/>
+        </SteadyState>
+        <SteadyState Duration="45.0" PowerLow="0.900" PowerHigh="0.900">
+            <textevent message="Ease up a bit but keep your spin steady" timeoffset="0.000000"/>
+        </SteadyState>
+        <SteadyState Duration="45.0" PowerLow="1.000" PowerHigh="1.000">
+            <textevent message="Last time, raise your power but keep your spin steady" timeoffset="0.000000"/>
+        </SteadyState>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="The objective of over-under intervals is to hone your ability..." timeoffset="10.000000"/>
+            <textevent message="to handle changes in pace when you're already working hard" timeoffset="20.000000"/>
+            <textevent message="The over-segments will cause your legs to start flooding..." timeoffset="30.000000"/>
+            <textevent message="and the under-segments will allow you to recover, just barely" timeoffset="40.000000"/>
+            <textevent message="Keep in mind that the &quot;unders&quot; won't feel like recovery..." timeoffset="50.000000"/>
+            <textevent message="so this will be a great opportunity to improve upon..." timeoffset="60.000000"/>
+            <textevent message="working through the pain, riding off the burn" timeoffset="70.000000"/>
+            <textevent message="First 9-minute interval in 30 seconds..." timeoffset="90.000000"/>
+            <textevent message="so make sure your cadence is in that 85-95rpm range" timeoffset="100.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950">
+            <textevent message="And we're off! Take the first 45 seconds to adjust to the workload" timeoffset="0.000000"/>
+            <textevent message="Get ready for 105% FTP for 90 seconds" timeoffset="80.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="1.050" PowerHigh="1.050">
+            <textevent message="Cadence still between 85-95rpm?" timeoffset="0.000000"/>
+            <textevent message="Shoot for a cadence more towards 95rpm than 85 if sustainable" timeoffset="10.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950">
+            <textevent message="Back down to 95% FTP" timeoffset="0.000000"/>
+            <textevent message="Your legs won't feel great, but they will slowly start to recover" timeoffset="10.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="1.050" PowerHigh="1.050">
+            <textevent message="90 more seconds at 105% FTP" timeoffset="0.000000"/>
+            <textevent message="Keep your upper body relaxed..." timeoffset="10.000000"/>
+            <textevent message="and focus on maintaining a proper pedalstroke" timeoffset="20.000000"/>
+            <textevent message="Kick &amp; pull across the top and bottom of the stroke..." timeoffset="30.000000"/>
+            <textevent message="and don't let your heel drop on the downstroke" timeoffset="40.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950">
+            <textevent message="Ease off a bit, pick up your spin if it slowed" timeoffset="0.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="1.050" PowerHigh="1.050">
+            <textevent message="Stay strong for this final 90-second over-segment" timeoffset="0.000000"/>
+            <textevent message="3 minutes of recovery is on the horizon" timeoffset="10.000000"/>
+        </SteadyState>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Well done! A bit of rest ahead" timeoffset="0.000000"/>
+            <textevent message="We'll work on a few cadence drills during the final interval" timeoffset="150.000000"/>
+            <textevent message="But take the first 90 seconds to settle in between 85-95rpm" timeoffset="160.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950">
+            <textevent message="We'll work on a slightly higher-than-usual cadence for this first over-segment" timeoffset="60.000000"/>
+            <textevent message="Shoot for an increase of 5-10rpm over your usual spin" timeoffset="70.000000"/>
+            <textevent message="Just bring it up above a comfortable spin, nothing excessive" timeoffset="80.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="1.050" PowerHigh="1.050">
+            <textevent message="Find a faster-than-usual cadence that you can keep for 90 seconds" timeoffset="0.000000"/>
+            <textevent message="and a cadence that you can easily control" timeoffset="10.000000"/>
+            <textevent message="Make sure you're not bouncing in the saddle" timeoffset="20.000000"/>
+            <textevent message="30 more seconds of quick legs" timeoffset="60.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950">
+            <textevent message="Ease up on the cadence, find your comfortable spin" timeoffset="0.000000"/>
+            <textevent message="We'll do some slow-cadence work starting in about 30 seconds" timeoffset="60.000000"/>
+            <textevent message="Shoot for something below 80rpm..." timeoffset="70.000000"/>
+            <textevent message="as long as you don't experience ANY knee pain" timeoffset="80.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="1.050" PowerHigh="1.050">
+            <textevent message="Find your gearing &amp; bring the cadence down..." timeoffset="0.000000"/>
+            <textevent message="as low you can manage without losing your form..." timeoffset="10.000000"/>
+            <textevent message="or straying far from your Target Power" timeoffset="20.000000"/>
+            <textevent message="30 more seconds of slow-cadence work, stay steady" timeoffset="60.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950">
+            <textevent message="And back to a comfortable cadence" timeoffset="0.000000"/>
+            <textevent message="We'll break up this final 2 minutes into both..." timeoffset="70.000000"/>
+            <textevent message="a fast-cadence portion as well as a slow-cadence one" timeoffset="80.000000"/>
+        </SteadyState>
+        <SteadyState Duration="90.0" PowerLow="1.050" PowerHigh="1.050">
+            <textevent message="Let's start with a higher-than-usual cadence" timeoffset="0.000000"/>
+            <textevent message="Over 100rpm is ideal..." timeoffset="10.000000"/>
+            <textevent message="but simply pedaling out of your comfort zone is beneficial" timeoffset="20.000000"/>
+            <textevent message="Begin slowing your cadence down..." timeoffset="25.000000"/>
+            <textevent message="and settle into a slower cadence for the final 45 seconds..." timeoffset="35.000000"/>
+            <textevent message="as long as you're able to maintain pain-free form" timeoffset="45.000000"/>
+        </SteadyState>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Excellent job!" timeoffset="0.000000"/>
+            <textevent message="Feel free to continue cooling down after the clock runs out" timeoffset="10.000000"/>
+            <textevent message="Start your post-workout nutrition or at least start thinking about it..." timeoffset="20.000000"/>
+            <textevent message="and we'll see you next time" timeoffset="30.000000"/>
+        </SteadyState>
+    </workout>
+</workout_file>

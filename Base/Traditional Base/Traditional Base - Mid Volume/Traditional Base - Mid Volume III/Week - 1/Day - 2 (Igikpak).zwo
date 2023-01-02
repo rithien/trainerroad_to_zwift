@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Igikpak is 2 hours of aerobic Endurance riding spent between 55-60% FTP, and includes an early trio of Power Sprints.Igikpak's optional form drills include Endurance Spinning intervals and some Single-Leg Focus drills.</description>
+    <name>Igikpak</name>
+    <workout>
+        <SteadyState Duration="600.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="60.0" PowerLow="0.500" PowerHigh="0.550"/>
+        <SteadyState Duration="240.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="10.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <Warmup Duration="50.0" PowerLow="0.200" PowerHigh="0.550"/>
+        <SteadyState Duration="360.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="10.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <Warmup Duration="50.0" PowerLow="0.200" PowerHigh="0.550"/>
+        <SteadyState Duration="360.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="10.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <Warmup Duration="50.0" PowerLow="0.200" PowerHigh="0.550"/>
+        <SteadyState Duration="300.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Warmup Duration="60.0" PowerLow="0.550" PowerHigh="0.600"/>
+        <SteadyState Duration="1800.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Cooldown Duration="60.0" PowerLow="0.600" PowerHigh="0.550"/>
+        <SteadyState Duration="300.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Warmup Duration="60.0" PowerLow="0.550" PowerHigh="0.600"/>
+        <SteadyState Duration="1500.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Cooldown Duration="60.0" PowerLow="0.600" PowerHigh="0.550"/>
+        <SteadyState Duration="600.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Cooldown Duration="60.0" PowerLow="0.550" PowerHigh="0.500"/>
+        <SteadyState Duration="600.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

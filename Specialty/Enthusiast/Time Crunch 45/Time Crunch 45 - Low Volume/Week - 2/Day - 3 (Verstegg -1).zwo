@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Verstegg -1 is 2 sets of 2x7.5-minute ladders stepping from 95-109% FTP before stepping back down to again, all in 90-second steps.Recoveries between intervals are a scant 1 minute while the rest between sets of intervals is a slightly more generous 3 minutes.</description>
+    <name>Verstegg -1</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="60.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="90.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="90.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="90.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="90.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="90.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="90.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="90.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="90.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="90.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="90.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="90.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="90.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

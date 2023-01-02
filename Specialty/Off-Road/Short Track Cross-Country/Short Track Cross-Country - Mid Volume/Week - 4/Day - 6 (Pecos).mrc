@@ -1,0 +1,55 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Pecos&nbsp;totals just under 60&nbsp;minutes of Tempo intervals spent between 80-89% FTP with intermittent, 4.5-minute recoveries at 55% FTP. 
+FILE NAME = Pecos
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+8	50
+8	60
+13	60
+13	70
+18	70
+18	82
+29	82
+29	55
+33.5	55
+33.5	89
+44.5	89
+44.5	55
+49	55
+49	80
+60	80
+60	55
+64.5	55
+64.5	85
+75.5	85
+75.5	50
+82	50
+82	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+480	780	Endurance 1
+780	1080	Endurance 2
+1080	1740	Tempo 1
+1740	2010	Endurance 3
+2010	2670	Sweet Spot 1
+2670	2940	Endurance 4
+2940	3600	Tempo 2
+3600	3870	Endurance 5
+3870	4530	Sweet Spot 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+     

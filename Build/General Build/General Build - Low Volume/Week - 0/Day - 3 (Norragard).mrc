@@ -1,0 +1,110 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Norragard&nbsp;is 2x21-minute sets of intervals ranging from 15 to 75 seconds at 128-140% FTP. Recovery is at least twice as long as the preceding work interval if not longer, and the recovery between sets of anaerobic repeats lasts 5 minutes.
+FILE NAME = Norragard
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	70
+4	70
+4	120
+4.33	120
+4.33	40
+5.16	40
+5.16	130
+5.5	130
+5.5	40
+6.33	40
+6.33	140
+6.66	140
+6.66	40
+12.16	40
+12.16	140
+12.41	140
+12.41	40
+13.41	40
+13.41	136
+14.08	136
+14.08	40
+16.08	40
+16.08	132
+17.25	132
+17.25	40
+20.25	40
+20.25	128
+21.5	128
+21.5	40
+25.5	40
+25.5	132
+26.75	132
+26.75	40
+29.75	40
+29.75	136
+30.41	136
+30.41	40
+32.41	40
+32.41	140
+32.66	140
+32.66	40
+37.66	40
+37.66	140
+37.91	140
+37.91	40
+38.91	40
+38.91	136
+39.58	136
+39.58	40
+41.58	40
+41.58	132
+42.75	132
+42.75	40
+45.75	40
+45.75	128
+47	128
+47	40
+51	40
+51	132
+52.25	132
+52.25	40
+55.25	40
+55.25	136
+55.91	136
+55.91	40
+57.91	40
+57.91	140
+58.16	140
+58.16	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+120	240	Endurance 1
+240	260	VO2 Max 1
+310	330	Sprint 1
+380	400	Sprint 2
+730	745	Sprint 3
+805	845	Anaerobic Capacity 1
+965	1035	Anaerobic Capacity 2
+1215	1290	Anaerobic Capacity 3
+1530	1605	Anaerobic Capacity 4
+1785	1825	Anaerobic Capacity 5
+1945	1960	Sprint 4
+2260	2275	Sprint 5
+2335	2375	Anaerobic Capacity 6
+2495	2565	Anaerobic Capacity 7
+2745	2820	Anaerobic Capacity 8
+3060	3135	Anaerobic Capacity 9
+3315	3355	Anaerobic Capacity 10
+3475	3490	Sprint 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

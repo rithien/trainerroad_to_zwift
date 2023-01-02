@@ -1,0 +1,68 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Pioneer +1 increases the 45-minute segment nestled inside of the hour-long workout to 85-90% FTP. 
+FILE NAME = Pioneer +1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	49
+4	55
+4	65
+8	65
+8	75
+12	75
+12	87
+16	87
+16	89
+19	89
+19	86
+23	86
+23	90
+27	90
+27	85
+30	85
+30	87
+35	87
+35	88
+39	88
+39	85
+42	85
+42	88
+45	88
+45	86
+49	86
+49	88
+53	88
+53	86
+57	86
+57	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Sweet Spot 1
+960	1140	Sweet Spot 2
+1140	1380	Sweet Spot 3
+1380	1620	Sweet Spot 4
+1620	1800	Sweet Spot 5
+1800	2100	Sweet Spot 6
+2100	2340	Sweet Spot 7
+2340	2520	Sweet Spot 8
+2520	2700	Sweet Spot 9
+2700	2940	Sweet Spot 10
+2940	3180	Sweet Spot 11
+3180	3420	Sweet Spot 12
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+                 

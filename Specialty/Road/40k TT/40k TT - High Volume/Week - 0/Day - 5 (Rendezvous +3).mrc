@@ -1,0 +1,72 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Rendezvous +3 is 2x40 minutes of continuous progression from 60-80% FTP and then 80% all the way up to 100% FTP via 10% increases every 10 minutes.
+FILE NAME = Rendezvous +3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+9	50
+9	50
+9.5	60
+9.5	60
+19	60
+19	60
+19.5	70
+19.5	70
+29	70
+29	70
+29.5	80
+29.5	80
+39	80
+39	80
+39.5	90
+39.5	90
+49	90
+49	40
+59	40
+59	40
+59.5	70
+59.5	70
+69	70
+69	70
+69.5	80
+69.5	80
+79	80
+79	80
+79.5	90
+79.5	90
+89	90
+89	90
+89.5	100
+89.5	100
+99	100
+99	50
+105	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	6300	Workout
+570	1140	Endurance 1
+1140	1170	Endurance 2
+1170	1740	Endurance 3
+1740	1770	Endurance 4
+1770	2340	Tempo 1
+2340	2370	Sweet Spot 1
+2370	2940	Sweet Spot 2
+3570	4140	Endurance 5
+4140	4170	Endurance 6
+4170	4740	Tempo 2
+4740	4770	Sweet Spot 3
+4770	5340	Sweet Spot 4
+5340	5370	Sweet Spot 5
+5370	5940	Threshold 1
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

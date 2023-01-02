@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Polar Bear -2 is 120 minutes of continuous riding where you'll spend 105 minutes between 75-80% FTP.</description>
+    <name>Polar Bear -2</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.580" PowerHigh="0.580"/>
+        <SteadyState Duration="240.0" PowerLow="0.660" PowerHigh="0.660"/>
+        <SteadyState Duration="240.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="300.0" PowerLow="0.790" PowerHigh="0.790"/>
+        <SteadyState Duration="240.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="180.0" PowerLow="0.790" PowerHigh="0.790"/>
+        <SteadyState Duration="180.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <SteadyState Duration="420.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="300.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="480.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="300.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="180.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <SteadyState Duration="420.0" PowerLow="0.790" PowerHigh="0.790"/>
+        <SteadyState Duration="300.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="600.0" PowerLow="0.790" PowerHigh="0.790"/>
+        <SteadyState Duration="300.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="300.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="360.0" PowerLow="0.790" PowerHigh="0.790"/>
+        <SteadyState Duration="240.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="120.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <SteadyState Duration="240.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="240.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="240.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="120.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,140 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Short, sweet, &amp; moderately intense, Ickes includes a couple 6.5-minute Threshold pyramids comprised of efforts ranging from 30-90 seconds at 101-108% FTP with only 30-second recoveries between intervals and a brief 1-minute spin between pyramids. Up next are 6 short, 15-second Form Sprints where you'll target seated pedal-speed &amp; control, easing up for 45 seconds between each sprint. Finally, you'll face 4x1-minute VO2max repeats at 111% FTP with quick 45-second rests between each.
+FILE NAME = Ickes
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	65
+5	65
+5	108
+5.5	108
+5.5	40
+6	40
+6	110
+6.5	110
+6.5	40
+7	40
+7	112
+7.5	112
+7.5	40
+9.5	40
+9.5	108
+10	108
+10	50
+10.5	50
+10.5	105
+11.5	105
+11.5	50
+12	50
+12	101
+13.5	101
+13.5	50
+14	50
+14	105
+15	105
+15	50
+15.5	50
+15.5	108
+16	108
+16	40
+17	40
+17	108
+17.5	108
+17.5	50
+18	50
+18	105
+19	105
+19	50
+19.5	50
+19.5	101
+21	101
+21	50
+21.5	50
+21.5	105
+22.5	105
+22.5	50
+23	50
+23	108
+23.5	108
+23.5	40
+26	40
+26	108
+26.25	108
+26.25	50
+27	50
+27	108
+27.25	108
+27.25	50
+28	50
+28	108
+28.25	108
+28.25	50
+29	50
+29	108
+29.25	108
+29.25	50
+30	50
+30	108
+30.25	108
+30.25	50
+31	50
+31	108
+31.25	108
+31.25	40
+33.58	40
+33.58	111
+34.58	111
+34.58	50
+35.33	50
+35.33	111
+36.33	111
+36.33	50
+37.08	50
+37.08	111
+38.08	111
+38.08	50
+38.9	50
+38.9	111
+39.9	111
+39.9	50
+45	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+180	300	Endurance 1
+300	330	VO2 Max 1
+360	390	VO2 Max 2
+420	450	VO2 Max 3
+570	600	VO2 Max 4
+630	690	Threshold 1
+720	810	Threshold 2
+840	900	Threshold 3
+930	960	VO2 Max 5
+1020	1050	VO2 Max 6
+1080	1140	Threshold 4
+1170	1260	Threshold 5
+1290	1350	Threshold 6
+1380	1410	VO2 Max 7
+1560	1575	VO2 Max 8
+1620	1635	VO2 Max 9
+1680	1695	VO2 Max 10
+1740	1755	VO2 Max 11
+1800	1815	VO2 Max 12
+1860	1875	VO2 Max 13
+2015	2075	VO2 Max 14
+2120	2180	VO2 Max 15
+2225	2285	VO2 Max 16
+2334	2394	VO2 Max 17
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

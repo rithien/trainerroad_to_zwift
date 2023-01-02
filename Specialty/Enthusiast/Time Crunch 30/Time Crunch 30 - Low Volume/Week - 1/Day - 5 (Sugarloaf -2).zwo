@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Sugarloaf -2 is 3x6-minute intervals at 102% FTP with very short, 1-minute recoveries between intervals.</description>
+    <name>Sugarloaf -2</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="120.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="120.0" PowerLow="0.410" PowerHigh="0.410"/>
+        <SteadyState Duration="360.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

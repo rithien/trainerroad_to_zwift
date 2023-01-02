@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Katahdin is 4 sets lasting almost 5 minutes each, each consisting of 8x15-second efforts at 125% FTP with less than restful &quot;floats&quot; for 15-30 seconds at 88% FTP.Recoveries between sets are 5 minutes long.</description>
+    <name>Katahdin</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="45.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="45.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="45.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="30.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="15.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <Cooldown Duration="360.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

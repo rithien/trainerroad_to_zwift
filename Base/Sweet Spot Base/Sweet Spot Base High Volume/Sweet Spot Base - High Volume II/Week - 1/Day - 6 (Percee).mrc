@@ -1,0 +1,70 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Percee&nbsp;is 7 x 5-8&nbsp;minutes Sweet Spot intervals ranging between 88-90% FTP with 6-8.5 minutes recoveries between intervals. 
+FILE NAME = Percee
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	60
+7	60
+7	70
+9	70
+9	90
+12	90
+12	40
+18	40
+18	89
+24	89
+24	40
+30.5	40
+30.5	88
+38.5	88
+38.5	40
+46	40
+46	89
+53	89
+53	40
+61.5	40
+61.5	89
+66.5	89
+66.5	40
+74	40
+74	89
+80	89
+80	40
+86.5	40
+86.5	88
+94.5	88
+94.5	40
+102	40
+102	88
+108	88
+108	40
+112	40
+112	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+300	420	Endurance 1
+420	540	Endurance 2
+540	720	Sweet Spot 1
+1080	1440	Sweet Spot 2
+1830	2310	Sweet Spot 3
+2760	3180	Sweet Spot 4
+3690	3990	Sweet Spot 5
+4440	4800	Sweet Spot 6
+5190	5670	Sweet Spot 7
+6120	6480	Sweet Spot 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

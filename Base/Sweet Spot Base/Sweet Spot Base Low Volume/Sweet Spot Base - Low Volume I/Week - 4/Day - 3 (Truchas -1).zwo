@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Truchas -1 is 2x22-minute Sweet Spot efforts between 90-92% FTP with just 2 minutes of recovery between intervals.</description>
+    <name>Truchas -1</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="300.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="360.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="300.0" PowerLow="0.910" PowerHigh="0.910"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="360.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="300.0" PowerLow="0.910" PowerHigh="0.910"/>
+        <SteadyState Duration="360.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Croz&amp;nbsp;is 2.5 hours of Tempo intervals spent between 70-76% FTP with intermittent, 6 to 7-minute recoveries at 55% FTP.</description>
+    <name>Croz</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.570" PowerHigh="0.570"/>
+        <SteadyState Duration="180.0" PowerLow="0.640" PowerHigh="0.640"/>
+        <SteadyState Duration="540.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="360.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="720.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <Cooldown Duration="420.0" PowerLow="0.760" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

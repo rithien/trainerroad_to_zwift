@@ -1,0 +1,98 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Hunter -6 is made up of 3x20-minute intervals at 88% FTP sprinkled with short, 90-second recovery valleys throughout each interval. Recoveries between intervals last 10 minutes.
+FILE NAME = Hunter -6
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	58
+8	58
+8	67
+12	67
+12	76
+16	76
+16	85
+20	85
+20	40
+25	40
+25	88
+30	88
+30	40
+31.5	40
+31.5	88
+36.5	88
+36.5	40
+38	40
+38	88
+43	88
+43	40
+44.5	40
+44.5	88
+49.5	88
+49.5	40
+59.5	40
+59.5	88
+64.5	88
+64.5	40
+66	40
+66	88
+71	88
+71	40
+72.5	40
+72.5	88
+77.5	88
+77.5	40
+79	40
+79	88
+84	88
+84	40
+94	40
+94	88
+99	88
+99	40
+100.5	40
+100.5	88
+105.5	88
+105.5	40
+107	40
+107	88
+112	88
+112	40
+113.5	40
+113.5	88
+118.5	88
+118.5	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Tempo 1
+960	1200	Sweet Spot 1
+1500	1800	Sweet Spot 2
+1890	2190	Sweet Spot 3
+2280	2580	Sweet Spot 4
+2670	2970	Sweet Spot 5
+3570	3870	Sweet Spot 6
+3960	4260	Sweet Spot 7
+4350	4650	Sweet Spot 8
+4740	5040	Sweet Spot 9
+5640	5940	Sweet Spot 10
+6030	6330	Sweet Spot 11
+6420	6720	Sweet Spot 12
+6810	7110	Sweet Spot 13
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+   

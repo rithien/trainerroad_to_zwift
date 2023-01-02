@@ -1,0 +1,78 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Vogelsang +2 consists of 4 hours of aerobic Endurance riding spent between 60-65% FTP except for&nbsp;4x20-minute Tempo segments at 75% FTP.
+FILE NAME = Vogelsang +2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+7.5	50
+7.5	55
+15	55
+15	60
+37	60
+37	60
+41	75
+41	75
+61	75
+61	75
+63.5	65
+63.5	65
+86.5	65
+86.5	65
+89.5	75
+89.5	75
+109.5	75
+109.5	75
+112.5	60
+112.5	60
+134.5	60
+134.5	60
+139	75
+139	75
+159	75
+159	75
+161	65
+161	65
+183	65
+183	65
+185.5	75
+185.5	75
+205.5	75
+205.5	75
+208	60
+208	60
+225	60
+225	60
+240	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	14400	Workout
+450	900	Endurance 1
+900	2220	Endurance 2
+2220	2460	Endurance 3
+2460	3660	Endurance 4
+3660	3810	Endurance 5
+3810	5190	Endurance 6
+5190	5370	Endurance 7
+5370	6570	Endurance 8
+6570	6750	Endurance 9
+6750	8070	Endurance 10
+8070	8340	Endurance 11
+8340	9540	Endurance 12
+9540	9660	Endurance 13
+9660	10980	Endurance 14
+10980	11130	Endurance 15
+11130	12330	Endurance 16
+12330	12480	Endurance 17
+12480	13500	Endurance 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

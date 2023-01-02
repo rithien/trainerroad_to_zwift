@@ -1,0 +1,105 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Garrowby is a 3x17-minute segmented Sweet Spot workout. Each set consists of 5x3-4 minutes spent between 88-92% FTP.Recoveries between each short repeat are 30-45 seconds long, and recoveries between each set of repeats are 5 minutes long.
+FILE NAME = Garrowby
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	70
+6	70
+6	90
+9	90
+9	40
+13	40
+13	88
+16	88
+16	40
+16.5	40
+16.5	90
+20.5	90
+20.5	40
+21.25	40
+21.25	92
+24.25	92
+24.25	40
+24.75	40
+24.75	90
+28.75	90
+28.75	40
+29.5	40
+29.5	88
+32.5	88
+32.5	40
+37.5	40
+37.5	88
+40.5	88
+40.5	40
+41	40
+41	90
+45	90
+45	40
+45.75	40
+45.75	92
+48.75	92
+48.75	40
+49.25	40
+49.25	90
+53.25	90
+53.25	40
+54	40
+54	88
+57	88
+57	40
+62	40
+62	88
+65	88
+65	40
+65.5	40
+65.5	90
+69.5	90
+69.5	40
+70.25	40
+70.25	92
+73.25	92
+73.25	40
+73.75	40
+73.75	90
+77.75	90
+77.75	40
+78.5	40
+78.5	88
+81.5	88
+81.5	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+180	360	Endurance 1
+360	540	Sweet Spot 1
+780	960	Sweet Spot 2
+990	1230	Sweet Spot 3
+1275	1455	Sweet Spot 4
+1485	1725	Sweet Spot 5
+1770	1950	Sweet Spot 6
+2250	2430	Sweet Spot 7
+2460	2700	Sweet Spot 8
+2745	2925	Sweet Spot 9
+2955	3195	Sweet Spot 10
+3240	3420	Sweet Spot 11
+3720	3900	Sweet Spot 12
+3930	4170	Sweet Spot 13
+4215	4395	Sweet Spot 14
+4425	4665	Sweet Spot 15
+4710	4890	Sweet Spot 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

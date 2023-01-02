@@ -1,0 +1,71 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tower +4 is 128 minutes of continuous progression from 60% FTP all the way up to 100% FTP via 5-6% increases every 16 minutes.
+FILE NAME = Tower +4
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	50
+4.5	60
+4.5	60
+20	60
+20	60
+20.5	66
+20.5	66
+36	66
+36	66
+36.5	72
+36.5	72
+52	72
+52	72
+52.5	77
+52.5	77
+68	77
+68	77
+68.5	83
+68.5	83
+84	83
+84	83
+84.5	88
+84.5	88
+100	88
+100	88
+100.5	94
+100.5	94
+116	94
+116	94
+116.5	100
+116.5	100
+132	100
+132	40
+135	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	8100	Workout
+270	1200	Endurance 1
+1200	1230	Endurance 2
+1230	2160	Endurance 3
+2160	2190	Endurance 4
+2190	3120	Endurance 5
+3120	3150	Endurance 6
+3150	4080	Tempo 1
+4080	4110	Tempo 2
+4110	5040	Tempo 3
+5040	5070	Sweet Spot 1
+5070	6000	Sweet Spot 2
+6000	6030	Sweet Spot 3
+6030	6960	Sweet Spot 4
+6960	6990	Threshold 1
+6990	7920	Threshold 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

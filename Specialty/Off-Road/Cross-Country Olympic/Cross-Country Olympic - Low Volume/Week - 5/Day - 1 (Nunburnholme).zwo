@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Nunburnholme is 6x4-minute intervals at 110-112% FTP with 4-minute recoveries between intervals.</description>
+    <name>Nunburnholme</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="90.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.120" PowerHigh="1.120"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.120" PowerHigh="1.120"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Lola -1 is a toned down 30-minute effort a little below your current FTP.The first 10% of the time trial duration will bring you to the power you'll try to hold for the remainder of the long interval.</description>
+    <name>Lola -1</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="180.0" PowerLow="0.870" PowerHigh="0.940"/>
+        <Warmup Duration="1620.0" PowerLow="0.940" PowerHigh="0.960"/>
+        <Cooldown Duration="600.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

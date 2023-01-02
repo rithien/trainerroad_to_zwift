@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Foel Off&amp;nbsp;consists of 3 sets of 6 descending-duration/ascending intensity intervals from 115% FTP for 2 minutes to 154% FTP for 30 seconds. Recovery between intervals matches the duration of the preceding interval - work for 2 minutes, rest for 2 minutes.Recoveries between sets of intervals are 8 minutes long.</description>
+    <name>Foel Off</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="75.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="75.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="45.0" PowerLow="1.420" PowerHigh="1.420"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.540" PowerHigh="1.540"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="75.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="75.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="45.0" PowerLow="1.420" PowerHigh="1.420"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.540" PowerHigh="1.540"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="75.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="75.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="45.0" PowerLow="1.420" PowerHigh="1.420"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.540" PowerHigh="1.540"/>
+        <Cooldown Duration="270.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

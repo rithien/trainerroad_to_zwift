@@ -1,0 +1,83 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Byers Peak -2 is 4x12-minute intervals between 95-99% FTP with 6-minute recoveries between each.
+FILE NAME = Byers Peak -2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	65
+6	65
+6	80
+9	80
+9	95
+12	95
+12	40
+17	40
+17	95
+21	95
+21	97
+25	97
+25	99
+29	99
+29	40
+35	40
+35	97
+38	97
+38	96
+41	96
+41	99
+44	99
+44	95
+47	95
+47	40
+53	40
+53	99
+57	99
+57	98
+61	98
+61	96
+65	96
+65	40
+71	40
+71	97
+74	97
+74	95
+77	95
+77	99
+80	99
+80	98
+83	98
+83	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+180	360	Endurance 1
+360	540	Tempo 1
+540	720	Sweet Spot 1
+1020	1260	Sweet Spot 2
+1260	1500	Threshold 1
+1500	1740	Threshold 2
+2100	2280	Threshold 3
+2280	2460	Threshold 4
+2460	2640	Threshold 5
+2640	2820	Sweet Spot 3
+3180	3420	Threshold 6
+3420	3660	Threshold 7
+3660	3900	Threshold 8
+4260	4440	Threshold 9
+4440	4620	Sweet Spot 4
+4620	4800	Threshold 10
+4800	4980	Threshold 11
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

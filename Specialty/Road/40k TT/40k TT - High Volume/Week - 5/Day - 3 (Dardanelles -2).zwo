@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Dardanelles -2 is 48 minutes of near-steady output comprised of 4x12-minute segments ranging from 95-102% FTP broken up by brief, 30-second recoveries.</description>
+    <name>Dardanelles -2</name>
+    <workout>
+        <SteadyState Duration="150.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="420.0" PowerLow="0.600" PowerHigh="1.040"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="6.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="51.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="6.0" PowerLow="1.800" PowerHigh="1.800"/>
+        <SteadyState Duration="51.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="6.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="210.0" PowerLow="0.490" PowerHigh="0.490"/>
+        <Cooldown Duration="30.0" PowerLow="1.200" PowerHigh="0.950"/>
+        <Warmup Duration="720.0" PowerLow="0.950" PowerHigh="0.990"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="720.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="720.0" PowerLow="0.990" PowerHigh="1.020"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Cooldown Duration="720.0" PowerLow="1.020" PowerHigh="1.000"/>
+        <Cooldown Duration="270.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

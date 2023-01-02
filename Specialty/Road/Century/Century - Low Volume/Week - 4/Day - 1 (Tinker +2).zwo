@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Tinker +2 is 4x8-minute intervals at 105% FTP with 5-minute recoveries between intervals.</description>
+    <name>Tinker +2</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="180.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="480.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <Cooldown Duration="480.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Glassy +1 is 4x15-minute intervals between 80-95% FTP with 5-minute recoveries between them.</description>
+    <name>Glassy +1</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="300.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <Warmup Duration="60.0" PowerLow="0.800" PowerHigh="0.900"/>
+        <SteadyState Duration="240.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="60.0" PowerLow="0.900" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <Warmup Duration="60.0" PowerLow="0.850" PowerHigh="0.900"/>
+        <SteadyState Duration="240.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="60.0" PowerLow="0.900" PowerHigh="0.800"/>
+        <SteadyState Duration="240.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Warmup Duration="60.0" PowerLow="0.900" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Cooldown Duration="60.0" PowerLow="0.950" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Cooldown Duration="60.0" PowerLow="0.950" PowerHigh="0.900"/>
+        <SteadyState Duration="240.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="60.0" PowerLow="0.900" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

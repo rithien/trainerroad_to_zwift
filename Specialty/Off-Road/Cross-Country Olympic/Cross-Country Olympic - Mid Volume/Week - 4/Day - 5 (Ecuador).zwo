@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Ecuador&amp;nbsp;totals just under 60&amp;nbsp;minutes of Tempo intervals spent between 90-92% FTP with intermittent, 2-minute 45 second recoveries at 55% FTP.</description>
+    <name>Ecuador</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="360.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="750.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="165.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="750.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="165.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="750.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="165.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="750.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="405.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Cooldown Duration="420.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

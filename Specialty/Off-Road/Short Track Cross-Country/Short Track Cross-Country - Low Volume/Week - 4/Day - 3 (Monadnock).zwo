@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Monadnock consists of 2 sets of 3x2-minute VO2 Max intervals at 125% FTP. Active recoveries between intervals are 2 minutes long and are 4 minutes long between sets of intervals.d</description>
+    <name>Monadnock</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <Cooldown Duration="1020.0" PowerLow="0.650" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

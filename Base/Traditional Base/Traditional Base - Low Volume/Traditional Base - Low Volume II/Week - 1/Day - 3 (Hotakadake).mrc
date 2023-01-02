@@ -1,0 +1,75 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Hotakadake&nbsp;is 75 minutes of near-continuous riding where you'll spend 45 minutes between 83-86% FTP, but 3x4 minute recoveries break up the otherwise continuous effort.
+FILE NAME = Hotakadake
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	65
+7	65
+7	77
+10	77
+10	87
+13	87
+13	40
+17	40
+17	85
+21	85
+21	83
+25	83
+25	85
+29	85
+29	83
+34	83
+34	40
+38	40
+38	86
+41	86
+41	83
+46	83
+46	86
+50	86
+50	84
+53	84
+53	40
+57	40
+57	83
+60	83
+60	85
+64	85
+64	83
+68	83
+68	86
+72	86
+72	40
+75	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+240	420	Endurance 1
+420	600	Tempo 1
+600	780	Sweet Spot 1
+1020	1260	Sweet Spot 2
+1260	1500	Tempo 2
+1500	1740	Sweet Spot 3
+1740	2040	Tempo 3
+2280	2460	Sweet Spot 4
+2460	2760	Tempo 4
+2760	3000	Sweet Spot 5
+3000	3180	Tempo 5
+3420	3600	Tempo 6
+3600	3840	Sweet Spot 6
+3840	4080	Tempo 7
+4080	4320	Sweet Spot 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

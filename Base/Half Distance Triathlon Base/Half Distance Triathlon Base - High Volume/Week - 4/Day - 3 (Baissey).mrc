@@ -1,0 +1,75 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Baissey&nbsp;is 80 total minutes of Tempo work broken into 6.5-14.5-minute segments ranging from 70-82% FTP.
+FILE NAME = Baissey
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2.5	50
+2.5	65
+5	65
+5	65
+5.5	75
+5.5	75
+15	75
+15	75
+15.5	81
+15.5	81
+28	81
+28	81
+28.5	70
+28.5	70
+35	70
+35	70
+35.5	76
+35.5	76
+45	76
+45	76
+45.5	82
+45.5	82
+60	82
+60	82
+60.5	70
+60.5	70
+64	70
+64	70
+64.5	75
+64.5	75
+74	75
+74	75
+74.5	82
+74.5	82
+85	82
+85	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+150	300	Endurance 1
+300	330	Endurance 2
+330	900	Endurance 3
+900	930	Tempo 1
+930	1680	Tempo 2
+1680	1710	Endurance 4
+1710	2100	Endurance 5
+2100	2130	Endurance 6
+2130	2700	Tempo 3
+2700	2730	Tempo 4
+2730	3600	Tempo 5
+3600	3630	Tempo 6
+3630	3840	Endurance 7
+3840	3870	Endurance 8
+3870	4440	Endurance 9
+4440	4470	Tempo 7
+4470	5100	Tempo 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

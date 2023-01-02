@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Schoolhouse&amp;nbsp;is 5x11-minute Big Gear Starts consisting of a 30-second wind-up at 140% FTP in the biggest gear you can turn.These hard starts are followed closely by 10 minutes of&amp;nbsp;Threshold&amp;nbsp;work at 95-97% FTP in a gear that allows you to spin at a more reasonable cadence. Each recovery between intervals is 8 minutes long.</description>
+    <name>Schoolhouse</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="165.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.970"/>
+        <SteadyState Duration="600.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.950"/>
+        <SteadyState Duration="600.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.960"/>
+        <Warmup Duration="600.0" PowerLow="0.960" PowerHigh="0.970"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.950"/>
+        <SteadyState Duration="600.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.970"/>
+        <SteadyState Duration="600.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <Cooldown Duration="780.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

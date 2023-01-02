@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Copper&amp;nbsp;totals 55 minutes of Tempo intervals spent between 89-90% FTP with intermittent, 3.5-minute recoveries at 55% FTP.</description>
+    <name>Copper</name>
+    <workout>
+        <SteadyState Duration="480.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="360.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="660.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="210.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="210.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="210.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="450.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Cooldown Duration="480.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

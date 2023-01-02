@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Rendezvous -4 is a progression workout where each of four 10-minute steps increases the power requirement by 10%. The steps start at 70% FTP and finish at 100% FTP.</description>
+    <name>Rendezvous -4</name>
+    <workout>
+        <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="90.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="570.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Warmup Duration="30.0" PowerLow="0.700" PowerHigh="0.800"/>
+        <SteadyState Duration="570.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.900"/>
+        <SteadyState Duration="570.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="1.000"/>
+        <SteadyState Duration="570.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="150.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

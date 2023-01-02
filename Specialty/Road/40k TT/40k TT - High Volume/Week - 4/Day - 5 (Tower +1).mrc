@@ -1,0 +1,60 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tower +1 is 2x48 minutes of continuous progression from 60-80% FTP and then 80% all the way up to 100% FTP via 10% increases every 16 minutes.
+FILE NAME = Tower +1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	50
+2.5	60
+2.5	60
+18	60
+18	60
+18.5	70
+18.5	70
+34	70
+34	70
+34.5	80
+34.5	80
+50	80
+50	40
+55	40
+55	40
+55.5	80
+55.5	80
+71	80
+71	80
+71.5	90
+71.5	90
+87	90
+87	90
+87.5	100
+87.5	100
+103	100
+103	40
+105	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	6300	Workout
+150	1080	Endurance 1
+1080	1110	Endurance 2
+1110	2040	Endurance 3
+2040	2070	Endurance 4
+2070	3000	Tempo 1
+3330	4260	Tempo 2
+4260	4290	Sweet Spot 1
+4290	5220	Sweet Spot 2
+5220	5250	Sweet Spot 3
+5250	6180	Threshold 1
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

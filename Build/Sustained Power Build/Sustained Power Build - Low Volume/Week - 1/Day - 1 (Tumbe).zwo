@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Tumbe&amp;nbsp;is 3 sets of 5&amp;nbsp;intervals, each 50 seconds long. Intervals are between 115 and&amp;nbsp;120% FTP. Recoveries between intervals are just over 2 minutes long and recoveries between sets of intervals are 3 minutes and 40 seconds.</description>
+    <name>Tumbe</name>
+    <workout>
+        <Warmup Duration="120.0" PowerLow="0.490" PowerHigh="0.520"/>
+        <Cooldown Duration="120.0" PowerLow="0.700" PowerHigh="0.690"/>
+        <SteadyState Duration="30.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="270.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="130.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="130.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="130.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="130.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="220.0" PowerLow="0.300" PowerHigh="0.300"/>
+        <SteadyState Duration="50.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="115.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="115.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="115.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="115.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="220.0" PowerLow="0.300" PowerHigh="0.300"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="130.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="130.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="130.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="130.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="50.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <Cooldown Duration="190.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

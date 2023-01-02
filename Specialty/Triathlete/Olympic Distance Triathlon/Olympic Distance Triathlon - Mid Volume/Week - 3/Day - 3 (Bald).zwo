@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Bald is 60 minutes of aerobic Endurance riding spent between 65-70% FTP.Optional form drills include some Endurance Spinning, some Single-Leg Focus &amp;amp; some Kick &amp;amp; Pull form work.</description>
+    <name>Bald</name>
+    <workout>
+        <SteadyState Duration="150.0" PowerLow="0.500" PowerHigh="0.500">
+            <textevent message="Welcome to Bald Knob!" timeoffset="10.000000"/>
+            <textevent message="A workout primarily devoted to improving your aerobic capabilities..." timeoffset="17.000000"/>
+            <textevent message="but one where you'll have the option to incorporate some form work" timeoffset="23.000000"/>
+            <textevent message="More on the drills later though" timeoffset="31.000000"/>
+            <textevent message="For now, warm gradually with a quick, light spin..." timeoffset="37.000000"/>
+            <textevent message="preferably higher than 85rpm" timeoffset="42.000000"/>
+        </SteadyState>
+        <SteadyState Duration="150.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="150.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="150.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="Over the course of this first stretch..." timeoffset="2.000000"/>
+            <textevent message="we'll target improvements in fluid leg speed" timeoffset="6.000000"/>
+            <textevent message="With enough time on the clock for a couple 5-minute Endurance Spins..." timeoffset="13.000000"/>
+            <textevent message="we'll work one in, rest up for a couple minutes, then repeat" timeoffset="19.000000"/>
+            <textevent message="With a reasonably short workout like this one..." timeoffset="27.000000"/>
+            <textevent message="your level of control is likely to remain high..." timeoffset="31.000000"/>
+            <textevent message="throughout each set of optional form drills" timeoffset="36.000000"/>
+            <textevent message="We'll take it a minute at a time though..." timeoffset="42.000000"/>
+            <textevent message="and should your form slip, beyond your control..." timeoffset="46.000000"/>
+            <textevent message="return your spin to its &quot;natural&quot; rate..." timeoffset="51.000000"/>
+            <textevent message="and resume the drills when/if you can perform them well" timeoffset="55.000000"/>
+            <textevent message="Go ahead and lift your cadence a few rpm &amp; settle in" timeoffset="61.000000"/>
+            <textevent message="Keep in mind, these are only slightly quicker than your usual cadence..." timeoffset="68.000000"/>
+            <textevent message="only about 3-5rpm above what you sustain &quot;naturally&quot;" timeoffset="74.000000"/>
+            <textevent message="One minute in, how's your form looking?" timeoffset="120.000000"/>
+            <textevent message="If you feel sloppy, chances are high that you ARE sloppy" timeoffset="127.000000"/>
+            <textevent message="And this flies in the face of everything formwork is about" timeoffset="134.000000"/>
+            <textevent message="Formwork is about establishing desirable habits..." timeoffset="141.000000"/>
+            <textevent message="and it's counterproductive to practice anything less than your best technique" timeoffset="146.000000"/>
+            <textevent message="Even if your best technique leaves a lot to be desired..." timeoffset="154.000000"/>
+            <textevent message="you're still working TOWARD better technique..." timeoffset="160.000000"/>
+            <textevent message="with small, productive steps" timeoffset="165.000000"/>
+            <textevent message="But if you force yourself to perform drills even as your form is deteriorating..." timeoffset="170.000000"/>
+            <textevent message="you're begging for bad habits to take root..." timeoffset="176.000000"/>
+            <textevent message="and quite effectively working toward poor form" timeoffset="181.000000"/>
+            <textevent message="Improper habits are far harder to break..." timeoffset="187.000000"/>
+            <textevent message="than proper habits are to establish" timeoffset="191.000000"/>
+            <textevent message="So if you feel like you're doing anything less than your very best..." timeoffset="197.000000"/>
+            <textevent message="table the drills for a minute or two" timeoffset="203.000000"/>
+            <textevent message="Still managing to hold that quicker-than-usual cadence..." timeoffset="240.000000"/>
+            <textevent message="with no obvious deterioration in form?" timeoffset="245.000000"/>
+            <textevent message="Then hang in there for another minute" timeoffset="251.000000"/>
+            <textevent message="Otherwise, slow it back down and ride more smoothly with less speed" timeoffset="256.000000"/>
+            <textevent message="Still reinforcing nothing but good habits?" timeoffset="300.000000"/>
+            <textevent message="Then hang in there for yet another minute" timeoffset="307.000000"/>
+            <textevent message="Otherwise, slow things back down to the point..." timeoffset="313.000000"/>
+            <textevent message="where you feel controlled and confident..." timeoffset="318.000000"/>
+            <textevent message="that you can keep your speed steady &amp; efficient" timeoffset="323.000000"/>
+            <textevent message="And there it is, the full 5 minutes" timeoffset="360.000000"/>
+            <textevent message="Slow things down to a more natural cadence..." timeoffset="367.000000"/>
+            <textevent message="and shake off any tension that may have accumulated" timeoffset="372.000000"/>
+            <textevent message="You'll begin the second, identical drill in a couple minutes" timeoffset="379.000000"/>
+            <textevent message="Based on the first Endurance Spinning drill..." timeoffset="450.000000"/>
+            <textevent message="make a sensible call regarding this next bout of quicker legs" timeoffset="455.000000"/>
+            <textevent message="If you feel like you can handle that same, quicker spin, get ready" timeoffset="462.000000"/>
+            <textevent message="But if you feel as though you need to trim off a little leg speed..." timeoffset="469.000000"/>
+            <textevent message="to keep things productive, only lift things 1-3rpm" timeoffset="476.000000"/>
+            <textevent message="Just a little more leg speed than usual" timeoffset="483.000000"/>
+            <textevent message="One minute in, decide if another minute..." timeoffset="540.000000"/>
+            <textevent message="will reinforce habits you want to retain..." timeoffset="545.000000"/>
+            <textevent message="or habits that work AGAINST cultivating those improved circles" timeoffset="550.000000"/>
+            <textevent message="Same call to make..." timeoffset="600.000000"/>
+            <textevent message="hang in there or slow things down a bit" timeoffset="604.000000"/>
+            <textevent message="Only two minutes to go..." timeoffset="660.000000"/>
+            <textevent message="but don't stubbornly hang in there if you're falling apart" timeoffset="664.000000"/>
+            <textevent message="Top-notch form or ditch the speed drills" timeoffset="671.000000"/>
+            <textevent message="Final minute, you know the rules" timeoffset="720.000000"/>
+            <textevent message="Done for now! Return to your usual spin..." timeoffset="780.000000"/>
+            <textevent message="one that's ideally above 85rpm" timeoffset="786.000000"/>
+        </SteadyState>
+        <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
+        <SteadyState Duration="840.0" PowerLow="0.650" PowerHigh="0.650">
+            <textevent message="Time for some single-leg drills..." timeoffset="-1.000000"/>
+            <textevent message="but nothing too technical or demanding" timeoffset="5.000000"/>
+            <textevent message="Rather than the full-on ILT drills where you dangle one leg..." timeoffset="11.000000"/>
+            <textevent message="while the other leg does ALL the work..." timeoffset="17.000000"/>
+            <textevent message="this round of drills will have you simply shift your focus..." timeoffset="22.000000"/>
+            <textevent message="to a single leg for one minute at a time" timeoffset="28.000000"/>
+            <textevent message="The name of the drill?" timeoffset="35.000000"/>
+            <textevent message="Single Leg Focus" timeoffset="40.000000"/>
+            <textevent message="Who'd have guessed" timeoffset="45.000000"/>
+            <textevent message="The objective here is straightforward..." timeoffset="50.000000"/>
+            <textevent message="and the drill itself is quite easy" timeoffset="55.000000"/>
+            <textevent message="Start now by shifting your attention to your left leg" timeoffset="60.000000"/>
+            <textevent message="Your right leg is still doing its fair share of work..." timeoffset="67.000000"/>
+            <textevent message="but your left leg is doing it better" timeoffset="73.000000"/>
+            <textevent message="The reason being that you've devoted more attention to its form..." timeoffset="78.000000"/>
+            <textevent message="than you otherwise would if you had to split that focus" timeoffset="84.000000"/>
+            <textevent message="Keep focusing on that left leg for another 30 seconds" timeoffset="90.000000"/>
+            <textevent message="Go ahead and switch your focus to your right leg now" timeoffset="120.000000"/>
+            <textevent message="Don't worry, this drill will get a little more detailed soon..." timeoffset="127.000000"/>
+            <textevent message="but for now it's enough to simply focus on a single leg" timeoffset="133.000000"/>
+            <textevent message="30 more seconds, all of your focus on the right leg" timeoffset="150.000000"/>
+            <textevent message="As you switch your focus back to your left leg..." timeoffset="180.000000"/>
+            <textevent message="give special attention to how your knee is moving" timeoffset="185.000000"/>
+            <textevent message="Does it move directly up &amp; directly down?" timeoffset="191.000000"/>
+            <textevent message="Or is there a little waver each time it hits its high point?" timeoffset="197.000000"/>
+            <textevent message="If so, see if you can reduce that lateral motion..." timeoffset="204.000000"/>
+            <textevent message="simply by trying to limit any side-to-side" timeoffset="209.000000"/>
+            <textevent message="Ideally, each knee will track perfectly vertically..." timeoffset="215.000000"/>
+            <textevent message="but it's common to have a small loss of control..." timeoffset="220.000000"/>
+            <textevent message="when your pedal reaches top dead center..." timeoffset="225.000000"/>
+            <textevent message="and brings your knee to its highest point" timeoffset="230.000000"/>
+            <textevent message="Switch your focus back to your right leg..." timeoffset="240.000000"/>
+            <textevent message="and concentrate on its ability to track straight up..." timeoffset="245.000000"/>
+            <textevent message="straight down" timeoffset="250.000000"/>
+            <textevent message="If there's any waver, try to consciously reduce its magnitude" timeoffset="255.000000"/>
+            <textevent message="30 more seconds of limiting any lateral knee movement" timeoffset="270.000000"/>
+            <textevent message="Switch again, this time..." timeoffset="300.000000"/>
+            <textevent message="focus on actively pulling your left foot backward..." timeoffset="304.000000"/>
+            <textevent message="and then kicking it forward just as lightly" timeoffset="309.000000"/>
+            <textevent message="So a light pull across the bottom..." timeoffset="315.000000"/>
+            <textevent message="followed immediately by a light kick across the top" timeoffset="320.000000"/>
+            <textevent message="30 more seconds of kicking &amp; pulling, left foot" timeoffset="330.000000"/>
+            <textevent message="Shift your focus..." timeoffset="360.000000"/>
+            <textevent message="to your right leg's top &amp; bottom pedalstroke quadrants" timeoffset="364.000000"/>
+            <textevent message="Use that light forward kick..." timeoffset="371.000000"/>
+            <textevent message="and that light backward pull..." timeoffset="375.000000"/>
+            <textevent message="to round out some unevenness in your pedalstrokes" timeoffset="379.000000"/>
+            <textevent message="30 more seconds of kicking &amp; pulling..." timeoffset="390.000000"/>
+            <textevent message="right-side focus" timeoffset="394.000000"/>
+            <textevent message="Back to the left..." timeoffset="420.000000"/>
+            <textevent message="this time, emphasis goes to feeling pressure on your foot..." timeoffset="424.000000"/>
+            <textevent message="all the way around each pedal revolution" timeoffset="429.000000"/>
+            <textevent message="So not only are you kicking &amp; pulling and pressing downward..." timeoffset="435.000000"/>
+            <textevent message="but try adding a light lift to your knee as it carries through the pull" timeoffset="441.000000"/>
+            <textevent message="Pull back &amp; up, kick forward, press down" timeoffset="448.000000"/>
+            <textevent message="Switch legs &amp; add that &quot;upstroke&quot; emphasis" timeoffset="480.000000"/>
+            <textevent message="So now the right foot kicks forward into the downstroke..." timeoffset="487.000000"/>
+            <textevent message="then lifts upward following your pull across the bottom" timeoffset="493.000000"/>
+            <textevent message="30 more seconds of feeling your right foot all the way around" timeoffset="510.000000"/>
+            <textevent message="Time for one more round of alternating your focus..." timeoffset="540.000000"/>
+            <textevent message="as you feel your left foot drive the pedal..." timeoffset="545.000000"/>
+            <textevent message="all the way around each pedal revolution" timeoffset="550.000000"/>
+            <textevent message="Last switch, give your focus to your right foot..." timeoffset="600.000000"/>
+            <textevent message="and feel pressure all the way around its revolutions" timeoffset="605.000000"/>
+            <textevent message="Well done, ditch the focus and just pedal well for a few minutes" timeoffset="660.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
+        <SteadyState Duration="840.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="Let's wrap up the form drills with some Kick &amp; Pull drills..." timeoffset="0.000000"/>
+            <textevent message="and work toward smoothing out that pedalstroke" timeoffset="6.000000"/>
+            <textevent message="Let's divide the pedalstroke into its 4 quadrants..." timeoffset="13.000000"/>
+            <textevent message="and use the top quadrant to get things started" timeoffset="19.000000"/>
+            <textevent message="Think of pedal revolutions taking place on a clock..." timeoffset="24.000000"/>
+            <textevent message="and your legs are the hands of that clock..." timeoffset="30.000000"/>
+            <textevent message="making the top quadrant take place from about 10 o'clock to 2 o'clock" timeoffset="35.000000"/>
+            <textevent message="As each foot starts to return to the top of each pedalstroke..." timeoffset="42.000000"/>
+            <textevent message="think of lightly, but actively, kicking through that quadrant" timeoffset="48.000000"/>
+            <textevent message="The lightest of kicks from 10 o'clock to 2 o'clock..." timeoffset="55.000000"/>
+            <textevent message="can be that subtle shift that changes a &quot;mashing&quot; pedalstroke..." timeoffset="61.000000"/>
+            <textevent message="into a more fluid, less quad-intensive one" timeoffset="67.000000"/>
+            <textevent message="And it won't take much effort at all..." timeoffset="74.000000"/>
+            <textevent message="rather it's more of a mental strain for a little while..." timeoffset="79.000000"/>
+            <textevent message="until that pattern becomes ingrained into your pedaling" timeoffset="84.000000"/>
+            <textevent message="Continue lightly kicking your toes over the top of each pedalstroke..." timeoffset="91.000000"/>
+            <textevent message="and keep your upper body as relaxed as possible as you do so" timeoffset="97.000000"/>
+            <textevent message="Now switch your pedaling emphasis to the bottom of each pedalstroke..." timeoffset="120.000000"/>
+            <textevent message="shifting your focus to that 4 o'clock to 8 o'clock segment" timeoffset="127.000000"/>
+            <textevent message="So clearly this is no longer about lightly kicking over the top..." timeoffset="134.000000"/>
+            <textevent message="but instead about lightly pulling through the bottom..." timeoffset="140.000000"/>
+            <textevent message="of each fluid, seemingly effortless pedalstroke" timeoffset="146.000000"/>
+            <textevent message="Each time you sail through your deeply ingrained downstroke..." timeoffset="153.000000"/>
+            <textevent message="don't allow your leg to &quot;turn off&quot; as though its work is done" timeoffset="159.000000"/>
+            <textevent message="Instead, try lightly but actively pulling each foot backward" timeoffset="166.000000"/>
+            <textevent message="Many equate this to scraping mud off the bottoms of your shoes..." timeoffset="173.000000"/>
+            <textevent message="but this action doesn't have to be quite so deliberate" timeoffset="179.000000"/>
+            <textevent message="Think of it more as keeping the backs of your legs mildly active..." timeoffset="186.000000"/>
+            <textevent message="by waking up your hamstrings &amp; calf muscles" timeoffset="192.000000"/>
+            <textevent message="These are often under-utilized muscles..." timeoffset="199.000000"/>
+            <textevent message="but ones that are fully capable of contributing to your pedaling effort" timeoffset="203.000000"/>
+            <textevent message="So try to actually feel the backs of your upper &amp; lower legs..." timeoffset="211.000000"/>
+            <textevent message="do the slightest bit of work each time your feet hit that 4 o'clock position" timeoffset="217.000000"/>
+            <textevent message="Then you'll ever so lightly &quot;pull&quot; your feet across the bottom quadrant" timeoffset="225.000000"/>
+            <textevent message="Keep on pulling for about another 30 seconds..." timeoffset="232.000000"/>
+            <textevent message="while keeping any unnecessary tension..." timeoffset="238.000000"/>
+            <textevent message="from creeping into your hands, elbows &amp; shoulders" timeoffset="243.000000"/>
+            <textevent message="Time for a break from any particular pedaling emphasis" timeoffset="270.000000"/>
+            <textevent message="Just spin smoothly &amp; comfortably quickly for a minute" timeoffset="277.000000"/>
+            <textevent message="Annnnnd we're back!" timeoffset="340.000000"/>
+            <textevent message="Time to combine these 2 quadrant drills..." timeoffset="347.000000"/>
+            <textevent message="into their fated &amp; highly fluid combination..." timeoffset="352.000000"/>
+            <textevent message="The &quot;kick &amp; pull&quot;" timeoffset="357.000000"/>
+            <textevent message="So now your goal is to kick one foot over the top of each pedalstroke..." timeoffset="362.000000"/>
+            <textevent message="while the opposite foot pulls across the bottom simultaneously" timeoffset="368.000000"/>
+            <textevent message="Allow each foot to effectively balance out the action of the other" timeoffset="375.000000"/>
+            <textevent message="In doing so, you'll feel the shift in stress..." timeoffset="382.000000"/>
+            <textevent message="as your kick &amp; pull mildly but noticeably assists..." timeoffset="387.000000"/>
+            <textevent message="the typically overburdened quadriceps, or &quot;quads&quot;" timeoffset="392.000000"/>
+            <textevent message="These simple &amp; conscious (for now) actions..." timeoffset="399.000000"/>
+            <textevent message="can actually help preserve your primary pedaling muscles..." timeoffset="404.000000"/>
+            <textevent message="without requiring hardly any work from these secondary helpers" timeoffset="409.000000"/>
+            <textevent message="And after all..." timeoffset="416.000000"/>
+            <textevent message="if you're going to pack that muscle around anyway..." timeoffset="418.000000"/>
+            <textevent message="why should it get a free ride?" timeoffset="423.000000"/>
+            <textevent message="Take a break for a minute and simply pedal freely" timeoffset="480.000000"/>
+            <textevent message="Back at it with the always-optional form drills..." timeoffset="540.000000"/>
+            <textevent message="but with a couple words of persuasion first" timeoffset="546.000000"/>
+            <textevent message="Too often, riders won't dedicate any conscious effort to skill refinement..." timeoffset="553.000000"/>
+            <textevent message="yet it's these same riders who aren't afraid to put in long miles..." timeoffset="559.000000"/>
+            <textevent message="or bury themselves with high-intensity intervals" timeoffset="565.000000"/>
+            <textevent message="So why not go the next step and reap even more benefit..." timeoffset="571.000000"/>
+            <textevent message="from the time you're already spending in the saddle?" timeoffset="577.000000"/>
+            <textevent message="But enough soapboxing... for now" timeoffset="584.000000"/>
+            <textevent message="Time to shift some pedaling emphasis..." timeoffset="590.000000"/>
+            <textevent message="back to the oft-neglected top &amp; bottom quadrants" timeoffset="595.000000"/>
+            <textevent message="Once more, emphasize your kick &amp; pull, but this time..." timeoffset="602.000000"/>
+            <textevent message="give most of your attention to just your left leg" timeoffset="609.000000"/>
+            <textevent message="Right leg is still active, still carrying its weight..." timeoffset="616.000000"/>
+            <textevent message="but concentrate on how gracefully your left leg travels each revolution" timeoffset="622.000000"/>
+            <textevent message="Lightly kick your left foot over the top of each pedal stroke..." timeoffset="630.000000"/>
+            <textevent message="then immediately emphasize that light pull through the bottom" timeoffset="636.000000"/>
+            <textevent message="Go ahead and switch your attention over to your right leg" timeoffset="660.000000"/>
+            <textevent message="Now, that light kick &amp; subtle pull switch sides" timeoffset="667.000000"/>
+            <textevent message="Left leg is still working, but your attention is on your right leg" timeoffset="674.000000"/>
+            <textevent message="A light kick over the top folds right into a light pull across the bottom" timeoffset="681.000000"/>
+            <textevent message="Excellent, switch your focus back to your left leg for a minute" timeoffset="720.000000"/>
+            <textevent message="Keep that left leg exceptionally fluid" timeoffset="750.000000"/>
+            <textevent message="Once more, switch your focus to your right leg" timeoffset="780.000000"/>
+            <textevent message="A bit longer, keep that right leg especially fluid" timeoffset="810.000000"/>
+        </SteadyState>
+        <Cooldown Duration="300.0" PowerLow="0.700" PowerHigh="0.500">
+            <textevent message="Time to start backing things down for the day" timeoffset="5.000000"/>
+            <textevent message="As you warm down..." timeoffset="12.000000"/>
+            <textevent message="give some thought to your post-workout nutrition..." timeoffset="16.000000"/>
+            <textevent message="your hydration and subsequent recovery..." timeoffset="22.000000"/>
+            <textevent message="and we'll see you next time" timeoffset="28.000000"/>
+        </Cooldown>
+    </workout>
+</workout_file>

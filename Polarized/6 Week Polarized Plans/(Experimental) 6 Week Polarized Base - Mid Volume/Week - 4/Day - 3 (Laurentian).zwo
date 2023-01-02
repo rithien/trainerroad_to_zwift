@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Laurentian is 2&amp;nbsp;hours 15 minutes&amp;nbsp;of aerobic Endurance spent between 65-75% FTP.</description>
+    <name>Laurentian</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Warmup Duration="60.0" PowerLow="0.700" PowerHigh="0.730"/>
+        <SteadyState Duration="840.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <Cooldown Duration="60.0" PowerLow="0.730" PowerHigh="0.680"/>
+        <SteadyState Duration="840.0" PowerLow="0.680" PowerHigh="0.680"/>
+        <Warmup Duration="60.0" PowerLow="0.680" PowerHigh="0.700"/>
+        <SteadyState Duration="840.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Warmup Duration="60.0" PowerLow="0.700" PowerHigh="0.720"/>
+        <SteadyState Duration="840.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <Cooldown Duration="60.0" PowerLow="0.720" PowerHigh="0.700"/>
+        <SteadyState Duration="840.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Warmup Duration="60.0" PowerLow="0.700" PowerHigh="0.750"/>
+        <SteadyState Duration="840.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <Cooldown Duration="60.0" PowerLow="0.750" PowerHigh="0.700"/>
+        <SteadyState Duration="840.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Cooldown Duration="300.0" PowerLow="0.700" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

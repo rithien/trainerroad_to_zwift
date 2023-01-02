@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Buninyong -2 consists of 3 sets of 3x30-second anaerobic repeats at 150% FTP each followed by a single 1-minute effort at 120% FTP.Recoveries between each set of intervals last 3 minutes each.</description>
+    <name>Buninyong -2</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <SteadyState Duration="10.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="20.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="40.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="135.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <Cooldown Duration="60.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

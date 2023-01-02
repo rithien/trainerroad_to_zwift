@@ -1,0 +1,130 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Garrowby +7 is a 4x18-minute segmented Sweet Spot workout. Each set consists of 5x3-4 minutes spent between 88-94% FTP.Recoveries between each short repeat are 1 minute long, and recoveries between each set of repeats are 4 minutes long.
+FILE NAME = Garrowby +7
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	70
+6	70
+6	90
+9	90
+9	40
+12	40
+12	88
+16	88
+16	40
+17	40
+17	92
+20	92
+20	40
+21	40
+21	90
+25	90
+25	40
+26	40
+26	94
+29	94
+29	40
+30	40
+30	88
+34	88
+34	41
+38	41
+38	88
+42	88
+42	40
+43	40
+43	94
+46	94
+46	40
+47	40
+47	90
+51	90
+51	40
+52	40
+52	92
+55	92
+55	40
+56	40
+56	88
+60	88
+60	40
+64	40
+64	88
+68	88
+68	40
+69	40
+69	92
+72	92
+72	40
+73	40
+73	90
+77	90
+77	40
+78	40
+78	94
+81	94
+81	40
+82	40
+82	88
+86	88
+86	40
+90	40
+90	88
+94	88
+94	40
+95	40
+95	94
+98	94
+98	40
+99	40
+99	90
+103	90
+103	40
+104	40
+104	92
+107	92
+107	40
+108	40
+108	88
+112	88
+112	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+180	360	Endurance 1
+360	540	Sweet Spot 1
+720	960	Sweet Spot 2
+1020	1200	Sweet Spot 3
+1260	1500	Sweet Spot 4
+1560	1740	Sweet Spot 5
+1800	2040	Sweet Spot 6
+2280	2520	Sweet Spot 7
+2580	2760	Sweet Spot 8
+2820	3060	Sweet Spot 9
+3120	3300	Sweet Spot 10
+3360	3600	Sweet Spot 11
+3840	4080	Sweet Spot 12
+4140	4320	Sweet Spot 13
+4380	4620	Sweet Spot 14
+4680	4860	Sweet Spot 15
+4920	5160	Sweet Spot 16
+5400	5640	Sweet Spot 17
+5700	5880	Sweet Spot 18
+5940	6180	Sweet Spot 19
+6240	6420	Sweet Spot 20
+6480	6720	Sweet Spot 21
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

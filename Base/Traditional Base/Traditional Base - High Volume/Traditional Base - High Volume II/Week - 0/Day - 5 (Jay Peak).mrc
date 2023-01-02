@@ -1,0 +1,65 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Jay Peak is 2 hours and 15 minutes of Tempo intervals spent between 70-80% FTP with intermittent, 3 to 5-minute recoveries at 55% FTP. 
+FILE NAME = Jay Peak
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	40
+20	40
+20	70
+32	70
+32	55
+35	55
+35	80
+43	80
+43	55
+48	55
+48	75
+70	75
+70	55
+73	55
+73	80
+88	80
+88	55
+92	55
+92	70
+114	70
+114	55
+117	55
+117	80
+132	80
+132	50
+135	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	8100	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1200	1920	Endurance 2
+1920	2100	Endurance 3
+2100	2580	Tempo 1
+2580	2880	Endurance 4
+2880	4200	Endurance 5
+4200	4380	Endurance 6
+4380	5280	Tempo 2
+5280	5520	Endurance 7
+5520	6840	Endurance 8
+6840	7020	Endurance 9
+7020	7920	Tempo 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

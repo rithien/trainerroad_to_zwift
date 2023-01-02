@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Dicks +2 is 5x8-minute intervals at 105% FTP with 6-minute recoveries between intervals.</description>
+    <name>Dicks +2</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <Cooldown Duration="360.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

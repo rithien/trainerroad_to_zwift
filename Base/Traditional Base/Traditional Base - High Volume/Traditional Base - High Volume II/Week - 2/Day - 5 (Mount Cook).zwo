@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Nearly 3 hours of Aerobic Endurance spent almost entirely between 60-85% FTP and includes Form Sprints, Endurance Spinning intervals, and some Isolated Leg Training drills.Form Sprints: Practice high-rpm sprint simulations at low power outputs to reinforce proper sprinting technique by jumping out-of-the-saddle and winding up a light gear. As your cadence reaches its controllable peak, gracefully transition into the saddle where you can shift gears if necessary. These sprints are only 10s long and are all about leg speed, form, and technique. Experiment with which foot to lead with, and learn how to generate a lot of leg speed in very little time.Endurance Spinning: Practice spinning slightly quicker than your natural, self-selected cadence. Ride at a cadence that's at the very top of your comfortable rpm range and remain there for a solid 5 minutes. The goal is to learn to turn the pedals more quickly with less force (muscle stress) thereby improving your ability to remain predominantly aerobic over a wide range of rpm's. If your HR rises more than a few BPM, you're pedaling too quickly - take it easy and stay relaxed but quick.Isolated Leg Training (One-Leggers): Like Single-Leg Focus drills, the objective here is to learn to more effectively apply power through the entire pedalstroke by focusing strictly on one leg's activity through the bottom, upstroke, and over the top of the pedalstroke. Completely unclip one foot from the pedal and rest it on your trainer, a stool, or anything that allows it to safely rest without interfering with your other leg's pedaling. Begin with slow cadence - very slow in some cases - and periods of 10-20s per leg unless you can pedal longer without &quot;knocking&quot; and don't worry about your temporarily low power, these drills aren't about strength. As you improve, your cadence will increase as will each leg's duration. Pay close attention your kick and pull thinking more in terms of horizontal/back and forth pedaling especially if you begin feeling deadspots in your pedalstroke or you begin hearing a knocking sound due to those deadspots. Keep tension on the chain and switch anytime your form degrades; don't practice bad habits just to tack on 5 or 10 more seconds. Include this drill indoors 2-3 times each week accumulating 5-10 minutes per leg each workout.</description>
+    <name>Mount Cook</name>
+    <workout>
+        <SteadyState Duration="600.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="60.0" PowerLow="0.500" PowerHigh="0.700"/>
+        <SteadyState Duration="1200.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="Let's kick things off with 5 minutes of Endurance Spinning" timeoffset="120.000000"/>
+        </SteadyState>
+        <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
+        <SteadyState Duration="1440.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="Here's a nice long stretch to use for 3-5 Form Sprints" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.800"/>
+        <SteadyState Duration="480.0" PowerLow="0.800" PowerHigh="0.800">
+            <textevent message="Spend 5 of these 8 minutes doing some Endurance Spinning" timeoffset="-1.000000"/>
+        </SteadyState>
+        <Cooldown Duration="60.0" PowerLow="0.800" PowerHigh="0.600"/>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.800"/>
+        <SteadyState Duration="600.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <Cooldown Duration="60.0" PowerLow="0.800" PowerHigh="0.650"/>
+        <SteadyState Duration="1260.0" PowerLow="0.650" PowerHigh="0.650">
+            <textevent message="Another stretch to focus on some 30 to 60-second ILT efforts" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.850"/>
+        <SteadyState Duration="540.0" PowerLow="0.850" PowerHigh="0.850">
+            <textevent message="How about another 5-minute Endurance Spin during this 9 minutes?" timeoffset="-1.000000"/>
+        </SteadyState>
+        <Cooldown Duration="60.0" PowerLow="0.850" PowerHigh="0.600"/>
+        <SteadyState Duration="420.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.850"/>
+        <SteadyState Duration="540.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <Cooldown Duration="60.0" PowerLow="0.850" PowerHigh="0.600"/>
+        <SteadyState Duration="1320.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="Try 3-5 late-ride Form Sprints to see if you can still manage good form" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
+        <SteadyState Duration="1200.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="And one more 5-minute Endurance Spin unless you're just too tired" timeoffset="-1.000000"/>
+        </SteadyState>
+        <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

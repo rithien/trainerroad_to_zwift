@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Hunter +3 consists of 3x20-minute intervals at 90-94% FTP with 14-minute recoveries between intervals. Each interval in this advanced version includes 4x6-second high-power bursts between 150-180% FTP.</description>
+    <name>Hunter +3</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="240.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="240.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="240.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="234.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="6.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="234.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="6.0" PowerLow="1.700" PowerHigh="1.700"/>
+        <SteadyState Duration="234.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="6.0" PowerLow="1.800" PowerHigh="1.800"/>
+        <SteadyState Duration="234.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="6.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="240.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="840.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="234.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <SteadyState Duration="6.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="234.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <SteadyState Duration="6.0" PowerLow="1.800" PowerHigh="1.800"/>
+        <SteadyState Duration="234.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <SteadyState Duration="6.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="234.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <SteadyState Duration="6.0" PowerLow="1.700" PowerHigh="1.700"/>
+        <SteadyState Duration="240.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <SteadyState Duration="840.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="234.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="6.0" PowerLow="1.800" PowerHigh="1.800"/>
+        <SteadyState Duration="234.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="6.0" PowerLow="1.700" PowerHigh="1.700"/>
+        <SteadyState Duration="234.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="6.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="234.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="6.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <Cooldown Duration="240.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,110 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Santa Rita&nbsp;is 2x21-minute sets of intervals ranging from 15 to 85 seconds at 128-140% FTP. Recovery is at least twice as long as the preceding work interval if not longer, and the recovery between sets of anaerobic repeats lasts 5 minutes.
+FILE NAME = Santa Rita
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	70
+4	70
+4	120
+4.33	120
+4.33	40
+5	40
+5	130
+5.33	130
+5.33	40
+6	40
+6	140
+6.33	140
+6.33	40
+11.83	40
+11.83	140
+12.08	140
+12.08	40
+13.08	40
+13.08	136
+13.75	136
+13.75	40
+15.75	40
+15.75	132
+16.91	132
+16.91	40
+19.91	40
+19.91	128
+21.33	128
+21.33	40
+25.33	40
+25.33	132
+26.58	132
+26.58	40
+29.58	40
+29.58	136
+30.25	136
+30.25	40
+32.25	40
+32.25	140
+32.5	140
+32.5	40
+37.5	40
+37.5	140
+37.75	140
+37.75	40
+38.75	40
+38.75	136
+39.41	136
+39.41	40
+41.41	40
+41.41	132
+42.58	132
+42.58	40
+45.58	40
+45.58	128
+47	128
+47	40
+51	40
+51	132
+52.25	132
+52.25	40
+55.25	40
+55.25	136
+55.91	136
+55.91	40
+57.91	40
+57.91	140
+58.16	140
+58.16	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+120	240	Endurance 1
+240	260	VO2 Max 1
+300	320	Sprint 1
+360	380	Sprint 2
+710	725	Sprint 3
+785	825	Anaerobic Capacity 1
+945	1015	Anaerobic Capacity 2
+1195	1280	Anaerobic Capacity 3
+1520	1595	Anaerobic Capacity 4
+1775	1815	Anaerobic Capacity 5
+1935	1950	Sprint 4
+2250	2265	Sprint 5
+2325	2365	Anaerobic Capacity 6
+2485	2555	Anaerobic Capacity 7
+2735	2820	Anaerobic Capacity 8
+3060	3135	Anaerobic Capacity 9
+3315	3355	Anaerobic Capacity 10
+3475	3490	Sprint 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

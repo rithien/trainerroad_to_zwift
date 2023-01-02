@@ -1,0 +1,55 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Dashuik consists of 4x5-minute VO2max intervals at 109% FTP. Active recovery between intervals is 10 minutes long.
+FILE NAME = Dashuik
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	75
+10	75
+10	100
+13	100
+13	40
+19	40
+19	109
+24	109
+24	40
+34	40
+34	109
+39	109
+39	40
+49	40
+49	109
+54	109
+54	40
+64	40
+64	109
+69	109
+69	59
+87	59
+87	59
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	600	Endurance 1
+600	780	Threshold 1
+1140	1440	VO2 Max 1
+2040	2340	VO2 Max 2
+2940	3240	VO2 Max 3
+3840	4140	VO2 Max 4
+4140	5220	Endurance 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+                                                 

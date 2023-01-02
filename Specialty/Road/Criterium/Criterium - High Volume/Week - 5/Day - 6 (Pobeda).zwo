@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Pobeda&amp;nbsp;is made up of 3x15-minute hard-start intervals that each begin with a 30-second surge at 152% FTP and then quickly settle in at 88% FTP for the remaining 14 minutes. Each interval is separated by 12 minutes and 30 seconds of recovery.</description>
+    <name>Pobeda</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="165.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.520" PowerHigh="1.520"/>
+        <SteadyState Duration="750.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.520" PowerHigh="1.520"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="840.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="750.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.520" PowerHigh="1.520"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="840.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="750.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.520" PowerHigh="1.520"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="840.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <Cooldown Duration="1350.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

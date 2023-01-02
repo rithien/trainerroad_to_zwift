@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Juneau -1 is 4x18-minute intervals at 88-92% FTP with brief, 2-minute intermediate recoveries during each long interval.7-minute recoveries fall between intervals.</description>
+    <name>Juneau -1</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="420.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="420.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="420.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

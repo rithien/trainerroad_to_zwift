@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Bullock&amp;nbsp;is 2 sets of 50 continuous minutes of Tempo work each broken into 5x10-minute segments ranging from 70-88% FTP. 5 minutes of recovery fall between the sets.</description>
+    <name>Bullock</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="600.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="600.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="600.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="600.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="600.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="600.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="600.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="600.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="600.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <Cooldown Duration="300.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

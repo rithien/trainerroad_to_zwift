@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Truchas -3 is 2x20-minute Sweet Spot efforts between 92-94% FTP with 30-second recovery valleys every 5 minutes and 3 minutes of recovery between intervals.</description>
+    <name>Truchas -3</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.930" PowerHigh="0.930"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.930" PowerHigh="0.930"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

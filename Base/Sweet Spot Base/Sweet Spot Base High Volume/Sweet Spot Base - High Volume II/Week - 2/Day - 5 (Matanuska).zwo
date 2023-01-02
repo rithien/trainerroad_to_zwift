@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Matanuska is 4x20-minute intervals at 78-90% FTP with 5-minute recoveries between each.</description>
+    <name>Matanuska</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="300.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="60.0" PowerLow="0.400" PowerHigh="0.790"/>
+        <SteadyState Duration="300.0" PowerLow="0.790" PowerHigh="0.790"/>
+        <SteadyState Duration="300.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="300.0" PowerLow="0.860" PowerHigh="0.860"/>
+        <SteadyState Duration="300.0" PowerLow="0.810" PowerHigh="0.810"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="60.0" PowerLow="0.400" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="240.0" PowerLow="0.860" PowerHigh="0.860"/>
+        <SteadyState Duration="240.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="60.0" PowerLow="0.400" PowerHigh="0.780"/>
+        <SteadyState Duration="300.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="300.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="300.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="60.0" PowerLow="0.400" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="240.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

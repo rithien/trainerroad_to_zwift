@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Capricorn consists of 2 x 4 minute 45 second intervals and 2 x&amp;nbsp;5-minute intervals at 106% FTP that alternates starting with the slightly shorter interval followed by a longer one etc.&amp;nbsp;&amp;nbsp; Each full interval is separated by a 8 minute and 45 second&amp;nbsp; recovery valley.</description>
+    <name>Capricorn</name>
+    <workout>
+        <SteadyState Duration="165.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="270.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="525.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="285.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="525.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="525.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="285.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Lerket has 4 target intervals ranging from 3:30 to 3:45 all at 106%. Each interval is separated by a 11 minute and 45 second recovery valley.</description>
+    <name>Lerket</name>
+    <workout>
+        <SteadyState Duration="75.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="90.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="90.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="225.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="705.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="705.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="225.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="705.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

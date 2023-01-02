@@ -1,0 +1,280 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Gaaseland&nbsp;is 2 sets of 17x45-second repeats and 1 set of 16x45-second repeats at 123% FTP with short, 45-second recoveries between most efforts.The main set is followed by 8 minutes at 50% FTP and each set is separated by 11 minutes of recovery.
+FILE NAME = Gaaseland
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	40
+20.5	40
+20.5	123
+21.25	123
+21.25	40
+22	40
+22	123
+22.75	123
+22.75	40
+23.5	40
+23.5	123
+24.25	123
+24.25	40
+25	40
+25	123
+25.75	123
+25.75	40
+26.5	40
+26.5	123
+27.25	123
+27.25	40
+28	40
+28	123
+28.75	123
+28.75	40
+29.5	40
+29.5	123
+30.25	123
+30.25	40
+31	40
+31	123
+31.75	123
+31.75	40
+32.5	40
+32.5	123
+33.25	123
+33.25	40
+34	40
+34	123
+34.75	123
+34.75	40
+35.5	40
+35.5	123
+36.25	123
+36.25	40
+37	40
+37	123
+37.75	123
+37.75	40
+38.5	40
+38.5	123
+39.25	123
+39.25	40
+40	40
+40	123
+40.75	123
+40.75	40
+41.5	40
+41.5	123
+42.25	123
+42.25	40
+43	40
+43	123
+43.75	123
+43.75	40
+44.5	40
+44.5	123
+45.25	123
+45.25	40
+53.25	40
+53.25	123
+54	123
+54	40
+54.75	40
+54.75	123
+55.5	123
+55.5	40
+56.25	40
+56.25	123
+57	123
+57	40
+57.75	40
+57.75	123
+58.5	123
+58.5	40
+59.25	40
+59.25	123
+60	123
+60	40
+60.75	40
+60.75	123
+61.5	123
+61.5	40
+62.25	40
+62.25	123
+63	123
+63	40
+63.75	40
+63.75	123
+64.5	123
+64.5	40
+65.25	40
+65.25	123
+66	123
+66	40
+66.75	40
+66.75	123
+67.5	123
+67.5	40
+68.25	40
+68.25	123
+69	123
+69	40
+69.75	40
+69.75	123
+70.5	123
+70.5	40
+71.25	40
+71.25	123
+72	123
+72	40
+72.75	40
+72.75	123
+73.5	123
+73.5	40
+74.25	40
+74.25	123
+75	123
+75	40
+75.75	40
+75.75	123
+76.5	123
+76.5	40
+77.25	40
+77.25	123
+78	123
+78	40
+86	40
+86	123
+86.75	123
+86.75	40
+87.5	40
+87.5	123
+88.25	123
+88.25	40
+89	40
+89	123
+89.75	123
+89.75	40
+90.5	40
+90.5	123
+91.25	123
+91.25	40
+92	40
+92	123
+92.75	123
+92.75	40
+93.5	40
+93.5	123
+94.25	123
+94.25	40
+95	40
+95	123
+95.75	123
+95.75	40
+96.5	40
+96.5	123
+97.25	123
+97.25	40
+98	40
+98	123
+98.75	123
+98.75	40
+99.5	40
+99.5	123
+100.25	123
+100.25	40
+101	40
+101	123
+101.75	123
+101.75	40
+102.5	40
+102.5	123
+103.25	123
+103.25	40
+104	40
+104	123
+104.75	123
+104.75	40
+105.5	40
+105.5	123
+106.25	123
+106.25	40
+107	40
+107	123
+107.75	123
+107.75	40
+108.5	40
+108.5	123
+109.25	123
+109.25	50
+120	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1230	1275	Anaerobic Capacity 1
+1320	1365	Anaerobic Capacity 2
+1410	1455	Anaerobic Capacity 3
+1500	1545	Anaerobic Capacity 4
+1590	1635	Anaerobic Capacity 5
+1680	1725	Anaerobic Capacity 6
+1770	1815	Anaerobic Capacity 7
+1860	1905	Anaerobic Capacity 8
+1950	1995	Anaerobic Capacity 9
+2040	2085	Anaerobic Capacity 10
+2130	2175	Anaerobic Capacity 11
+2220	2265	Anaerobic Capacity 12
+2310	2355	Anaerobic Capacity 13
+2400	2445	Anaerobic Capacity 14
+2490	2535	Anaerobic Capacity 15
+2580	2625	Anaerobic Capacity 16
+2670	2715	Anaerobic Capacity 17
+3195	3240	Anaerobic Capacity 18
+3285	3330	Anaerobic Capacity 19
+3375	3420	Anaerobic Capacity 20
+3465	3510	Anaerobic Capacity 21
+3555	3600	Anaerobic Capacity 22
+3645	3690	Anaerobic Capacity 23
+3735	3780	Anaerobic Capacity 24
+3825	3870	Anaerobic Capacity 25
+3915	3960	Anaerobic Capacity 26
+4005	4050	Anaerobic Capacity 27
+4095	4140	Anaerobic Capacity 28
+4185	4230	Anaerobic Capacity 29
+4275	4320	Anaerobic Capacity 30
+4365	4410	Anaerobic Capacity 31
+4455	4500	Anaerobic Capacity 32
+4545	4590	Anaerobic Capacity 33
+4635	4680	Anaerobic Capacity 34
+5160	5205	Anaerobic Capacity 35
+5250	5295	Anaerobic Capacity 36
+5340	5385	Anaerobic Capacity 37
+5430	5475	Anaerobic Capacity 38
+5520	5565	Anaerobic Capacity 39
+5610	5655	Anaerobic Capacity 40
+5700	5745	Anaerobic Capacity 41
+5790	5835	Anaerobic Capacity 42
+5880	5925	Anaerobic Capacity 43
+5970	6015	Anaerobic Capacity 44
+6060	6105	Anaerobic Capacity 45
+6150	6195	Anaerobic Capacity 46
+6240	6285	Anaerobic Capacity 47
+6330	6375	Anaerobic Capacity 48
+6420	6465	Anaerobic Capacity 49
+6510	6555	Anaerobic Capacity 50
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

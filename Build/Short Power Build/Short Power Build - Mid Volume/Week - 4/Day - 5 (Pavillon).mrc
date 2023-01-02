@@ -1,0 +1,145 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Pavillon consists of 4 sets of short efforts lasting between 1-4 minutes at 95-117% FTP with very short, 30-second recoveries between intervals.Recoveries between sets of intervals last 5 minutes each.
+FILE NAME = Pavillon
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	60
+4	60
+4	80
+5	80
+5	40
+5.5	40
+5.5	90
+6.5	90
+6.5	40
+7	40
+7	100
+8	100
+8	40
+8.5	40
+8.5	110
+9.5	110
+9.5	40
+12.5	40
+12.5	95
+15.5	95
+15.5	40
+16	40
+16	96
+20	96
+20	40
+20.5	40
+20.5	117
+21.5	117
+21.5	40
+22	40
+22	112
+24	112
+24	40
+24.5	40
+24.5	99
+27.5	99
+27.5	40
+32.5	40
+32.5	95
+35.5	95
+35.5	40
+36	40
+36	96
+40	96
+40	40
+40.5	40
+40.5	117
+41.5	117
+41.5	40
+42	40
+42	112
+44	112
+44	40
+44.5	40
+44.5	99
+47.5	99
+47.5	40
+52.5	40
+52.5	95
+55.5	95
+55.5	40
+56	40
+56	96
+60	96
+60	40
+60.5	40
+60.5	117
+61.5	117
+61.5	40
+62	40
+62	112
+64	112
+64	40
+64.5	40
+64.5	99
+67.5	99
+67.5	40
+72.5	40
+72.5	95
+75.5	95
+75.5	40
+76	40
+76	96
+80	96
+80	40
+80.5	40
+80.5	117
+81.5	117
+81.5	40
+82	40
+82	112
+84	112
+84	40
+84.5	40
+84.5	99
+87.5	99
+87.5	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+120	240	Endurance 1
+240	300	Tempo 1
+330	390	Sweet Spot 1
+420	480	Threshold 1
+510	570	VO2 Max 1
+750	930	Sweet Spot 2
+960	1200	Threshold 2
+1230	1290	VO2 Max 2
+1320	1440	VO2 Max 3
+1470	1650	Threshold 3
+1950	2130	Sweet Spot 3
+2160	2400	Threshold 4
+2430	2490	VO2 Max 4
+2520	2640	VO2 Max 5
+2670	2850	Threshold 5
+3150	3330	Sweet Spot 4
+3360	3600	Threshold 6
+3630	3690	VO2 Max 6
+3720	3840	VO2 Max 7
+3870	4050	Threshold 7
+4350	4530	Sweet Spot 5
+4560	4800	Threshold 8
+4830	4890	VO2 Max 8
+4920	5040	VO2 Max 9
+5070	5250	Threshold 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

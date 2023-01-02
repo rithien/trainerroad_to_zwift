@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Rogers +5 is 6x7-minute intervals at 102% FTP with 5-minute recoveries between intervals.</description>
+    <name>Rogers +5</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <Cooldown Duration="300.0" PowerLow="0.410" PowerHigh="0.310"/>
+    </workout>
+</workout_file>

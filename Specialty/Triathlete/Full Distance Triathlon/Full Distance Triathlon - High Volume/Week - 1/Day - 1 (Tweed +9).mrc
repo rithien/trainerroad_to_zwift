@@ -1,0 +1,77 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tweed +9 is 9x5-minute intervals at 102% FTP with 3-minute recoveries between intervals.
+FILE NAME = Tweed +9
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	76
+10	76
+10	97
+13	97
+13	40
+18	40
+18	102
+23	102
+23	40
+26	40
+26	102
+31	102
+31	40
+34	40
+34	102
+39	102
+39	40
+42	40
+42	102
+47	102
+47	40
+50	40
+50	102
+55	102
+55	40
+58	40
+58	102
+63	102
+63	40
+66	40
+66	102
+71	102
+71	40
+74	40
+74	102
+79	102
+79	40
+82	40
+82	102
+87	102
+87	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	600	Tempo 1
+600	780	Threshold 1
+1080	1380	Threshold 2
+1560	1860	Threshold 3
+2040	2340	Threshold 4
+2520	2820	Threshold 5
+3000	3300	Threshold 6
+3480	3780	Threshold 7
+3960	4260	Threshold 8
+4440	4740	Threshold 9
+4920	5220	Threshold 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+                                                                                                    

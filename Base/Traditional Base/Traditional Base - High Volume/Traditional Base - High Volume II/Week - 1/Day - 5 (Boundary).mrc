@@ -1,0 +1,71 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Boundary&nbsp;is 2.5 hours of Tempo intervals spent between 70-83% FTP with intermittent, 7-minute recoveries at 55% FTP.
+FILE NAME = Boundary
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	57
+7	57
+7	64
+10	64
+10	70
+19	70
+19	55
+26	55
+26	77
+37	77
+37	55
+44	55
+44	77
+55	77
+55	55
+62	55
+62	80
+77	80
+77	55
+84	55
+84	83
+99	83
+99	55
+106	55
+106	80
+121	80
+121	55
+128	55
+128	77
+143	77
+143	77
+150	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	9000	Workout
+240	420	Endurance 1
+420	600	Endurance 2
+600	1140	Endurance 3
+1140	1560	Endurance 4
+1560	2220	Tempo 1
+2220	2640	Endurance 5
+2640	3300	Tempo 2
+3300	3720	Endurance 6
+3720	4620	Tempo 3
+4620	5040	Endurance 7
+5040	5940	Tempo 4
+5940	6360	Endurance 8
+6360	7260	Tempo 5
+7260	7680	Endurance 9
+7680	8580	Tempo 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+            

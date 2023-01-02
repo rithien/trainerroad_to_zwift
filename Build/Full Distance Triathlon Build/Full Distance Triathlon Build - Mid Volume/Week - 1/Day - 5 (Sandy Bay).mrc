@@ -1,0 +1,74 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Sandy Bay is 2&nbsp;hours 15 minutes&nbsp;of aerobic Endurance spent between 68-75% FTP.
+FILE NAME = Sandy Bay
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	65
+10	65
+10	70
+24	70
+24	70
+25	73
+25	73
+39	73
+39	73
+40	70
+40	70
+51	70
+51	70
+52	75
+52	75
+68	75
+68	75
+69	72
+69	72
+85	72
+85	72
+86	70
+86	70
+96	70
+96	70
+97	75
+97	75
+115	75
+115	75
+116	73
+116	73
+130	73
+130	73
+135	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	8100	Workout
+300	600	Endurance 1
+600	1440	Endurance 2
+1440	1500	Endurance 3
+1500	2340	Endurance 4
+2340	2400	Endurance 5
+2400	3060	Endurance 6
+3060	3120	Endurance 7
+3120	4080	Endurance 8
+4080	4140	Endurance 9
+4140	5100	Endurance 10
+5100	5160	Endurance 11
+5160	5760	Endurance 12
+5760	5820	Endurance 13
+5820	6900	Endurance 14
+6900	6960	Endurance 15
+6960	7800	Endurance 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+    

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Norragard&amp;nbsp;is 2x21-minute sets of intervals ranging from 15 to 75 seconds at 128-140% FTP. Recovery is at least twice as long as the preceding work interval if not longer, and the recovery between sets of anaerobic repeats lasts 5 minutes.</description>
+    <name>Norragard</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="20.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="50.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <SteadyState Duration="50.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <SteadyState Duration="330.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="40.0" PowerLow="1.360" PowerHigh="1.360"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="70.0" PowerLow="1.320" PowerHigh="1.320"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="75.0" PowerLow="1.280" PowerHigh="1.280"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="75.0" PowerLow="1.320" PowerHigh="1.320"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="40.0" PowerLow="1.360" PowerHigh="1.360"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="40.0" PowerLow="1.360" PowerHigh="1.360"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="70.0" PowerLow="1.320" PowerHigh="1.320"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="75.0" PowerLow="1.280" PowerHigh="1.280"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="75.0" PowerLow="1.320" PowerHigh="1.320"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="40.0" PowerLow="1.360" PowerHigh="1.360"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <Cooldown Duration="110.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

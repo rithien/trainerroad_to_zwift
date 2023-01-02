@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>4x8-minute intervals starting with 4 minute at 84% FTP followed by 3 minutes at 80% FTP and finishing with 1 minute at 76% FTP. Recovery intervals&amp;nbsp;are 3 minutes long.</description>
+    <name>Jordan</name>
+    <workout>
+        <SteadyState Duration="150.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="0.450" PowerHigh="0.450"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.840" PowerHigh="0.840"/>
+        <SteadyState Duration="180.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="60.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="0.860" PowerHigh="0.860"/>
+        <SteadyState Duration="180.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="60.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="180.0" PowerLow="0.840" PowerHigh="0.840"/>
+        <SteadyState Duration="60.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="180.0" PowerLow="0.860" PowerHigh="0.860"/>
+        <SteadyState Duration="60.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

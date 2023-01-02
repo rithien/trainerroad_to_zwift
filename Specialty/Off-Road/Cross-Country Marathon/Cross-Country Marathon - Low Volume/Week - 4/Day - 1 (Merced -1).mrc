@@ -1,0 +1,173 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Merced -1 is 5 sets of 5x40-seconds efforts starting at 135% FTP and finishing at 123% FTP, all with very short, 20-second recoveries between them. The active recoveries between each set of 40/20's are 5 minutes long.
+FILE NAME = Merced -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2.5	50
+2.5	65
+5	65
+5	80
+7.5	80
+7.5	120
+7.83	120
+7.83	40
+8.16	40
+8.16	125
+8.58	125
+8.58	40
+9	40
+9	130
+9.5	130
+9.5	40
+10	40
+10	135
+10.66	135
+10.66	40
+12.66	40
+12.66	135
+13.33	135
+13.33	40
+13.66	40
+13.66	132
+14.33	132
+14.33	40
+14.66	40
+14.66	129
+15.33	129
+15.33	40
+15.66	40
+15.66	126
+16.33	126
+16.33	40
+16.66	40
+16.66	123
+17.33	123
+17.33	45
+22.33	45
+22.33	135
+23	135
+23	40
+23.33	40
+23.33	132
+24	132
+24	40
+24.33	40
+24.33	129
+25	129
+25	40
+25.33	40
+25.33	126
+26	126
+26	40
+26.33	40
+26.33	123
+27	123
+27	45
+32	45
+32	135
+32.66	135
+32.66	40
+33	40
+33	132
+33.66	132
+33.66	40
+34	40
+34	129
+34.66	129
+34.66	40
+35	40
+35	126
+35.66	126
+35.66	40
+36	40
+36	123
+36.66	123
+36.66	45
+41.66	45
+41.66	135
+42.33	135
+42.33	40
+42.66	40
+42.66	132
+43.33	132
+43.33	40
+43.66	40
+43.66	129
+44.33	129
+44.33	40
+44.66	40
+44.66	126
+45.33	126
+45.33	40
+45.66	40
+45.66	123
+46.33	123
+46.33	45
+51.33	45
+51.33	135
+52	135
+52	40
+52.33	40
+52.33	132
+53	132
+53	40
+53.33	40
+53.33	129
+54	129
+54	40
+54.33	40
+54.33	126
+55	126
+55	40
+55.33	40
+55.33	123
+56	123
+56	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+150	300	Endurance 1
+300	450	Tempo 1
+450	470	VO2 Max 1
+490	515	Sprint 1
+540	570	Sprint 2
+600	640	Anaerobic Capacity 1
+760	800	Anaerobic Capacity 2
+820	860	Anaerobic Capacity 3
+880	920	Anaerobic Capacity 4
+940	980	Anaerobic Capacity 5
+1000	1040	Anaerobic Capacity 6
+1340	1380	Anaerobic Capacity 7
+1400	1440	Anaerobic Capacity 8
+1460	1500	Anaerobic Capacity 9
+1520	1560	Anaerobic Capacity 10
+1580	1620	Anaerobic Capacity 11
+1920	1960	Anaerobic Capacity 12
+1980	2020	Anaerobic Capacity 13
+2040	2080	Anaerobic Capacity 14
+2100	2140	Anaerobic Capacity 15
+2160	2200	Anaerobic Capacity 16
+2500	2540	Anaerobic Capacity 17
+2560	2600	Anaerobic Capacity 18
+2620	2660	Anaerobic Capacity 19
+2680	2720	Anaerobic Capacity 20
+2740	2780	Anaerobic Capacity 21
+3080	3120	Anaerobic Capacity 22
+3140	3180	Anaerobic Capacity 23
+3200	3240	Anaerobic Capacity 24
+3260	3300	Anaerobic Capacity 25
+3320	3360	Anaerobic Capacity 26
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

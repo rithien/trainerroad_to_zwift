@@ -1,0 +1,70 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Pioneer -1 is 60 minutes of near-continuous riding where you'll spend 45 minutes between 80-85% FTP, but 2x30-second recoveries break up the otherwise continuous effort.
+FILE NAME = Pioneer -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	61
+8	61
+8	72
+12	72
+12	82
+15	82
+15	84
+18	84
+18	81
+22	81
+22	85
+26	85
+26	40
+26.5	40
+26.5	80
+29.5	80
+29.5	82
+34.5	82
+34.5	83
+38.5	83
+38.5	80
+41.5	80
+41.5	40
+42	40
+42	83
+45	83
+45	81
+49	81
+49	83
+53	83
+53	81
+57	81
+57	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	900	Tempo 1
+900	1080	Tempo 2
+1080	1320	Tempo 3
+1320	1560	Sweet Spot 1
+1590	1770	Tempo 4
+1770	2070	Tempo 5
+2070	2310	Tempo 6
+2310	2490	Tempo 7
+2520	2700	Tempo 8
+2700	2940	Tempo 9
+2940	3180	Tempo 10
+3180	3420	Tempo 11
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Washington -2 is 4x7-minute intervals at 105% FTP including brief, 30-second recoveries in the middle of each interval and short, 2-minute recoveries between intervals.</description>
+    <name>Washington -2</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="210.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="210.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="210.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="210.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <Cooldown Duration="240.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

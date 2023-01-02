@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Pennell is four 8-minute intervals at 102% FTP. The recoveries between intervals are 6 minutes long.
+FILE NAME = Pennell
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	102
+29	102
+29	50
+35	50
+35	102
+43	102
+43	50
+49	50
+49	102
+57	102
+57	50
+63	50
+63	102
+71	102
+71	50
+80	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4800	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	1740	Threshold 2
+2100	2580	Threshold 3
+2940	3420	Threshold 4
+3780	4260	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Harwood&amp;nbsp;is 7 intervals ranging from 6-18 minutes between 87-91%&amp;nbsp;FTP with 3 to 5-minute recoveries between intervals.</description>
+    <name>Harwood</name>
+    <workout>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.880"/>
+        <SteadyState Duration="360.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <Cooldown Duration="30.0" PowerLow="0.880" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.880"/>
+        <SteadyState Duration="720.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <Cooldown Duration="30.0" PowerLow="0.880" PowerHigh="0.400"/>
+        <SteadyState Duration="270.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.900"/>
+        <SteadyState Duration="570.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="30.0" PowerLow="0.900" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.910"/>
+        <SteadyState Duration="450.0" PowerLow="0.910" PowerHigh="0.910"/>
+        <Cooldown Duration="30.0" PowerLow="0.910" PowerHigh="0.400"/>
+        <SteadyState Duration="270.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.870"/>
+        <SteadyState Duration="600.0" PowerLow="0.870" PowerHigh="0.870"/>
+        <Cooldown Duration="30.0" PowerLow="0.870" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.900"/>
+        <SteadyState Duration="540.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="30.0" PowerLow="0.900" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.890"/>
+        <SteadyState Duration="1080.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <Cooldown Duration="30.0" PowerLow="0.890" PowerHigh="0.400"/>
+        <Cooldown Duration="540.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

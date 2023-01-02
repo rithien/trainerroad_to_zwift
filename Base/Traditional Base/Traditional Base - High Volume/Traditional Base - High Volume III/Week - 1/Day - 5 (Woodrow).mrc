@@ -1,0 +1,53 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Woodrow&nbsp;totals just under 60 minutes of Tempo intervals spent between 89-91% FTP with intermittent, 3-minute recoveries at 55% FTP. 
+FILE NAME = Woodrow
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+7	50
+7	60
+13	60
+13	76
+19	76
+19	89
+31	89
+31	55
+34	55
+34	91
+46	91
+46	55
+49	55
+49	89
+61	89
+61	55
+64	55
+64	91
+76	91
+76	50
+83	50
+83	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+420	780	Endurance 1
+780	1140	Tempo 1
+1140	1860	Sweet Spot 1
+1860	2040	Endurance 2
+2040	2760	Sweet Spot 2
+2760	2940	Endurance 3
+2940	3660	Sweet Spot 3
+3660	3840	Endurance 4
+3840	4560	Sweet Spot 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

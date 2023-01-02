@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Chicoma -3 is 4x12-minute muscle-endurance efforts that hover near the low end of Sweet Spot and include 3x15-second bursts at 150% FTP, just to keep things interesting.Very short, 30-seconds recoveries fall between each interval.</description>
+    <name>Chicoma -3</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="150.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="30.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="30.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="30.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="165.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

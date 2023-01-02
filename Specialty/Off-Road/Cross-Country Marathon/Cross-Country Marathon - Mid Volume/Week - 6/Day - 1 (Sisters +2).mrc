@@ -1,0 +1,55 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Sisters +2 consists of 5x6-minute intervals at 105% FTP with 4-minute recoveries between intervals. 
+FILE NAME = Sisters +2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	75
+6	76
+6	95
+8	95
+8	40
+12	40
+12	105
+18	105
+18	40
+22	40
+22	105
+28	105
+28	40
+32	40
+32	105
+38	105
+38	40
+42	40
+42	105
+48	105
+48	40
+52	40
+52	105
+58	105
+58	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+180	360	Endurance 1
+360	480	Sweet Spot 1
+720	1080	Threshold 1
+1320	1680	Threshold 2
+1920	2280	Threshold 3
+2520	2880	Threshold 4
+3120	3480	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -1,0 +1,45 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tionail is three 4-minute intervals at 104% FTP. The recoveries between intervals are 4 minutes long.
+FILE NAME = Tionail
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	65
+12	65
+12	90
+15	90
+15	46
+21	46
+21	104
+25	104
+25	46
+29	46
+29	104
+33	104
+33	46
+37	46
+37	104
+41	104
+41	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	720	Endurance 1
+720	900	Sweet Spot 1
+1260	1500	Threshold 1
+1740	1980	Threshold 2
+2220	2460	Threshold 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

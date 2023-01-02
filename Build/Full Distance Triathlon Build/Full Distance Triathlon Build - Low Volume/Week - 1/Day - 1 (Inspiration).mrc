@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Inspiration consists of 4 efforts of either&nbsp;3:45 or 3:30-minute intervals at 106% FTP. Each full interval is separated by an 11 minute, 45-second recovery valley.
+FILE NAME = Inspiration
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5.25	50
+5.25	72
+7.75	72
+7.75	96
+10.25	96
+10.25	50
+20.25	50
+20.25	106
+24	106
+24	40
+35.75	40
+35.75	106
+39.25	106
+39.25	40
+51	40
+51	106
+54.75	106
+54.75	40
+66.5	40
+66.5	106
+70	106
+70	40
+75	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+315	465	Endurance 1
+465	615	Threshold 1
+1215	1440	VO2 Max 1
+2145	2355	VO2 Max 2
+3060	3285	VO2 Max 3
+3990	4200	VO2 Max 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

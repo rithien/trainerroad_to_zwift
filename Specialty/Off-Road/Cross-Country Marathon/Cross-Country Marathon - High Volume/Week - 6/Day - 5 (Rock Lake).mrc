@@ -1,0 +1,53 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Rock Lake&nbsp;is 1 hour of high-end Tempo/Sweet Spot intervals spent between 84-91% FTP&nbsp;with intermittent, 1 and 2-minute recoveries at 55% FTP. 
+FILE NAME = Rock Lake
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	60
+6	60
+6	60
+7	84
+7	84
+17	84
+17	55
+18	55
+18	91
+31	91
+31	55
+33	55
+33	90
+44	90
+44	55
+46	55
+46	85
+57	85
+57	85
+58	50
+58	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+180	360	Endurance 1
+360	420	Endurance 2
+420	1020	Tempo 1
+1020	1080	Endurance 3
+1080	1860	Sweet Spot 1
+1860	1980	Endurance 4
+1980	2640	Sweet Spot 2
+2640	2760	Endurance 5
+2760	3420	Sweet Spot 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

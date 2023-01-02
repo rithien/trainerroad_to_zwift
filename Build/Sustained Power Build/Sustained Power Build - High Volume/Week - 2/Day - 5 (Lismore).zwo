@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Lismore&amp;nbsp;is 3x12-minute over-under intervals alternating between 2 to 4 minutes at 95% FTP and 2 minutes at 105% FTP with 10-minute recoveries between intervals.The set of over-unders is sandwiched by 2x24-minute Endurance intervals spent at 65% FTP.</description>
+    <name>Lismore</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.630" PowerHigh="0.630"/>
+        <SteadyState Duration="180.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="1440.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="1440.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <Cooldown Duration="240.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

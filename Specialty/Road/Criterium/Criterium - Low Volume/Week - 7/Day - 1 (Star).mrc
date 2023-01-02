@@ -1,0 +1,120 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Star is 3 sets of 6x20-second sprints at 160% FTP with diminishing recoveries that start at 60 seconds long and decrease all the way down to 20 seconds before a longer, 2-minute recovery valley rests you up in preparation for the next round of sprints.
+FILE NAME = Star
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	70
+4	70
+4	90
+6	90
+6	40
+8	40
+8	160
+8.33	160
+8.33	40
+9.33	40
+9.33	160
+9.66	160
+9.66	40
+10.5	40
+10.5	160
+10.83	160
+10.83	40
+11.5	40
+11.5	160
+11.83	160
+11.83	40
+12.33	40
+12.33	160
+12.66	160
+12.66	40
+13	40
+13	160
+13.33	160
+13.33	40
+15.33	40
+15.33	160
+15.66	160
+15.66	40
+16.66	40
+16.66	160
+17	160
+17	40
+17.83	40
+17.83	160
+18.16	160
+18.16	40
+18.83	40
+18.83	160
+19.16	160
+19.16	40
+19.66	40
+19.66	160
+20	160
+20	40
+20.33	40
+20.33	160
+20.66	160
+20.66	40
+22.66	40
+22.66	160
+23	160
+23	40
+24	40
+24	160
+24.33	160
+24.33	40
+25.16	40
+25.16	160
+25.5	160
+25.5	40
+26.16	40
+26.16	160
+26.5	160
+26.5	40
+27	40
+27	160
+27.33	160
+27.33	40
+27.66	40
+27.66	160
+28	160
+28	40
+30	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+120	240	Endurance 1
+240	360	Sweet Spot 1
+480	500	Sprint 1
+560	580	Sprint 2
+630	650	Sprint 3
+690	710	Sprint 4
+740	760	Sprint 5
+780	800	Sprint 6
+920	940	Sprint 7
+1000	1020	Sprint 8
+1070	1090	Sprint 9
+1130	1150	Sprint 10
+1180	1200	Sprint 11
+1220	1240	Sprint 12
+1360	1380	Sprint 13
+1440	1460	Sprint 14
+1510	1530	Sprint 15
+1570	1590	Sprint 16
+1620	1640	Sprint 17
+1660	1680	Sprint 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

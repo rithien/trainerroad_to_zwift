@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Dragons Head&amp;nbsp;is 5x10 minutes and 15 seconds&amp;nbsp;Big Gear Starts consisting of a 30-second wind-up at 130% FTP in the biggest gear you can turn.These hard starts are followed closely by 9 minutes and 45 seconds&amp;nbsp;of Threshold work at 95% FTP in a gear that allows you to spin at a more reasonable cadence. Each recovery between intervals is 9 minutes long.</description>
+    <name>Dragons Head</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="165.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <SteadyState Duration="285.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.950"/>
+        <SteadyState Duration="555.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="540.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.950"/>
+        <SteadyState Duration="555.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="540.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.950"/>
+        <SteadyState Duration="555.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="540.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.950"/>
+        <SteadyState Duration="555.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="540.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="0.950"/>
+        <SteadyState Duration="555.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Cooldown Duration="780.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Lone Pine -1 is 5x10-minute intervals between 96-99% FTP with 3-minute recoveries between each.</description>
+    <name>Lone Pine -1</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500">
+            <textevent message="Welcome to Lone Pine -1!" timeoffset="10.000000"/>
+            <textevent message="Today's workout consists of 5x10-minute intervals within the Threshold power range" timeoffset="20.000000"/>
+            <textevent message="In other words, each interval will put you between 95-99% of FTP..." timeoffset="30.000000"/>
+            <textevent message="and you'll have 3 minutes of recovery between intervals" timeoffset="40.000000"/>
+            <textevent message="Today's main goal is twofold:" timeoffset="50.000000"/>
+            <textevent message="First, we'll be working to improve FTP..." timeoffset="57.000000"/>
+            <textevent message="but doing so while spending more &amp; more time in the aero position" timeoffset="65.000000"/>
+            <textevent message="So first &amp; foremost, raise sustainable power; secondly, do it while aero" timeoffset="75.000000"/>
+            <textevent message="For now, just focus on continuing your warm-up" timeoffset="85.000000"/>
+        </SteadyState>
+        <SteadyState Duration="120.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="We'll take a couple minutes to clear the legs in about 30 seconds" timeoffset="90.000000"/>
+            <textevent message="Utilize the cadence you plan to apply to today's intervals..." timeoffset="100.000000"/>
+            <textevent message="ideally this will hover between 85-95rpm" timeoffset="110.000000"/>
+        </SteadyState>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900">
+            <textevent message="Bring up your cadence and sit tall so you can breathe well" timeoffset="0.000000"/>
+        </SteadyState>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Spending time so close to your FTP will improve your sustainable power..." timeoffset="0.000000"/>
+            <textevent message="as well as muscle endurance by teaching your muscles to deal..." timeoffset="10.000000"/>
+            <textevent message="with high levels of lactate &amp; acidic buildup without letting off the gas" timeoffset="20.000000"/>
+            <textevent message="Along with these physical adaptations come mental improvements as well" timeoffset="30.000000"/>
+            <textevent message="This type of work will help you learn to mentally tolerate the discomfort..." timeoffset="40.000000"/>
+            <textevent message="that comes with working at high levels of your FTP for extended periods" timeoffset="50.000000"/>
+            <textevent message="And today, we'll be adding yet another layer to all of this" timeoffset="60.000000"/>
+            <textevent message="Being able to output high levels of power for extended periods of time is important..." timeoffset="70.000000"/>
+            <textevent message="but so is being able to do so in your most aerodynamic way possible" timeoffset="80.000000"/>
+            <textevent message="In other words, the more aerodynamic you can make yourself..." timeoffset="90.000000"/>
+            <textevent message="the better spent your energy will be" timeoffset="100.000000"/>
+            <textevent message="We'll use today as an opportunity to explore your aero position's limits" timeoffset="110.000000"/>
+            <textevent message="You still have a couple more minutes until the first interval begins..." timeoffset="120.000000"/>
+            <textevent message="so let's talk a bit about your aero form" timeoffset="130.000000"/>
+            <textevent message="If you're on a normal road bike, your aero position will be in the handlebar drops" timeoffset="140.000000"/>
+            <textevent message="The aero position is a bit more self-explanatory if you're using a TT or Tri bike" timeoffset="150.000000"/>
+            <textevent message="First, start by focusing on your placement on the saddle" timeoffset="160.000000"/>
+            <textevent message="Make sure your weight is evenly distributed on both sit bones..." timeoffset="170.000000"/>
+            <textevent message="and that your sit-bones are planted firmly on the wings of your saddle" timeoffset="180.000000"/>
+            <textevent message="If you find it impossible to keep both sit bones anchored to the saddle while in your aero position..." timeoffset="190.000000"/>
+            <textevent message="it's likely your flexibility and/or bike fit may need attention" timeoffset="200.000000"/>
+            <textevent message="If flexibility is an issue, it can usually be addressed with consistent stretching" timeoffset="210.000000"/>
+            <textevent message="If it's a fit issue, your best bet is consulting a bike fit expert" timeoffset="220.000000"/>
+            <textevent message="Plan to get aero on the 10-minute mark" timeoffset="230.000000"/>
+        </SteadyState>
+        <Cooldown Duration="120.0" PowerLow="0.980" PowerHigh="0.970">
+            <textevent message="Here we go! Spend as much of this first 2 minutes aero if you feel warm enough" timeoffset="0.000000"/>
+            <textevent message="If need be, you may rise out of the aero position for a break..." timeoffset="10.000000"/>
+            <textevent message="if your form starts to fall apart or your watts/cadence begin to falter" timeoffset="20.000000"/>
+            <textevent message="If/when you rise for an upright break, try to limit your breaks to 10-30 seconds" timeoffset="30.000000"/>
+        </Cooldown>
+        <Warmup Duration="120.0" PowerLow="0.970" PowerHigh="0.990">
+            <textevent message="Good job! Sit up for the next 2 minutes" timeoffset="0.000000"/>
+            <textevent message="Ride tall &amp; make the most of your breathing by using your belly" timeoffset="10.000000"/>
+        </Warmup>
+        <Cooldown Duration="120.0" PowerLow="0.990" PowerHigh="0.980">
+            <textevent message="Ok, time to get aero again for as much as 2 minutes" timeoffset="0.000000"/>
+            <textevent message="Don't worry if you're unable to hold the aero position for the entire 2 minutes" timeoffset="10.000000"/>
+            <textevent message="Even if you're an otherwise powerful rider..." timeoffset="20.000000"/>
+            <textevent message="an aero position is something that takes time to become accustomed to" timeoffset="30.000000"/>
+            <textevent message="Make sure you're drawing full breaths" timeoffset="40.000000"/>
+            <textevent message="Some say a good approach is to focus on a complete exhale..." timeoffset="50.000000"/>
+            <textevent message="and the rest of the breathing pattern will take care of itself" timeoffset="60.000000"/>
+            <textevent message="Less than a minute more of aero work" timeoffset="70.000000"/>
+        </Cooldown>
+        <Cooldown Duration="120.0" PowerLow="0.980" PowerHigh="0.960">
+            <textevent message="And back into an upright position for the next 2 minutes" timeoffset="0.000000"/>
+        </Cooldown>
+        <Warmup Duration="120.0" PowerLow="0.960" PowerHigh="0.980">
+            <textevent message="Final 2 minutes, let's get aero again if you can hold your power &amp; cadence steady" timeoffset="0.000000"/>
+        </Warmup>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Nicely done! 3 minutes to take things easy" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="120.0" PowerLow="0.960" PowerHigh="0.990">
+            <textevent message="Round 2, get aero for another 2 minutes" timeoffset="0.000000"/>
+            <textevent message="Once again, make sure those sit bones are &quot;glued&quot; to your saddle wings" timeoffset="10.000000"/>
+            <textevent message="If you find this difficult or even impossible..." timeoffset="20.000000"/>
+            <textevent message="a new bike fit or some minor tweaks may be worth considering" timeoffset="30.000000"/>
+            <textevent message="That is, if regular hamstring &amp; lower back stretching doesn't do the trick" timeoffset="40.000000"/>
+        </Warmup>
+        <Cooldown Duration="120.0" PowerLow="0.990" PowerHigh="0.970">
+            <textevent message="2 minutes down! Move into an upright position" timeoffset="0.000000"/>
+        </Cooldown>
+        <Warmup Duration="120.0" PowerLow="0.970" PowerHigh="0.990">
+            <textevent message="Time to get aero again" timeoffset="0.000000"/>
+            <textevent message="Try to &quot;relax&quot; into the aero position as soon as possible" timeoffset="10.000000"/>
+            <textevent message="Obviously, the word &quot;relaxed&quot; doesn't correlate with hard efforts..." timeoffset="20.000000"/>
+            <textevent message="but you don't want to carry any tension in your upper body" timeoffset="30.000000"/>
+            <textevent message="In other words, avoid a rigid upper body..." timeoffset="40.000000"/>
+            <textevent message="and you're far more likely to avoid wasting energy" timeoffset="50.000000"/>
+            <textevent message="So do your best to find this &quot;effortless&quot; riding style" timeoffset="60.000000"/>
+        </Warmup>
+        <Cooldown Duration="120.0" PowerLow="0.990" PowerHigh="0.970">
+            <textevent message="Out of the aero position for 2 minutes" timeoffset="0.000000"/>
+        </Cooldown>
+        <Warmup Duration="120.0" PowerLow="0.970" PowerHigh="0.980">
+            <textevent message="Final 2-minute push! Get aero if you can" timeoffset="0.000000"/>
+        </Warmup>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Ease up for 3 minutes" timeoffset="0.000000"/>
+            <textevent message="Following a hard interval, do your best to wait at least 30 seconds to backpedal" timeoffset="7.000000"/>
+            <textevent message="This will ultimately help you clear your legs faster" timeoffset="14.000000"/>
+            <textevent message="Round 3 coming up, find that aero position" timeoffset="170.000000"/>
+        </SteadyState>
+        <Cooldown Duration="120.0" PowerLow="0.980" PowerHigh="0.970">
+            <textevent message="Smooth pedalstroke, relaxed upper body, 2 minutes" timeoffset="0.000000"/>
+            <textevent message="Try to stay aero for another minute..." timeoffset="60.000000"/>
+            <textevent message="but make sure you sit up to regain proper form, cadence and/or power" timeoffset="70.000000"/>
+            <textevent message="If your watts/cadence drop drastically or your form fails..." timeoffset="80.000000"/>
+            <textevent message="these brief, upright breaks are usually all you'll require" timeoffset="90.000000"/>
+        </Cooldown>
+        <Warmup Duration="120.0" PowerLow="0.970" PowerHigh="0.990">
+            <textevent message="Good job! Go ahead and sit up" timeoffset="0.000000"/>
+        </Warmup>
+        <Cooldown Duration="120.0" PowerLow="0.990" PowerHigh="0.970">
+            <textevent message="Find that aero position once again, and as you ease down into it..." timeoffset="0.000000"/>
+            <textevent message="make sure you aren't affecting your ability to draw full breaths" timeoffset="10.000000"/>
+        </Cooldown>
+        <Warmup Duration="120.0" PowerLow="0.970" PowerHigh="0.990">
+            <textevent message="And back up!" timeoffset="0.000000"/>
+            <textevent message="Ride tall &amp; keep your power as steady as possible" timeoffset="7.000000"/>
+        </Warmup>
+        <Cooldown Duration="120.0" PowerLow="0.990" PowerHigh="0.980">
+            <textevent message="Final 2 aero minutes in the interval!" timeoffset="0.000000"/>
+            <textevent message="Make sure you're not tightening those shoulders" timeoffset="10.000000"/>
+            <textevent message="Tuck your head in, but make sure you're gaze is still ahead" timeoffset="20.000000"/>
+            <textevent message="Your indoor, aero position should be the same as your outdoor one" timeoffset="30.000000"/>
+            <textevent message="And it's our hope that you're looking ahead when riding outdoors ;-)" timeoffset="40.000000"/>
+            <textevent message="So reinforce the good (necessary) habits you implement outdoors..." timeoffset="50.000000"/>
+            <textevent message="when you're riding with us indoors" timeoffset="60.000000"/>
+            <textevent message="Less than a minute to go! Stay tough &amp; keep good form" timeoffset="70.000000"/>
+        </Cooldown>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Great work! Enjoy a well deserved 3 minutes of rest" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="120.0" PowerLow="0.970" PowerHigh="0.980">
+            <textevent message="And we're off once again, find that aero position" timeoffset="0.000000"/>
+            <textevent message="Rather than 2-minute increments of aero work..." timeoffset="10.000000"/>
+            <textevent message="see how long you can remain in an aero position for the final 3 intervals" timeoffset="20.000000"/>
+            <textevent message="Of course, only stay aero as long as your watts &amp; form are on point" timeoffset="30.000000"/>
+            <textevent message="Sit up for 10-30 seconds as needed" timeoffset="40.000000"/>
+            <textevent message="Also, do your best to keep a steady cadence between 85-95rpm..." timeoffset="50.000000"/>
+            <textevent message="but you may drop a bit outside that range as fatigue grows" timeoffset="60.000000"/>
+            <textevent message="That said, set a cadence floor of 80rpm" timeoffset="70.000000"/>
+            <textevent message="In other words, sit up or reduce the watts by 3-5%..." timeoffset="80.000000"/>
+            <textevent message="if you're unable to maintain a cadence of at least 80rpm" timeoffset="90.000000"/>
+        </Warmup>
+        <Cooldown Duration="180.0" PowerLow="0.980" PowerHigh="0.960">
+            <textevent message="Still aero? Still keeping your power on Target?" timeoffset="0.000000"/>
+            <textevent message="Upright or down low, try to limit how far your power fluctuates" timeoffset="10.000000"/>
+            <textevent message="As riders spend more time on their invaluable in under appreciated trainers..." timeoffset="20.000000"/>
+            <textevent message="it's common to see their power become smoother over time" timeoffset="30.000000"/>
+            <textevent message="This happens even more quickly if you spend a couple minutes here &amp; there..." timeoffset="40.000000"/>
+            <textevent message="trying to limit how far above &amp; below you roam from your Target Power" timeoffset="50.000000"/>
+        </Cooldown>
+        <Warmup Duration="120.0" PowerLow="0.960" PowerHigh="0.970">
+            <textevent message="We're well into the latter half of this interval" timeoffset="30.000000"/>
+            <textevent message="Are you periodically checking on your form?" timeoffset="40.000000"/>
+            <textevent message="Make sure you FEEL those sit bones on the wide part of your saddle" timeoffset="50.000000"/>
+            <textevent message="Be sure your upper body is relaxed..." timeoffset="60.000000"/>
+            <textevent message="and make sure your pedalstroke is effective with steady pressure throughout" timeoffset="70.000000"/>
+            <textevent message="Do your best to not drop your heels on the bottom of the pedalstroke..." timeoffset="80.000000"/>
+            <textevent message="unless that extra calf stretch works well for you" timeoffset="90.000000"/>
+            <textevent message="Oh, and be sure your knees aren't wobbling about..." timeoffset="100.000000"/>
+            <textevent message="especially at the top of each pedalstroke" timeoffset="110.000000"/>
+        </Warmup>
+        <Warmup Duration="120.0" PowerLow="0.970" PowerHigh="0.990">
+            <textevent message="Quick form check, be aware of how well you're riding" timeoffset="0.000000"/>
+        </Warmup>
+        <Cooldown Duration="60.0" PowerLow="0.990" PowerHigh="0.980">
+            <textevent message="Final minute! Try to spend it aero" timeoffset="0.000000"/>
+        </Cooldown>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="Excellent, another quick break with a light spin" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.970" PowerHigh="0.980">
+            <textevent message="Here we go! Final interval of the workout" timeoffset="0.000000"/>
+        </Warmup>
+        <Cooldown Duration="180.0" PowerLow="0.980" PowerHigh="0.970">
+            <textevent message="Keep limiting your non-aero breaks to 30 seconds if possible" timeoffset="0.000000"/>
+        </Cooldown>
+        <Warmup Duration="120.0" PowerLow="0.970" PowerHigh="0.980">
+            <textevent message="As the fatigue grows, make sure your form is still on point" timeoffset="0.000000"/>
+            <textevent message="It's easy to get sloppy when you're feeling gassed..." timeoffset="10.000000"/>
+            <textevent message="but staying focused &amp; aware can help prevent this" timeoffset="20.000000"/>
+            <textevent message="Focus on appearing relaxed &amp; comfortable on your bike" timeoffset="30.000000"/>
+            <textevent message="Tensing up will only serve to expend needless energy..." timeoffset="40.000000"/>
+            <textevent message="and force you to work against the bike rather than with it" timeoffset="50.000000"/>
+        </Warmup>
+        <Warmup Duration="120.0" PowerLow="0.980" PowerHigh="0.990">
+            <textevent message="Another slight shift in effort to keep you focused on the work" timeoffset="0.000000"/>
+        </Warmup>
+        <Cooldown Duration="120.0" PowerLow="0.990" PowerHigh="0.980">
+            <textevent message="You have 2 minutes of work left, that's all!" timeoffset="0.000000"/>
+            <textevent message="No matter how much you're hurting, try to keep that aero position..." timeoffset="10.000000"/>
+            <textevent message="along with your cadence &amp; Target Power" timeoffset="20.000000"/>
+        </Cooldown>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300">
+            <textevent message="Very well done! That's it for this one" timeoffset="0.000000"/>
+            <textevent message="Time to start thinking post-workout nutrition (or eating it)..." timeoffset="10.000000"/>
+            <textevent message="and we'll see you next time!" timeoffset="20.000000"/>
+        </Cooldown>
+    </workout>
+</workout_file>

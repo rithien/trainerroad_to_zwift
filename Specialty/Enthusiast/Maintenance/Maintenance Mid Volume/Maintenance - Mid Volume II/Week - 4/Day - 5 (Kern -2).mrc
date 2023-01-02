@@ -1,0 +1,115 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Kern -2 is 3x12-minute sets of intervals where you'll start with 1.5 minutes at 115% FTP followed closely by 1.75 minutes at 105% FTP and finally 2 minutes at 95% FTP before stepping back out the same way you stepped in. Recoveries between intervals are only 45 seconds and the recoveries between sets of intervals are 6 minutes long.
+FILE NAME = Kern -2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	65
+4	65
+4	80
+4.75	80
+4.75	40
+5.25	40
+5.25	95
+6	95
+6	40
+6.5	40
+6.5	115
+7.25	115
+7.25	40
+10.25	40
+10.25	115
+11.75	115
+11.75	40
+12.5	40
+12.5	105
+14.25	105
+14.25	40
+15	40
+15	95
+17	95
+17	40
+17.75	40
+17.75	105
+19.5	105
+19.5	40
+20.25	40
+20.25	115
+21.75	115
+21.75	40
+27.75	40
+27.75	115
+29.25	115
+29.25	40
+30	40
+30	105
+31.75	105
+31.75	40
+32.5	40
+32.5	95
+34.5	95
+34.5	40
+35.25	40
+35.25	105
+37	105
+37	40
+37.75	40
+37.75	115
+39.25	115
+39.25	40
+45.25	40
+45.25	115
+46.75	115
+46.75	40
+47.5	40
+47.5	105
+49.25	105
+49.25	40
+50	40
+50	95
+52	95
+52	40
+52.75	40
+52.75	105
+54.5	105
+54.5	40
+55.25	40
+55.25	115
+56.75	115
+56.75	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+120	240	Endurance 1
+240	285	Tempo 1
+315	360	Sweet Spot 1
+390	435	VO2 Max 1
+615	705	VO2 Max 2
+750	855	Threshold 1
+900	1020	Sweet Spot 2
+1065	1170	Threshold 2
+1215	1305	VO2 Max 3
+1665	1755	VO2 Max 4
+1800	1905	Threshold 3
+1950	2070	Sweet Spot 3
+2115	2220	Threshold 4
+2265	2355	VO2 Max 5
+2715	2805	VO2 Max 6
+2850	2955	Threshold 5
+3000	3120	Sweet Spot 4
+3165	3270	Threshold 6
+3315	3405	VO2 Max 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

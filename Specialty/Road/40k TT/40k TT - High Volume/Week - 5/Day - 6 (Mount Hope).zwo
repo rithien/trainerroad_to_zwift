@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Mount Hope is 5x10-minute intervals at 95-99% FTP with 5-minute recoveries between each.</description>
+    <name>Mount Hope</name>
+    <workout>
+        <SteadyState Duration="210.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="210.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <SteadyState Duration="180.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="270.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.970"/>
+        <SteadyState Duration="300.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="300.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.990"/>
+        <SteadyState Duration="300.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="300.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.970"/>
+        <SteadyState Duration="300.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="300.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Hunter -4 is made up of 3x20-minute intervals at 88% FTP sprinkled with short, 60-second recovery valleys throughout each interval. Recoveries between intervals last 10 minutes.</description>
+    <name>Hunter -4</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.580" PowerHigh="0.580"/>
+        <SteadyState Duration="240.0" PowerLow="0.670" PowerHigh="0.670"/>
+        <SteadyState Duration="240.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <Cooldown Duration="360.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

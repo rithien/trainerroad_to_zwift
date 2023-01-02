@@ -1,0 +1,53 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Scarr&nbsp;totals just under&nbsp;45 minutes of Tempo intervals spent between 84-89% FTP with intermittent, 4-minute recoveries at 55% FTP. 
+FILE NAME = Scarr
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+8	50
+8	60
+14	60
+14	70
+20	70
+20	88
+31	88
+31	55
+35	55
+35	89
+46	89
+46	55
+50	55
+50	84
+61	84
+61	55
+65	55
+65	89
+76	89
+76	50
+82	50
+82	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+480	840	Endurance 1
+840	1200	Endurance 2
+1200	1860	Sweet Spot 1
+1860	2100	Endurance 3
+2100	2760	Sweet Spot 2
+2760	3000	Endurance 4
+3000	3660	Tempo 1
+3660	3900	Endurance 5
+3900	4560	Sweet Spot 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

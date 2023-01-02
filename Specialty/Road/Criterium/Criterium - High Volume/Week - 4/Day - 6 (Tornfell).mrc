@@ -1,0 +1,83 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tornfell is 3x12.5-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settle in at 91-89% FTP for 2x5.5-minute stretches separated by a short, 1-minute recovery.Each set is separated by 15 minutes of active recovery.
+FILE NAME = Tornfell
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	90
+17.5	90
+17.5	150
+17.66	150
+17.66	40
+31.66	40
+31.66	150
+32.16	150
+32.16	80
+32.66	91
+32.66	91
+38.16	91
+38.16	40
+39.66	40
+39.66	89
+45.16	89
+45.16	40
+60.16	40
+60.16	150
+60.66	150
+60.66	80
+61.16	91
+61.16	91
+66.66	91
+66.66	40
+68.16	40
+68.16	89
+73.66	89
+73.66	40
+88.66	40
+88.66	150
+89.16	150
+89.16	80
+89.66	91
+89.66	91
+95.16	91
+95.16	40
+96.66	40
+96.66	89
+102.16	89
+102.16	40
+115.16	40
+115.16	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+360	720	Endurance 1
+720	1050	Sweet Spot 1
+1050	1060	Sprint 1
+1900	1930	Sprint 2
+1930	1960	Sweet Spot 2
+1960	2290	Sweet Spot 3
+2380	2710	Sweet Spot 4
+3610	3640	Sprint 3
+3640	3670	Sweet Spot 5
+3670	4000	Sweet Spot 6
+4090	4420	Sweet Spot 7
+5320	5350	Sprint 4
+5350	5380	Sweet Spot 8
+5380	5710	Sweet Spot 9
+5800	6130	Sweet Spot 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

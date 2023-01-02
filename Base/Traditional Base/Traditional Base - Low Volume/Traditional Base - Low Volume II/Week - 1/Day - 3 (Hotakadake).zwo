@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Hotakadake&amp;nbsp;is 75 minutes of near-continuous riding where you'll spend 45 minutes between 83-86% FTP, but 3x4 minute recoveries break up the otherwise continuous effort.</description>
+    <name>Hotakadake</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="180.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="180.0" PowerLow="0.870" PowerHigh="0.870"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="0.860" PowerHigh="0.860"/>
+        <SteadyState Duration="300.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.860" PowerHigh="0.860"/>
+        <SteadyState Duration="180.0" PowerLow="0.840" PowerHigh="0.840"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.860" PowerHigh="0.860"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Chester consists of over 2 hours of aerobic Endurance riding spent between 40-50% FTP and includes 3x15-second sprints. It also includes some optional form sprints, endurance-spinning intervals, and some Isolated Leg Training (ILT) drills.</description>
+    <name>Chester</name>
+    <workout>
+        <Warmup Duration="600.0" PowerLow="0.400" PowerHigh="0.500"/>
+        <SteadyState Duration="1500.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="15.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="15.0" PowerLow="1.750" PowerHigh="1.750"/>
+        <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.500"/>
+        <SteadyState Duration="3615.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Cooldown Duration="600.0" PowerLow="0.500" PowerHigh="0.400"/>
+        <SteadyState Duration="3600.0" PowerLow="0.400" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

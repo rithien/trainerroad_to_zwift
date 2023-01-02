@@ -1,0 +1,33 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Bonaparte&nbsp;consists of nearly 90 minutes of aerobic Endurance riding spent between 50-58% FTP.
+FILE NAME = Bonaparte
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	52
+13	52
+13	54
+23	54
+23	58
+65	58
+65	58
+75	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+300	780	Active Recovery 1
+780	1380	Active Recovery 2
+1380	3900	Endurance 1
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

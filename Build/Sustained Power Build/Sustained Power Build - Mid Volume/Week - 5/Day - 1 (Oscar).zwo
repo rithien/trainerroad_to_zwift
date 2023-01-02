@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Oscar is 5x5-minute repeats at 106% FTP, each with a short, 45-second intermediate break.Each segmented interval is separated by 5-minute recovery valleys.</description>
+    <name>Oscar</name>
+    <workout>
+        <SteadyState Duration="395.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <SteadyState Duration="210.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <Cooldown Duration="360.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

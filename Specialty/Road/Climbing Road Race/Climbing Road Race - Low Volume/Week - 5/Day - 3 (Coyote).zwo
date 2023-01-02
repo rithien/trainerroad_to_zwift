@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Following a 10-minute warmup, Coyote consists of 3x5-minute VO2max intervals at 111% FTP each followed by 5 minutes of recovery. The workout concludes with 12 minutes of Threshold work at 98% FTP with cadences changes every 2 minutes. The entire workout includes cadence recommendations for each interval or interval segment.</description>
+    <name>Coyote</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="120.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="120.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="120.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="120.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="120.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="480.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

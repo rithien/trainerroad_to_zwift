@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Big Craggy is one more offering in the &quot;3x20's In Diguise&quot; category. This time, the sets are broken up with more 1-minute recoveries as follows: 4 minutes at 95%, 2x3 minutes at 98 &amp;amp; 100%, followed by 4x2.5 minutes at 102, 105, 108 &amp;amp; 110% FTP.Recoveries between each set of intervals stretch to 5 minutes.</description>
+    <name>Big Craggy</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.630" PowerHigh="0.630"/>
+        <SteadyState Duration="180.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="180.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="150.0" PowerLow="0.450" PowerHigh="0.450"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.080" PowerHigh="1.080"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="300.0" PowerLow="0.450" PowerHigh="0.450"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.080" PowerHigh="1.080"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="300.0" PowerLow="0.450" PowerHigh="0.450"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.080" PowerHigh="1.080"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="150.0" PowerLow="0.450" PowerHigh="0.450"/>
+    </workout>
+</workout_file>

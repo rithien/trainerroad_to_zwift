@@ -1,0 +1,69 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Croz&nbsp;is 2.5 hours of Tempo intervals spent between 70-76% FTP with intermittent, 6 to 7-minute recoveries at 55% FTP. 
+FILE NAME = Croz
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	57
+7	57
+7	64
+10	64
+10	70
+19	70
+19	55
+25	55
+25	70
+37	70
+37	55
+44	55
+44	76
+55	76
+55	55
+62	55
+62	76
+77	76
+77	55
+84	55
+84	75
+99	75
+99	55
+106	55
+106	70
+121	70
+121	55
+128	55
+128	76
+143	76
+143	76
+150	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	9000	Workout
+240	420	Endurance 1
+420	600	Endurance 2
+600	1140	Endurance 3
+1140	1500	Endurance 4
+1500	2220	Endurance 5
+2220	2640	Endurance 6
+2640	3300	Tempo 1
+3300	3720	Endurance 7
+3720	4620	Tempo 2
+4620	5040	Endurance 8
+5040	5940	Endurance 9
+5940	6360	Endurance 10
+6360	7260	Endurance 11
+7260	7680	Endurance 12
+7680	8580	Tempo 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

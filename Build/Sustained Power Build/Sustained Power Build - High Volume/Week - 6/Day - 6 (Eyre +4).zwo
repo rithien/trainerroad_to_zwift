@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Eyre +4 is 2 sets of nearly 48 continuous minutes of Tempo work each broken into 5x9.5-minute segments ranging from 72-82% FTP. 10 minutes of recovery fall between the sets.</description>
+    <name>Eyre +4</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="570.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="570.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="570.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="570.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <SteadyState Duration="570.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="570.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="570.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="570.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="570.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <SteadyState Duration="570.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <Cooldown Duration="300.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

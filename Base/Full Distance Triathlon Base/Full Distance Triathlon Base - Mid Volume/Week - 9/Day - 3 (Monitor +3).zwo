@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Monitor +3 is 3 sets of 3x6-minute intervals of rolling Sweet Spot (88-94% FTP) riding to address aerobic fitness and muscular endurance totaling over 50 minute's worth of time at intensity.1-minute recoveries separate the intervals and 4 minutes of recovery fall between sets of intervals.</description>
+    <name>Monitor +3</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="60.0" PowerLow="0.880" PowerHigh="0.900"/>
+        <Cooldown Duration="60.0" PowerLow="0.900" PowerHigh="0.880"/>
+        <Warmup Duration="60.0" PowerLow="0.880" PowerHigh="0.900"/>
+        <Cooldown Duration="60.0" PowerLow="0.900" PowerHigh="0.880"/>
+        <Warmup Duration="60.0" PowerLow="0.880" PowerHigh="0.900"/>
+        <Cooldown Duration="60.0" PowerLow="0.900" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="120.0" PowerLow="0.920" PowerHigh="0.940"/>
+        <Cooldown Duration="240.0" PowerLow="0.940" PowerHigh="0.900"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Cooldown Duration="120.0" PowerLow="0.940" PowerHigh="0.920"/>
+        <Warmup Duration="240.0" PowerLow="0.920" PowerHigh="0.940"/>
+        <SteadyState Duration="240.0" PowerLow="0.410" PowerHigh="0.410"/>
+        <Warmup Duration="120.0" PowerLow="0.920" PowerHigh="0.940"/>
+        <SteadyState Duration="120.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <Cooldown Duration="120.0" PowerLow="0.940" PowerHigh="0.920"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="60.0" PowerLow="0.880" PowerHigh="0.900"/>
+        <Cooldown Duration="60.0" PowerLow="0.900" PowerHigh="0.880"/>
+        <Warmup Duration="60.0" PowerLow="0.880" PowerHigh="0.900"/>
+        <SteadyState Duration="60.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="60.0" PowerLow="0.900" PowerHigh="0.880"/>
+        <Warmup Duration="60.0" PowerLow="0.880" PowerHigh="0.900"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="180.0" PowerLow="0.900" PowerHigh="0.920"/>
+        <Cooldown Duration="180.0" PowerLow="0.920" PowerHigh="0.900"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Cooldown Duration="120.0" PowerLow="0.930" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Warmup Duration="120.0" PowerLow="0.900" PowerHigh="0.930"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="60.0" PowerLow="0.900" PowerHigh="0.920"/>
+        <Cooldown Duration="60.0" PowerLow="0.920" PowerHigh="0.900"/>
+        <Warmup Duration="60.0" PowerLow="0.900" PowerHigh="0.920"/>
+        <Cooldown Duration="60.0" PowerLow="0.920" PowerHigh="0.900"/>
+        <Warmup Duration="60.0" PowerLow="0.900" PowerHigh="0.920"/>
+        <Cooldown Duration="60.0" PowerLow="0.920" PowerHigh="0.900"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="240.0" PowerLow="0.900" PowerHigh="0.920"/>
+        <Cooldown Duration="120.0" PowerLow="0.920" PowerHigh="0.900"/>
+        <Cooldown Duration="360.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

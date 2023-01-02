@@ -1,0 +1,62 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Eyre +1 is 2 sets of 40 continuous minutes of Tempo work each broken into 5x8-minute segments ranging from 72-82% FTP. 15 minutes of recovery fall between the sets.
+FILE NAME = Eyre +1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	55
+10	55
+10	60
+15	60
+15	72
+23	72
+23	77
+31	77
+31	82
+39	82
+39	73
+47	73
+47	76
+55	76
+55	40
+70	40
+70	72
+78	72
+78	77
+86	77
+86	82
+94	82
+94	73
+102	73
+102	76
+110	76
+110	50
+120	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+300	600	Endurance 1
+600	900	Endurance 2
+900	1380	Endurance 3
+1380	1860	Tempo 1
+1860	2340	Tempo 2
+2340	2820	Endurance 4
+2820	3300	Tempo 3
+4200	4680	Endurance 5
+4680	5160	Tempo 4
+5160	5640	Tempo 5
+5640	6120	Endurance 6
+6120	6600	Tempo 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

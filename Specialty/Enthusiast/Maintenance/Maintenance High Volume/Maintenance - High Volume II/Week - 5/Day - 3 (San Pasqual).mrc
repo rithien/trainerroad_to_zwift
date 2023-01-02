@@ -1,0 +1,107 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 3 sets of ascending-intensity/descending-duration VO2max repeats starting with 3x3-minutes at 105-108% FTP with 3-minute recoveries. Next is 3x2-minute efforts at 114-118% FTP with 2-minute recoveries.Finally, 4x1-minute repeats at 115-128% FTP with 1-minute recoveries close out the workout.
+FILE NAME = San Pasqual
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2.5	50
+2.5	65
+5	65
+5	90
+7	90
+7	40
+10	40
+10	103
+10.5	103
+10.5	40
+11	40
+11	105
+11.5	105
+11.5	40
+12	40
+12	108
+12.5	108
+12.5	40
+13	40
+13	112
+13.5	112
+13.5	40
+14	40
+14	114
+14.5	114
+14.5	40
+16	40
+16	105
+19	105
+19	40
+22	40
+22	107
+25	107
+25	40
+28	40
+28	108
+31	108
+31	40
+35.5	40
+35.5	114
+37.5	114
+37.5	40
+39.5	40
+39.5	116
+41.5	116
+41.5	40
+43.5	40
+43.5	118
+45.5	118
+45.5	40
+50	40
+50	115
+51	115
+51	40
+52	40
+52	120
+53	120
+53	40
+54	40
+54	124
+55	124
+55	40
+56	40
+56	128
+57	128
+57	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+150	300	Endurance 1
+300	420	Sweet Spot 1
+600	630	Threshold 1
+660	690	Threshold 2
+720	750	VO2 Max 1
+780	810	VO2 Max 2
+840	870	VO2 Max 3
+960	1140	Threshold 3
+1320	1500	VO2 Max 4
+1680	1860	VO2 Max 5
+2130	2250	VO2 Max 6
+2370	2490	VO2 Max 7
+2610	2730	VO2 Max 8
+3000	3060	VO2 Max 9
+3120	3180	VO2 Max 10
+3240	3300	Anaerobic Capacity 1
+3360	3420	Anaerobic Capacity 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+                            

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>San Joaquin -4 is roughly 3x5-minute sets of 15 seconds at 200% FTP with 45 seconds of active recovery between each interval. 7 minutes of recovery fall between each set of intervals.</description>
+    <name>San Joaquin -4</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="15.0" PowerLow="1.800" PowerHigh="1.800"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="1.900" PowerHigh="1.900"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="420.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="420.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.000" PowerHigh="2.000"/>
+        <Cooldown Duration="300.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,96 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Polar Bear -3 is 120 minutes of continuous riding where you'll spend 105 minutes between 70-75% FTP.
+FILE NAME = Polar Bear -3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	57
+8	57
+8	65
+12	65
+12	72
+16	72
+16	74
+21	74
+21	73
+25	73
+25	74
+28	74
+28	70
+31	70
+31	73
+38	73
+38	71
+43	71
+43	73
+51	73
+51	72
+56	72
+56	70
+59	70
+59	74
+66	74
+66	73
+71	73
+71	74
+81	74
+81	75
+86	75
+86	73
+91	73
+91	74
+97	74
+97	71
+101	71
+101	70
+103	70
+103	73
+107	73
+107	72
+111	72
+111	73
+115	73
+115	71
+117	71
+117	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Endurance 3
+960	1260	Endurance 4
+1260	1500	Endurance 5
+1500	1680	Endurance 6
+1680	1860	Endurance 7
+1860	2280	Endurance 8
+2280	2580	Endurance 9
+2580	3060	Endurance 10
+3060	3360	Endurance 11
+3360	3540	Endurance 12
+3540	3960	Endurance 13
+3960	4260	Endurance 14
+4260	4860	Endurance 15
+4860	5160	Endurance 16
+5160	5460	Endurance 17
+5460	5820	Endurance 18
+5820	6060	Endurance 19
+6060	6180	Endurance 20
+6180	6420	Endurance 21
+6420	6660	Endurance 22
+6660	6900	Endurance 23
+6900	7020	Endurance 24
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

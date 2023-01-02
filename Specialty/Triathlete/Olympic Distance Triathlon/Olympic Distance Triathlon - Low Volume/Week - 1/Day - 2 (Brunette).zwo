@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Brunette is 4 intervals of either 3:45 or 4-minutes at 106% FTP. Each interval is separated by an 11-minute&amp;nbsp;recovery valley.</description>
+    <name>Brunette</name>
+    <workout>
+        <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="660.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="225.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="660.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="660.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="225.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

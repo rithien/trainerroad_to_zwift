@@ -1,0 +1,75 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Calzada is nine 2-minute intervals at 124% FTP. The recoveries are 4 minutes long.
+FILE NAME = Calzada
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	124
+23	124
+23	50
+27	50
+27	124
+29	124
+29	50
+33	50
+33	124
+35	124
+35	50
+39	50
+39	124
+41	124
+41	50
+45	50
+45	124
+47	124
+47	50
+51	50
+51	124
+53	124
+53	50
+57	50
+57	124
+59	124
+59	50
+63	50
+63	124
+65	124
+65	50
+69	50
+69	124
+71	124
+71	50
+90	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	1380	Anaerobic Capacity 1
+1620	1740	Anaerobic Capacity 2
+1980	2100	Anaerobic Capacity 3
+2340	2460	Anaerobic Capacity 4
+2700	2820	Anaerobic Capacity 5
+3060	3180	Anaerobic Capacity 6
+3420	3540	Anaerobic Capacity 7
+3780	3900	Anaerobic Capacity 8
+4140	4260	Anaerobic Capacity 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

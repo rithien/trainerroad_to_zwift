@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Moosilaukee is&amp;nbsp;60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP with the addition of 3x2-minute Force Intervals with 2 minute's rest between them and 3x10-second Strength Sprints followed by 6 minutes of Tempo work.</description>
+    <name>Moosilaukee</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.800"/>
+        <SteadyState Duration="240.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="1.000">
+            <textevent message="Use this 30 seconds to lower your cadence" timeoffset="0.000000"/>
+            <textevent message="The goal is 50-60rpm but this depends on your knee health" timeoffset="10.000000"/>
+            <textevent message="It also depends on how well you can hold Target Power" timeoffset="20.000000"/>
+        </Warmup>
+        <SteadyState Duration="120.0" PowerLow="1.000" PowerHigh="1.000">
+            <textevent message="If you can't steady your watts, spin slightly quicker" timeoffset="0.000000"/>
+            <textevent message="These drills are all about muscle control &amp; joint integrity" timeoffset="10.000000"/>
+            <textevent message="So watch your knees and try to eliminate ANY wobble" timeoffset="20.000000"/>
+            <textevent message="Slow spins are great for seeing how well you pedal" timeoffset="30.000000"/>
+            <textevent message="And they're excellent for conditioning your joint tissues" timeoffset="40.000000"/>
+        </SteadyState>
+        <SteadyState Duration="120.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="Bring your spin back up to 85-95rpm &amp; recover" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="1.050">
+            <textevent message="Just like last time, use this 30 seconds to slow your spin" timeoffset="0.000000"/>
+            <textevent message="50-60rpm is the goal, but it might take time to get there" timeoffset="10.000000"/>
+            <textevent message="Just practice going steadily slower each workout" timeoffset="20.000000"/>
+        </Warmup>
+        <SteadyState Duration="120.0" PowerLow="1.050" PowerHigh="1.050">
+            <textevent message="Stay seated &amp; grind it out like you're on a STEEP climb" timeoffset="0.000000"/>
+        </SteadyState>
+        <SteadyState Duration="120.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="Bring your spin back up to 85-95rpm and relax for a minute" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="1.100">
+            <textevent message="Once more..." timeoffset="0.000000"/>
+            <textevent message="Shooting for 50-60rpm eventually" timeoffset="10.000000"/>
+        </Warmup>
+        <SteadyState Duration="120.0" PowerLow="1.100" PowerHigh="1.100">
+            <textevent message="Highest power yet, slowest spin you can control" timeoffset="0.000000"/>
+        </SteadyState>
+        <SteadyState Duration="120.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="Excellent. Spin back up to 85-95rpm..." timeoffset="0.000000"/>
+            <textevent message="Higher if you can do it without burning yourself out" timeoffset="10.000000"/>
+        </SteadyState>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <Warmup Duration="30.0" PowerLow="0.850" PowerHigh="0.900"/>
+        <SteadyState Duration="240.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="30.0" PowerLow="0.900" PowerHigh="0.800"/>
+        <SteadyState Duration="120.0" PowerLow="0.800" PowerHigh="0.800">
+            <textevent message="In a couple minutes, you'll perform your first Strength Sprint" timeoffset="0.000000"/>
+            <textevent message="These are best done from a standing start" timeoffset="10.000000"/>
+            <textevent message="But this assumes your knees can handle the stress" timeoffset="20.000000"/>
+            <textevent message="If not, just use a flying start at 50-60rpm" timeoffset="30.000000"/>
+            <textevent message="You'll try to turn over the biggest gear you can control" timeoffset="40.000000"/>
+            <textevent message="So big that you can't reach 90rpm before the sprint ends" timeoffset="50.000000"/>
+            <textevent message="Your hands belong in the drops and your body will be low" timeoffset="60.000000"/>
+            <textevent message="The idea is to generate a LOT of force &amp; use a LOT of muscle" timeoffset="70.000000"/>
+            <textevent message="So you'll pull on the bars &amp; stomp on the pedals..." timeoffset="80.000000"/>
+            <textevent message="But be kind to your bike!" timeoffset="90.000000"/>
+            <textevent message="Slow things down..." timeoffset="100.000000"/>
+            <textevent message="Even slower or come to a full stop..." timeoffset="110.000000"/>
+        </SteadyState>
+        <SteadyState Duration="10.0" PowerLow="1.800" PowerHigh="1.800">
+            <textevent message="Stand &amp; Hammer!" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="50.0" PowerLow="0.200" PowerHigh="0.800">
+            <textevent message="One down! Did you reach 90rpm?" timeoffset="5.000000"/>
+            <textevent message="If you did, try an even bigger gear next time" timeoffset="15.000000"/>
+            <textevent message="Assuming you experienced ZERO knee discomfort" timeoffset="25.000000"/>
+        </Warmup>
+        <SteadyState Duration="120.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.850"/>
+        <SteadyState Duration="120.0" PowerLow="0.850" PowerHigh="0.850">
+            <textevent message="Another sprint in 2 minutes" timeoffset="0.000000"/>
+            <textevent message="Plan your gearing &amp; if you're using a CompuTrainer or KICKR..." timeoffset="10.000000"/>
+            <textevent message="Consider switching over to Slope Mode for some/all of these" timeoffset="20.000000"/>
+            <textevent message="Especially if you can sprint harder than 180% FTP" timeoffset="30.000000"/>
+            <textevent message="Get ready..." timeoffset="110.000000"/>
+        </SteadyState>
+        <SteadyState Duration="10.0" PowerLow="1.800" PowerHigh="1.800">
+            <textevent message="Stand &amp; Stomp!" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="50.0" PowerLow="0.200" PowerHigh="0.850">
+            <textevent message="Two down! Did you get on top of it?" timeoffset="5.000000"/>
+            <textevent message="If so, bigger gear next time!" timeoffset="15.000000"/>
+        </Warmup>
+        <SteadyState Duration="120.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <Warmup Duration="30.0" PowerLow="0.850" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900">
+            <textevent message="2 minutes out from another Strength Sprint" timeoffset="0.000000"/>
+            <textevent message="Try to utilize the form you learned during your Form Sprints" timeoffset="10.000000"/>
+            <textevent message="Only in slow motion, but just as pretty" timeoffset="20.000000"/>
+            <textevent message="Start to slow things down" timeoffset="100.000000"/>
+            <textevent message="In 10... get ready!" timeoffset="110.000000"/>
+        </SteadyState>
+        <SteadyState Duration="10.0" PowerLow="1.800" PowerHigh="1.800">
+            <textevent message="Stand &amp; drive your feet down!" timeoffset="0.000000"/>
+        </SteadyState>
+        <Warmup Duration="50.0" PowerLow="0.200" PowerHigh="0.900">
+            <textevent message="That's 3. Take your time working back up to speed" timeoffset="5.000000"/>
+        </Warmup>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="30.0" PowerLow="0.900" PowerHigh="0.800"/>
+        <SteadyState Duration="240.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <Cooldown Duration="30.0" PowerLow="0.800" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

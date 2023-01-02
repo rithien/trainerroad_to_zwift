@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Kuhe&amp;nbsp;is made up of 4x8-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settles in at 90% FTP for the remaining 7 minutes.Each interval is separated by 9&amp;nbsp;minutes of recovery.</description>
+    <name>Kuhe</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="210.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="540.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.900"/>
+        <SteadyState Duration="420.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="540.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.890"/>
+        <SteadyState Duration="420.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="540.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.890"/>
+        <SteadyState Duration="420.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="540.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.900"/>
+        <SteadyState Duration="420.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="285.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Cooldown Duration="210.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

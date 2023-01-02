@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Round Bald +3 is 4x20-minute intervals at 85% FTP with 6-minute recoveries between intervals. 
+FILE NAME = Round Bald +3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	70
+8	70
+8	85
+11	85
+11	40
+16	40
+16	85
+36	85
+36	40
+42	40
+42	85
+62	85
+62	40
+68	40
+68	85
+88	85
+88	40
+94	40
+94	85
+114	85
+114	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+240	480	Endurance 1
+480	660	Sweet Spot 1
+960	2160	Sweet Spot 2
+2520	3720	Sweet Spot 3
+4080	5280	Sweet Spot 4
+5640	6840	Sweet Spot 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

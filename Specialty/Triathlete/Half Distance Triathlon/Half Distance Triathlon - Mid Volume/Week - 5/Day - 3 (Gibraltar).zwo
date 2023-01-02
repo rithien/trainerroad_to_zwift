@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Gibraltar is 105 minutes of continuous riding where you'll spend 90 minutes between 80-85% FTP.</description>
+    <name>Gibraltar</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.620" PowerHigh="0.620"/>
+        <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="240.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="180.0" PowerLow="0.840" PowerHigh="0.840"/>
+        <SteadyState Duration="240.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="300.0" PowerLow="0.840" PowerHigh="0.840"/>
+        <SteadyState Duration="180.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="420.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="300.0" PowerLow="0.810" PowerHigh="0.810"/>
+        <SteadyState Duration="480.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="180.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="480.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="180.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="360.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="240.0" PowerLow="0.810" PowerHigh="0.810"/>
+        <SteadyState Duration="180.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="240.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="240.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <SteadyState Duration="240.0" PowerLow="0.810" PowerHigh="0.810"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Woolwell consists of 6x 4 1/2-5-minute repeats at 106% FTP, separated by 8.5-minute&amp;nbsp;recovery valleys.</description>
+    <name>Woolwell</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="270.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="510.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="510.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="510.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="510.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="510.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="1500.0" PowerLow="0.400" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

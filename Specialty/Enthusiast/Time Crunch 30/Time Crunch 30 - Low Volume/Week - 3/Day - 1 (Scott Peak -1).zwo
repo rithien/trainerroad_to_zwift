@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Scott Peak -1 is 30 minutes of easy, aerobic riding with 4x45-second race openers between 135-150% FTP somewhere near the middle of the workout.&amp;nbsp;Recoveries between openers are 90 seconds long.</description>
+    <name>Scott Peak -1</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="180.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="180.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="45.0" PowerLow="1.350" PowerHigh="1.350"/>
+        <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="45.0" PowerLow="1.400" PowerHigh="1.400"/>
+        <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="45.0" PowerLow="1.450" PowerHigh="1.450"/>
+        <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="45.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <Cooldown Duration="330.0" PowerLow="0.650" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

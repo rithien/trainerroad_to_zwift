@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Rowdow -2 still consists of 8x30-second sprints, but the second 15 seconds of each sprint ramps sharply downward in order to prevent total muscular failure before the end of each effort. They're each still separated by 4 minutes of active recovery. Each sprint is intended to be a maximal effort, so adjust the Intensity appropriately in order to barely finish each 30-second effort.</description>
+    <name>Rowdow -2</name>
+    <workout>
+        <Warmup Duration="360.0" PowerLow="0.400" PowerHigh="0.500"/>
+        <SteadyState Duration="15.0" PowerLow="2.250" PowerHigh="2.250"/>
+        <Cooldown Duration="15.0" PowerLow="2.250" PowerHigh="1.750"/>
+        <Warmup Duration="240.0" PowerLow="0.300" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.250" PowerHigh="2.250"/>
+        <Cooldown Duration="15.0" PowerLow="2.250" PowerHigh="1.750"/>
+        <Warmup Duration="240.0" PowerLow="0.300" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.250" PowerHigh="2.250"/>
+        <Cooldown Duration="15.0" PowerLow="2.250" PowerHigh="1.750"/>
+        <Warmup Duration="240.0" PowerLow="0.300" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.250" PowerHigh="2.250"/>
+        <Cooldown Duration="15.0" PowerLow="2.250" PowerHigh="1.750"/>
+        <Warmup Duration="240.0" PowerLow="0.300" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.250" PowerHigh="2.250"/>
+        <Cooldown Duration="15.0" PowerLow="2.250" PowerHigh="1.750"/>
+        <Warmup Duration="240.0" PowerLow="0.300" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.250" PowerHigh="2.250"/>
+        <Cooldown Duration="15.0" PowerLow="2.250" PowerHigh="1.750"/>
+        <Warmup Duration="240.0" PowerLow="0.300" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.250" PowerHigh="2.250"/>
+        <Cooldown Duration="15.0" PowerLow="2.250" PowerHigh="1.750"/>
+        <Warmup Duration="240.0" PowerLow="0.300" PowerHigh="0.400"/>
+        <SteadyState Duration="15.0" PowerLow="2.250" PowerHigh="2.250"/>
+        <Cooldown Duration="15.0" PowerLow="2.250" PowerHigh="1.750"/>
+        <Cooldown Duration="420.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

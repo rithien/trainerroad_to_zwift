@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Kitumbeine is&amp;nbsp;45 minutes in duration at 50% FTP.Exhausted rides, sometimes referred to as &quot;accumulation rides&quot; or &quot;depleted rides&quot; are performed within 4-24 hours after your last key workout, race/event, or any other similar, stressful ride.These rides should leave you no more fatigued than you were before you hopped on your bike and there are no strict rules governing effort level as long as these feel recuperative and do not negatively impact your next key workout.</description>
+    <name>Kitumbeine</name>
+    <workout>
+        <SteadyState Duration="1800.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="20.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="20.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="560.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

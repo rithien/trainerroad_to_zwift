@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Scarr&amp;nbsp;totals just under&amp;nbsp;45 minutes of Tempo intervals spent between 84-89% FTP with intermittent, 4-minute recoveries at 55% FTP.</description>
+    <name>Scarr</name>
+    <workout>
+        <SteadyState Duration="480.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="360.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="660.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="240.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="240.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.840" PowerHigh="0.840"/>
+        <SteadyState Duration="240.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Cooldown Duration="480.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

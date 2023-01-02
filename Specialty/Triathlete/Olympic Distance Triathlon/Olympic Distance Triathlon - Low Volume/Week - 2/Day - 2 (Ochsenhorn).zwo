@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Ochsenhorn&amp;nbsp;is 4x4.5-minute intervals at 106% FTP. Each full interval is separated by a 9 minute and 40 second recovery valley.&amp;nbsp;</description>
+    <name>Ochsenhorn</name>
+    <workout>
+        <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="330.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="270.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="580.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="270.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="580.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="270.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="580.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="270.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

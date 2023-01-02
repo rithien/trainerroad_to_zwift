@@ -1,0 +1,76 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Leavitt +4 is 2 sets of 40 continuous minutes of Tempo/Sweet Spot work each broken into 4x10-minute segments ranging from 75-85% FTP.
+FILE NAME = Leavitt +4
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	65
+10	65
+10	65
+10.5	75
+10.5	75
+20	75
+20	75
+20.5	80
+20.5	80
+30	80
+30	80
+30.5	85
+30.5	85
+40	85
+40	85
+40.5	75
+40.5	75
+50	75
+50	40
+60	40
+60	40
+60.5	75
+60.5	75
+70	75
+70	75
+70.5	80
+70.5	80
+80	80
+80	80
+80.5	85
+80.5	85
+90	85
+90	85
+90.5	75
+90.5	75
+100	75
+100	50
+105	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	6300	Workout
+300	600	Endurance 1
+600	630	Endurance 2
+630	1200	Endurance 3
+1200	1230	Tempo 1
+1230	1800	Tempo 2
+1800	1830	Tempo 3
+1830	2400	Sweet Spot 1
+2400	2430	Tempo 4
+2430	3000	Endurance 4
+3630	4200	Endurance 5
+4200	4230	Tempo 5
+4230	4800	Tempo 6
+4800	4830	Tempo 7
+4830	5400	Sweet Spot 2
+5400	5430	Tempo 8
+5430	6000	Endurance 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

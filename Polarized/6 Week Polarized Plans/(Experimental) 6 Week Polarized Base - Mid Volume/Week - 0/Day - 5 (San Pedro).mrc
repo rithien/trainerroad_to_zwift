@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = San Pedro is four 8-minute intervals at 100% FTP. The recoveries between intervals are 5 minutes long.
+FILE NAME = San Pedro
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	100
+29	100
+29	50
+34	50
+34	100
+42	100
+42	50
+47	50
+47	100
+55	100
+55	50
+60	50
+60	100
+68	100
+68	50
+80	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4800	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	1740	Threshold 2
+2040	2520	Threshold 3
+2820	3300	Threshold 4
+3600	4080	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

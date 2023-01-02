@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Blagdon&amp;nbsp;is 7x8-10 minute Sweet Spot intervals of 90% FTP with 6.5-minute recoveries between intervals.</description>
+    <name>Blagdon</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="120.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="390.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="390.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="390.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="390.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="390.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="390.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="480.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="240.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

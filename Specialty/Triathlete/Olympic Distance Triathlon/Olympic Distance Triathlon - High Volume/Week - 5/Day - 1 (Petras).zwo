@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Petras&amp;nbsp;is six 2-minute and three 2-minute and 30 second intervals at 110-111% FTP. The recoveries are 5 minutes long.</description>
+    <name>Petras</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="330.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="540.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

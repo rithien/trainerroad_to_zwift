@@ -1,0 +1,51 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Hayes -4 is 3x12-minute intervals at 85-90% FTP with 3-minute recoveries between intervals.
+FILE NAME = Mount Hayes -4
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	70
+6	70
+6	90
+9	90
+9	40
+14	40
+14	40
+14.5	85
+14.5	85
+26.5	85
+26.5	40
+29	40
+29	40
+29.5	90
+29.5	90
+41.5	90
+41.5	40
+44	40
+44	40
+44.5	88
+44.5	88
+56.5	88
+56.5	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+180	360	Endurance 1
+360	540	Sweet Spot 1
+870	1590	Sweet Spot 2
+1770	2490	Sweet Spot 3
+2670	3390	Sweet Spot 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

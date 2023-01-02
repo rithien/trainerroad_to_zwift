@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Flinders -2 consists of 3 sets of 2x3-minute efforts at 105% FTP. Recoveries between intervals only last a quick 30 seconds and recoveries between sets of intervals are 90 seconds long.</description>
+    <name>Flinders -2</name>
+    <workout>
+        <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="90.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <SteadyState Duration="90.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <Cooldown Duration="60.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

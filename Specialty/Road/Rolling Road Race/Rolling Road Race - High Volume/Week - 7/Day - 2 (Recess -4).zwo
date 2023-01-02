@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>The Recess rides range anywhere from 20-60 minutes in duration at roughly 50% FTP.Exhausted rides, sometimes referred to as &quot;accumulation rides&quot; or &quot;depleted rides&quot; are performed within 4-24 hours after your last key workout, race/event, or any other similar, stressful ride.These rides should leave you no more fatigued than you were before you hopped on your bike and there are no strict rules governing effort level as long as these feel recuperative and do not negatively impact your next key workout.</description>
+    <name>Recess -4</name>
+    <workout>
+        <Warmup Duration="60.0" PowerLow="0.450" PowerHigh="0.500">
+            <textevent message="Time for some easy, easy mileage, but first..." timeoffset="10.000000"/>
+            <textevent message="let's be clear on one thing" timeoffset="20.000000"/>
+            <textevent message="This ride is not about recovery" timeoffset="30.000000"/>
+            <textevent message="Recovery happens off the bike..." timeoffset="40.000000"/>
+            <textevent message="never on the bike" timeoffset="50.000000"/>
+            <textevent message="If you're too tired to throw a leg over the top tube..." timeoffset="60.000000"/>
+            <textevent message="so tired that you're dreading the idea of spinning your legs..." timeoffset="70.000000"/>
+            <textevent message="or if there's any chance you'll feel more tired after this ride..." timeoffset="80.000000"/>
+            <textevent message="abandon now" timeoffset="90.000000"/>
+            <textevent message="You're far better off resting fully today" timeoffset="100.000000"/>
+            <textevent message="But if you feel you can spin for up to 45 minutes..." timeoffset="110.000000"/>
+            <textevent message="without accumulating more fatigue..." timeoffset="120.000000"/>
+            <textevent message="saddle up, partner!" timeoffset="130.000000"/>
+            <textevent message="While the term &quot;recovery ride&quot; is often used..." timeoffset="140.000000"/>
+            <textevent message="to describe rides of this nature..." timeoffset="150.000000"/>
+            <textevent message="their true intent is not recovery, because again..." timeoffset="160.000000"/>
+            <textevent message="recovery happens off the bike" timeoffset="170.000000"/>
+            <textevent message="Instead, there's a host of other reasons to ride..." timeoffset="180.000000"/>
+            <textevent message="with some pre-existing muscle fatigue" timeoffset="190.000000"/>
+            <textevent message="And we'll get to a couple of those reasons shortly..." timeoffset="200.000000"/>
+            <textevent message="but first consider that there's no scientific basis..." timeoffset="210.000000"/>
+            <textevent message="no research or published studies..." timeoffset="220.000000"/>
+            <textevent message="supporting the notion that easy mileage aids muscle recovery" timeoffset="230.000000"/>
+            <textevent message="Lactate levels return to normal within about an hour..." timeoffset="240.000000"/>
+            <textevent message="after even the most stressful workouts" timeoffset="250.000000"/>
+            <textevent message="So lactate removal isn't a scientifically backed benefit..." timeoffset="260.000000"/>
+            <textevent message="of so-called &quot;recovery rides&quot;" timeoffset="270.000000"/>
+            <textevent message="There's also no scientific support for the theory..." timeoffset="280.000000"/>
+            <textevent message="that recovery rides facilitate muscle repair or glycogen replenishment" timeoffset="290.000000"/>
+            <textevent message="Go ahead, do some research of your own" timeoffset="300.000000"/>
+            <textevent message="So why spend time on the bike after a hard workout 4-24 hours prior?" timeoffset="310.000000"/>
+            <textevent message="A host of reasons, but let's stick to the most relevant" timeoffset="320.000000"/>
+            <textevent message="First, riding in a partially glycogen depleted state..." timeoffset="330.000000"/>
+            <textevent message="or when your sugar stores are low..." timeoffset="340.000000"/>
+            <textevent message="can enhance activity in both the brain &amp; the muscles..." timeoffset="350.000000"/>
+            <textevent message="activity that furthers fatigue resistance" timeoffset="360.000000"/>
+            <textevent message="Second, there's a strong correlation between volume &amp; efficiency" timeoffset="370.000000"/>
+            <textevent message="So the more you ride, typically the better you ride..." timeoffset="380.000000"/>
+            <textevent message="because your muscles become better &amp; better..." timeoffset="390.000000"/>
+            <textevent message="at their very specific jobs, whether driving the pedals..." timeoffset="400.000000"/>
+            <textevent message="stabilizing moving joints..." timeoffset="410.000000"/>
+            <textevent message="or countering the contraction of opposing muscles" timeoffset="420.000000"/>
+            <textevent message="Practice may not yield perfection, but it gets you closer &amp; closer to it" timeoffset="430.000000"/>
+            <textevent message="These 2 reasons alone..." timeoffset="440.000000"/>
+            <textevent message="should provide enough motivation to get you on the bike..." timeoffset="450.000000"/>
+            <textevent message="1, 2... 3 extra times a week but there's a big catch" timeoffset="460.000000"/>
+            <textevent message="You can't feel any more fatigued when you get off the bike..." timeoffset="470.000000"/>
+            <textevent message="than when you hopped on it" timeoffset="480.000000"/>
+            <textevent message="Making yourself more tired has two possible outcomes" timeoffset="490.000000"/>
+            <textevent message="1 - You hamper recovery from a previous workout" timeoffset="500.000000"/>
+            <textevent message="2 - You sabotage the quality of your next workout" timeoffset="510.000000"/>
+            <textevent message="As long as you can avoid both of these scenarios though..." timeoffset="520.000000"/>
+            <textevent message="you're free to ride as hard &amp; as long as you like" timeoffset="530.000000"/>
+            <textevent message="For some riders on some days..." timeoffset="540.000000"/>
+            <textevent message="this equates to 20 minutes at 40% FTP" timeoffset="550.000000"/>
+            <textevent message="For other riders, maybe it's a full 60 minutes at 70% FTP" timeoffset="560.000000"/>
+            <textevent message="It's up to you and your body's feedback" timeoffset="570.000000"/>
+            <textevent message="So never hesitate to pull the plug..." timeoffset="580.000000"/>
+            <textevent message="on a &quot;recovery&quot; ride at any time if you're clearly very tired" timeoffset="590.000000"/>
+            <textevent message="You can be 10 minutes in and recognize too-high fatigue..." timeoffset="600.000000"/>
+            <textevent message="call it a day, please" timeoffset="610.000000"/>
+            <textevent message="At the other end of that spectrum..." timeoffset="620.000000"/>
+            <textevent message="there's little reason to ride longer than an hour" timeoffset="630.000000"/>
+            <textevent message="So while there are no hard, recovery ride rules..." timeoffset="640.000000"/>
+            <textevent message="governing intensity or duration during..." timeoffset="650.000000"/>
+            <textevent message="you have to avoid burying yourself further in fatigue" timeoffset="660.000000"/>
+            <textevent message="That about covers the lecture portion of this workout ;-)" timeoffset="670.000000"/>
+            <textevent message="All you're going to see past this point in the ride..." timeoffset="680.000000"/>
+            <textevent message="are reminders every 5-10 minutes to honestly assess your level of fatigue" timeoffset="690.000000"/>
+            <textevent message="When you see one of these reminders..." timeoffset="700.000000"/>
+            <textevent message="pay attention to your body long enough to determine..." timeoffset="710.000000"/>
+            <textevent message="&quot;This is still feeling pretty alright...&quot;" timeoffset="720.000000"/>
+            <textevent message="&quot;and another 5-10 minutes is no problem&quot;" timeoffset="730.000000"/>
+            <textevent message="Or, &quot;I'm cooked &amp; while I could keep riding...&quot;" timeoffset="740.000000"/>
+            <textevent message="&quot;I'm not sure it's a good idea&quot;" timeoffset="750.000000"/>
+            <textevent message="Have a good ride, we'll touch base every 10 minutes" timeoffset="760.000000"/>
+            <textevent message="How you feelin'?" timeoffset="900.000000"/>
+            <textevent message="Be sensible &amp; bail if you're having any doubts at all" timeoffset="910.000000"/>
+            <textevent message="Still feeling pretty much pain-free?" timeoffset="1200.000000"/>
+            <textevent message="Then keep on keepin' on, but be sensible" timeoffset="1210.000000"/>
+            <textevent message="Got another 5 minutes in your legs?" timeoffset="1500.000000"/>
+            <textevent message="WITHOUT furthering your fatigue? Then by all means, keep goin'" timeoffset="1510.000000"/>
+            <textevent message="30 minutes in..." timeoffset="1800.000000"/>
+            <textevent message="keeping the fatigue at bay, definitely not growing it" timeoffset="1810.000000"/>
+            <textevent message="Otherwise, time to bag it" timeoffset="1820.000000"/>
+            <textevent message="35 minutes into this recovery ride, and time to duck out..." timeoffset="2100.000000"/>
+            <textevent message="if you're feeling any heaviness in the legs or lightheadedness" timeoffset="2110.000000"/>
+            <textevent message="Otherwise, shoot for another 5, maybe 10 minutes" timeoffset="2120.000000"/>
+            <textevent message="Just 5 minutes left, but there's no shame in ducking out early..." timeoffset="2400.000000"/>
+            <textevent message="even in a ride as short and mellow as this one" timeoffset="2410.000000"/>
+            <textevent message="Honestly assess whether the full duration of this ride..." timeoffset="2670.000000"/>
+            <textevent message="fatigued you further or had little or zero negative effect" timeoffset="2680.000000"/>
+            <textevent message="Let that perception shape your next easy ride, and we'll see you next time" timeoffset="2690.000000"/>
+        </Warmup>
+        <SteadyState Duration="2.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="2578.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Cooldown Duration="60.0" PowerLow="0.500" PowerHigh="0.450"/>
+    </workout>
+</workout_file>

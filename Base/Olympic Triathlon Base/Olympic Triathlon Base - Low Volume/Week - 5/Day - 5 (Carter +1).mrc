@@ -1,0 +1,45 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Carter +1 ups the demand to the point where you'll ride for 30 continuous minutes between 75-85% FTP.
+FILE NAME = Carter +1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	58
+7	58
+7	67
+10	67
+10	75
+20	75
+20	75
+21	85
+21	85
+30	85
+30	85
+31	80
+31	80
+40	80
+40	80
+45	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+240	420	Endurance 1
+420	600	Endurance 2
+600	1200	Endurance 3
+1200	1260	Tempo 1
+1260	1800	Sweet Spot 1
+1800	1860	Tempo 2
+1860	2400	Tempo 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

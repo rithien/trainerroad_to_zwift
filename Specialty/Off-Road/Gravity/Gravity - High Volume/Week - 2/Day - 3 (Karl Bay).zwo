@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Karl Bay&amp;nbsp;is made up of 3x14-minute hard-start intervals.Each begins with a 30-second surge at 150% FTP and then quickly settles in at 95% FTP for the remaining 13 minutes. Each interval is separated by 5 minutes of recovery.</description>
+    <name>Karl Bay</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="165.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.950"/>
+        <SteadyState Duration="780.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.950"/>
+        <SteadyState Duration="780.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.950"/>
+        <SteadyState Duration="720.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Cooldown Duration="360.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,53 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Brooks&nbsp;totals just under 60 minutes of Tempo intervals spent between 90-91% FTP with intermittent, 3-minute recoveries at 55% FTP. 
+FILE NAME = Brooks
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	60
+12	60
+12	76
+18	76
+18	90
+30.5	90
+30.5	55
+33.5	55
+33.5	91
+46	91
+46	55
+49	55
+49	90
+61.5	90
+61.5	55
+64.5	55
+64.5	91
+77	91
+77	50
+83	50
+83	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	720	Endurance 1
+720	1080	Tempo 1
+1080	1830	Sweet Spot 1
+1830	2010	Endurance 2
+2010	2760	Sweet Spot 2
+2760	2940	Endurance 3
+2940	3690	Sweet Spot 3
+3690	3870	Endurance 4
+3870	4620	Sweet Spot 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

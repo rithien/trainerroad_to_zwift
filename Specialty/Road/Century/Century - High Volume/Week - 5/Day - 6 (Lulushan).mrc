@@ -1,0 +1,68 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Lulushan is 7x8-9 minutes Sweet Spot intervals ranging between 88-90% FTP with 6.5-minute recoveries between intervals. 
+FILE NAME = Lulushan
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	60
+7	60
+7	70
+9	70
+9	90
+12	90
+12	40
+18	40
+18	90
+27	90
+27	40
+33.5	40
+33.5	88
+41.5	88
+41.5	40
+48	40
+48	90
+56	90
+56	40
+62.5	40
+62.5	88
+70.5	88
+70.5	40
+77	40
+77	90
+85	90
+85	40
+91.5	40
+91.5	88
+99.5	88
+99.5	40
+106	40
+106	90
+115	90
+115	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+300	420	Endurance 1
+420	540	Endurance 2
+540	720	Sweet Spot 1
+1080	1620	Sweet Spot 2
+2010	2490	Sweet Spot 3
+2880	3360	Sweet Spot 4
+3750	4230	Sweet Spot 5
+4620	5100	Sweet Spot 6
+5490	5970	Sweet Spot 7
+6360	6900	Sweet Spot 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

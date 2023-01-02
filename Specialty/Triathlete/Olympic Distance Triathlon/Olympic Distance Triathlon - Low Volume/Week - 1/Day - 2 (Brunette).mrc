@@ -1,0 +1,52 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Brunette is 4 intervals of either 3:45 or 4-minutes at 106% FTP. Each interval is separated by an 11-minute&nbsp;recovery valley.
+FILE NAME = Brunette
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+1.5	50
+1.5	72
+3.5	72
+3.5	96
+5.5	96
+5.5	50
+9.5	50
+9.5	106
+13.5	106
+13.5	40
+24.5	40
+24.5	106
+28.25	106
+28.25	40
+39.25	40
+39.25	106
+43.25	106
+43.25	40
+54.25	40
+54.25	106
+58	106
+58	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+90	210	Endurance 1
+210	330	Threshold 1
+570	810	VO2 Max 1
+1470	1695	VO2 Max 2
+2355	2595	VO2 Max 3
+3255	3480	VO2 Max 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+               

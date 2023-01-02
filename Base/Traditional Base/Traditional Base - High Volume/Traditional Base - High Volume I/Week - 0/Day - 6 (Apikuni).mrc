@@ -1,0 +1,102 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Apikuni&nbsp;is 2.5 hours of aerobic Endurance riding spent somewhere between 50-66% FTP.
+FILE NAME = Apikuni
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	53
+10	53
+10	56
+15	56
+15	59
+20	59
+20	61
+29	61
+29	64
+35	64
+35	61
+39	61
+39	62
+45	62
+45	65
+48	65
+48	66
+54	66
+54	63
+58	63
+58	66
+65	66
+65	59
+68	59
+68	62
+73	62
+73	66
+82	66
+82	64
+89	64
+89	65
+93	65
+93	64
+99	64
+99	63
+104	63
+104	64
+109	64
+109	65
+112	65
+112	61
+117	61
+117	64
+125	64
+125	61
+132	61
+132	63
+136	63
+136	58
+142	58
+142	56
+145	56
+145	56
+150	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	9000	Workout
+300	600	Active Recovery 1
+600	900	Endurance 1
+900	1200	Endurance 2
+1200	1740	Endurance 3
+1740	2100	Endurance 4
+2100	2340	Endurance 5
+2340	2700	Endurance 6
+2700	2880	Endurance 7
+2880	3240	Endurance 8
+3240	3480	Endurance 9
+3480	3900	Endurance 10
+3900	4080	Endurance 11
+4080	4380	Endurance 12
+4380	4920	Endurance 13
+4920	5340	Endurance 14
+5340	5580	Endurance 15
+5580	5940	Endurance 16
+5940	6240	Endurance 17
+6240	6540	Endurance 18
+6540	6720	Endurance 19
+6720	7020	Endurance 20
+7020	7500	Endurance 21
+7500	7920	Endurance 22
+7920	8160	Endurance 23
+8160	8520	Endurance 24
+8520	8700	Endurance 25
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

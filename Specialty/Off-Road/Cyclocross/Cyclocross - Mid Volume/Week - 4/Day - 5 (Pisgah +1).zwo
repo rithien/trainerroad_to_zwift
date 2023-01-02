@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Pisgah +1 is 2 sets of 3x2.25-minute VO2max intervals at 125% FTP. Recovery between intervals is 3 minutes long and between sets of intervals is 8 minutes long.</description>
+    <name>Pisgah +1</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="135.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="135.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="135.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="135.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="135.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="135.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <Cooldown Duration="390.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

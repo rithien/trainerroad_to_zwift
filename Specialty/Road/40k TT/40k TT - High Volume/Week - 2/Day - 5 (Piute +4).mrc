@@ -1,0 +1,71 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Piute +4 is 96 minutes of continuous progression from 60% FTP all the way up to 100% FTP via 5-6% increases every 12 minutes.
+FILE NAME = Piute +4
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	50
+5.5	60
+5.5	60
+17	60
+17	60
+17.5	66
+17.5	66
+29	66
+29	66
+29.5	72
+29.5	72
+41	72
+41	72
+41.5	77
+41.5	77
+53	77
+53	77
+53.5	83
+53.5	83
+65	83
+65	83
+65.5	88
+65.5	88
+77	88
+77	88
+77.5	94
+77.5	94
+89	94
+89	94
+89.5	100
+89.5	100
+101	100
+101	50
+105	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	6300	Workout
+330	1020	Endurance 1
+1020	1050	Endurance 2
+1050	1740	Endurance 3
+1740	1770	Endurance 4
+1770	2460	Endurance 5
+2460	2490	Endurance 6
+2490	3180	Tempo 1
+3180	3210	Tempo 2
+3210	3900	Tempo 3
+3900	3930	Sweet Spot 1
+3930	4620	Sweet Spot 2
+4620	4650	Sweet Spot 3
+4650	5340	Sweet Spot 4
+5340	5370	Threshold 1
+5370	6060	Threshold 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

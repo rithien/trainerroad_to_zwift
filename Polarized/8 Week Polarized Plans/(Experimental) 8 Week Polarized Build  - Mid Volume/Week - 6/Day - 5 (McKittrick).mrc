@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = McKittrick is four 16-minute intervals at 104% FTP. The recoveries between intervals are 7 minutes long.
+FILE NAME = McKittrick
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	104
+37	104
+37	50
+44	50
+44	104
+60	104
+60	50
+67	50
+67	104
+83	104
+83	50
+90	50
+90	104
+106	104
+106	50
+120	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	2220	Threshold 2
+2640	3600	Threshold 3
+4020	4980	Threshold 4
+5400	6360	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

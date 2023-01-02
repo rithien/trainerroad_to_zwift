@@ -1,0 +1,66 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Baldy -1 is 3x12-minute intervals between 95-99% FTP with 4-minute recoveries between intervals.
+FILE NAME = Mount Baldy -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2.5	50
+2.5	70
+5	70
+5	95
+8	95
+8	40
+12	40
+12	95
+16	95
+16	97
+20	97
+20	95
+24	95
+24	40
+28	40
+28	99
+31	99
+31	97
+34	97
+34	95
+37	95
+37	97
+40	97
+40	40
+44	40
+44	99
+48	99
+48	97
+52	97
+52	95
+56	95
+56	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+150	300	Endurance 1
+300	480	Sweet Spot 1
+720	960	Sweet Spot 2
+960	1200	Threshold 1
+1200	1440	Sweet Spot 3
+1680	1860	Threshold 2
+1860	2040	Threshold 3
+2040	2220	Sweet Spot 4
+2220	2400	Threshold 4
+2640	2880	Threshold 5
+2880	3120	Threshold 6
+3120	3360	Sweet Spot 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

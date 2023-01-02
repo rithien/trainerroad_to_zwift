@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Star is 3 sets of 6x20-second sprints at 160% FTP with diminishing recoveries that start at 60 seconds long and decrease all the way down to 20 seconds before a longer, 2-minute recovery valley rests you up in preparation for the next round of sprints.</description>
+    <name>Star</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="50.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="40.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="20.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="50.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="40.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="20.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="50.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="40.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <SteadyState Duration="20.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="20.0" PowerLow="1.600" PowerHigh="1.600"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

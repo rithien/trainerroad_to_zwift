@@ -1,0 +1,125 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = This 5-lap workout is a race simulation based on the make-or-break segment of a Carson/Tahoe/Reno road race course.It begins with an initial effort lasting 1 minute at 115% FTP, a brief 30-second active recovery, 2 minutes of Tempo work, and then a second 2-minute effort at 110% FTP that concludes with a 30-second kick at 118% FTP. Recovery between each interval is 7 minutes long.
+FILE NAME = Gage
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	65
+5	65
+5	80
+7	80
+7	115
+7.5	115
+7.5	40
+8	40
+8	115
+8.66	115
+8.66	40
+9.33	40
+9.33	115
+10.16	115
+10.16	40
+14.16	40
+14.16	115
+15.16	115
+15.16	50
+15.66	50
+15.66	70
+17.66	70
+17.66	110
+19.66	110
+19.66	118
+20.16	118
+20.16	40
+27.16	40
+27.16	115
+28.16	115
+28.16	50
+28.66	50
+28.66	70
+30.66	70
+30.66	110
+32.66	110
+32.66	118
+33.16	118
+33.16	40
+40.16	40
+40.16	115
+41.16	115
+41.16	50
+41.66	50
+41.66	70
+43.66	70
+43.66	110
+45.66	110
+45.66	118
+46.16	118
+46.16	40
+53.16	40
+53.16	115
+54.16	115
+54.16	50
+54.66	50
+54.66	70
+56.66	70
+56.66	110
+58.66	110
+58.66	118
+59.16	118
+59.16	40
+66.16	40
+66.16	115
+67.16	115
+67.16	50
+67.66	50
+67.66	70
+69.66	70
+69.66	110
+71.66	110
+71.66	118
+72.16	118
+72.16	40
+75	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+180	300	Endurance 1
+300	420	Tempo 1
+420	450	VO2 Max 1
+480	520	VO2 Max 2
+560	610	VO2 Max 3
+850	910	VO2 Max 4
+940	1060	Endurance 2
+1060	1180	VO2 Max 5
+1180	1210	VO2 Max 6
+1630	1690	VO2 Max 7
+1720	1840	Endurance 3
+1840	1960	VO2 Max 8
+1960	1990	VO2 Max 9
+2410	2470	VO2 Max 10
+2500	2620	Endurance 4
+2620	2740	VO2 Max 11
+2740	2770	VO2 Max 12
+3190	3250	VO2 Max 13
+3280	3400	Endurance 5
+3400	3520	VO2 Max 14
+3520	3550	VO2 Max 15
+3970	4030	VO2 Max 16
+4060	4180	Endurance 6
+4180	4300	VO2 Max 17
+4300	4330	VO2 Max 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+                       

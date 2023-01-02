@@ -1,0 +1,122 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Chicoma -3 is 4x12-minute muscle-endurance efforts that hover near the low end of Sweet Spot and include 3x15-second bursts at 150% FTP, just to keep things interesting.Very short, 30-seconds recoveries fall between each interval.
+FILE NAME = Chicoma -3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	70
+4.5	70
+4.5	90
+7	90
+7	50
+9	50
+9	88
+11.75	88
+11.75	150
+12	150
+12	89
+14.75	89
+14.75	150
+15	150
+15	90
+17.75	90
+17.75	150
+18	150
+18	89
+21	89
+21	50
+21.5	50
+21.5	89
+24.25	89
+24.25	150
+24.5	150
+24.5	90
+27.25	90
+27.25	150
+27.5	150
+27.5	89
+30.25	89
+30.25	150
+30.5	150
+30.5	88
+33.5	88
+33.5	50
+34	50
+34	89
+36.75	89
+36.75	150
+37	150
+37	90
+39.75	90
+39.75	150
+40	150
+40	89
+42.75	89
+42.75	150
+43	150
+43	90
+46	90
+46	50
+46.5	50
+46.5	88
+49.25	88
+49.25	150
+49.5	150
+49.5	89
+52.25	89
+52.25	150
+52.5	150
+52.5	90
+55.25	90
+55.25	150
+55.5	150
+55.5	89
+58.5	89
+58.5	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+120	270	Endurance 1
+270	420	Sweet Spot 1
+540	705	Sweet Spot 2
+705	720	Sprint 1
+720	885	Sweet Spot 3
+885	900	Sprint 2
+900	1065	Sweet Spot 4
+1065	1080	Sprint 3
+1080	1260	Sweet Spot 5
+1290	1455	Sweet Spot 6
+1455	1470	Sprint 4
+1470	1635	Sweet Spot 7
+1635	1650	Sprint 5
+1650	1815	Sweet Spot 8
+1815	1830	Sprint 6
+1830	2010	Sweet Spot 9
+2040	2205	Sweet Spot 10
+2205	2220	Sprint 7
+2220	2385	Sweet Spot 11
+2385	2400	Sprint 8
+2400	2565	Sweet Spot 12
+2565	2580	Sprint 9
+2580	2760	Sweet Spot 13
+2790	2955	Sweet Spot 14
+2955	2970	Sprint 10
+2970	3135	Sweet Spot 15
+3135	3150	Sprint 11
+3150	3315	Sweet Spot 16
+3315	3330	Sprint 12
+3330	3510	Sweet Spot 17
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

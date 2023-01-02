@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Stikine&amp;nbsp;is made up of 4x10-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settles in at 88% FTP for the remaining 9 minutes.Each interval is separated by 8 minutes of recovery.</description>
+    <name>Stikine</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="210.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="540.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="540.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="540.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="480.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="540.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="165.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Cooldown Duration="210.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

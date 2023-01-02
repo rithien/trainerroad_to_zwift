@@ -1,0 +1,70 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Kabati&nbsp;is 7x7-minute Sweet Spot intervals at 88% FTP with 7.5-minute recoveries between intervals. 
+FILE NAME = Kabati
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	60
+5	60
+5	70
+7	70
+7	90
+10	90
+10	40
+17	40
+17	88
+24	88
+24	40
+31.5	40
+31.5	88
+38.5	88
+38.5	40
+46	40
+46	88
+53	88
+53	40
+60.5	40
+60.5	88
+67.5	88
+67.5	40
+75	40
+75	88
+82	88
+82	40
+89.5	40
+89.5	88
+96.5	88
+96.5	40
+104	40
+104	88
+111	88
+111	40
+113	40
+113	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+180	300	Endurance 1
+300	420	Endurance 2
+420	600	Sweet Spot 1
+1020	1440	Sweet Spot 2
+1890	2310	Sweet Spot 3
+2760	3180	Sweet Spot 4
+3630	4050	Sweet Spot 5
+4500	4920	Sweet Spot 6
+5370	5790	Sweet Spot 7
+6240	6660	Sweet Spot 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

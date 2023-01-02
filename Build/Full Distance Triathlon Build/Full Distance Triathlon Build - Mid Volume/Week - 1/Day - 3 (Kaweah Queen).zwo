@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Kaweah Queen consists of&amp;nbsp;4x9-minute intervals in the 95-99% FTP range where riders spend 1-2 minutes at a time standing. Recoveries between intervals are each&amp;nbsp;4 minutes long.</description>
+    <name>Kaweah Queen</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="60.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="60.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="60.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="120.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="60.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="60.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="60.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="60.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="60.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="60.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="60.0" PowerLow="0.980" PowerHigh="0.980"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

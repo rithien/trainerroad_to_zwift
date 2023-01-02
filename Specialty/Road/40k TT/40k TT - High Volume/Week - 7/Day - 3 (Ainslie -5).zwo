@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Ainslie -5 is 3x4-minute intervals at 105% FTP with 4-minute recoveries at 50% FTP.</description>
+    <name>Ainslie -5</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <Cooldown Duration="120.0" PowerLow="0.410" PowerHigh="0.310"/>
+    </workout>
+</workout_file>

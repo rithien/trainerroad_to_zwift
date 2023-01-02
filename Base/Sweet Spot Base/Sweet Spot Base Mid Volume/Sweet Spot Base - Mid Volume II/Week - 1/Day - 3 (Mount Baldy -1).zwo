@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Mount Baldy -1 is 3x12-minute intervals between 95-99% FTP with 4-minute recoveries between intervals.</description>
+    <name>Mount Baldy -1</name>
+    <workout>
+        <SteadyState Duration="150.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="180.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="180.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="180.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="240.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Cooldown Duration="240.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

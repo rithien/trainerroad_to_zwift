@@ -1,0 +1,190 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Kettle consists of 4x15-minute sets of intervals that increase in duration starting with 15 seconds at 160% FTP and growing to 30 seconds a 153% FTP, 45 seconds at 147% FTP, and finally 60 seconds at 140% FTP before stepping back down in the reverse manner.Recoveries following each interval are 3 times as long as the interval itself and recoveries between sets of intervals are 3.5 minutes long.
+FILE NAME = Kettle
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2.5	50
+2.5	65
+5	65
+5	90
+8	90
+8	40
+10	40
+10	130
+10.25	130
+10.25	50
+10.75	50
+10.75	140
+11	140
+11	50
+11.5	50
+11.5	150
+11.75	150
+11.75	50
+12.25	50
+12.25	160
+12.5	160
+12.5	40
+16.5	40
+16.5	160
+16.75	160
+16.75	40
+17.5	40
+17.5	153
+18	153
+18	40
+19.5	40
+19.5	147
+20.25	147
+20.25	40
+22.5	40
+22.5	140
+23.5	140
+23.5	40
+26.5	40
+26.5	147
+27.25	147
+27.25	40
+29.5	40
+29.5	153
+30	153
+30	40
+31.5	40
+31.5	160
+31.75	160
+31.75	40
+35.25	40
+35.25	160
+35.5	160
+35.5	40
+36.25	40
+36.25	153
+36.75	153
+36.75	40
+38.25	40
+38.25	147
+39	147
+39	40
+41.25	40
+41.25	140
+42.25	140
+42.25	40
+45.25	40
+45.25	147
+46	147
+46	40
+48.25	40
+48.25	153
+48.75	153
+48.75	40
+50.25	40
+50.25	160
+50.5	160
+50.5	40
+54	40
+54	160
+54.25	160
+54.25	40
+55	40
+55	153
+55.5	153
+55.5	40
+57	40
+57	147
+57.75	147
+57.75	40
+60	40
+60	140
+61	140
+61	40
+64	40
+64	147
+64.75	147
+64.75	40
+67	40
+67	153
+67.5	153
+67.5	40
+69	40
+69	160
+69.25	160
+69.25	40
+72.75	40
+72.75	160
+73	160
+73	40
+73.75	40
+73.75	153
+74.25	153
+74.25	40
+75.75	40
+75.75	147
+76.5	147
+76.5	40
+78.75	40
+78.75	140
+79.75	140
+79.75	40
+82.75	40
+82.75	147
+83.5	147
+83.5	40
+85.75	40
+85.75	153
+86.25	153
+86.25	40
+87.75	40
+87.75	160
+88	160
+88	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+150	300	Endurance 1
+300	480	Sweet Spot 1
+600	615	Sprint 1
+645	660	Sprint 2
+690	705	Sprint 3
+735	750	Sprint 4
+990	1005	Sprint 5
+1050	1080	Sprint 6
+1170	1215	Anaerobic Capacity 1
+1350	1410	Anaerobic Capacity 2
+1590	1635	Anaerobic Capacity 3
+1770	1800	Sprint 7
+1890	1905	Sprint 8
+2115	2130	Sprint 9
+2175	2205	Sprint 10
+2295	2340	Anaerobic Capacity 4
+2475	2535	Anaerobic Capacity 5
+2715	2760	Anaerobic Capacity 6
+2895	2925	Sprint 11
+3015	3030	Sprint 12
+3240	3255	Sprint 13
+3300	3330	Sprint 14
+3420	3465	Anaerobic Capacity 7
+3600	3660	Anaerobic Capacity 8
+3840	3885	Anaerobic Capacity 9
+4020	4050	Sprint 15
+4140	4155	Sprint 16
+4365	4380	Sprint 17
+4425	4455	Sprint 18
+4545	4590	Anaerobic Capacity 10
+4725	4785	Anaerobic Capacity 11
+4965	5010	Anaerobic Capacity 12
+5145	5175	Sprint 19
+5265	5280	Sprint 20
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

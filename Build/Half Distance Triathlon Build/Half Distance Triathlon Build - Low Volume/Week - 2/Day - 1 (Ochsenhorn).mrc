@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Ochsenhorn&nbsp;is 4x4.5-minute intervals at 106% FTP. Each full interval is separated by a 9 minute and 40 second recovery valley.&nbsp;
+FILE NAME = Ochsenhorn
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+1.5	50
+1.5	72
+3.5	72
+3.5	96
+5.5	96
+5.5	50
+11	50
+11	106
+15.5	106
+15.5	40
+25.16	40
+25.16	106
+29.66	106
+29.66	40
+39.33	40
+39.33	106
+43.83	106
+43.83	40
+53.5	40
+53.5	106
+58	106
+58	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+90	210	Endurance 1
+210	330	Threshold 1
+660	930	VO2 Max 1
+1510	1780	VO2 Max 2
+2360	2630	VO2 Max 3
+3210	3480	VO2 Max 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

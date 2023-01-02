@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Carn is made up of 4x7.5-minute race-start intervals that each begins with a 30-second surge at 150% FTP, followed by 30 seconds building back up to 88% FTP and remaining there 6.5 minutes.Each interval is separated by 10.5 minutes of recovery.</description>
+    <name>Carn</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="210.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="390.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="390.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="390.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.880"/>
+        <SteadyState Duration="390.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="225.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

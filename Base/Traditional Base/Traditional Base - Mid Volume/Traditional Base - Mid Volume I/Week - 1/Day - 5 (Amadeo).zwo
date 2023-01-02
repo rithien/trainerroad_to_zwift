@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Amadeo is 2 hours of steady, aerobic Endurance spent between 55-75% FTP.</description>
+    <name>Amadeo</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="780.0" PowerLow="0.670" PowerHigh="0.670"/>
+        <Cooldown Duration="60.0" PowerLow="0.670" PowerHigh="0.630"/>
+        <SteadyState Duration="600.0" PowerLow="0.630" PowerHigh="0.630"/>
+        <Warmup Duration="60.0" PowerLow="0.630" PowerHigh="0.700"/>
+        <SteadyState Duration="960.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Warmup Duration="60.0" PowerLow="0.700" PowerHigh="0.750"/>
+        <SteadyState Duration="1080.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <Cooldown Duration="60.0" PowerLow="0.750" PowerHigh="0.700"/>
+        <SteadyState Duration="840.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Warmup Duration="60.0" PowerLow="0.700" PowerHigh="0.750"/>
+        <SteadyState Duration="960.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <Cooldown Duration="60.0" PowerLow="0.750" PowerHigh="0.680"/>
+        <SteadyState Duration="720.0" PowerLow="0.680" PowerHigh="0.680"/>
+        <Cooldown Duration="300.0" PowerLow="0.680" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

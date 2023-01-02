@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Kern -2 is 3x12-minute sets of intervals where you'll start with 1.5 minutes at 115% FTP followed closely by 1.75 minutes at 105% FTP and finally 2 minutes at 95% FTP before stepping back out the same way you stepped in. Recoveries between intervals are only 45 seconds and the recoveries between sets of intervals are 6 minutes long.</description>
+    <name>Kern -2</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="45.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="45.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="45.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="105.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="105.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="105.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="105.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="105.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="105.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <Cooldown Duration="195.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

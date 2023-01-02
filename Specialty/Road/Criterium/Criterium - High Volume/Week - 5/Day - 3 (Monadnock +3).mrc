@@ -1,0 +1,60 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Monadnock +3 consists of 2 sets of 3x5-minute VO2max intervals at 110% FTP. Recovery between intervals is 5 minutes long and recovery between sets of intervals is 10 minutes long.
+FILE NAME = Monadnock +3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	40
+19	40
+19	110
+24	110
+24	40
+29	40
+29	110
+34	110
+34	40
+39	40
+39	110
+44	110
+44	40
+54	40
+54	110
+59	110
+59	40
+64	40
+64	110
+69	110
+69	40
+74	40
+74	110
+79	110
+79	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1140	1440	VO2 Max 1
+1740	2040	VO2 Max 2
+2340	2640	VO2 Max 3
+3240	3540	VO2 Max 4
+3840	4140	VO2 Max 5
+4440	4740	VO2 Max 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Ladrones is four 16-minute intervals at 102% FTP. The recoveries between intervals are 6 minutes long.
+FILE NAME = Ladrones
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	102
+37	102
+37	50
+43	50
+43	102
+59	102
+59	50
+65	50
+65	102
+81	102
+81	50
+87	50
+87	102
+103	102
+103	50
+120	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	2220	Threshold 2
+2580	3540	Threshold 3
+3900	4860	Threshold 4
+5220	6180	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

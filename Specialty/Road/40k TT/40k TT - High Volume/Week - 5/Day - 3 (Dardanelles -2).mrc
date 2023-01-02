@@ -1,0 +1,71 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Dardanelles -2 is 48 minutes of near-steady output comprised of 4x12-minute segments ranging from 95-102% FTP broken up by brief, 30-second recoveries.
+FILE NAME = Dardanelles -2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2.5	50
+2.5	60
+5	60
+5	60
+12	104
+12	120
+13	120
+13	50
+15	50
+15	160
+15.1	160
+15.1	40
+15.95	40
+15.95	180
+16.05	180
+16.05	40
+16.9	40
+16.9	200
+17	200
+17	49
+20.5	49
+20.5	120
+21	95
+21	95
+33	99
+33	40
+33.5	40
+33.5	99
+45.5	99
+45.5	40
+46	40
+46	99
+58	102
+58	40
+58.5	40
+58.5	102
+70.5	100
+70.5	40
+75	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+150	300	Endurance 1
+300	720	Tempo 1
+720	780	VO2 Max 1
+900	906	Sprint 1
+957	963	Sprint 2
+1014	1020	Sprint 3
+1230	1260	VO2 Max 2
+1260	1980	Threshold 1
+2010	2730	Threshold 2
+2760	3480	Threshold 3
+3510	4230	Threshold 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

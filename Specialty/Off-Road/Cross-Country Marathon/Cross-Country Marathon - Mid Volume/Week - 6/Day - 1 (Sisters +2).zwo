@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Sisters +2 consists of 5x6-minute intervals at 105% FTP with 4-minute recoveries between intervals.</description>
+    <name>Sisters +2</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="180.0" PowerLow="0.750" PowerHigh="0.760"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

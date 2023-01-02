@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Pope is 3 sets of 5&amp;nbsp;intervals ranging from 1-minute to 1-minute and 10 seconds. Intervals are between 110 and&amp;nbsp;120% FTP. Recoveries between intervals are 2 minutes long and recoveries between sets of intervals are 3 m</description>
+    <name>Pope</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.520" PowerHigh="0.520"/>
+        <SteadyState Duration="120.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="30.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="270.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="70.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="200.0" PowerLow="0.300" PowerHigh="0.300"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="105.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="105.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="105.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="105.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="200.0" PowerLow="0.300" PowerHigh="0.300"/>
+        <SteadyState Duration="60.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="70.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

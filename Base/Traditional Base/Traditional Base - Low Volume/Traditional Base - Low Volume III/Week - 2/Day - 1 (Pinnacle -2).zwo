@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Pinnacle-2 is a 3x12-minute workout performed right at your FTP, but each interval is varied in some small way.The outer efforts are almost straight blocks of work at 100% FTP, but brief, somewhat unforgiving 30-second reductions in power output to 90% FTP break things up a little.These 2 sets bookend a middle set of 3x4-minute efforts at 100% FTP and each are separated by a single minute of active recovery.</description>
+    <name>Pinnacle -2</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="30.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="330.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="30.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="330.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

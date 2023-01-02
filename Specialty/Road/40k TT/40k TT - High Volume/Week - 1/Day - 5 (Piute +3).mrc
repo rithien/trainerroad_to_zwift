@@ -1,0 +1,72 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Piute +3 is 2x48 minutes of continuous progression from 60-80% FTP and then 80% all the way up to 100% FTP via 10% increases every 12 minutes.
+FILE NAME = Piute +3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+8	50
+8	50
+8.5	60
+8.5	60
+20	60
+20	60
+20.5	70
+20.5	70
+32	70
+32	70
+32.5	80
+32.5	80
+44	80
+44	80
+44.5	90
+44.5	90
+56	90
+56	40
+66	40
+66	40
+66.5	70
+66.5	70
+78	70
+78	70
+78.5	80
+78.5	80
+90	80
+90	80
+90.5	90
+90.5	90
+102	90
+102	90
+102.5	100
+102.5	100
+114	100
+114	50
+120	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+510	1200	Endurance 1
+1200	1230	Endurance 2
+1230	1920	Endurance 3
+1920	1950	Endurance 4
+1950	2640	Tempo 1
+2640	2670	Sweet Spot 1
+2670	3360	Sweet Spot 2
+3990	4680	Endurance 5
+4680	4710	Endurance 6
+4710	5400	Tempo 2
+5400	5430	Sweet Spot 3
+5430	6120	Sweet Spot 4
+6120	6150	Sweet Spot 5
+6150	6840	Threshold 1
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

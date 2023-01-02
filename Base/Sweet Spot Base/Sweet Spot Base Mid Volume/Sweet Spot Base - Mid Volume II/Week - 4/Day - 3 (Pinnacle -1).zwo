@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Pinnacle-1 is a 3x15-minute workout performed right at your FTP, but each interval is varied in some small way.The outer efforts are almost straight blocks of work at 100% FTP, but brief, somewhat unforgiving 30-second reductions in power output to 90% FTP break things up a little.These 2 sets bookend a middle set of 4x4-minute efforts at 100% FTP and each are separated by a single minute of active recovery.</description>
+    <name>Pinnacle -1</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="120.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="30.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="270.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="30.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="270.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="30.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="270.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="30.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="270.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

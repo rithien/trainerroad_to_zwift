@@ -1,0 +1,192 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Fang Mountain +2 is 5x9-minute over-under intervals with 1-minute valleys at 95% FTP and 2-minute peaks that ascend to 110% FTP. Recoveries between OU's are 6 minutes long.
+FILE NAME = Fang Mountain +2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	65
+6	65
+6	80
+9	80
+9	95
+12	95
+12	40
+16	40
+16	40
+16.5	95
+16.5	95
+17.5	95
+17.5	95
+18.5	110
+18.5	110
+19.5	95
+19.5	95
+20.5	95
+20.5	95
+21.5	110
+21.5	110
+22.5	95
+22.5	95
+23.5	95
+23.5	95
+24.5	110
+24.5	110
+25.5	95
+25.5	40
+31.5	40
+31.5	40
+31.5	40
+32	95
+32	95
+33	95
+33	95
+34	110
+34	110
+35	95
+35	95
+36	95
+36	95
+37	110
+37	110
+38	95
+38	95
+39	95
+39	95
+40	110
+40	110
+41	95
+41	40
+47	40
+47	40
+47	40
+47.5	95
+47.5	95
+48.5	95
+48.5	95
+49.5	110
+49.5	110
+50.5	95
+50.5	95
+51.5	95
+51.5	95
+52.5	110
+52.5	110
+53.5	95
+53.5	95
+54.5	95
+54.5	95
+55.5	110
+55.5	110
+56.5	95
+56.5	40
+62.5	40
+62.5	40
+62.5	40
+63	95
+63	95
+64	95
+64	95
+65	110
+65	110
+66	95
+66	95
+67	95
+67	95
+68	110
+68	110
+69	95
+69	95
+70	95
+70	95
+71	110
+71	110
+72	95
+72	40
+78	40
+78	40
+78	40
+78.5	95
+78.5	95
+79.5	95
+79.5	95
+80.5	110
+80.5	110
+81.5	95
+81.5	95
+82.5	95
+82.5	95
+83.5	110
+83.5	110
+84.5	95
+84.5	95
+85.5	95
+85.5	95
+86.5	110
+86.5	110
+87.5	95
+87.5	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+180	360	Endurance 1
+360	540	Tempo 1
+540	720	Sweet Spot 1
+990	1050	Sweet Spot 2
+1050	1110	Threshold 1
+1110	1170	Threshold 2
+1170	1230	Sweet Spot 3
+1230	1290	Threshold 3
+1290	1350	Threshold 4
+1350	1410	Sweet Spot 4
+1410	1470	Threshold 5
+1470	1530	Threshold 6
+1920	1980	Sweet Spot 5
+1980	2040	Threshold 7
+2040	2100	Threshold 8
+2100	2160	Sweet Spot 6
+2160	2220	Threshold 9
+2220	2280	Threshold 10
+2280	2340	Sweet Spot 7
+2340	2400	Threshold 11
+2400	2460	Threshold 12
+2850	2910	Sweet Spot 8
+2910	2970	Threshold 13
+2970	3030	Threshold 14
+3030	3090	Sweet Spot 9
+3090	3150	Threshold 15
+3150	3210	Threshold 16
+3210	3270	Sweet Spot 10
+3270	3330	Threshold 17
+3330	3390	Threshold 18
+3780	3840	Sweet Spot 11
+3840	3900	Threshold 19
+3900	3960	Threshold 20
+3960	4020	Sweet Spot 12
+4020	4080	Threshold 21
+4080	4140	Threshold 22
+4140	4200	Sweet Spot 13
+4200	4260	Threshold 23
+4260	4320	Threshold 24
+4710	4770	Sweet Spot 14
+4770	4830	Threshold 25
+4830	4890	Threshold 26
+4890	4950	Sweet Spot 15
+4950	5010	Threshold 27
+5010	5070	Threshold 28
+5070	5130	Sweet Spot 16
+5130	5190	Threshold 29
+5190	5250	Threshold 30
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

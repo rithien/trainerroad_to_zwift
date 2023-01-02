@@ -1,0 +1,48 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Desperation&nbsp;totals over 75 minutes of Tempo intervals spent between 65-92% FTP with intermittent, 2.75-minute recoveries at 55% FTP. 
+FILE NAME = Desperation
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3.5	50
+3.5	65
+7.5	65
+7.5	80
+23.5	80
+23.5	55
+26.25	55
+26.25	92
+43.25	92
+43.25	55
+46	55
+46	85
+62	85
+62	55
+64.75	55
+64.75	92
+82.75	92
+82.75	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+210	450	Endurance 1
+450	1410	Tempo 1
+1410	1575	Endurance 2
+1575	2595	Sweet Spot 1
+2595	2760	Endurance 3
+2760	3720	Sweet Spot 2
+3720	3885	Endurance 4
+3885	4965	Sweet Spot 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>San Pedro is four 8-minute intervals at 100% FTP. The recoveries between intervals are 5 minutes long.</description>
+    <name>San Pedro</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="480.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="480.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="480.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="480.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="720.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

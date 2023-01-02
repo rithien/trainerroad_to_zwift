@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Hot Springs&amp;nbsp;is made up of 3x20-minute intervals between 87-88% FTP. Each long interval is split into shorter segments separated by 60-second recovery valleys, and 4-minute recoveries fall between these segmented intervals.</description>
+    <name>Hot Springs</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.670" PowerHigh="0.670"/>
+        <SteadyState Duration="180.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="240.0" PowerLow="0.410" PowerHigh="0.410"/>
+        <SteadyState Duration="420.0" PowerLow="0.870" PowerHigh="0.870"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="0.870" PowerHigh="0.870"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.870" PowerHigh="0.870"/>
+        <SteadyState Duration="240.0" PowerLow="0.410" PowerHigh="0.410"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="360.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

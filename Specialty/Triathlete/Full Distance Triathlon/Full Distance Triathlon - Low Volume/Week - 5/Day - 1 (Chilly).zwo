@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Chilly&amp;nbsp;is an assortment of suprathreshold efforts consisting of 2x5 minutes at 104% FTP, 4 minutes at 107% FTP, 2 minutes at 112% FTP and 2 minutes at 115% FTP. Recoveries between intervals are all 3 minutes long.</description>
+    <name>Chilly</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.040" PowerHigh="1.040"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.040" PowerHigh="1.040"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="240.0" PowerLow="1.070" PowerHigh="1.070"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.120" PowerHigh="1.120"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <Cooldown Duration="480.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

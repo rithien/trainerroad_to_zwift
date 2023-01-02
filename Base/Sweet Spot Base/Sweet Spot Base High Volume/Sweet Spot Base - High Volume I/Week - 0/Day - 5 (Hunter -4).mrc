@@ -1,0 +1,98 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Hunter -4 is made up of 3x20-minute intervals at 88% FTP sprinkled with short, 60-second recovery valleys throughout each interval. Recoveries between intervals last 10 minutes.
+FILE NAME = Hunter -4
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	58
+8	58
+8	67
+12	67
+12	76
+16	76
+16	85
+20	85
+20	40
+25	40
+25	88
+30	88
+30	40
+31	40
+31	88
+36	88
+36	40
+37	40
+37	88
+42	88
+42	40
+43	40
+43	88
+48	88
+48	40
+58	40
+58	88
+63	88
+63	40
+64	40
+64	88
+69	88
+69	40
+70	40
+70	88
+75	88
+75	40
+76	40
+76	88
+81	88
+81	40
+91	40
+91	88
+96	88
+96	40
+97	40
+97	88
+102	88
+102	40
+103	40
+103	88
+108	88
+108	40
+109	40
+109	88
+114	88
+114	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Tempo 1
+960	1200	Sweet Spot 1
+1500	1800	Sweet Spot 2
+1860	2160	Sweet Spot 3
+2220	2520	Sweet Spot 4
+2580	2880	Sweet Spot 5
+3480	3780	Sweet Spot 6
+3840	4140	Sweet Spot 7
+4200	4500	Sweet Spot 8
+4560	4860	Sweet Spot 9
+5460	5760	Sweet Spot 10
+5820	6120	Sweet Spot 11
+6180	6480	Sweet Spot 12
+6540	6840	Sweet Spot 13
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+  

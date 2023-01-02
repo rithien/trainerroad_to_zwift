@@ -1,0 +1,61 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Piute +2 is 72 minutes of continuous progression from 60% FTP all the way up to 100% FTP via 8% increases every 12 minutes.
+FILE NAME = Piute +2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+1	50
+1	50
+1.5	60
+1.5	60
+13	60
+13	60
+13.5	68
+13.5	68
+25	68
+25	68
+25.5	76
+25.5	76
+37	76
+37	76
+37.5	84
+37.5	84
+49	84
+49	84
+49.5	92
+49.5	92
+61	92
+61	92
+61.5	100
+61.5	100
+73	100
+73	50
+75	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+90	780	Endurance 1
+780	810	Endurance 2
+810	1500	Endurance 3
+1500	1530	Endurance 4
+1530	2220	Tempo 1
+2220	2250	Tempo 2
+2250	2940	Tempo 3
+2940	2970	Sweet Spot 1
+2970	3660	Sweet Spot 2
+3660	3690	Threshold 1
+3690	4380	Threshold 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+ 

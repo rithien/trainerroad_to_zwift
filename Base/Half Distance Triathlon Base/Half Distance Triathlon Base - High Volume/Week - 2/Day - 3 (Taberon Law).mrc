@@ -1,0 +1,77 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Taberon Law&nbsp;is 80 total minutes of Tempo work broken into 6.5-12.5-minute segments ranging from 70-82% FTP.
+FILE NAME = Taberon Law
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2.5	50
+2.5	65
+5	65
+5	65
+5.5	75
+5.5	75
+15	75
+15	75
+15.5	81
+15.5	81
+28	81
+28	81
+28.5	70
+28.5	70
+35	70
+35	70
+35.5	76
+35.5	76
+45	76
+45	76
+45.5	82
+45.5	82
+55	82
+55	82
+55.5	70
+55.5	70
+65	70
+65	70
+65.5	75
+65.5	75
+75	75
+75	75
+75.5	82
+75.5	82
+85	82
+85	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+150	300	Endurance 1
+300	330	Endurance 2
+330	900	Endurance 3
+900	930	Tempo 1
+930	1680	Tempo 2
+1680	1710	Endurance 4
+1710	2100	Endurance 5
+2100	2130	Endurance 6
+2130	2700	Tempo 3
+2700	2730	Tempo 4
+2730	3300	Tempo 5
+3300	3330	Tempo 6
+3330	3900	Endurance 7
+3900	3930	Endurance 8
+3930	4500	Endurance 9
+4500	4530	Tempo 7
+4530	5100	Tempo 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+         

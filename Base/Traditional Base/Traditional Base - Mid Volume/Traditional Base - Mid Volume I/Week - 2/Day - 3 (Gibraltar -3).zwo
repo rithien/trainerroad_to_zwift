@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Gibraltar -3 is 105 minutes of continuous riding where you'll spend 90 minutes between 70-75% FTP.</description>
+    <name>Gibraltar -3</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.570" PowerHigh="0.570"/>
+        <SteadyState Duration="240.0" PowerLow="0.640" PowerHigh="0.640"/>
+        <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.740" PowerHigh="0.740"/>
+        <SteadyState Duration="240.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <SteadyState Duration="300.0" PowerLow="0.740" PowerHigh="0.740"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="420.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <SteadyState Duration="300.0" PowerLow="0.710" PowerHigh="0.710"/>
+        <SteadyState Duration="480.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="480.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="360.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <SteadyState Duration="240.0" PowerLow="0.710" PowerHigh="0.710"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="240.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="240.0" PowerLow="0.730" PowerHigh="0.730"/>
+        <SteadyState Duration="240.0" PowerLow="0.710" PowerHigh="0.710"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

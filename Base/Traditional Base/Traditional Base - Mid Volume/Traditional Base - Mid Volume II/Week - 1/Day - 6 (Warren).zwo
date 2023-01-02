@@ -1,0 +1,633 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Warren consists of about 2 hours &amp;amp; 15 minutes of aerobic Endurance riding spent between 60-70% FTP. It includes optional form drills like form sprints, endurance-spinning, and Individual Leg Training (ILT).</description>
+    <name>Warren</name>
+    <workout>
+        <Warmup Duration="300.0" PowerLow="0.490" PowerHigh="0.550">
+            <textevent message="Welcome to Warren!" timeoffset="10.000000"/>
+            <textevent message="Another workout dedicated to improving your aerobic capabilities..." timeoffset="17.000000"/>
+            <textevent message="but also including some form work to keep things productive &amp; interesting" timeoffset="23.000000"/>
+            <textevent message="Much more on this later though" timeoffset="30.000000"/>
+            <textevent message="For now, warm gradually with a quick, light spin..." timeoffset="36.000000"/>
+            <textevent message="preferably higher than 85rpm" timeoffset="41.000000"/>
+        </Warmup>
+        <SteadyState Duration="300.0" PowerLow="0.580" PowerHigh="0.580">
+            <textevent message="Pick your spin up slightly, stay just as smooth &amp; relaxed" timeoffset="0.000000"/>
+        </SteadyState>
+        <SteadyState Duration="1260.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="Let's get the drills rolling with a few Form Sprints" timeoffset="-1.000000"/>
+            <textevent message="And for the uninitiated..." timeoffset="6.000000"/>
+            <textevent message="let's break down exactly what a Form Sprint is" timeoffset="10.000000"/>
+            <textevent message="A proven, effective way to improve efficiency..." timeoffset="20.000000"/>
+            <textevent message="is through speed work" timeoffset="26.000000"/>
+            <textevent message="More specifically, CONTROLLED speed work" timeoffset="32.000000"/>
+            <textevent message="In order to build fluid, efficient speed..." timeoffset="38.000000"/>
+            <textevent message="control has to come first" timeoffset="43.000000"/>
+            <textevent message="And it's much safer to build control when the resistance is low" timeoffset="48.000000"/>
+            <textevent message="So Form Sprints utilize a light power requirement..." timeoffset="55.000000"/>
+            <textevent message="in hopes of allowing you to focus on controlled speed..." timeoffset="61.000000"/>
+            <textevent message="instead of high power output" timeoffset="67.000000"/>
+            <textevent message="Accordingly, you'll use a very light gear for each Form Sprint..." timeoffset="72.000000"/>
+            <textevent message="and if you're on an electronic trainer in Erg mode..." timeoffset="78.000000"/>
+            <textevent message="probably best to switch out of Erg momentarily..." timeoffset="84.000000"/>
+            <textevent message="and then you can switch back after each sprint" timeoffset="89.000000"/>
+            <textevent message="Using a light gear is very important, because again..." timeoffset="95.000000"/>
+            <textevent message="these sprints are about leg speed, not big power numbers" timeoffset="100.000000"/>
+            <textevent message="The trick is to find the right gear for a 10-second sprint..." timeoffset="107.000000"/>
+            <textevent message="where you'll jump, in or out of the saddle..." timeoffset="113.000000"/>
+            <textevent message="and wind up a lot of CONTROLLED leg speed very quickly" timeoffset="118.000000"/>
+            <textevent message="As you reach your highest, controllable peak..." timeoffset="125.000000"/>
+            <textevent message="you'll gracefully return to the saddle if you stood..." timeoffset="130.000000"/>
+            <textevent message="and finish out the 10-seconds with no slip in leg speed" timeoffset="135.000000"/>
+            <textevent message="A few things to keep in mind:" timeoffset="142.000000"/>
+            <textevent message="1 - These are only 10 seconds long" timeoffset="147.000000"/>
+            <textevent message="2 - These are about leg speed, not power" timeoffset="152.000000"/>
+            <textevent message="3 - If done poorly, you can actually damage your bike" timeoffset="157.000000"/>
+            <textevent message="So be conservative if you're new to Form Sprints..." timeoffset="164.000000"/>
+            <textevent message="and be sensible regardless of how experienced you are" timeoffset="170.000000"/>
+            <textevent message="First sprint will take place in a minute..." timeoffset="180.000000"/>
+            <textevent message="so start tinkering with your gears and find a combination..." timeoffset="186.000000"/>
+            <textevent message="that allows you to go from a typical 85-95rpm spin..." timeoffset="192.000000"/>
+            <textevent message="right up to your highest controllable spin..." timeoffset="198.000000"/>
+            <textevent message="in the matter of only 2-3 seconds" timeoffset="203.000000"/>
+            <textevent message="Again, the emphasis is not on power..." timeoffset="209.000000"/>
+            <textevent message="but on high, controllable speed..." timeoffset="214.000000"/>
+            <textevent message="and of course, excellent form" timeoffset="219.000000"/>
+            <textevent message="First sprint in 15 seconds" timeoffset="225.000000"/>
+            <textevent message="In 10!" timeoffset="230.000000"/>
+            <textevent message="5..." timeoffset="235.000000"/>
+            <textevent message="4..." timeoffset="236.000000"/>
+            <textevent message="3..." timeoffset="237.000000"/>
+            <textevent message="2..." timeoffset="238.000000"/>
+            <textevent message="1..." timeoffset="239.000000"/>
+            <textevent message="Go fast!" timeoffset="240.000000"/>
+            <textevent message="5 seconds!" timeoffset="245.000000"/>
+            <textevent message="Shut it down" timeoffset="250.000000"/>
+            <textevent message="So how'd that go?" timeoffset="260.000000"/>
+            <textevent message="Did you outrun your gearing early in the sprint?" timeoffset="265.000000"/>
+            <textevent message="Did it take you longer than a few seconds to wind it up?" timeoffset="272.000000"/>
+            <textevent message="In either case, this is a process like anything else..." timeoffset="279.000000"/>
+            <textevent message="and one where you can learn a little each time" timeoffset="285.000000"/>
+            <textevent message="So mull over this first sprint performance for a couple minutes..." timeoffset="292.000000"/>
+            <textevent message="and we'll repeat this process in about 5 minutes" timeoffset="298.000000"/>
+            <textevent message="OK, time to knock out another Form Sprint" timeoffset="600.000000"/>
+            <textevent message="But before you go again..." timeoffset="607.000000"/>
+            <textevent message="draw some information from that previous sprint" timeoffset="611.000000"/>
+            <textevent message="It doesn't matter if this is your second Form Sprint ever..." timeoffset="618.000000"/>
+            <textevent message="or if you've done literally hundreds of them" timeoffset="624.000000"/>
+            <textevent message="In either case, every sprint should improve a little bit..." timeoffset="630.000000"/>
+            <textevent message="over the one that preceded it" timeoffset="635.000000"/>
+            <textevent message="So how can you improve this one?" timeoffset="640.000000"/>
+            <textevent message="15 seconds to decide" timeoffset="645.000000"/>
+            <textevent message="Sprinting in 10!" timeoffset="650.000000"/>
+            <textevent message="5..." timeoffset="655.000000"/>
+            <textevent message="4..." timeoffset="656.000000"/>
+            <textevent message="3..." timeoffset="657.000000"/>
+            <textevent message="2..." timeoffset="658.000000"/>
+            <textevent message="1..." timeoffset="659.000000"/>
+            <textevent message="Wind it up!" timeoffset="660.000000"/>
+            <textevent message="5 seconds!" timeoffset="665.000000"/>
+            <textevent message="Turn it off" timeoffset="670.000000"/>
+            <textevent message="Well done" timeoffset="680.000000"/>
+            <textevent message="Ride easy and we'll tag on one more sprint..." timeoffset="685.000000"/>
+            <textevent message="in just a few minutes from now" timeoffset="691.000000"/>
+            <textevent message="In a minute you'll have the opportunity to add one more Form Sprint..." timeoffset="1020.000000"/>
+            <textevent message="and considering you've got at least 2 of these under your belt..." timeoffset="1026.000000"/>
+            <textevent message="this one promises to be the most informed yet..." timeoffset="1032.000000"/>
+            <textevent message="and potentially your best effort to date" timeoffset="1037.000000"/>
+            <textevent message="If you haven't yet found that proper gear combination..." timeoffset="1043.000000"/>
+            <textevent message="one that lets you wind up your leg speed quickly..." timeoffset="1048.000000"/>
+            <textevent message="but gives you enough gear to keep your leg speed for 10 seconds..." timeoffset="1053.000000"/>
+            <textevent message="make another small change in your gear selection" timeoffset="1058.000000"/>
+            <textevent message="Start standing, finish seated..." timeoffset="1064.000000"/>
+            <textevent message="or do the entire sprint in the saddle, your call" timeoffset="1068.000000"/>
+            <textevent message="5..." timeoffset="1075.000000"/>
+            <textevent message="4..." timeoffset="1076.000000"/>
+            <textevent message="3..." timeoffset="1077.000000"/>
+            <textevent message="2..." timeoffset="1078.000000"/>
+            <textevent message="1..." timeoffset="1079.000000"/>
+            <textevent message="Quick legs!" timeoffset="1080.000000"/>
+            <textevent message="5 seconds!" timeoffset="1085.000000"/>
+            <textevent message="Back waaaay off" timeoffset="1090.000000"/>
+            <textevent message="Nice job" timeoffset="1100.000000"/>
+            <textevent message="Just ride out the rest of this segment sprint-free" timeoffset="1105.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
+        <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="Over the course of this next stretch..." timeoffset="2.000000"/>
+            <textevent message="we'll target improvements in fluid leg speed" timeoffset="6.000000"/>
+            <textevent message="With enough time on the clock for a couple 5-minute Endurance Spins..." timeoffset="13.000000"/>
+            <textevent message="we'll work one in, rest up for a couple minutes, then repeat" timeoffset="19.000000"/>
+            <textevent message="With a workout of this duration..." timeoffset="27.000000"/>
+            <textevent message="your fatigue and consequently your level of control..." timeoffset="31.000000"/>
+            <textevent message="should remain reasonably high throughout" timeoffset="36.000000"/>
+            <textevent message="We'll take it a minute at a time though..." timeoffset="42.000000"/>
+            <textevent message="and should your from slip, beyond your control..." timeoffset="46.000000"/>
+            <textevent message="return your spin to its 'natural' rate..." timeoffset="51.000000"/>
+            <textevent message="and resume the drills when/if you can perform them well" timeoffset="55.000000"/>
+            <textevent message="Go ahead and lift your cadence a few rpm and settle in" timeoffset="61.000000"/>
+            <textevent message="Keep in mind, these are only slightly quicker than your usual cadence..." timeoffset="68.000000"/>
+            <textevent message="only about 3-5rpm above what you sustain 'naturally'" timeoffset="74.000000"/>
+            <textevent message="One minute in, how's your form looking?" timeoffset="120.000000"/>
+            <textevent message="If you feel sloppy, chances are high that you ARE sloppy" timeoffset="127.000000"/>
+            <textevent message="And this flies in the face of everything form work is about" timeoffset="134.000000"/>
+            <textevent message="Form work is about establishing desirable habits..." timeoffset="141.000000"/>
+            <textevent message="and it's counterproductive to practice anything less than your best technique" timeoffset="146.000000"/>
+            <textevent message="Even if your best technique leaves a lot to be desired..." timeoffset="154.000000"/>
+            <textevent message="you're still working TOWARD better technique..." timeoffset="160.000000"/>
+            <textevent message="with small, productive steps" timeoffset="165.000000"/>
+            <textevent message="But if you force yourself to perform drills even as your form is deteriorating..." timeoffset="170.000000"/>
+            <textevent message="you're begging for bad habits to take root..." timeoffset="176.000000"/>
+            <textevent message="and quite effectively working toward poor form" timeoffset="181.000000"/>
+            <textevent message="Improper habits are far harder to break..." timeoffset="187.000000"/>
+            <textevent message="than proper habits are to establish" timeoffset="191.000000"/>
+            <textevent message="So if you feel like you're doing anything less than your very best..." timeoffset="197.000000"/>
+            <textevent message="table the drills for a minute or two" timeoffset="203.000000"/>
+            <textevent message="Still managing to hold that quicker-than-usual cadence..." timeoffset="240.000000"/>
+            <textevent message="with no obvious deterioration in form?" timeoffset="245.000000"/>
+            <textevent message="Then hang in there for another minute" timeoffset="251.000000"/>
+            <textevent message="Otherwise, slow it back down and ride more smoothly with less speed" timeoffset="256.000000"/>
+            <textevent message="Still reinforcing nothing but good habits?" timeoffset="300.000000"/>
+            <textevent message="Then hang in there for yet another minute" timeoffset="307.000000"/>
+            <textevent message="Otherwise, slow things back down to the point..." timeoffset="313.000000"/>
+            <textevent message="where you feel controlled and confident..." timeoffset="318.000000"/>
+            <textevent message="that you can keep your speed steady &amp; efficient" timeoffset="323.000000"/>
+            <textevent message="And there it is, the full 5 minutes" timeoffset="360.000000"/>
+            <textevent message="Slow things down to a more natural cadence..." timeoffset="367.000000"/>
+            <textevent message="and shake off any tension that may have accumulated" timeoffset="372.000000"/>
+            <textevent message="You'll begin the second, identical drill in a couple minutes" timeoffset="379.000000"/>
+            <textevent message="Based on the first Endurance Spinning drill..." timeoffset="450.000000"/>
+            <textevent message="make a sensible call regarding this next bout of quicker legs" timeoffset="455.000000"/>
+            <textevent message="If you feel like you can handle that same, quicker spin, get ready" timeoffset="462.000000"/>
+            <textevent message="But if you feel as though you need to trim off a little leg speed..." timeoffset="469.000000"/>
+            <textevent message="to keep things productive, only lift things 1-3rpm" timeoffset="476.000000"/>
+            <textevent message="Just a little more leg speed than usual" timeoffset="483.000000"/>
+            <textevent message="One minute in, decide if another minute..." timeoffset="540.000000"/>
+            <textevent message="will reinforce habits you want to retain..." timeoffset="545.000000"/>
+            <textevent message="or habits that work AGAINST cultivating those improved circles" timeoffset="550.000000"/>
+            <textevent message="Same call to make..." timeoffset="600.000000"/>
+            <textevent message="hang in there or slow things down a bit" timeoffset="604.000000"/>
+            <textevent message="Only two minutes to go..." timeoffset="660.000000"/>
+            <textevent message="but don't stubbornly hang in there if you're falling apart" timeoffset="664.000000"/>
+            <textevent message="Top-notch form or ditch the speed drills" timeoffset="671.000000"/>
+            <textevent message="Final minute, you know the rules" timeoffset="720.000000"/>
+            <textevent message="Done for now! Return to your usual spin..." timeoffset="780.000000"/>
+            <textevent message="one that's ideally above 85rpm" timeoffset="786.000000"/>
+        </SteadyState>
+        <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
+        <SteadyState Duration="1620.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="Over this next long stretch, we'll dress things up a bit..." timeoffset="0.000000"/>
+            <textevent message="with four, 4-minute sets of single-leg drills" timeoffset="6.000000"/>
+            <textevent message="Isolated Leg Training, or ILT..." timeoffset="12.000000"/>
+            <textevent message="is exactly what it sounds like:" timeoffset="17.000000"/>
+            <textevent message="training a single leg in isolation, independently" timeoffset="21.000000"/>
+            <textevent message="While similar to single-leg focus drills..." timeoffset="27.000000"/>
+            <textevent message="ILT takes things further by actually removing one leg from the equation" timeoffset="32.000000"/>
+            <textevent message="You can do this by dangling your non-working leg..." timeoffset="39.000000"/>
+            <textevent message="out to the side of your bike..." timeoffset="44.000000"/>
+            <textevent message="or you can use something like a chair or stool..." timeoffset="48.000000"/>
+            <textevent message="to rest that non-working leg" timeoffset="53.000000"/>
+            <textevent message="You can also hang your free leg..." timeoffset="59.000000"/>
+            <textevent message="over the back of your trainer/turbo..." timeoffset="64.000000"/>
+            <textevent message="depending on the configuration of your unit" timeoffset="69.000000"/>
+            <textevent message="In any case..." timeoffset="75.000000"/>
+            <textevent message="see to it that your free leg doesn't impede your working leg..." timeoffset="79.000000"/>
+            <textevent message="for anywhere from 10 seconds..." timeoffset="85.000000"/>
+            <textevent message="up to a couple minutes at a time..." timeoffset="90.000000"/>
+            <textevent message="depending on how well you perform these drills" timeoffset="95.000000"/>
+            <textevent message="We'll move forward with the assumption..." timeoffset="102.000000"/>
+            <textevent message="that you're new to ILT drills..." timeoffset="107.000000"/>
+            <textevent message="and take you through the basics..." timeoffset="111.000000"/>
+            <textevent message="starting with getting into a single-leg position" timeoffset="115.000000"/>
+            <textevent message="Couple ways to do it..." timeoffset="123.000000"/>
+            <textevent message="but bringing your spin to a stop is the easiest when learning" timeoffset="127.000000"/>
+            <textevent message="The challenge with a full stop is getting going again..." timeoffset="134.000000"/>
+            <textevent message="but this is remedied by leaving your foot ON the pedal..." timeoffset="140.000000"/>
+            <textevent message="just not clicked IN to the pedal" timeoffset="146.000000"/>
+            <textevent message="So go ahead and stop pedaling..." timeoffset="152.000000"/>
+            <textevent message="let your wheel keep turning, no need to brake..." timeoffset="156.000000"/>
+            <textevent message="and disengage one foot from its cleat" timeoffset="161.000000"/>
+            <textevent message="Keep that free foot ON the pedal &amp; gently wind it up..." timeoffset="167.000000"/>
+            <textevent message="without pushing hard enough to lock back in" timeoffset="172.000000"/>
+            <textevent message="As soon as you've got a bit of leg speed..." timeoffset="179.000000"/>
+            <textevent message="even as low as 60rpm..." timeoffset="184.000000"/>
+            <textevent message="get that free leg out of the way" timeoffset="188.000000"/>
+            <textevent message="The second you do so..." timeoffset="194.000000"/>
+            <textevent message="start kicking your working leg forward..." timeoffset="198.000000"/>
+            <textevent message="as it approaches the top of each pedalstroke" timeoffset="203.000000"/>
+            <textevent message="This kick over the top is CRUCIAL..." timeoffset="209.000000"/>
+            <textevent message="to these single-leg drills, these one-leggers..." timeoffset="213.000000"/>
+            <textevent message="even more than when you're practicing Quadrant Drills" timeoffset="218.000000"/>
+            <textevent message="Nearly as important is the pull across the bottom..." timeoffset="225.000000"/>
+            <textevent message="at the lowest point of each pedal revolution" timeoffset="231.000000"/>
+            <textevent message="Keep this kicking &amp; pulling going for as long as you can..." timeoffset="237.000000"/>
+            <textevent message="before 'the knocks' set in" timeoffset="243.000000"/>
+            <textevent message="You'll know them when you hear (feel) them..." timeoffset="249.000000"/>
+            <textevent message="because they're very obvious exaggerations of the dead spots..." timeoffset="254.000000"/>
+            <textevent message="in the top &amp; bottom of most riders' pedalstrokes" timeoffset="260.000000"/>
+            <textevent message="Consider these your cue to either rekindle your kick &amp; pull..." timeoffset="267.000000"/>
+            <textevent message="or to switch legs" timeoffset="273.000000"/>
+            <textevent message="However you squash them, SQUASH them..." timeoffset="279.000000"/>
+            <textevent message="because they indicate poor form and encourage bad habits" timeoffset="284.000000"/>
+            <textevent message="When you decide to switch..." timeoffset="291.000000"/>
+            <textevent message="simply stop pedaling again..." timeoffset="295.000000"/>
+            <textevent message="re-engage your free foot in its pedal..." timeoffset="299.000000"/>
+            <textevent message="disengage the other but leave it ON the pedal..." timeoffset="303.000000"/>
+            <textevent message="and get your cadence back up before removing your free leg" timeoffset="309.000000"/>
+            <textevent message="Then resume your kicking &amp; pulling..." timeoffset="316.000000"/>
+            <textevent message="and resist 'the knocks' for as long as you can..." timeoffset="321.000000"/>
+            <textevent message="without overly fatiguing your muscles" timeoffset="327.000000"/>
+            <textevent message="There's no need and even potential bad habits to gain..." timeoffset="333.000000"/>
+            <textevent message="by running each leg into the ground" timeoffset="339.000000"/>
+            <textevent message="Don't do that, instead..." timeoffset="345.000000"/>
+            <textevent message="trade legs as often as necessary to avoid overcooked muscles" timeoffset="350.000000"/>
+            <textevent message="Even if that means you spend more time changing legs..." timeoffset="357.000000"/>
+            <textevent message="than pedaling your bike" timeoffset="363.000000"/>
+            <textevent message="During the learning phase, anyway" timeoffset="368.000000"/>
+            <textevent message="About 45 more seconds in this first round of 4..." timeoffset="373.000000"/>
+            <textevent message="switching legs as often as necessary" timeoffset="379.000000"/>
+            <textevent message="Time to get both feet back in the pedals..." timeoffset="420.000000"/>
+            <textevent message="and ride easily for a couple minutes" timeoffset="426.000000"/>
+            <textevent message="Ditch the upper body tension that undoubtedly crept in..." timeoffset="432.000000"/>
+            <textevent message="over the course of these drills" timeoffset="438.000000"/>
+            <textevent message="Start with your hands, elbows &amp; shoulders..." timeoffset="443.000000"/>
+            <textevent message="and travel up through your neck &amp; face..." timeoffset="448.000000"/>
+            <textevent message="then down through your shoulder blades &amp; low back..." timeoffset="453.000000"/>
+            <textevent message="and all the way through your lower legs &amp; feet..." timeoffset="458.000000"/>
+            <textevent message="ditching unproductive tension wherever you find it" timeoffset="463.000000"/>
+            <textevent message="Another minute of easy spinning..." timeoffset="480.000000"/>
+            <textevent message="then we'll kick off another round of ILT drills" timeoffset="485.000000"/>
+            <textevent message="Round 2, ding ding ding" timeoffset="540.000000"/>
+            <textevent message="Get one foot disengaged but still contributing..." timeoffset="546.000000"/>
+            <textevent message="probably from a full stop" timeoffset="551.000000"/>
+            <textevent message="Once you get your 2-leg spin back up to 60rpm or higher..." timeoffset="556.000000"/>
+            <textevent message="get that free leg out of the way..." timeoffset="562.000000"/>
+            <textevent message="and start kicking &amp; pulling that pedal around" timeoffset="566.000000"/>
+            <textevent message="This time, make a sincere effort..." timeoffset="573.000000"/>
+            <textevent message="to avoid over gripping the handlebars" timeoffset="578.000000"/>
+            <textevent message="If your hands were sore following that first round..." timeoffset="584.000000"/>
+            <textevent message="(in which case you're far from alone)" timeoffset="590.000000"/>
+            <textevent message="then consciously and often remind yourself..." timeoffset="596.000000"/>
+            <textevent message="that you aren't wrestling cattle..." timeoffset="601.000000"/>
+            <textevent message="but simply pedaling a bike with one leg" timeoffset="606.000000"/>
+            <textevent message="Probably equally difficult in the learning stage" timeoffset="612.000000"/>
+            <textevent message="Riders particularly gifted and/or practiced in the art of ILT..." timeoffset="619.000000"/>
+            <textevent message="may find themselves humming along on a single leg..." timeoffset="625.000000"/>
+            <textevent message="for upwards of a couple minutes" timeoffset="631.000000"/>
+            <textevent message="If this describes YOU..." timeoffset="637.000000"/>
+            <textevent message="then limit your efforts to 2 minutes" timeoffset="641.000000"/>
+            <textevent message="This ensures you'll spend even time on both legs..." timeoffset="646.000000"/>
+            <textevent message="during the course of each 4-minute set of drills" timeoffset="651.000000"/>
+            <textevent message="Switch legs if you've yet to do so..." timeoffset="660.000000"/>
+            <textevent message="and switch legs if you're fading in any way" timeoffset="665.000000"/>
+            <textevent message="If you hear knocking, if your leg is flooded..." timeoffset="671.000000"/>
+            <textevent message="if your body is severely canted over your working leg..." timeoffset="676.000000"/>
+            <textevent message="or even if you simply FEEL sloppy..." timeoffset="681.000000"/>
+            <textevent message="switch legs now and every time this is the case" timeoffset="686.000000"/>
+            <textevent message="One more minute before you get both feet going' again..." timeoffset="720.000000"/>
+            <textevent message="and the fatigue is probably mounting..." timeoffset="726.000000"/>
+            <textevent message="to the point where you're switching legs often" timeoffset="731.000000"/>
+            <textevent message="This is not only okay but it's encouraged..." timeoffset="737.000000"/>
+            <textevent message="because again, form drills are about proper form" timeoffset="742.000000"/>
+            <textevent message="They're not about getting through the drills at all costs..." timeoffset="749.000000"/>
+            <textevent message="but instead getting through the drills..." timeoffset="755.000000"/>
+            <textevent message="while acquiring &amp; reinforcing habits you wish to retain" timeoffset="760.000000"/>
+            <textevent message="Well done, both feet back in for a couple minutes" timeoffset="780.000000"/>
+            <textevent message="Run forehead to toes..." timeoffset="787.000000"/>
+            <textevent message="hands to hips, feet to neck..." timeoffset="791.000000"/>
+            <textevent message="any point-to-point you like.." timeoffset="795.000000"/>
+            <textevent message="just as long as you shake off any new, needless tension" timeoffset="799.000000"/>
+            <textevent message="Another minute with both feet in, pedaling fluidly..." timeoffset="840.000000"/>
+            <textevent message="perhaps already applying your newfound skills..." timeoffset="845.000000"/>
+            <textevent message="to your usual, 2-leg pedaling style" timeoffset="850.000000"/>
+            <textevent message="Let's do this again..." timeoffset="900.000000"/>
+            <textevent message="but as is the case with any form drill..." timeoffset="906.000000"/>
+            <textevent message="you have to be able to do the drills well..." timeoffset="912.000000"/>
+            <textevent message="or you're wasting your effort and encouraging improper habits" timeoffset="918.000000"/>
+            <textevent message="So if you're so tired you KNOW you'll be sloppy..." timeoffset="925.000000"/>
+            <textevent message="leave both feet locked in to your pedals; otherwise..." timeoffset="931.000000"/>
+            <textevent message="get one free, get it out of the way..." timeoffset="937.000000"/>
+            <textevent message="and emphasize that kick &amp; pull with the working leg" timeoffset="942.000000"/>
+            <textevent message="One minute in..." timeoffset="960.000000"/>
+            <textevent message="switching legs as often as necessary" timeoffset="964.000000"/>
+            <textevent message="With a bit of experience in your legs now..." timeoffset="970.000000"/>
+            <textevent message="even if it extends no further than this workout only..." timeoffset="975.000000"/>
+            <textevent message="let's turn your focus to some of the finer points of ILT" timeoffset="980.000000"/>
+            <textevent message="Each time you get a leg off &amp; running on its own..." timeoffset="987.000000"/>
+            <textevent message="confirm that even though the work is being done with only 1 leg..." timeoffset="993.000000"/>
+            <textevent message="BOTH sit-bones are in contact with your saddle" timeoffset="999.000000"/>
+            <textevent message="Unless you're doing these standing" timeoffset="1006.000000"/>
+            <textevent message="Kidding" timeoffset="1012.000000"/>
+            <textevent message="Having one leg dangling to the side..." timeoffset="1017.000000"/>
+            <textevent message="doesn't preclude you from keeping your base of support..." timeoffset="1022.000000"/>
+            <textevent message="just as stable as it is when both legs are locked in" timeoffset="1027.000000"/>
+            <textevent message="So keep 'em anchored" timeoffset="1034.000000"/>
+            <textevent message="Just another minute in this round..." timeoffset="1080.000000"/>
+            <textevent message="and just enough time to address your breathing" timeoffset="1085.000000"/>
+            <textevent message="Simply, don't restrict it" timeoffset="1091.000000"/>
+            <textevent message="It's common to see riders hold their breath or breathe shallowly..." timeoffset="1097.000000"/>
+            <textevent message="when deeply focused on a more technical drill" timeoffset="1103.000000"/>
+            <textevent message="This is clearly not helpful or performance-enhancing..." timeoffset="1109.000000"/>
+            <textevent message="so make a conscious effort to draw full, belly-driven breaths..." timeoffset="1114.000000"/>
+            <textevent message="as you work your way through each round of drills" timeoffset="1120.000000"/>
+            <textevent message="Another round out of the way!" timeoffset="1140.000000"/>
+            <textevent message="Both feet back in, ditch the unnecessary tension" timeoffset="1146.000000"/>
+            <textevent message="One more, easy, two-legged minute" timeoffset="1200.000000"/>
+            <textevent message="Time for one more round..." timeoffset="1260.000000"/>
+            <textevent message="and no new information to process this time" timeoffset="1265.000000"/>
+            <textevent message="Just abide by the rules..." timeoffset="1271.000000"/>
+            <textevent message="of kicking &amp; pulling more deliberately..." timeoffset="1275.000000"/>
+            <textevent message="staying relaxed &amp; anchored..." timeoffset="1279.000000"/>
+            <textevent message="and switching legs as often as necessary..." timeoffset="1283.000000"/>
+            <textevent message="to keep the quality of each ILT drill as high as you can" timeoffset="1287.000000"/>
+            <textevent message="3 minutes of single-leg pedaling left..." timeoffset="1320.000000"/>
+            <textevent message="but you're welcome to lock both feet back in..." timeoffset="1326.000000"/>
+            <textevent message="at any point where you feel you've simply lost the plot" timeoffset="1332.000000"/>
+            <textevent message="In fact, learn to recognize this point..." timeoffset="1339.000000"/>
+            <textevent message="with all form-oriented drills" timeoffset="1344.000000"/>
+            <textevent message="This point of diminishing returns..." timeoffset="1350.000000"/>
+            <textevent message="can rapidly descend into a mess of bad technique..." timeoffset="1355.000000"/>
+            <textevent message="and set you up for some eventual 'un-learning' of bad habits..." timeoffset="1360.000000"/>
+            <textevent message="which takes FAR longer to achieve..." timeoffset="1366.000000"/>
+            <textevent message="than the initial learning of desirable habits" timeoffset="1370.000000"/>
+            <textevent message="2 minutes to go! Be relaxed" timeoffset="1380.000000"/>
+            <textevent message="Final minute of defying exercise physics..." timeoffset="1440.000000"/>
+            <textevent message="so hang in there as long as you're making it worthwhile" timeoffset="1446.000000"/>
+            <textevent message="That'll do it, get both feet back in..." timeoffset="1500.000000"/>
+            <textevent message="and spin out the remainder of this low-intensity stretch" timeoffset="1506.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
+        <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="Over the course of this next segment..." timeoffset="-1.000000"/>
+            <textevent message="the optional form drills will again target your ability to maintain leg speed" timeoffset="5.000000"/>
+            <textevent message="Otherwise referred to as 'speed endurance'..." timeoffset="13.000000"/>
+            <textevent message="these drills are very much about refining your form..." timeoffset="19.000000"/>
+            <textevent message="and then retaining those refinements" timeoffset="24.000000"/>
+            <textevent message="And unlike sprints where the leg speed is an 'on/off' sort of affair..." timeoffset="30.000000"/>
+            <textevent message="these Endurance Spinning drills are about staying 'on'..." timeoffset="36.000000"/>
+            <textevent message="for extended periods of time" timeoffset="42.000000"/>
+            <textevent message="Much like the earlier 2 efforts..." timeoffset="47.000000"/>
+            <textevent message="you'll strive to hold a quick spin for 5 minutes at a time" timeoffset="52.000000"/>
+            <textevent message="How quick?" timeoffset="59.000000"/>
+            <textevent message="Only a little quicker than your normal, self-selected cadence" timeoffset="64.000000"/>
+            <textevent message="Typically, this falls in the 3-5rpm range" timeoffset="71.000000"/>
+            <textevent message="So if you usually spin at 90rpm, you'll shoot for 93-95rpm" timeoffset="78.000000"/>
+            <textevent message="Whatever the case..." timeoffset="85.000000"/>
+            <textevent message="spinning at the top of your comfortable rpm range..." timeoffset="89.000000"/>
+            <textevent message="for 5 continuous minutes..." timeoffset="94.000000"/>
+            <textevent message="is what you're after, twice" timeoffset="98.000000"/>
+            <textevent message="We'll kick off this first one in about 15 seconds" timeoffset="104.000000"/>
+            <textevent message="Time to gradually lift your leg speed a couple/few rpm" timeoffset="120.000000"/>
+            <textevent message="Nothing excessive, nothing that loads up your legs" timeoffset="127.000000"/>
+            <textevent message="In fact, this should barely affect your heart rate" timeoffset="134.000000"/>
+            <textevent message="We'll check in from time to time to confirm..." timeoffset="141.000000"/>
+            <textevent message="that your HR hasn't risen more than a few bpm" timeoffset="147.000000"/>
+            <textevent message="If it has, no big deal..." timeoffset="154.000000"/>
+            <textevent message="it just means you're spinning a little too quickly" timeoffset="159.000000"/>
+            <textevent message="One minute in, try to stay as relaxed as possible" timeoffset="180.000000"/>
+            <textevent message="If your shoulders are starting to hug your ears..." timeoffset="187.000000"/>
+            <textevent message="let them fall, keep 'em loose" timeoffset="193.000000"/>
+            <textevent message="If your neck or jaw are full of tension, relax them" timeoffset="199.000000"/>
+            <textevent message="If you're overgripping the bars, loosen up" timeoffset="206.000000"/>
+            <textevent message="Couple minutes in, how's your HR?" timeoffset="240.000000"/>
+            <textevent message="As long as your only 2-3 beats per minute higher..." timeoffset="247.000000"/>
+            <textevent message="than when you started this interval, keep it up" timeoffset="253.000000"/>
+            <textevent message="If, on the other hand, it has risen 4 or 5bpm..." timeoffset="260.000000"/>
+            <textevent message="back your spin off ever so slightly..." timeoffset="266.000000"/>
+            <textevent message="and see if you can drop your heart rate a little" timeoffset="271.000000"/>
+            <textevent message="Another minute of staying relaxed..." timeoffset="300.000000"/>
+            <textevent message="spinning slightly quicker than usual..." timeoffset="304.000000"/>
+            <textevent message="and keeping that HR in check" timeoffset="308.000000"/>
+            <textevent message="2 more minutes of keeping your spin slightly elevated" timeoffset="360.000000"/>
+            <textevent message="With this quicker spin..." timeoffset="367.000000"/>
+            <textevent message="see to it that your hips aren't bouncing around" timeoffset="371.000000"/>
+            <textevent message="If they are, you have a couple options:" timeoffset="378.000000"/>
+            <textevent message="1 - Slow your spin slightly" timeoffset="385.000000"/>
+            <textevent message="2 - Loosen up your lower legs" timeoffset="390.000000"/>
+            <textevent message="A lot of times, bouncing in the saddle results from..." timeoffset="395.000000"/>
+            <textevent message="lower legs carrying too much tension" timeoffset="400.000000"/>
+            <textevent message="Could be in your feet, your ankles, but most likely your calf muscles" timeoffset="405.000000"/>
+            <textevent message="So ditch that tension..." timeoffset="413.000000"/>
+            <textevent message="almost as though you're pedaling with your knees..." timeoffset="417.000000"/>
+            <textevent message="and your lower legs only serve to connect you to the pedals" timeoffset="423.000000"/>
+            <textevent message="Under a minute!" timeoffset="430.000000"/>
+            <textevent message="Well done, resume your usual cadence" timeoffset="480.000000"/>
+            <textevent message="Stay comfortably here for the next couple minutes" timeoffset="487.000000"/>
+            <textevent message="Almost time to work in another 5-minute Endurance Spin" timeoffset="570.000000"/>
+            <textevent message="Based on your last one, modify your target cadence as necessary" timeoffset="577.000000"/>
+            <textevent message="Again, the idea is to spin just above your usual cadence..." timeoffset="584.000000"/>
+            <textevent message="but still within your comfort zone, if at the high end of it" timeoffset="590.000000"/>
+            <textevent message="OK, pick it up slightly and settle in" timeoffset="600.000000"/>
+            <textevent message="We'll touch base every minute on the minute" timeoffset="607.000000"/>
+            <textevent message="First minute behind ya, staying fluid &amp; relaxed?" timeoffset="660.000000"/>
+            <textevent message="Another minute down..." timeoffset="720.000000"/>
+            <textevent message="drop those shoulders, loosen your grip" timeoffset="724.000000"/>
+            <textevent message="Only 2 minutes left, make them look effortlessly quick" timeoffset="780.000000"/>
+            <textevent message="Final minute holding that slightly elevated cadence" timeoffset="840.000000"/>
+            <textevent message="Just as relaxed as when you began this segment" timeoffset="847.000000"/>
+        </SteadyState>
+        <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600">
+            <textevent message="Excellent, ease back a bit on the leg speed..." timeoffset="0.000000"/>
+            <textevent message="and try to ditch any tension that might have accumulated..." timeoffset="6.000000"/>
+            <textevent message="in your upper body" timeoffset="12.000000"/>
+        </Cooldown>
+        <SteadyState Duration="1200.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="Let's add as many as 3 more Form Sprints to this next segment" timeoffset="-1.000000"/>
+            <textevent message="It's up to you to decide how many you'll do..." timeoffset="6.000000"/>
+            <textevent message="if you decide to do any at all" timeoffset="11.000000"/>
+            <textevent message="And again, keep in mind that these high-speed sprints..." timeoffset="16.000000"/>
+            <textevent message="are entirely about LEG speed - not power, not mph/kph" timeoffset="21.000000"/>
+            <textevent message="So light gearing is a necessity..." timeoffset="28.000000"/>
+            <textevent message="if you're going to spin really quickly..." timeoffset="32.000000"/>
+            <textevent message="while keeping your watts right on Target" timeoffset="36.000000"/>
+            <textevent message="And in this case, the Target is only 60% of your FTP" timeoffset="42.000000"/>
+            <textevent message="Low power, high leg speed/cadence" timeoffset="55.000000"/>
+            <textevent message="And if you have the luxury of training on an electronic trainer..." timeoffset="60.000000"/>
+            <textevent message="and you're in Erg mode..." timeoffset="66.000000"/>
+            <textevent message="now is probably a good time to switch out of it..." timeoffset="70.000000"/>
+            <textevent message="to avoid out-running your resistance mechanism..." timeoffset="75.000000"/>
+            <textevent message="and then switch back into Erg afterwards" timeoffset="80.000000"/>
+            <textevent message="In any case, now is a good time to hunt for suitable gearing" timeoffset="85.000000"/>
+            <textevent message="OK, almost time!" timeoffset="150.000000"/>
+            <textevent message="As far as position, these sprints CAN be initiated standing..." timeoffset="155.000000"/>
+            <textevent message="in which case, you'll reach your highest, controllable peak..." timeoffset="160.000000"/>
+            <textevent message="then gracefully transition back into the saddle..." timeoffset="165.000000"/>
+            <textevent message="and do your best to hang onto your leg speed" timeoffset="169.000000"/>
+            <textevent message="First sprint coming up in 1 minute" timeoffset="180.000000"/>
+            <textevent message="20 seconds to find the gearing..." timeoffset="220.000000"/>
+            <textevent message="that allows you to wind it up quickly..." timeoffset="224.000000"/>
+            <textevent message="without running out of gears inside of 10 seconds" timeoffset="229.000000"/>
+            <textevent message="Get ready..." timeoffset="234.000000"/>
+            <textevent message="3..." timeoffset="237.000000"/>
+            <textevent message="2..." timeoffset="238.000000"/>
+            <textevent message="1..." timeoffset="239.000000"/>
+            <textevent message="Go fast!" timeoffset="240.000000"/>
+            <textevent message="5 more seconds!" timeoffset="245.000000"/>
+            <textevent message="Shut it down..." timeoffset="250.000000"/>
+            <textevent message="and return to your normal cadence above 85rpm" timeoffset="254.000000"/>
+            <textevent message="Next sprint in about 7 minutes..." timeoffset="260.000000"/>
+            <textevent message="so take it easy for a little while..." timeoffset="265.000000"/>
+            <textevent message="and we'll talk again in about 5 minutes" timeoffset="270.000000"/>
+            <textevent message="And we're back! Miss us?" timeoffset="540.000000"/>
+            <textevent message="With your next opportunity to practice sprint technique..." timeoffset="547.000000"/>
+            <textevent message="and general, high-end leg speed just a couple minutes away..." timeoffset="553.000000"/>
+            <textevent message="let's review those 3 key points again:" timeoffset="559.000000"/>
+            <textevent message="1 - These are only 10 seconds long" timeoffset="565.000000"/>
+            <textevent message="2 - They're about leg speed, NOT power" timeoffset="570.000000"/>
+            <textevent message="3 - And done poorly, you can actually break your bike" timeoffset="575.000000"/>
+            <textevent message="So be conservative if you're still honing your technique..." timeoffset="582.000000"/>
+            <textevent message="and be sensible regardless of how good you've gotten" timeoffset="588.000000"/>
+            <textevent message="These are about leg speed &amp; control anyway..." timeoffset="595.000000"/>
+            <textevent message="so there's no need to wrench on the bars in pursuit of peak power" timeoffset="600.000000"/>
+            <textevent message="First sprint will take place in a minute..." timeoffset="600.000000"/>
+            <textevent message="Start tinkering with your gears and find a combination..." timeoffset="606.000000"/>
+            <textevent message="that allows you to go from a typical 85-95rpm spin..." timeoffset="612.000000"/>
+            <textevent message="right up to your highest controllable spin..." timeoffset="618.000000"/>
+            <textevent message="in the short span of 2-3 seconds" timeoffset="623.000000"/>
+            <textevent message="Again, the emphasis is not on power..." timeoffset="629.000000"/>
+            <textevent message="but on high, controllable speed..." timeoffset="634.000000"/>
+            <textevent message="and of course, excellent form" timeoffset="639.000000"/>
+            <textevent message="Next sprint in 15 seconds" timeoffset="645.000000"/>
+            <textevent message="In 10!" timeoffset="650.000000"/>
+            <textevent message="5..." timeoffset="655.000000"/>
+            <textevent message="4..." timeoffset="656.000000"/>
+            <textevent message="3..." timeoffset="657.000000"/>
+            <textevent message="2..." timeoffset="658.000000"/>
+            <textevent message="1..." timeoffset="659.000000"/>
+            <textevent message="Fast legs!" timeoffset="660.000000"/>
+            <textevent message="5 seconds!" timeoffset="665.000000"/>
+            <textevent message="Shut it down" timeoffset="670.000000"/>
+            <textevent message="So how'd that go?" timeoffset="680.000000"/>
+            <textevent message="Manage to keep your high cadence for the entire 10 seconds?" timeoffset="685.000000"/>
+            <textevent message="Only using a few seconds to wind it up?" timeoffset="692.000000"/>
+            <textevent message="Again, this is a process like anything else..." timeoffset="699.000000"/>
+            <textevent message="so just try to learn a little each time..." timeoffset="705.000000"/>
+            <textevent message="by mulling over your earlier sprints for a couple minutes..." timeoffset="709.000000"/>
+            <textevent message="and we'll repeat this process in about 5 minutes" timeoffset="715.000000"/>
+            <textevent message="OK, time to knock out one last Form Sprint" timeoffset="1020.000000"/>
+            <textevent message="But before you go again..." timeoffset="1027.000000"/>
+            <textevent message="draw some information from all your previous sprints" timeoffset="1031.000000"/>
+            <textevent message="Sixth Form Sprint ever..." timeoffset="1038.000000"/>
+            <textevent message="or your 600th, it doesn't matter" timeoffset="1043.000000"/>
+            <textevent message="EVERY sprint should improve a little bit..." timeoffset="1049.000000"/>
+            <textevent message="over the last one you did" timeoffset="1054.000000"/>
+            <textevent message="Contemplate how you plan to improve this next one now" timeoffset="1059.000000"/>
+            <textevent message="15 seconds till go-time" timeoffset="1065.000000"/>
+            <textevent message="Sprinting in 10..." timeoffset="1070.000000"/>
+            <textevent message="5..." timeoffset="1075.000000"/>
+            <textevent message="4..." timeoffset="1076.000000"/>
+            <textevent message="3..." timeoffset="1077.000000"/>
+            <textevent message="2..." timeoffset="1078.000000"/>
+            <textevent message="1..." timeoffset="1079.000000"/>
+            <textevent message="Wind it up!" timeoffset="1080.000000"/>
+            <textevent message="5 seconds!" timeoffset="1085.000000"/>
+            <textevent message="Turn it off" timeoffset="1090.000000"/>
+            <textevent message="Well done" timeoffset="1100.000000"/>
+            <textevent message="Time to just ride out the rest of this segment" timeoffset="1105.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
+        <SteadyState Duration="1020.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="If you're not totally shot by this point in a long workout..." timeoffset="0.000000"/>
+            <textevent message="get ready to add a few final rounds of ILT work..." timeoffset="7.000000"/>
+            <textevent message="done at a higher resistance than that earlier round..." timeoffset="12.000000"/>
+            <textevent message="which may well make these a little slower in terms of cadence" timeoffset="18.000000"/>
+            <textevent message="Add in the further challenge of accumulated fatigue..." timeoffset="25.000000"/>
+            <textevent message="and it's safe to assume that this will be..." timeoffset="31.000000"/>
+            <textevent message="the most challenging round of form drills of this workout" timeoffset="36.000000"/>
+            <textevent message="But if you think you can salvage enough energy to do it well..." timeoffset="43.000000"/>
+            <textevent message="then remove a leg from your pedalstroke..." timeoffset="49.000000"/>
+            <textevent message="and start kicking over the top..." timeoffset="53.000000"/>
+            <textevent message="and pulling across the bottom" timeoffset="57.000000"/>
+            <textevent message="We'll shoot for four, 3-minute rounds..." timeoffset="62.000000"/>
+            <textevent message="of lower-cadence ILT drills during this final segment" timeoffset="67.000000"/>
+            <textevent message="Ideally, you'll spin above 60rpm..." timeoffset="74.000000"/>
+            <textevent message="but riders looking to weave in some slow-force work..." timeoffset="79.000000"/>
+            <textevent message="can spin even more slowly as long as their knees will abide" timeoffset="85.000000"/>
+            <textevent message="For everyone else, 60rpm is the minimum..." timeoffset="92.000000"/>
+            <textevent message="and 90rpm is the goal cadence" timeoffset="97.000000"/>
+            <textevent message="When you reach the point where you can spin at 90rpm..." timeoffset="103.000000"/>
+            <textevent message="for 2 minutes at a stretch..." timeoffset="109.000000"/>
+            <textevent message="with both legs, individually of course..." timeoffset="114.000000"/>
+            <textevent message="you can safely call yourself 'good' at ILT" timeoffset="119.000000"/>
+            <textevent message="Until then, you'll be classified as 'consistently improving'..." timeoffset="124.000000"/>
+            <textevent message="which implies consistency!" timeoffset="130.000000"/>
+            <textevent message="So feel free to sprinkle in some ILT work..." timeoffset="135.000000"/>
+            <textevent message="whenever the intensity is low enough..." timeoffset="140.000000"/>
+            <textevent message="and your muscles are fresh enough..." timeoffset="145.000000"/>
+            <textevent message="if your goal is to improve your single-leg capabilities..." timeoffset="150.000000"/>
+            <textevent message="and in turn, your pedalstroke as a whole" timeoffset="155.000000"/>
+            <textevent message="A little over a minute left in this first go-round..." timeoffset="161.000000"/>
+            <textevent message="switching as often as necessary in order to keep things productive" timeoffset="166.000000"/>
+            <textevent message="With one more minute ahead..." timeoffset="180.000000"/>
+            <textevent message="do your best to evenly distribute your single-leg effort..." timeoffset="184.000000"/>
+            <textevent message="between both legs during each 3-minute stretch" timeoffset="190.000000"/>
+            <textevent message="But if one leg is noticeably more controlled..." timeoffset="196.000000"/>
+            <textevent message="then feel free to spend more time training the less controlled leg" timeoffset="201.000000"/>
+            <textevent message="30 more seconds, keep it smooth &amp; 'knock-free'" timeoffset="210.000000"/>
+            <textevent message="Excellent, get both feet back in the pedals for a minute" timeoffset="240.000000"/>
+            <textevent message="Round 2 of 4 coming up..." timeoffset="285.000000"/>
+            <textevent message="so start to free up one foot..." timeoffset="290.000000"/>
+            <textevent message="and ready your kick &amp; pull" timeoffset="294.000000"/>
+            <textevent message="Round 2 is underway" timeoffset="300.000000"/>
+            <textevent message="If you're switching every 30 seconds..." timeoffset="305.000000"/>
+            <textevent message="this gives you 3 opportunities on each foot" timeoffset="309.000000"/>
+            <textevent message="If you switch about every minute, start with your 'weaker' leg..." timeoffset="314.000000"/>
+            <textevent message="and spend extra time reinforcing those good habits" timeoffset="320.000000"/>
+            <textevent message="Outside of that, just switch anytime your form deteriorates..." timeoffset="327.000000"/>
+            <textevent message="or the fatigue mounts and the burn flares" timeoffset="333.000000"/>
+            <textevent message="A couple minutes left, check your grip really quick" timeoffset="360.000000"/>
+            <textevent message="If you're white-knuckling it..." timeoffset="367.000000"/>
+            <textevent message="obviously relax your grip, but also..." timeoffset="371.000000"/>
+            <textevent message="see if that tension carried up your body..." timeoffset="375.000000"/>
+            <textevent message="and eliminate that excess" timeoffset="380.000000"/>
+            <textevent message="One more minute before a quick, 2-legged break" timeoffset="420.000000"/>
+            <textevent message="Still feeling both sit-bones?" timeoffset="427.000000"/>
+            <textevent message="Try not to let your body weight shift to one side" timeoffset="433.000000"/>
+            <textevent message="This usually stems from a shift of the shoulders..." timeoffset="440.000000"/>
+            <textevent message="but it's just as often due to a shift in your hips" timeoffset="446.000000"/>
+            <textevent message="In either case, level out" timeoffset="453.000000"/>
+            <textevent message="Well done, both feet back in for a minute" timeoffset="480.000000"/>
+            <textevent message="Get ready for another round..." timeoffset="530.000000"/>
+            <textevent message="as long as you're fresh enough to do it well" timeoffset="535.000000"/>
+            <textevent message="One leg kicks &amp; pulls..." timeoffset="541.000000"/>
+            <textevent message="hands remain loose on the bars..." timeoffset="545.000000"/>
+            <textevent message="shoulders &amp; hips remain level..." timeoffset="549.000000"/>
+            <textevent message="and your power stays really close to your Target" timeoffset="553.000000"/>
+            <textevent message="Another minute and a slight switch in focus" timeoffset="600.000000"/>
+            <textevent message="Try to keep your upper body as still as a statue" timeoffset="606.000000"/>
+            <textevent message="This is useful in a couple senses, but regardless..." timeoffset="612.000000"/>
+            <textevent message="it cultivates the sort of stability..." timeoffset="618.000000"/>
+            <textevent message="particularly useful to riding with both feet locked in" timeoffset="622.000000"/>
+            <textevent message="So if you can be near-motionless above the waist..." timeoffset="629.000000"/>
+            <textevent message="when just one leg is engaged..." timeoffset="634.000000"/>
+            <textevent message="imagine how steady &amp; controlled you'll be when both legs are working" timeoffset="638.000000"/>
+            <textevent message="Final minute in this round..." timeoffset="660.000000"/>
+            <textevent message="and time to once again check your grip" timeoffset="664.000000"/>
+            <textevent message="Third round behind you, both feet back in the pedals" timeoffset="720.000000"/>
+            <textevent message="Try to spin off any fatigue in that recently working leg..." timeoffset="727.000000"/>
+            <textevent message="and decide if one more round will be beneficial..." timeoffset="733.000000"/>
+            <textevent message="or maybe asking a little too much of tired muscles" timeoffset="739.000000"/>
+            <textevent message="Get ready for the final round..." timeoffset="770.000000"/>
+            <textevent message="as long as you can keep it pretty" timeoffset="774.000000"/>
+            <textevent message="One foot out, power on Target" timeoffset="780.000000"/>
+            <textevent message="Only 2 minutes to go..." timeoffset="840.000000"/>
+            <textevent message="but there's no shame in skipping the remaining drills..." timeoffset="844.000000"/>
+            <textevent message="if you suspect your form will suffer" timeoffset="849.000000"/>
+            <textevent message="Final minute..." timeoffset="900.000000"/>
+            <textevent message="and even NOW, the right call is still to bail out..." timeoffset="904.000000"/>
+            <textevent message="if you think bad habits might find their way into your pedalstroke" timeoffset="910.000000"/>
+            <textevent message="Done! With the drills anyway" timeoffset="960.000000"/>
+            <textevent message="And almost done with the workout!" timeoffset="967.000000"/>
+            <textevent message="Both feet are in the pedals again..." timeoffset="973.000000"/>
+            <textevent message="and all you have to do is ride out an easy warm-down" timeoffset="978.000000"/>
+        </SteadyState>
+        <Cooldown Duration="300.0" PowerLow="0.700" PowerHigh="0.490">
+            <textevent message="Well done! Just 5 more minutes in a quite a long workout..." timeoffset="-1.000000"/>
+            <textevent message="and time to start backing things down for the day" timeoffset="5.000000"/>
+            <textevent message="As always when warming down..." timeoffset="12.000000"/>
+            <textevent message="give some thought to your post-workout nutrition..." timeoffset="16.000000"/>
+            <textevent message="your hydration and following recovery..." timeoffset="22.000000"/>
+            <textevent message="and we'll see you next time" timeoffset="28.000000"/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,60 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mondanock -2 consists of 2 sets of 3x2-minute VO2 Max intervals at 120% FTP. Recoveries between intervals grow to 3 minutes long and recoveries between sets of intervals grow to 5 minutes long.
+FILE NAME = Monadnock -2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	40
+19	40
+19	120
+21	120
+21	40
+24	40
+24	120
+26	120
+26	40
+29	40
+29	120
+31	120
+31	40
+36	40
+36	120
+38	120
+38	40
+41	40
+41	120
+43	120
+43	40
+46	40
+46	120
+48	120
+48	65
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1140	1260	VO2 Max 1
+1440	1560	VO2 Max 2
+1740	1860	VO2 Max 3
+2160	2280	VO2 Max 4
+2460	2580	VO2 Max 5
+2760	2880	VO2 Max 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

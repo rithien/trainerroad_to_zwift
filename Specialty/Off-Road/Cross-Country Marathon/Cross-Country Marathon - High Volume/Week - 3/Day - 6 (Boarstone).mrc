@@ -1,0 +1,69 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Boarstone is 2 hours of steady, aerobic Endurance spent between 65-75% FTP.
+FILE NAME = Boarstone
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	58
+7	58
+7	64
+10	64
+10	70
+25	70
+25	70
+26	65
+26	65
+40	65
+40	65
+41	70
+41	70
+55	70
+55	70
+56	75
+56	75
+70	75
+70	75
+71	70
+71	70
+85	70
+85	70
+86	75
+86	75
+100	75
+100	75
+101	70
+101	70
+115	70
+115	70
+120	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+240	420	Endurance 1
+420	600	Endurance 2
+600	1500	Endurance 3
+1500	1560	Endurance 4
+1560	2400	Endurance 5
+2400	2460	Endurance 6
+2460	3300	Endurance 7
+3300	3360	Endurance 8
+3360	4200	Endurance 9
+4200	4260	Endurance 10
+4260	5100	Endurance 11
+5100	5160	Endurance 12
+5160	6000	Endurance 13
+6000	6060	Endurance 14
+6060	6900	Endurance 15
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

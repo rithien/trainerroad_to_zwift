@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Gray +5 consists of 2x20-minute intervals at FTP with 10 minutes of recovery between intervals.</description>
+    <name>Gray +5</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="300.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="300.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="1200.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="1200.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="900.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

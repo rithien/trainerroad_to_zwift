@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Diggins&amp;nbsp;is 2.5 hours of Tempo intervals spent between 70-78% FTP with intermittent, 7-minute recoveries at 55% FTP.</description>
+    <name>Diggins</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.570" PowerHigh="0.570"/>
+        <SteadyState Duration="180.0" PowerLow="0.640" PowerHigh="0.640"/>
+        <SteadyState Duration="540.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <SteadyState Duration="420.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.780" PowerHigh="0.780"/>
+        <Cooldown Duration="420.0" PowerLow="0.780" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

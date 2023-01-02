@@ -1,0 +1,80 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Flinders -1 consists of 4 sets of 2x3-minute efforts at 105% FTP. Recoveries between intervals only last a quick 30 seconds and recoveries between sets of intervals are 2 minutes long.
+FILE NAME = Flinders -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+1.5	50
+1.5	65
+3	65
+3	80
+4.5	80
+4.5	40
+5	40
+5	90
+6.5	90
+6.5	40
+7	40
+7	100
+8.5	100
+8.5	40
+11	40
+11	105
+14	105
+14	40
+14.5	40
+14.5	105
+17.5	105
+17.5	40
+19.5	40
+19.5	105
+22.5	105
+22.5	40
+23	40
+23	105
+26	105
+26	40
+28	40
+28	105
+31	105
+31	40
+31.5	40
+31.5	105
+34.5	105
+34.5	40
+36.5	40
+36.5	105
+39.5	105
+39.5	40
+40	40
+40	105
+43	105
+43	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+90	180	Endurance 1
+180	270	Tempo 1
+300	390	Sweet Spot 1
+420	510	Threshold 1
+660	840	Threshold 2
+870	1050	Threshold 3
+1170	1350	Threshold 4
+1380	1560	Threshold 5
+1680	1860	Threshold 6
+1890	2070	Threshold 7
+2190	2370	Threshold 8
+2400	2580	Threshold 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

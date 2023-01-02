@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Ragged +2 is 84 minutes of continuous progression from 60% FTP all the way up to 100% FTP via 8% increases every 14 minutes.</description>
+    <name>Ragged +2</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="30.0" PowerLow="0.500" PowerHigh="0.600"/>
+        <SteadyState Duration="810.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="0.680"/>
+        <SteadyState Duration="810.0" PowerLow="0.680" PowerHigh="0.680"/>
+        <Warmup Duration="30.0" PowerLow="0.680" PowerHigh="0.760"/>
+        <SteadyState Duration="810.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <Warmup Duration="30.0" PowerLow="0.760" PowerHigh="0.840"/>
+        <SteadyState Duration="810.0" PowerLow="0.840" PowerHigh="0.840"/>
+        <Warmup Duration="30.0" PowerLow="0.840" PowerHigh="0.920"/>
+        <SteadyState Duration="810.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <Warmup Duration="30.0" PowerLow="0.920" PowerHigh="1.000"/>
+        <SteadyState Duration="810.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="180.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

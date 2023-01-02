@@ -1,0 +1,66 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Pioneer -3 is a 45-minute segment between 70-75% FTP nestled inside of an hour-long workout.
+FILE NAME = Pioneer -3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	58
+8	58
+8	65
+12	65
+12	72
+16	72
+16	74
+19	74
+19	71
+23	71
+23	75
+27	75
+27	70
+30	70
+30	72
+35	72
+35	73
+39	73
+39	70
+42	70
+42	73
+45	73
+45	71
+49	71
+49	73
+53	73
+53	71
+57	71
+57	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Endurance 3
+960	1140	Endurance 4
+1140	1380	Endurance 5
+1380	1620	Endurance 6
+1620	1800	Endurance 7
+1800	2100	Endurance 8
+2100	2340	Endurance 9
+2340	2520	Endurance 10
+2520	2700	Endurance 11
+2700	2940	Endurance 12
+2940	3180	Endurance 13
+3180	3420	Endurance 14
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

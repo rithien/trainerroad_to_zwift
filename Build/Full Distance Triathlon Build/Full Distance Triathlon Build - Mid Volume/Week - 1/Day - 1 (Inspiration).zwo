@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Inspiration consists of 4 efforts of either&amp;nbsp;3:45 or 3:30-minute intervals at 106% FTP. Each full interval is separated by an 11 minute, 45-second recovery valley.</description>
+    <name>Inspiration</name>
+    <workout>
+        <SteadyState Duration="315.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="150.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="600.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="225.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="705.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="705.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="225.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="705.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

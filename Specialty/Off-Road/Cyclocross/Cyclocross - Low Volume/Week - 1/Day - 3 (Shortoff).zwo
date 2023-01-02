@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Shortoff consists of 2 sets of 3x2-minute VO2 Max intervals at 120% FTP. Recovery between intervals is 2 minutes long and recovery between sets of intervals is 5 minutes long.</description>
+    <name>Shortoff</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="240.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="30.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="45.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <Cooldown Duration="1050.0" PowerLow="0.650" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

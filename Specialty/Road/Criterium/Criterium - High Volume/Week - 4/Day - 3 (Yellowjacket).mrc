@@ -1,0 +1,63 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Yellowjacket&nbsp;consists of 6x5-minute repeats at 105% FTP separated by 5-minute recovery valleys.
+FILE NAME = Yellowjacket
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	51
+20	51
+20	105
+25	105
+25	40
+30	40
+30	105
+35	105
+35	40
+40	40
+40	105
+45	105
+45	40
+50	40
+50	105
+55	105
+55	40
+60	40
+60	105
+65	105
+65	40
+70	40
+70	105
+75	105
+75	60
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+900	1200	Active Recovery 1
+1200	1500	Threshold 2
+1800	2100	Threshold 3
+2400	2700	Threshold 4
+3000	3300	Threshold 5
+3600	3900	Threshold 6
+4200	4500	Threshold 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+    

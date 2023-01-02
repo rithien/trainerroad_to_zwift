@@ -1,0 +1,79 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Middle Davis&nbsp;is made up of 4x11-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settles in at 89% FTP for the remaining 10 minutes.Each interval is separated by 7 minutes of recovery.
+FILE NAME = Middle Davis
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	72
+7	72
+7	90
+10.5	90
+10.5	150
+10.75	150
+10.75	40
+17.75	40
+17.75	150
+18.25	150
+18.25	80
+18.75	91
+18.75	91
+28.75	91
+28.75	40
+35.75	40
+35.75	150
+36.25	150
+36.25	80
+36.75	91
+36.75	91
+46.75	91
+46.75	40
+53.75	40
+53.75	150
+54.25	150
+54.25	80
+54.75	91
+54.75	91
+64.75	91
+64.75	40
+71.75	40
+71.75	150
+72.25	150
+72.25	80
+72.75	91
+72.75	91
+82.75	91
+82.75	40
+86.5	40
+86.5	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+180	420	Endurance 1
+420	630	Sweet Spot 1
+630	645	Sprint 1
+1065	1095	Sprint 2
+1095	1125	Sweet Spot 2
+1125	1725	Sweet Spot 3
+2145	2175	Sprint 3
+2175	2205	Sweet Spot 4
+2205	2805	Sweet Spot 5
+3225	3255	Sprint 4
+3255	3285	Sweet Spot 6
+3285	3885	Sweet Spot 7
+4305	4335	Sprint 5
+4335	4365	Sweet Spot 8
+4365	4965	Sweet Spot 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

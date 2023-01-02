@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Woodrow&amp;nbsp;totals just under 60 minutes of Tempo intervals spent between 89-91% FTP with intermittent, 3-minute recoveries at 55% FTP.</description>
+    <name>Woodrow</name>
+    <workout>
+        <SteadyState Duration="420.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="360.0" PowerLow="0.760" PowerHigh="0.760"/>
+        <SteadyState Duration="720.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="180.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="720.0" PowerLow="0.910" PowerHigh="0.910"/>
+        <SteadyState Duration="180.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="720.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="180.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="720.0" PowerLow="0.910" PowerHigh="0.910"/>
+        <SteadyState Duration="420.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Cooldown Duration="420.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

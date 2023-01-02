@@ -1,0 +1,189 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Lion Rock +4 is 4 sets of 3x5-minute Threshold efforts that begin with a 15-second sprint at 150% FTP and then settle in for 4 minutes at 95% FTP, aka "racewinners".Each set finishes with a 30-second "kick to the line" in the form of a ramp from 95% FTP all the way up to 140% FTP.Recoveries between intervals are only 1 minute long but recoveries between sets of intervals are each 10 minutes long. 
+FILE NAME = Lion Rock +4
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3.5	50
+3.5	70
+7	70
+7	90
+10	90
+10	40
+13	40
+13	130
+13.1	130
+13.1	40
+13.4	40
+13.4	140
+13.5	140
+13.5	40
+13.8	40
+13.8	150
+13.9	150
+13.9	40
+18	40
+18	150
+18.25	150
+18.25	85
+19	95
+19	95
+23	95
+23	40
+24	40
+24	150
+24.25	150
+24.25	85
+25	95
+25	95
+29	95
+29	40
+30	40
+30	150
+30.25	150
+30.25	85
+31	95
+31	95
+34.5	95
+34.5	95
+35	140
+35	40
+45	40
+45	150
+45.25	150
+45.25	85
+46	95
+46	95
+50	95
+50	40
+51	40
+51	150
+51.25	150
+51.25	85
+52	95
+52	95
+56	95
+56	40
+57	40
+57	150
+57.25	150
+57.25	85
+58	95
+58	95
+61.5	95
+61.5	95
+62	140
+62	40
+72	40
+72	150
+72.25	150
+72.25	85
+73	95
+73	95
+77	95
+77	40
+78	40
+78	150
+78.25	150
+78.25	85
+79	95
+79	95
+83	95
+83	40
+84	40
+84	150
+84.25	150
+84.25	85
+85	95
+85	95
+88.5	95
+88.5	95
+89	140
+89	40
+99	40
+99	150
+99.25	150
+99.25	85
+100	95
+100	95
+104	95
+104	40
+105	40
+105	150
+105.25	150
+105.25	85
+106	95
+106	95
+110	95
+110	40
+111	40
+111	150
+111.25	150
+111.25	85
+112	95
+112	95
+115.5	95
+115.5	95
+116	140
+116	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+210	420	Endurance 1
+420	600	Sweet Spot 1
+780	786	Sprint 1
+804	810	Sprint 2
+828	834	Sprint 3
+1080	1095	Sprint 4
+1095	1140	Sweet Spot 2
+1140	1380	Sweet Spot 3
+1440	1455	Sprint 5
+1455	1500	Sweet Spot 4
+1500	1740	Sweet Spot 5
+1800	1815	Sprint 6
+1815	1860	Sweet Spot 6
+1860	2070	Sweet Spot 7
+2070	2100	VO2 Max 1
+2700	2715	Sprint 7
+2715	2760	Sweet Spot 8
+2760	3000	Sweet Spot 9
+3060	3075	Sprint 8
+3075	3120	Sweet Spot 10
+3120	3360	Sweet Spot 11
+3420	3435	Sprint 9
+3435	3480	Sweet Spot 12
+3480	3690	Sweet Spot 13
+3690	3720	VO2 Max 2
+4320	4335	Sprint 10
+4335	4380	Sweet Spot 14
+4380	4620	Sweet Spot 15
+4680	4695	Sprint 11
+4695	4740	Sweet Spot 16
+4740	4980	Sweet Spot 17
+5040	5055	Sprint 12
+5055	5100	Sweet Spot 18
+5100	5310	Sweet Spot 19
+5310	5340	VO2 Max 3
+5940	5955	Sprint 13
+5955	6000	Sweet Spot 20
+6000	6240	Sweet Spot 21
+6300	6315	Sprint 14
+6315	6360	Sweet Spot 22
+6360	6600	Sweet Spot 23
+6660	6675	Sprint 15
+6675	6720	Sweet Spot 24
+6720	6930	Sweet Spot 25
+6930	6960	VO2 Max 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

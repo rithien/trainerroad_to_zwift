@@ -1,0 +1,43 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Gray +5 consists of 2x20-minute intervals at FTP with 10 minutes of recovery between intervals.
+FILE NAME = Gray +5
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	65
+10	65
+10	80
+15	80
+15	95
+20	95
+20	40
+25	40
+25	100
+45	100
+45	40
+55	40
+55	100
+75	100
+75	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	600	Endurance 1
+600	900	Tempo 1
+900	1200	Sweet Spot 1
+1500	2700	Threshold 1
+3300	4500	Threshold 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -1,0 +1,69 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Townsend -1&nbsp;consists of 90 minutes of light, aerobic Endurance riding spent between 50-65% FTP.
+FILE NAME = Townsend -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	55
+10	55
+10	60
+15	60
+15	60
+19	62
+19	62
+29	62
+29	62
+32	58
+32	58
+40	58
+40	58
+40	58
+43	63
+43	63
+52	63
+52	63
+54	65
+54	65
+63	65
+63	65
+67	60
+67	60
+75	60
+75	60
+75	60
+78	63
+78	60
+78	63
+85	63
+85	63
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	600	Endurance 1
+600	900	Endurance 2
+900	1140	Endurance 3
+1140	1740	Endurance 4
+1740	1920	Endurance 5
+1920	2400	Endurance 6
+2400	2580	Endurance 7
+2580	3120	Endurance 8
+3120	3240	Endurance 9
+3240	3780	Endurance 10
+3780	4020	Endurance 11
+4020	4500	Endurance 12
+4500	4680	Endurance 13
+4680	5100	Endurance 14
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

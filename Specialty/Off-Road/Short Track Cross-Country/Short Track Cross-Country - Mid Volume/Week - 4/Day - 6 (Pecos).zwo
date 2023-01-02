@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Pecos&amp;nbsp;totals just under 60&amp;nbsp;minutes of Tempo intervals spent between 80-89% FTP with intermittent, 4.5-minute recoveries at 55% FTP.</description>
+    <name>Pecos</name>
+    <workout>
+        <SteadyState Duration="480.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="300.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="660.0" PowerLow="0.820" PowerHigh="0.820"/>
+        <SteadyState Duration="270.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="270.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="270.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="390.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Cooldown Duration="480.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

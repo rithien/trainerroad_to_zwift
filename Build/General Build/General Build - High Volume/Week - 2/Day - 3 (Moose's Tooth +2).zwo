@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Moose's Tooth +2 is 7x8-minute over-under intervals with 1-minute valleys at 95% FTP and 3-minute peaks that ascend to 105% FTPRecoveries between over-unders are each 7-minutes long.</description>
+    <name>Moose's Tooth +2</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.620" PowerHigh="0.620"/>
+        <SteadyState Duration="180.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="420.0" PowerLow="0.510" PowerHigh="0.510"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="420.0" PowerLow="0.510" PowerHigh="0.510"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="420.0" PowerLow="0.510" PowerHigh="0.510"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="420.0" PowerLow="0.510" PowerHigh="0.510"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="420.0" PowerLow="0.510" PowerHigh="0.510"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="420.0" PowerLow="0.510" PowerHigh="0.510"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <SteadyState Duration="60.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <Warmup Duration="90.0" PowerLow="0.950" PowerHigh="1.050"/>
+        <Cooldown Duration="90.0" PowerLow="1.050" PowerHigh="0.950"/>
+        <Cooldown Duration="330.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

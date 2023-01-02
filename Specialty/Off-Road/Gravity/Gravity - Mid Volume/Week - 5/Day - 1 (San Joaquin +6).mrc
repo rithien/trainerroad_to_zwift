@@ -1,0 +1,188 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = San Joaquin +6 is 4x7 sets of 50/40's where you'll spend 50 seconds at 130% FTP with 40 seconds of active recovery between each interval. 5 minutes of recovery fall between each set of intervals. 
+FILE NAME = San Joaquin +6
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2.5	50
+2.5	65
+5	65
+5	80
+7.5	80
+7.5	130
+7.83	130
+7.83	40
+8.16	40
+8.16	130
+8.66	130
+8.66	40
+9.16	40
+9.16	130
+9.83	130
+9.83	40
+10.5	40
+10.5	130
+11.33	130
+11.33	45
+14.16	45
+14.16	130
+15	130
+15	40
+15.66	40
+15.66	130
+16.5	130
+16.5	40
+17.16	40
+17.16	130
+18	130
+18	40
+18.66	40
+18.66	130
+19.5	130
+19.5	40
+20.16	40
+20.16	130
+21	130
+21	40
+21.66	40
+21.66	130
+22.5	130
+22.5	40
+23.16	40
+23.16	130
+24	130
+24	40
+30	40
+30	130
+30.83	130
+30.83	40
+31.5	40
+31.5	130
+32.33	130
+32.33	40
+33	40
+33	130
+33.83	130
+33.83	40
+34.5	40
+34.5	130
+35.33	130
+35.33	40
+36	40
+36	130
+36.83	130
+36.83	40
+37.5	40
+37.5	130
+38.33	130
+38.33	40
+39	40
+39	130
+39.83	130
+39.83	40
+45.83	40
+45.83	130
+46.66	130
+46.66	40
+47.33	40
+47.33	130
+48.16	130
+48.16	40
+48.83	40
+48.83	130
+49.66	130
+49.66	40
+50.33	40
+50.33	130
+51.16	130
+51.16	40
+51.83	40
+51.83	130
+52.66	130
+52.66	40
+53.33	40
+53.33	130
+54.16	130
+54.16	40
+54.83	40
+54.83	130
+55.66	130
+55.66	40
+61.66	40
+61.66	130
+62.5	130
+62.5	40
+63.16	40
+63.16	130
+64	130
+64	40
+64.66	40
+64.66	130
+65.5	130
+65.5	40
+66.16	40
+66.16	130
+67	130
+67	40
+67.66	40
+67.66	130
+68.5	130
+68.5	40
+69.16	40
+69.16	130
+70	130
+70	40
+70.66	40
+70.66	130
+71.5	130
+71.5	40
+75	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+150	300	Endurance 1
+300	450	Tempo 1
+450	470	Sprint 1
+490	520	Sprint 2
+550	590	Anaerobic Capacity 1
+630	680	Anaerobic Capacity 2
+850	900	Anaerobic Capacity 3
+940	990	Anaerobic Capacity 4
+1030	1080	Anaerobic Capacity 5
+1120	1170	Anaerobic Capacity 6
+1210	1260	Anaerobic Capacity 7
+1300	1350	Anaerobic Capacity 8
+1390	1440	Anaerobic Capacity 9
+1800	1850	Anaerobic Capacity 10
+1890	1940	Anaerobic Capacity 11
+1980	2030	Anaerobic Capacity 12
+2070	2120	Anaerobic Capacity 13
+2160	2210	Anaerobic Capacity 14
+2250	2300	Anaerobic Capacity 15
+2340	2390	Anaerobic Capacity 16
+2750	2800	Anaerobic Capacity 17
+2840	2890	Anaerobic Capacity 18
+2930	2980	Anaerobic Capacity 19
+3020	3070	Anaerobic Capacity 20
+3110	3160	Anaerobic Capacity 21
+3200	3250	Anaerobic Capacity 22
+3290	3340	Anaerobic Capacity 23
+3700	3750	Anaerobic Capacity 24
+3790	3840	Anaerobic Capacity 25
+3880	3930	Anaerobic Capacity 26
+3970	4020	Anaerobic Capacity 27
+4060	4110	Anaerobic Capacity 28
+4150	4200	Anaerobic Capacity 29
+4240	4290	Anaerobic Capacity 30
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

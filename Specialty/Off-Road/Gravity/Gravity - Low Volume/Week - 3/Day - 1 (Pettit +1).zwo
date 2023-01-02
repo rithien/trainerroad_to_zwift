@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Pettit +1 is an hour of aerobic Endurance work spent mostly between 60-70% FTP and includes a couple late-ride sprints. It also includes some optional form sprints, endurance spinning intervals, and various pedaling drills.</description>
+    <name>Pettit +1</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500">
+            <textevent message="During your warmup, practice Kicking &amp; Pulling" timeoffset="-1.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.500" PowerHigh="0.600"/>
+        <SteadyState Duration="900.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="Some time over this 15-minute stretch, knock out 3-5 Form Sprints" timeoffset="-1.000000"/>
+        </SteadyState>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
+        <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="Include a 5-minute Endurance Spin during this 15 minutes" timeoffset="-1.000000"/>
+        </SteadyState>
+        <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
+        <SteadyState Duration="480.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="One more 5-minute Endurance Spin over this 8-minute stretch is a good idea" timeoffset="-1.000000"/>
+            <textevent message="Get ready for a late-ride sprint" timeoffset="465.000000"/>
+            <textevent message="Lots of leg speed..." timeoffset="472.000000"/>
+            <textevent message="lots of power" timeoffset="476.000000"/>
+        </SteadyState>
+        <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
+            <textevent message="Go hard!" timeoffset="0.000000"/>
+            <textevent message="10 seconds to go!" timeoffset="10.000000"/>
+            <textevent message="Keep it!" timeoffset="15.000000"/>
+        </SteadyState>
+        <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.600">
+            <textevent message="Well done" timeoffset="0.000000"/>
+            <textevent message="Dial things back &amp; catch your breath" timeoffset="5.000000"/>
+        </Warmup>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600">
+            <textevent message="One more late-ride sprint coming up..." timeoffset="285.000000"/>
+            <textevent message="so be quick but stay relaxed" timeoffset="291.000000"/>
+            <textevent message="Get ready!" timeoffset="296.000000"/>
+        </SteadyState>
+        <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
+            <textevent message="Go hard!" timeoffset="0.000000"/>
+            <textevent message="10 seconds to go!" timeoffset="10.000000"/>
+            <textevent message="Keep it!" timeoffset="15.000000"/>
+        </SteadyState>
+        <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.600">
+            <textevent message="Well done" timeoffset="0.000000"/>
+            <textevent message="Dial things back &amp; catch your breath" timeoffset="5.000000"/>
+        </Warmup>
+        <SteadyState Duration="180.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Cooldown Duration="60.0" PowerLow="0.600" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Haw consists of 4x5-minute VO2max intervals at 111-112% FTP with 10 minutes of&amp;nbsp;active recovery between intervals.</description>
+    <name>Haw</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="360.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.120" PowerHigh="1.120"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.120" PowerHigh="1.120"/>
+        <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="1.110" PowerHigh="1.110"/>
+        <SteadyState Duration="1080.0" PowerLow="0.590" PowerHigh="0.590"/>
+        <Cooldown Duration="180.0" PowerLow="0.590" PowerHigh="0.450"/>
+    </workout>
+</workout_file>

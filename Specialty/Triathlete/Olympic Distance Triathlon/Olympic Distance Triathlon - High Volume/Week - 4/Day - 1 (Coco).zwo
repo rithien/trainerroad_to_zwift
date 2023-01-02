@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Coco&amp;nbsp;is 4x5.5-minute repeats at 106% FTP where each interval is split in half by a 45-second recovery valley. Each full interval is separated by a 11 and a half minute recovery valley.</description>
+    <name>Coco</name>
+    <workout>
+        <SteadyState Duration="330.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="300.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="480.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="165.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="165.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="690.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="165.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="165.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="675.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="165.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="165.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="690.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="165.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="165.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <Cooldown Duration="435.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

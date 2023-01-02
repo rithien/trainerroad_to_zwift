@@ -1,0 +1,181 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Moose's Tooth +2 is 7x8-minute over-under intervals with 1-minute valleys at 95% FTP and 3-minute peaks that ascend to 105% FTPRecoveries between over-unders are each 7-minutes long.
+FILE NAME = Moose's Tooth +2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	62
+6	62
+6	77
+9	77
+9	90
+12	90
+12	40
+17	40
+17	95
+18	95
+18	95
+19.5	105
+19.5	105
+21	95
+21	95
+22	95
+22	95
+23.5	105
+23.5	105
+25	95
+25	51
+32	51
+32	95
+33	95
+33	95
+34.5	105
+34.5	105
+36	95
+36	95
+37	95
+37	95
+38.5	105
+38.5	105
+40	95
+40	51
+47	51
+47	95
+48	95
+48	95
+49.5	105
+49.5	105
+51	95
+51	95
+52	95
+52	95
+53.5	105
+53.5	105
+55	95
+55	51
+62	51
+62	95
+63	95
+63	95
+64.5	105
+64.5	105
+66	95
+66	95
+67	95
+67	95
+68.5	105
+68.5	105
+70	95
+70	51
+77	51
+77	95
+78	95
+78	95
+79.5	105
+79.5	105
+81	95
+81	95
+82	95
+82	95
+83.5	105
+83.5	105
+85	95
+85	51
+92	51
+92	95
+93	95
+93	95
+94.5	105
+94.5	105
+96	95
+96	95
+97	95
+97	95
+98.5	105
+98.5	105
+100	95
+100	51
+107	51
+107	95
+108	95
+108	95
+109.5	105
+109.5	105
+111	95
+111	95
+112	95
+112	95
+113.5	105
+113.5	105
+115	95
+115	40
+120.5	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7230	Workout
+180	360	Endurance 1
+360	540	Tempo 1
+540	720	Sweet Spot 1
+1020	1080	Sweet Spot 2
+1080	1170	Threshold 1
+1170	1260	Threshold 2
+1260	1320	Sweet Spot 3
+1320	1410	Threshold 3
+1410	1500	Threshold 4
+1500	1920	Active Recovery 1
+1920	1980	Sweet Spot 4
+1980	2070	Threshold 5
+2070	2160	Threshold 6
+2160	2220	Sweet Spot 5
+2220	2310	Threshold 7
+2310	2400	Threshold 8
+2400	2820	Active Recovery 2
+2820	2880	Sweet Spot 6
+2880	2970	Threshold 9
+2970	3060	Threshold 10
+3060	3120	Sweet Spot 7
+3120	3210	Threshold 11
+3210	3300	Threshold 12
+3300	3720	Active Recovery 3
+3720	3780	Sweet Spot 8
+3780	3870	Threshold 13
+3870	3960	Threshold 14
+3960	4020	Sweet Spot 9
+4020	4110	Threshold 15
+4110	4200	Threshold 16
+4200	4620	Active Recovery 4
+4620	4680	Sweet Spot 10
+4680	4770	Threshold 17
+4770	4860	Threshold 18
+4860	4920	Sweet Spot 11
+4920	5010	Threshold 19
+5010	5100	Threshold 20
+5100	5520	Active Recovery 5
+5520	5580	Sweet Spot 12
+5580	5670	Threshold 21
+5670	5760	Threshold 22
+5760	5820	Sweet Spot 13
+5820	5910	Threshold 23
+5910	6000	Threshold 24
+6000	6420	Active Recovery 6
+6420	6480	Sweet Spot 14
+6480	6570	Threshold 25
+6570	6660	Threshold 26
+6660	6720	Sweet Spot 15
+6720	6810	Threshold 27
+6810	6900	Threshold 28
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+                                                                        

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Lolita is centered around a 20-minute practice TT effort very close to your FTP.</description>
+    <name>Lolita</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="120.0" PowerLow="0.900" PowerHigh="0.980"/>
+        <Warmup Duration="1080.0" PowerLow="0.980" PowerHigh="1.000"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

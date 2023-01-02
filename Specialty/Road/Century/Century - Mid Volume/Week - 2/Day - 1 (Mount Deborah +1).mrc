@@ -1,0 +1,90 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Deborah +1 is 10x3-minute intervals at 105-109% FTP with 3-minute recoveries between intervals along with an additional minute's worth of recovery between every pair of repeats.
+FILE NAME = Mount Deborah +1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	65
+4	65
+4	90
+5	90
+5	40
+6	40
+6	100
+7	100
+7	40
+8	40
+8	109
+9	109
+9	40
+12	40
+12	105
+15	105
+15	40
+18	40
+18	105
+21	105
+21	40
+25	40
+25	107
+28	107
+28	40
+31	40
+31	107
+34	107
+34	40
+38	40
+38	109
+41	109
+41	40
+44	40
+44	109
+47	109
+47	40
+51	40
+51	109
+54	109
+54	40
+57	40
+57	109
+60	109
+60	40
+64	40
+64	107
+67	107
+67	40
+70	40
+70	105
+73	105
+73	40
+75	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+120	240	Endurance 1
+240	300	Sweet Spot 1
+360	420	Threshold 1
+480	540	VO2 Max 1
+720	900	Threshold 2
+1080	1260	Threshold 3
+1500	1680	VO2 Max 2
+1860	2040	VO2 Max 3
+2280	2460	VO2 Max 4
+2640	2820	VO2 Max 5
+3060	3240	VO2 Max 6
+3420	3600	VO2 Max 7
+3840	4020	VO2 Max 8
+4200	4380	Threshold 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

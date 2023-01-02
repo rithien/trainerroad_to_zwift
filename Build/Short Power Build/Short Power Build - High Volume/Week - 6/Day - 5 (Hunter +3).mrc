@@ -1,0 +1,123 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Hunter +3 consists of 3x20-minute intervals at 90-94% FTP with 14-minute recoveries between intervals. Each interval in this advanced version includes 4x6-second high-power bursts between 150-180% FTP.
+FILE NAME = Hunter +3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	60
+8	60
+8	70
+12	70
+12	80
+16	80
+16	90
+20	90
+20	40
+28	40
+28	90
+31.9	90
+31.9	150
+32	150
+32	90
+35.9	90
+35.9	170
+36	170
+36	90
+39.9	90
+39.9	180
+40	180
+40	90
+43.9	90
+43.9	160
+44	160
+44	90
+48	90
+48	40
+62	40
+62	94
+65.9	94
+65.9	160
+66	160
+66	94
+69.9	94
+69.9	180
+70	180
+70	94
+73.9	94
+73.9	150
+74	150
+74	94
+77.9	94
+77.9	170
+78	170
+78	94
+82	94
+82	40
+96	40
+96	92
+99.9	92
+99.9	180
+100	180
+100	92
+103.9	92
+103.9	170
+104	170
+104	92
+107.9	92
+107.9	160
+108	160
+108	92
+111.9	92
+111.9	150
+112	150
+112	92
+116	92
+116	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Tempo 1
+960	1200	Sweet Spot 1
+1680	1914	Sweet Spot 2
+1914	1920	Sprint 1
+1920	2154	Sweet Spot 3
+2154	2160	Sprint 2
+2160	2394	Sweet Spot 4
+2394	2400	Sprint 3
+2400	2634	Sweet Spot 5
+2634	2640	Sprint 4
+2640	2880	Sweet Spot 6
+3720	3954	Sweet Spot 7
+3954	3960	Sprint 5
+3960	4194	Sweet Spot 8
+4194	4200	Sprint 6
+4200	4434	Sweet Spot 9
+4434	4440	Sprint 7
+4440	4674	Sweet Spot 10
+4674	4680	Sprint 8
+4680	4920	Sweet Spot 11
+5760	5994	Sweet Spot 12
+5994	6000	Sprint 9
+6000	6234	Sweet Spot 13
+6234	6240	Sprint 10
+6240	6474	Sweet Spot 14
+6474	6480	Sprint 11
+6480	6714	Sweet Spot 15
+6714	6720	Sprint 12
+6720	6960	Sweet Spot 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

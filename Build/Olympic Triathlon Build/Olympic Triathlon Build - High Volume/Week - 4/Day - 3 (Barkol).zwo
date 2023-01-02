@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Barkol&amp;nbsp;is 4x5-minute repeats at 109% FTP where each interval is split in half by a 45-second recovery valley. Each full interval is separated by a 5 and a half minute recovery valley.</description>
+    <name>Barkol</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="230.0" PowerLow="0.450" PowerHigh="0.450"/>
+        <SteadyState Duration="155.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="155.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="330.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="155.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="155.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="330.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="155.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="155.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="330.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="155.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="45.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="155.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

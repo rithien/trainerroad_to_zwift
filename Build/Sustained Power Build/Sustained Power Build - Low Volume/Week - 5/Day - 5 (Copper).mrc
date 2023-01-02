@@ -1,0 +1,55 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Copper&nbsp;totals 55 minutes of Tempo intervals spent between 89-90% FTP with intermittent, 3.5-minute recoveries at 55% FTP. 
+FILE NAME = Copper
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+8	50
+8	60
+14	60
+14	76
+20	76
+20	89
+31	89
+31	55
+34.5	55
+34.5	90
+45.5	90
+45.5	55
+49	55
+49	89
+60	89
+60	55
+63.5	55
+63.5	90
+74.5	90
+74.5	50
+82	50
+82	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+480	840	Endurance 1
+840	1200	Tempo 1
+1200	1860	Sweet Spot 1
+1860	2070	Endurance 2
+2070	2730	Sweet Spot 2
+2730	2940	Endurance 3
+2940	3600	Sweet Spot 3
+3600	3810	Endurance 4
+3810	4470	Sweet Spot 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+                    

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Hydrant is 5x5-minute repeats at 105%-108% FTP, each with a short, 1-minute intermediate break.Each segmented interval is separated by 4 minute and 50-second&amp;nbsp;recovery valleys.</description>
+    <name>Hydrant</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="290.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="10.0" PowerLow="0.700" PowerHigh="1.050"/>
+        <SteadyState Duration="150.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.080" PowerHigh="1.080"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="10.0" PowerLow="0.700" PowerHigh="1.050"/>
+        <SteadyState Duration="150.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.080" PowerHigh="1.080"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="10.0" PowerLow="0.700" PowerHigh="1.050"/>
+        <SteadyState Duration="150.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.080" PowerHigh="1.080"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="10.0" PowerLow="0.700" PowerHigh="1.050"/>
+        <SteadyState Duration="150.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.080" PowerHigh="1.080"/>
+        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="10.0" PowerLow="0.700" PowerHigh="1.050"/>
+        <SteadyState Duration="150.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="150.0" PowerLow="1.080" PowerHigh="1.080"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,88 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = White +5 is 2 sets of 50 continuous minutes of Tempo work each broken into 5x10-minute segments ranging from 70-80% FTP.
+FILE NAME = White +5
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	60
+10	60
+10	60
+10.5	70
+10.5	70
+20	70
+20	70
+20.5	75
+20.5	75
+30	75
+30	75
+30.5	80
+30.5	80
+40	80
+40	80
+40.5	70
+40.5	70
+50	70
+50	70
+50.5	75
+50.5	75
+60	75
+60	40
+65	40
+65	40
+65.5	70
+65.5	70
+75	70
+75	70
+75.5	75
+75.5	75
+85	75
+85	75
+85.5	80
+85.5	80
+95	80
+95	80
+95.5	70
+95.5	70
+105	70
+105	70
+105.5	75
+105.5	75
+115	75
+115	50
+120	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+300	600	Endurance 1
+600	630	Endurance 2
+630	1200	Endurance 3
+1200	1230	Endurance 4
+1230	1800	Endurance 5
+1800	1830	Tempo 1
+1830	2400	Tempo 2
+2400	2430	Endurance 6
+2430	3000	Endurance 7
+3000	3030	Endurance 8
+3030	3600	Endurance 9
+3930	4500	Endurance 10
+4500	4530	Endurance 11
+4530	5100	Endurance 12
+5100	5130	Tempo 3
+5130	5700	Tempo 4
+5700	5730	Endurance 13
+5730	6300	Endurance 14
+6300	6330	Endurance 15
+6330	6900	Endurance 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

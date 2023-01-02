@@ -1,0 +1,90 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Gibraltar -3 is 105 minutes of continuous riding where you'll spend 90 minutes between 70-75% FTP.
+FILE NAME = Gibraltar -3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	57
+8	57
+8	64
+12	64
+12	72
+16	72
+16	74
+19	74
+19	73
+23	73
+23	74
+28	74
+28	70
+31	70
+31	73
+38	73
+38	71
+43	71
+43	73
+51	73
+51	72
+55	72
+55	70
+58	70
+58	73
+66	73
+66	72
+70	72
+70	70
+73	70
+73	75
+79	75
+79	71
+83	71
+83	70
+86	70
+86	73
+90	73
+90	72
+94	72
+94	73
+98	73
+98	71
+102	71
+102	40
+105	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	6300	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Endurance 3
+960	1140	Endurance 4
+1140	1380	Endurance 5
+1380	1680	Endurance 6
+1680	1860	Endurance 7
+1860	2280	Endurance 8
+2280	2580	Endurance 9
+2580	3060	Endurance 10
+3060	3300	Endurance 11
+3300	3480	Endurance 12
+3480	3960	Endurance 13
+3960	4200	Endurance 14
+4200	4380	Endurance 15
+4380	4740	Endurance 16
+4740	4980	Endurance 17
+4980	5160	Endurance 18
+5160	5400	Endurance 19
+5400	5640	Endurance 20
+5640	5880	Endurance 21
+5880	6120	Endurance 22
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

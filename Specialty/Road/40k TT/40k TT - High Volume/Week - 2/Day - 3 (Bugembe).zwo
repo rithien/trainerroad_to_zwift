@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Bugembe is a progression workout where each of four 14-minute steps increases the power requirement by 10%. The steps start at 70% FTP and finish at 100% FTP.</description>
+    <name>Bugembe</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.570" PowerHigh="0.570"/>
+        <SteadyState Duration="240.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <Warmup Duration="30.0" PowerLow="0.650" PowerHigh="0.700"/>
+        <SteadyState Duration="810.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Warmup Duration="30.0" PowerLow="0.700" PowerHigh="0.800"/>
+        <SteadyState Duration="810.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.900"/>
+        <SteadyState Duration="810.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="1.000"/>
+        <SteadyState Duration="810.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="420.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

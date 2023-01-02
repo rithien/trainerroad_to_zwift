@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = South Rim is four 16-minute intervals at 104% FTP. The recoveries between intervals are 8 minutes long.
+FILE NAME = South Rim
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	104
+37	104
+37	50
+45	50
+45	104
+61	104
+61	50
+69	50
+69	104
+85	104
+85	50
+93	50
+93	104
+109	104
+109	50
+120	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	2220	Threshold 2
+2700	3660	Threshold 3
+4140	5100	Threshold 4
+5580	6540	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

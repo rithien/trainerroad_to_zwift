@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Division&amp;nbsp;is 4x3.75-minute intervals at 106% FTP. Each interval is separated by a 13 minute recovery valley.</description>
+    <name>Division</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="300.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="630.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="225.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="780.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="780.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="225.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="780.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="210.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <Cooldown Duration="600.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

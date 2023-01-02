@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Truuli -2 is a priming workout meant to precede any endurance event and is recommended 24 hours prior to your event. This version includes 2x3-minute steady-state efforts right at FTP followed by 2x60-second efforts between 120-125% FTP.</description>
+    <name>Truuli -2</name>
+    <workout>
+        <SteadyState Duration="150.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="150.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="180.0" PowerLow="0.450" PowerHigh="0.450"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.450" PowerHigh="0.450"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="180.0" PowerLow="0.450" PowerHigh="0.450"/>
+        <SteadyState Duration="60.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <Cooldown Duration="210.0" PowerLow="0.450" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

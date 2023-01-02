@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Tornfell is 3x12.5-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settle in at 91-89% FTP for 2x5.5-minute stretches separated by a short, 1-minute recovery.Each set is separated by 15 minutes of active recovery.</description>
+    <name>Tornfell</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="330.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="10.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="840.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.910"/>
+        <SteadyState Duration="330.0" PowerLow="0.910" PowerHigh="0.910"/>
+        <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="330.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="900.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.910"/>
+        <SteadyState Duration="330.0" PowerLow="0.910" PowerHigh="0.910"/>
+        <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="330.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="900.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.910"/>
+        <SteadyState Duration="330.0" PowerLow="0.910" PowerHigh="0.910"/>
+        <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="330.0" PowerLow="0.890" PowerHigh="0.890"/>
+        <SteadyState Duration="780.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Cooldown Duration="290.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

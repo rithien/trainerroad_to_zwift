@@ -1,0 +1,89 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Phoenix -1 is 90 minutes of near-continuous riding where you'll spend 75 minutes between 80-85% FTP, but 4x30-second recoveries break up this otherwise continuous effort.
+FILE NAME = Phoenix -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	61
+8	61
+8	72
+12	72
+12	82
+16	82
+16	84
+19	84
+19	83
+23	83
+23	40
+23.5	40
+23.5	84
+28	84
+28	80
+31	80
+31	83
+37.5	83
+37.5	81
+42.5	81
+42.5	40
+43	40
+43	83
+50.5	83
+50.5	82
+54.5	82
+54.5	40
+55	40
+55	80
+58	80
+58	85
+63.5	85
+63.5	81
+67.5	81
+67.5	80
+70.5	80
+70.5	41
+71	41
+71	83
+75	83
+75	82
+79	82
+79	83
+83	83
+83	81
+87	81
+87	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Tempo 1
+960	1140	Tempo 2
+1140	1380	Tempo 3
+1410	1680	Tempo 4
+1680	1860	Tempo 5
+1860	2250	Tempo 6
+2250	2550	Tempo 7
+2580	3030	Tempo 8
+3030	3270	Tempo 9
+3300	3480	Tempo 10
+3480	3810	Sweet Spot 1
+3810	4050	Tempo 11
+4050	4230	Tempo 12
+4260	4500	Tempo 13
+4500	4740	Tempo 14
+4740	4980	Tempo 15
+4980	5220	Tempo 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

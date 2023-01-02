@@ -1,0 +1,464 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Mont Gosford is 1 hour and 15 minutes of Tempo intervals spent between 70-80% FTP with intermittent, 2 to 3-minute recoveries at 55% FTP.</description>
+    <name>Mont Gosford</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500">
+            <textevent message="Welcome to Mont Gosford, a close cousin of Mont Albert" timeoffset="10.000000"/>
+            <textevent message="Similarly, you'll have opportunities to refine your climbing form..." timeoffset="17.000000"/>
+            <textevent message="as well as have a chance to further your aerobic endurance..." timeoffset="23.000000"/>
+            <textevent message="due to the even longer intervals spent well below FTP..." timeoffset="29.000000"/>
+            <textevent message="but still ones high enough to require effort that lifts your heart rate..." timeoffset="35.000000"/>
+            <textevent message="sufficiently enough to challenge your aerobic energy delivery capabilities" timeoffset="41.000000"/>
+            <textevent message="So again, you'll work on climbing well while building your aerobic motor" timeoffset="48.000000"/>
+            <textevent message="More details to follow, but for now..." timeoffset="56.000000"/>
+            <textevent message="just keep your spin quick &amp; light..." timeoffset="61.000000"/>
+            <textevent message="preferably higher than 85rpm while you warm..." timeoffset="66.000000"/>
+            <textevent message="and we'll discuss drills &amp; objectives very soon" timeoffset="71.000000"/>
+        </SteadyState>
+        <SteadyState Duration="180.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700">
+            <textevent message="As you ramp into your first of 4 &quot;hills&quot;..." timeoffset="0.000000"/>
+            <textevent message="gradually lower your cadence to one you'd use while climbing" timeoffset="6.000000"/>
+            <textevent message="For most riders on a reasonably steep, not too severe climb..." timeoffset="13.000000"/>
+            <textevent message="a spin between 75-85rpm is suitable" timeoffset="19.000000"/>
+            <textevent message="But if you prefer to spin a little more quickly..." timeoffset="25.000000"/>
+            <textevent message="target something in the flat-road 85-95rpm range" timeoffset="30.000000"/>
+            <textevent message="In any case, make it realistic to the way you ride outdoors..." timeoffset="37.000000"/>
+            <textevent message="or perhaps the way you WISH to ride outdoors" timeoffset="43.000000"/>
+        </Warmup>
+        <SteadyState Duration="720.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="This first climb will be treated as a seated effort..." timeoffset="0.000000"/>
+            <textevent message="and one taking place on a milder grade between 3-5%" timeoffset="6.000000"/>
+            <textevent message="Grades this steep are enough to require lower gearing..." timeoffset="13.000000"/>
+            <textevent message="that typically slows your spin below your usual, flat-road cadence" timeoffset="19.000000"/>
+            <textevent message="So if you haven't already done so, find this cadence..." timeoffset="26.000000"/>
+            <textevent message="either by shifting into a bigger gear..." timeoffset="32.000000"/>
+            <textevent message="or if you're on an electronic trainer in Erg mode..." timeoffset="37.000000"/>
+            <textevent message="simply slowing your spin to your target cadence, no shifting required" timeoffset="42.000000"/>
+            <textevent message="The objectives today are two-fold" timeoffset="60.000000"/>
+            <textevent message="First, improve climbing technique via climbing drills" timeoffset="67.000000"/>
+            <textevent message="Second, improve aerobic endurance through moderate, steady effort" timeoffset="74.000000"/>
+            <textevent message="Fortunately, both can be accomplished at once..." timeoffset="82.000000"/>
+            <textevent message="since Tempo intensity falls low enough on the power scale..." timeoffset="87.000000"/>
+            <textevent message="to allow riders to effectively maintain Target Power..." timeoffset="93.000000"/>
+            <textevent message="while dedicating adequate focus to additional form work" timeoffset="99.000000"/>
+            <textevent message="Adequate in the sense that you can benefit from the drills..." timeoffset="106.000000"/>
+            <textevent message="instead of compromising the quality of your form drills..." timeoffset="112.000000"/>
+            <textevent message="due to too-high power requirements" timeoffset="118.000000"/>
+            <textevent message="Let's get to it!" timeoffset="124.000000"/>
+            <textevent message="Before we kick off the optional climbing drills though..." timeoffset="129.000000"/>
+            <textevent message="it's important to establish a solid position on your bike" timeoffset="135.000000"/>
+            <textevent message="This is done by evaluating where your body is bearing weight" timeoffset="142.000000"/>
+            <textevent message="Clearly, it's distributed between your hands, feet &amp; butt..." timeoffset="149.000000"/>
+            <textevent message="but HOW it's distributed can vary greatly between riders" timeoffset="155.000000"/>
+            <textevent message="Most of your weight when seated..." timeoffset="162.000000"/>
+            <textevent message="should be pretty evenly shared between your &quot;sit-bones&quot;..." timeoffset="167.000000"/>
+            <textevent message="and to a lesser extent, your hands &amp; feet" timeoffset="172.000000"/>
+            <textevent message="The boney features in your butt..." timeoffset="178.000000"/>
+            <textevent message="the ischial tuberosities..." timeoffset="182.000000"/>
+            <textevent message="are more commonly referred to as your sit-bones..." timeoffset="186.000000"/>
+            <textevent message="since they bear most of your body's weight when seated" timeoffset="191.000000"/>
+            <textevent message="At least they do if you're seated properly..." timeoffset="198.000000"/>
+            <textevent message="and that's no exception when it comes to sitting on a bike saddle" timeoffset="203.000000"/>
+            <textevent message="In fact, it's even more important on a bike..." timeoffset="210.000000"/>
+            <textevent message="when considering the need to create power..." timeoffset="215.000000"/>
+            <textevent message="and to do it for extended periods of time" timeoffset="220.000000"/>
+            <textevent message="It's fascinating to discover how many riders rob themselves of free power..." timeoffset="226.000000"/>
+            <textevent message="simply because they're rocking in the saddle..." timeoffset="232.000000"/>
+            <textevent message="and &quot;floating&quot; their sit bones with each pedal stroke" timeoffset="237.000000"/>
+            <textevent message="Your sit bones are the foundation from which you work..." timeoffset="243.000000"/>
+            <textevent message="and if that foundation is shifty, unstable..." timeoffset="249.000000"/>
+            <textevent message="it's no wonder that power is getting wasted..." timeoffset="254.000000"/>
+            <textevent message="when it never makes it to your feet..." timeoffset="259.000000"/>
+            <textevent message="let alone the pedals or eventually the ground" timeoffset="264.000000"/>
+            <textevent message="So keeping your sit bones anchored is highly important..." timeoffset="270.000000"/>
+            <textevent message="both in terms of power production..." timeoffset="276.000000"/>
+            <textevent message="as well as bike handling &amp; comfort" timeoffset="280.000000"/>
+            <textevent message="So if at any point in your pedal stroke..." timeoffset="286.000000"/>
+            <textevent message="you feel your sit-bones &quot;un-anchor&quot; or become unglued..." timeoffset="291.000000"/>
+            <textevent message="try to determine WHY it happens &amp; then address the cause" timeoffset="297.000000"/>
+            <textevent message="Sometimes, it's due to a saddle that's too high..." timeoffset="304.000000"/>
+            <textevent message="and occasionally it's a matter of overreaching to your handlebars" timeoffset="310.000000"/>
+            <textevent message="But bike-fit issues aside..." timeoffset="317.000000"/>
+            <textevent message="the most common issue is underutilized lower abdominals" timeoffset="321.000000"/>
+            <textevent message="These muscles are tasked with the job of tilting your pelvis..." timeoffset="328.000000"/>
+            <textevent message="and placing your sit bones in contact with the wings of your saddle" timeoffset="334.000000"/>
+            <textevent message="Whether they're weak or simply inactive..." timeoffset="341.000000"/>
+            <textevent message="most riders can correct this issue simply by being aware of it" timeoffset="346.000000"/>
+            <textevent message="So think of your pelvis, your hip girdle..." timeoffset="353.000000"/>
+            <textevent message="as a bowl of water, and tip it backward using your low abdominals" timeoffset="358.000000"/>
+            <textevent message="This isn't a high-effort affair..." timeoffset="365.000000"/>
+            <textevent message="just a subtle backward tilt of your hips" timeoffset="369.000000"/>
+            <textevent message="The second you do it, you'll FEEL your sit bones..." timeoffset="375.000000"/>
+            <textevent message="and half the battle is already won" timeoffset="380.000000"/>
+            <textevent message="The second half of the battle is maintaining this tilt..." timeoffset="386.000000"/>
+            <textevent message="but that's a matter of practice &amp; conditioning..." timeoffset="391.000000"/>
+            <textevent message="both on &amp; off the bike" timeoffset="396.000000"/>
+            <textevent message="In the interest of keeping things simple though..." timeoffset="401.000000"/>
+            <textevent message="there will be reminders every so often..." timeoffset="406.000000"/>
+            <textevent message="asking you to check your position in the saddle" timeoffset="411.000000"/>
+            <textevent message="That's your cue to subtly engage those low abs..." timeoffset="418.000000"/>
+            <textevent message="and anchor your sit bones on your seat" timeoffset="424.000000"/>
+            <textevent message="Spend the remaining 5 minutes..." timeoffset="431.000000"/>
+            <textevent message="simply keeping your sit-bones anchored..." timeoffset="436.000000"/>
+            <textevent message="without sacrificing any power or cadence" timeoffset="441.000000"/>
+            <textevent message="Four more minutes..." timeoffset="480.000000"/>
+            <textevent message="of keeping your sit-bones glued to the wings of your saddle" timeoffset="484.000000"/>
+            <textevent message="Sit-bones still feel the wide part of your saddle?" timeoffset="540.000000"/>
+            <textevent message="2 more minutes, sit-bones still anchored?" timeoffset="600.000000"/>
+            <textevent message="Final minute, just keep those sit-bones glued to your saddle" timeoffset="660.000000"/>
+        </SteadyState>
+        <SteadyState Duration="120.0" PowerLow="0.550" PowerHigh="0.550">
+            <textevent message="Take it easy for a couple minutes..." timeoffset="0.000000"/>
+            <textevent message="and clear your mind, maybe grab a drink" timeoffset="5.000000"/>
+        </SteadyState>
+        <SteadyState Duration="900.0" PowerLow="0.800" PowerHigh="0.800">
+            <textevent message="Right back at it..." timeoffset="0.000000"/>
+            <textevent message="and time to move on to a mildly steeper hill..." timeoffset="4.000000"/>
+            <textevent message="and some saddle transitions" timeoffset="9.000000"/>
+            <textevent message="Moving from a seated position to a standing one..." timeoffset="14.000000"/>
+            <textevent message="and back again is something every rider ought to do well" timeoffset="19.000000"/>
+            <textevent message="But many riders fail to dedicate much time to practicing..." timeoffset="25.000000"/>
+            <textevent message="this highly necessary skill when they're riding indoors" timeoffset="30.000000"/>
+            <textevent message="So right here, right now..." timeoffset="36.000000"/>
+            <textevent message="is your opportunity practice these transitions..." timeoffset="40.000000"/>
+            <textevent message="every minute on the minute" timeoffset="44.000000"/>
+            <textevent message="First one coming up, and you'll rise for 10 pedalstrokes" timeoffset="49.000000"/>
+            <textevent message="Slow your spin, shift gears &amp; rise" timeoffset="56.000000"/>
+            <textevent message="Count your left knee 10 times..." timeoffset="60.000000"/>
+            <textevent message="and then transition back to a seated position" timeoffset="66.000000"/>
+            <textevent message="How'd that go?" timeoffset="72.000000"/>
+            <textevent message="Less experienced riders typically lack a bit of grace..." timeoffset="77.000000"/>
+            <textevent message="and maneuver in &amp; out of the saddle using too much energy" timeoffset="83.000000"/>
+            <textevent message="Whether experienced or not, the next time you rise..." timeoffset="90.000000"/>
+            <textevent message="be conscious of how quickly you vault off of your seat" timeoffset="96.000000"/>
+            <textevent message="Try to rise in such a way that your power output is minimally affected" timeoffset="103.000000"/>
+            <textevent message="Slow your spin and/or shift gears..." timeoffset="110.000000"/>
+            <textevent message="and get ready to rise with control" timeoffset="114.000000"/>
+            <textevent message="Come on up, count your right knee 10 times" timeoffset="120.000000"/>
+            <textevent message="When you hit 10, gracefully return to the saddle" timeoffset="127.000000"/>
+            <textevent message="If you think of how your bike would react if you were outdoors..." timeoffset="134.000000"/>
+            <textevent message="it's a little easier to understand..." timeoffset="140.000000"/>
+            <textevent message="the need for control when saddle transitioning" timeoffset="144.000000"/>
+            <textevent message="Jump out of the saddle too quickly and your bike kicks backwards" timeoffset="150.000000"/>
+            <textevent message="Return to the saddle too harshly..." timeoffset="157.000000"/>
+            <textevent message="and your body takes the brunt" timeoffset="161.000000"/>
+            <textevent message="In both cases, your power probably suffers as a result" timeoffset="166.000000"/>
+            <textevent message="So make it pretty - lots of control" timeoffset="173.000000"/>
+            <textevent message="Come on up, count your left FOOT 10 times" timeoffset="180.000000"/>
+            <textevent message="Once you hit 10, return softly to the saddle" timeoffset="187.000000"/>
+            <textevent message="So each time you rise, act as though another rider..." timeoffset="195.000000"/>
+            <textevent message="is stuck to your rear wheel" timeoffset="201.000000"/>
+            <textevent message="Any lack of control on your part knocks her down" timeoffset="206.000000"/>
+            <textevent message="Then when you return to the seated position..." timeoffset="213.000000"/>
+            <textevent message="imagine your seat is loosely bolted on..." timeoffset="219.000000"/>
+            <textevent message="and you don't want to knock it out of position" timeoffset="224.000000"/>
+            <textevent message="So a graceful rise..." timeoffset="230.000000"/>
+            <textevent message="an equally graceful return to the saddle" timeoffset="234.000000"/>
+            <textevent message="Come on up, count your right foot 10 times" timeoffset="240.000000"/>
+            <textevent message="When you sit, watch your power output" timeoffset="247.000000"/>
+            <textevent message="The more smoothly you return to your seat..." timeoffset="254.000000"/>
+            <textevent message="the lower that temporary change in power will be" timeoffset="260.000000"/>
+            <textevent message="So now let's consider your cadence" timeoffset="270.000000"/>
+            <textevent message="The difference between seated &amp; standing leg speed..." timeoffset="277.000000"/>
+            <textevent message="is usually about 20rpm" timeoffset="283.000000"/>
+            <textevent message="So if you're seated at 85rpm..." timeoffset="289.000000"/>
+            <textevent message="shoot for a standing cadence of 65rpm" timeoffset="294.000000"/>
+            <textevent message="Rise, count 10 pulls with your left HEEL" timeoffset="300.000000"/>
+            <textevent message="As you hit that 10th pedalstroke, gracefully have a seat" timeoffset="307.000000"/>
+            <textevent message="Ideally, you won't ride out-of-the-saddle any slower..." timeoffset="315.000000"/>
+            <textevent message="than 60rpm, probably no quicker than 75rpm" timeoffset="321.000000"/>
+            <textevent message="This 60-75rpm range works for most riders on most grades..." timeoffset="328.000000"/>
+            <textevent message="but is highly dependent on each rider's levels of skill &amp; fitness" timeoffset="334.000000"/>
+            <textevent message="Less experienced and/or fit riders are better served..." timeoffset="341.000000"/>
+            <textevent message="by a lower, 60-ish rpm spin when standing..." timeoffset="347.000000"/>
+            <textevent message="if for no other reason than it's easier to control" timeoffset="353.000000"/>
+            <textevent message="Rise &amp; count your right HEEL'S pull 10 times" timeoffset="360.000000"/>
+            <textevent message="Hit 10 &amp; gracefully return to your seated position..." timeoffset="367.000000"/>
+            <textevent message="and your seated cadence" timeoffset="373.000000"/>
+            <textevent message="Yet another area for improvement during saddle transitions..." timeoffset="380.000000"/>
+            <textevent message="is your choice in gearing" timeoffset="386.000000"/>
+            <textevent message="While a bit different on an electronic trainer in Erg mode..." timeoffset="391.000000"/>
+            <textevent message="a bit of anticipation is necessary..." timeoffset="397.000000"/>
+            <textevent message="if smooth transitions are your goal, regardless of electronic or traditional" timeoffset="401.000000"/>
+            <textevent message="You'll either slow your spin or upshift once or twice..." timeoffset="408.000000"/>
+            <textevent message="in anticipation of your change in cadence" timeoffset="414.000000"/>
+            <textevent message="Come on up, count 10 on your right knee" timeoffset="420.000000"/>
+            <textevent message="Prior to sitting, reverse that same gear/cadence change" timeoffset="427.000000"/>
+            <textevent message="Typically, this is done once you've returned to the saddle..." timeoffset="434.000000"/>
+            <textevent message="but particularly coordinated riders can do this AS they take a seat" timeoffset="440.000000"/>
+            <textevent message="In any case, make the change in gearing/cadence..." timeoffset="447.000000"/>
+            <textevent message="as seamless as possible by anticipating your transitions..." timeoffset="453.000000"/>
+            <textevent message="and affecting your gear selection &amp; spin accordingly" timeoffset="459.000000"/>
+            <textevent message="Start adjusting your gears, maybe just your spin..." timeoffset="466.000000"/>
+            <textevent message="and get ready to rise with control" timeoffset="473.000000"/>
+            <textevent message="Come on up &amp; count your left knee 10 times" timeoffset="480.000000"/>
+            <textevent message="On 10, start your graceful return to the saddle..." timeoffset="487.000000"/>
+            <textevent message="as you reestablish your seated gearing &amp; cadence" timeoffset="491.000000"/>
+            <textevent message="Just a handful of transtions left..." timeoffset="500.000000"/>
+            <textevent message="and this next one will emphasize the way you rise..." timeoffset="504.000000"/>
+            <textevent message="by directing your focus to your hands &amp; feet" timeoffset="509.000000"/>
+            <textevent message="In particular, the weight distribution between these 4 contact points" timeoffset="515.000000"/>
+            <textevent message="Clearly, most of your weight needs to remain on your feet..." timeoffset="522.000000"/>
+            <textevent message="if you intend to maintain power to the pedals..." timeoffset="528.000000"/>
+            <textevent message="so be aware of this as you rise..." timeoffset="534.000000"/>
+            <textevent message="and come up keeping your hands light - count 10" timeoffset="540.000000"/>
+            <textevent message="Have a seat at 10 and make note of whether or not..." timeoffset="547.000000"/>
+            <textevent message="you kept your hands light, kept your feet weighted appropriately" timeoffset="553.000000"/>
+            <textevent message="If you noticed your front tire pogo or compress..." timeoffset="560.000000"/>
+            <textevent message="chances are good that you're a bit too heavy on your hands" timeoffset="565.000000"/>
+            <textevent message="In this case, keep your body closer to your saddle the next time you rise" timeoffset="571.000000"/>
+            <textevent message="Commonly, when riders take too much weight off their feet..." timeoffset="578.000000"/>
+            <textevent message="it's because their weight is too far forward, over the bars" timeoffset="584.000000"/>
+            <textevent message="But staying just slightly closer to your saddle..." timeoffset="591.000000"/>
+            <textevent message="can squash this issue" timeoffset="596.000000"/>
+            <textevent message="Come up, keep your weight back, count 10" timeoffset="600.000000"/>
+            <textevent message="Being nearer to your saddle, having a seat is that much smoother" timeoffset="607.000000"/>
+            <textevent message="A lot to keep in mind, yeah!?" timeoffset="615.000000"/>
+            <textevent message="But the more you practice, consciously refine your form..." timeoffset="621.000000"/>
+            <textevent message="the more naturally smooth &amp; efficient your saddle transitions will become" timeoffset="626.000000"/>
+            <textevent message="Over time, this will require almost no conscious thought..." timeoffset="633.000000"/>
+            <textevent message="and be almost entirely automatic" timeoffset="639.000000"/>
+            <textevent message="Start to find your gearing, adjust your cadence" timeoffset="645.000000"/>
+            <textevent message="Light hands, count 10 on your left knee" timeoffset="660.000000"/>
+            <textevent message="Get ready to rise again..." timeoffset="705.000000"/>
+            <textevent message="gearing &amp; cadence adjustments underway" timeoffset="709.000000"/>
+            <textevent message="Once again, rise &amp; count 10 on your right knee" timeoffset="720.000000"/>
+            <textevent message="As you reestablish your seated climbing cadence..." timeoffset="730.000000"/>
+            <textevent message="try to shake off any tension that may have crept into your upper body" timeoffset="736.000000"/>
+            <textevent message="Just a couple of these left, come on up" timeoffset="780.000000"/>
+            <textevent message="Once you hit 10 revolutions, have a seat..." timeoffset="787.000000"/>
+            <textevent message="and settle right back into your seated climbing cadence" timeoffset="792.000000"/>
+            <textevent message="Very last time! Come up, count 10" timeoffset="840.000000"/>
+            <textevent message="Once you have a seat..." timeoffset="850.000000"/>
+            <textevent message="just ride out this final minute as though you're wrapping up a long climb..." timeoffset="854.000000"/>
+            <textevent message="with no increase in pace &amp; no slip in your relaxed form" timeoffset="860.000000"/>
+        </SteadyState>
+        <SteadyState Duration="180.0" PowerLow="0.550" PowerHigh="0.550">
+            <textevent message="Time for a bit of a break..." timeoffset="0.000000"/>
+            <textevent message="and a return to a quicker, lighter spin for a few minutes" timeoffset="4.000000"/>
+            <textevent message="In a minute..." timeoffset="120.000000"/>
+            <textevent message="we'll change the aim of the climbing drills" timeoffset="124.000000"/>
+            <textevent message="Should you choose to follow along..." timeoffset="130.000000"/>
+            <textevent message="this round will be dedicated to finding a balanced position..." timeoffset="134.000000"/>
+            <textevent message="while seated &amp; climbing at a low cadence" timeoffset="140.000000"/>
+            <textevent message="We'll do this via some single-arm drills..." timeoffset="147.000000"/>
+            <textevent message="where you'll rely on your proper position in the saddle..." timeoffset="153.000000"/>
+            <textevent message="far more than the pressure on your arms &amp; hands" timeoffset="159.000000"/>
+            <textevent message="Start to gradually slow your cadence..." timeoffset="166.000000"/>
+            <textevent message="and settle into something you'd use on a steeper, 5-6% grade" timeoffset="171.000000"/>
+        </SteadyState>
+        <SteadyState Duration="840.0" PowerLow="0.700" PowerHigh="0.700">
+            <textevent message="Assuming your knees are okay with the slower, more forceful spin..." timeoffset="0.000000"/>
+            <textevent message="try to keep your cadence somewhere in the 70-80rpm range" timeoffset="6.000000"/>
+            <textevent message="Use the remainder of this minute to find your rhythm..." timeoffset="15.000000"/>
+            <textevent message="both in terms of pedaling &amp; breathing" timeoffset="21.000000"/>
+            <textevent message="For 30 seconds..." timeoffset="60.000000"/>
+            <textevent message="take most of the weight off of your right hand" timeoffset="64.000000"/>
+            <textevent message="Keep it on the bars, but make it much lighter than usual" timeoffset="70.000000"/>
+            <textevent message="Re-weight your right hand &amp; unweight your left" timeoffset="90.000000"/>
+            <textevent message="Again, keep it in contact with the bars..." timeoffset="97.000000"/>
+            <textevent message="but make it substantially lighter than usual" timeoffset="102.000000"/>
+            <textevent message="Back to both hands evenly weighted on the bars" timeoffset="120.000000"/>
+            <textevent message="The idea with these single-arm drills..." timeoffset="130.000000"/>
+            <textevent message="is to focus your stability, your base of control..." timeoffset="135.000000"/>
+            <textevent message="on your hips &amp; midsection rather than your arms &amp; hands" timeoffset="141.000000"/>
+            <textevent message="Your control on the bike stems from your saddle..." timeoffset="148.000000"/>
+            <textevent message="rather than your bars" timeoffset="154.000000"/>
+            <textevent message="While the bars certainly dictate the position of the front wheel..." timeoffset="159.000000"/>
+            <textevent message="your saddle, or rather your body on the saddle..." timeoffset="165.000000"/>
+            <textevent message="dictates how your bike &amp; body move as a unit" timeoffset="170.000000"/>
+            <textevent message="Again, unweight your right hand..." timeoffset="180.000000"/>
+            <textevent message="and feel free to completely remove it from the bars..." timeoffset="185.000000"/>
+            <textevent message="if you can do it without changing your body's position" timeoffset="190.000000"/>
+            <textevent message="Don't allow your shoulders to tilt..." timeoffset="196.000000"/>
+            <textevent message="and don't let your hips tilt to one side either" timeoffset="200.000000"/>
+            <textevent message="Switch hands &amp; make your left hand lighter..." timeoffset="210.000000"/>
+            <textevent message="or completely remove it from the bars...." timeoffset="215.000000"/>
+            <textevent message="by floating it JUST above its usual position on the bars" timeoffset="220.000000"/>
+            <textevent message="This will make it much easier to keep your shoulders &amp; hips level" timeoffset="226.000000"/>
+            <textevent message="Good, back to both hands evenly on the bars" timeoffset="240.000000"/>
+            <textevent message="And each time you restore your normal position..." timeoffset="247.000000"/>
+            <textevent message="become more conscious of how heavily you weight your hands..." timeoffset="252.000000"/>
+            <textevent message="relative to how well your body is balanced on your saddle" timeoffset="258.000000"/>
+            <textevent message="If your sit-bones are in contact with your saddle's wings (the wide part)..." timeoffset="265.000000"/>
+            <textevent message="and evenly weighted on each side..." timeoffset="272.000000"/>
+            <textevent message="your hands bear very little weight..." timeoffset="277.000000"/>
+            <textevent message="and your bike's control is left largely to your hips" timeoffset="282.000000"/>
+            <textevent message="This is desirable for a number of reasons" timeoffset="289.000000"/>
+            <textevent message="Unweight or lift your right hand..." timeoffset="300.000000"/>
+            <textevent message="without altering your body's position" timeoffset="305.000000"/>
+            <textevent message="Each time a hand comes off or unweights..." timeoffset="311.000000"/>
+            <textevent message="do your best to keep that low cadence steady..." timeoffset="316.000000"/>
+            <textevent message="while avoiding the urge to rock from side to side" timeoffset="321.000000"/>
+            <textevent message="Change hands, no change in body position though" timeoffset="330.000000"/>
+            <textevent message="And keep that cadence steady, sit-bones glued to the saddle" timeoffset="337.000000"/>
+            <textevent message="Both hands back on the bars, same low &amp; steady cadence" timeoffset="360.000000"/>
+            <textevent message="While a lumbering, side-to-side riding style..." timeoffset="370.000000"/>
+            <textevent message="might seem necessary during times of high watts..." timeoffset="375.000000"/>
+            <textevent message="it's not - at least it isn't in MOST cases" timeoffset="380.000000"/>
+            <textevent message="Most of the time, it's a matter of riders sacrificing control..." timeoffset="386.000000"/>
+            <textevent message="due to fatigue or simply bad habits" timeoffset="391.000000"/>
+            <textevent message="So unless you're really struggling to muscle a big gear on a steep climb..." timeoffset="396.000000"/>
+            <textevent message="or you're attacking up a reasonably steep rise..." timeoffset="402.000000"/>
+            <textevent message="save the theatrics &amp; spare some energy by doing so" timeoffset="407.000000"/>
+            <textevent message="Try to make it look effortless WHENEVER possible" timeoffset="414.000000"/>
+            <textevent message="Again, unweight or lift your right hand..." timeoffset="420.000000"/>
+            <textevent message="while keeping all other aspects of your riding unchanged" timeoffset="425.000000"/>
+            <textevent message="Switch hands..." timeoffset="450.000000"/>
+            <textevent message="and try to do it with no change in power..." timeoffset="454.000000"/>
+            <textevent message="other than the usual fluctuations that simply can't be controlled" timeoffset="459.000000"/>
+            <textevent message="Good good, both hands back on &amp; relax" timeoffset="480.000000"/>
+            <textevent message="We'll up the challenge slighlty in about a minute's time" timeoffset="487.000000"/>
+            <textevent message="For this next round..." timeoffset="525.000000"/>
+            <textevent message="slow your spin another 5rpm if you still perform the drills..." timeoffset="529.000000"/>
+            <textevent message="with your power on Target &amp; no slip in form" timeoffset="534.000000"/>
+            <textevent message="Right hand off the bars, no visible change beyond that" timeoffset="540.000000"/>
+            <textevent message="Keep that slower spin if you can &amp; switch hands" timeoffset="570.000000"/>
+            <textevent message="Well done, both hands back on..." timeoffset="600.000000"/>
+            <textevent message="and keep that lower cadence if your joints will allow it" timeoffset="605.000000"/>
+            <textevent message="Get ready to raise a hand again..." timeoffset="620.000000"/>
+            <textevent message="your choice which one" timeoffset="625.000000"/>
+            <textevent message="Lift or unweight a hand, don't change anything else" timeoffset="630.000000"/>
+            <textevent message="Switch hands, super stable power in the process" timeoffset="660.000000"/>
+            <textevent message="Both hands back on, ditch any new tension..." timeoffset="690.000000"/>
+            <textevent message="and quickly check your sit-bones" timeoffset="696.000000"/>
+            <textevent message="One last time..." timeoffset="720.000000"/>
+            <textevent message="you choose which hand to raise/unweight" timeoffset="724.000000"/>
+            <textevent message="Final switch, make it seamless" timeoffset="750.000000"/>
+            <textevent message="Well done! Enough of THAT ;)" timeoffset="780.000000"/>
+            <textevent message="Keep your spin slow, still on a &quot;climb&quot;..." timeoffset="787.000000"/>
+            <textevent message="and run forehead to toes..." timeoffset="793.000000"/>
+            <textevent message="shedding any tension you can" timeoffset="797.000000"/>
+        </SteadyState>
+        <SteadyState Duration="120.0" PowerLow="0.550" PowerHigh="0.550">
+            <textevent message="Take a break from climbing..." timeoffset="0.000000"/>
+            <textevent message="and pick up your cadence for a couple minutes" timeoffset="4.000000"/>
+            <textevent message="Often enough, drills &quot;inspire&quot; unusually high levels of unhelpful tension" timeoffset="10.000000"/>
+            <textevent message="So if your shoulders crept up to your ears..." timeoffset="17.000000"/>
+            <textevent message="or your grip on your handlebars got tighter &amp; tighter..." timeoffset="23.000000"/>
+            <textevent message="try to ditch any of the new tension..." timeoffset="29.000000"/>
+            <textevent message="as well as any other useless tension that isn't helping you" timeoffset="34.000000"/>
+            <textevent message="If it's not helping you turn the pedals or control the bike..." timeoffset="41.000000"/>
+            <textevent message="Get rid of it" timeoffset="47.000000"/>
+            <textevent message="Last stretch just ahead..." timeoffset="90.000000"/>
+            <textevent message="and one more opportunity to refine your climbing skills" timeoffset="95.000000"/>
+            <textevent message="This time..." timeoffset="101.000000"/>
+            <textevent message="we'll target the old standby..." timeoffset="105.000000"/>
+            <textevent message="Pedalstroke Quadrants" timeoffset="110.000000"/>
+        </SteadyState>
+        <SteadyState Duration="1020.0" PowerLow="0.750" PowerHigh="0.750">
+            <textevent message="Just spend this first minute settling back in..." timeoffset="0.000000"/>
+            <textevent message="to a seated climbing cadence, probably in that 70-80rpm range" timeoffset="5.000000"/>
+            <textevent message="But you're welcome to employ a cadence outside of that range..." timeoffset="12.000000"/>
+            <textevent message="if it suits your personal goals or target events" timeoffset="18.000000"/>
+            <textevent message="In an ongoing effort to cultivate a smoother, more fluid pedaling style..." timeoffset="40.000000"/>
+            <textevent message="we'll break your pedalstroke down into its component parts..." timeoffset="46.000000"/>
+            <textevent message="starting with the top quadrant" timeoffset="52.000000"/>
+            <textevent message="By lightly kicking your feet over the top of each pedalstroke..." timeoffset="60.000000"/>
+            <textevent message="your emphasis shifts to the 10 o'clock to 2 o'clock segment..." timeoffset="66.000000"/>
+            <textevent message="of each pedal revolution" timeoffset="71.000000"/>
+            <textevent message="And much like your pelvic tilt that anchors your sit-bones..." timeoffset="76.000000"/>
+            <textevent message="(subtle reminder)" timeoffset="82.000000"/>
+            <textevent message="this doesn't require much energy at all" timeoffset="86.000000"/>
+            <textevent message="In fact, when you consider how many times you turn the pedals each minute..." timeoffset="92.000000"/>
+            <textevent message="it's pretty clear that you can't put too much force..." timeoffset="98.000000"/>
+            <textevent message="into any of the 4 pedalstroke quadrants" timeoffset="103.000000"/>
+            <textevent message="Not even your downstroke" timeoffset="109.000000"/>
+            <textevent message="For one more minute..." timeoffset="120.000000"/>
+            <textevent message="maintain that active kick over the top..." timeoffset="124.000000"/>
+            <textevent message="keeping in mind that we're not looking to drive the pedalstroke..." timeoffset="128.000000"/>
+            <textevent message="with this single top segment..." timeoffset="134.000000"/>
+            <textevent message="but only to make it a slightly more active contributor" timeoffset="138.000000"/>
+            <textevent message="This is not a drill bent on deriving more power from your pedalstroke..." timeoffset="145.000000"/>
+            <textevent message="but instead a drill aimed at making your pedaling action more fluid..." timeoffset="151.000000"/>
+            <textevent message="more complete" timeoffset="157.000000"/>
+            <textevent message="Excellent, back to a normal, no-emphasis, 70-80rpm pedaling style" timeoffset="180.000000"/>
+            <textevent message="And again, shake off any new, unnecessary tension" timeoffset="187.000000"/>
+            <textevent message="Now let's target the bottom quadrant of your pedalstroke..." timeoffset="210.000000"/>
+            <textevent message="ranging roughly from the 4 o'clock position..." timeoffset="216.000000"/>
+            <textevent message="to the 8 o'clock position" timeoffset="221.000000"/>
+            <textevent message="Do this using a light pull across the bottom of each foot's revolution" timeoffset="225.000000"/>
+            <textevent message="And just like the subtle &amp; light kick over the top..." timeoffset="232.000000"/>
+            <textevent message="don't put too much strength into this emphasized action" timeoffset="237.000000"/>
+            <textevent message="Just a light pull as your foot moves across the bottom of each stroke" timeoffset="244.000000"/>
+            <textevent message="30 more seconds of lightly emphasizing the bottom of the pedalstroke" timeoffset="270.000000"/>
+            <textevent message="Well done" timeoffset="300.000000"/>
+            <textevent message="Ditch the emphasis and ride with a clear mind, still 70-80rpm" timeoffset="305.000000"/>
+            <textevent message="Time to put these two quadrants together..." timeoffset="330.000000"/>
+            <textevent message="into a more natural combination of efforts..." timeoffset="335.000000"/>
+            <textevent message="the &quot;kick &amp; pull&quot;" timeoffset="340.000000"/>
+            <textevent message="So now, as one foot kicks over the top..." timeoffset="345.000000"/>
+            <textevent message="the opposite foot is pulling across the bottom" timeoffset="350.000000"/>
+            <textevent message="This is still a light action for both legs..." timeoffset="356.000000"/>
+            <textevent message="but one that can take a little time to get right" timeoffset="361.000000"/>
+            <textevent message="So..." timeoffset="367.000000"/>
+            <textevent message="just focus on your left leg's kick &amp; pull" timeoffset="371.000000"/>
+            <textevent message="Left leg kicks forward, pulls backward..." timeoffset="380.000000"/>
+            <textevent message="lightly in both cases, and in the process..." timeoffset="385.000000"/>
+            <textevent message="doing no more work than usual" timeoffset="390.000000"/>
+            <textevent message="So if your left leg is loading up or feeling heavy &amp; fatigued..." timeoffset="395.000000"/>
+            <textevent message="you're kicking &amp; pulling a bit too hard" timeoffset="401.000000"/>
+            <textevent message="10 more seconds on the left side" timeoffset="410.000000"/>
+            <textevent message="And switch your focus to the right leg/foot" timeoffset="420.000000"/>
+            <textevent message="Now, your right foot is lightly but actively kicking &amp; pulling" timeoffset="426.000000"/>
+            <textevent message="It's not doing any more work than the left..." timeoffset="433.000000"/>
+            <textevent message="it's just getting more of your attention" timeoffset="438.000000"/>
+            <textevent message="30 more seconds of right-leg emphasis on the kick &amp; pull" timeoffset="450.000000"/>
+            <textevent message="Excellent, 1 minute of zero emphasis, same 70-80rpm climbing cadence" timeoffset="480.000000"/>
+            <textevent message="Get ready to combine both the kick emphasis..." timeoffset="520.000000"/>
+            <textevent message="and the pull emphasis..." timeoffset="526.000000"/>
+            <textevent message="on both legs simultaneously" timeoffset="530.000000"/>
+            <textevent message="Get to it - kick &amp; pull, both legs, 70-80rpm" timeoffset="540.000000"/>
+            <textevent message="Keep your grip on the bars relaxed..." timeoffset="547.000000"/>
+            <textevent message="and simply pedal in a more &quot;horizontal&quot; manner" timeoffset="552.000000"/>
+            <textevent message="So instead of the usual up &amp; down mashing..." timeoffset="558.000000"/>
+            <textevent message="you're now using more of a forward &amp; backward action" timeoffset="563.000000"/>
+            <textevent message="Keep it going for 30 more seconds" timeoffset="570.000000"/>
+            <textevent message="If you're not completely overwhelmed with new information..." timeoffset="600.000000"/>
+            <textevent message="and possibly too-fatigued muscles..." timeoffset="606.000000"/>
+            <textevent message="keep this simultaneous kick &amp; pull going for another minute" timeoffset="611.000000"/>
+            <textevent message="30 more seconds of anchored sit-bones and active kicks &amp; pulls" timeoffset="630.000000"/>
+            <textevent message="Good! Take a break from the drills for a minute" timeoffset="660.000000"/>
+            <textevent message="OK, time to dress things up again" timeoffset="700.000000"/>
+            <textevent message="This time, we'll add emphasis to the 4th quadrant..." timeoffset="707.000000"/>
+            <textevent message="otherwise known as the BACK of the pedalstroke" timeoffset="713.000000"/>
+            <textevent message="So now, as you come across the bottom of each pedalstroke..." timeoffset="720.000000"/>
+            <textevent message="start to lightly lift each foot toward your butt..." timeoffset="726.000000"/>
+            <textevent message="or even lift each knee toward the sky" timeoffset="732.000000"/>
+            <textevent message="Whichever visualization works better for you..." timeoffset="738.000000"/>
+            <textevent message="try to unburden the opposite leg if only slightly..." timeoffset="743.000000"/>
+            <textevent message="as you more actively emphasize that back quadrant" timeoffset="749.000000"/>
+            <textevent message="Yet another way to visualize this particular emphasis..." timeoffset="756.000000"/>
+            <textevent message="is to imagine juggling a soccer ball..." timeoffset="762.000000"/>
+            <textevent message="knee to knee, over &amp; over" timeoffset="767.000000"/>
+            <textevent message="Excellent, take a break from thinking &amp; just pedal for a minute" timeoffset="780.000000"/>
+            <textevent message="Time to get really tricky" timeoffset="825.000000"/>
+            <textevent message="Try blending the bottom quadrant..." timeoffset="831.000000"/>
+            <textevent message="with the back one" timeoffset="836.000000"/>
+            <textevent message="So as you actively, but lightly, pull across the bottom..." timeoffset="841.000000"/>
+            <textevent message="transition that pull into the upward, lift of your foot or knee" timeoffset="847.000000"/>
+            <textevent message="Just focus on the left foot for now, pull &amp; lift" timeoffset="854.000000"/>
+            <textevent message="Switch your focus to the right foot, pull &amp; lift" timeoffset="870.000000"/>
+            <textevent message="Ready to pull &amp; lift with both feet?" timeoffset="890.000000"/>
+            <textevent message="Sure y'are!" timeoffset="897.000000"/>
+            <textevent message="Both feet, same cadence..." timeoffset="902.000000"/>
+            <textevent message="pull across the bottom, then lift upward" timeoffset="906.000000"/>
+            <textevent message="Keep that 2-leg pull &amp; lift going for 30 more seconds" timeoffset="930.000000"/>
+            <textevent message="Nicely done, ditch the emphasis..." timeoffset="960.000000"/>
+            <textevent message="and ride out this final minute with your newly-improved pedalstroke" timeoffset="966.000000"/>
+        </SteadyState>
+        <Cooldown Duration="60.0" PowerLow="0.750" PowerHigh="0.500">
+            <textevent message="Well done, time to wind things down..." timeoffset="0.000000"/>
+            <textevent message="and bring your spin back up to your usual, self-selected cadence" timeoffset="6.000000"/>
+            <textevent message="Preferably, something above 85rpm" timeoffset="13.000000"/>
+        </Cooldown>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500">
+            <textevent message="That about does it for Mont Gosford" timeoffset="0.000000"/>
+            <textevent message="As you warm down, consider your post-workout nutrition..." timeoffset="7.000000"/>
+            <textevent message="start your rehydration based on how much you sweated out..." timeoffset="13.000000"/>
+            <textevent message="and we'll see you next time" timeoffset="19.000000"/>
+        </SteadyState>
+    </workout>
+</workout_file>

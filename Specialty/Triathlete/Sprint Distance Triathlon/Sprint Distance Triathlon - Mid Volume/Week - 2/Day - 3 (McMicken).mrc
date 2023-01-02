@@ -1,0 +1,52 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = McMicken&nbsp;is 4x4.75-minute intervals at 106% FTP. Each full interval is spearated by 9 and a half minute recovery valley.&nbsp;
+FILE NAME = McMicken
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+1.5	50
+1.5	72
+3.5	72
+3.5	96
+5.5	96
+5.5	50
+10.5	50
+10.5	106
+15.25	106
+15.25	40
+24.75	40
+24.75	106
+29.5	106
+29.5	40
+39	40
+39	106
+43.75	106
+43.75	40
+53.25	40
+53.25	106
+58	106
+58	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+90	210	Endurance 1
+210	330	Threshold 1
+630	915	VO2 Max 1
+1485	1770	VO2 Max 2
+2340	2625	VO2 Max 3
+3195	3480	VO2 Max 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+    

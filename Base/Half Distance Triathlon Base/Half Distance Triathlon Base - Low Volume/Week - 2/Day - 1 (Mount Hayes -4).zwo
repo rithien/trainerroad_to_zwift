@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Mount Hayes -4 is 3x12-minute intervals at 85-90% FTP with 3-minute recoveries between intervals.</description>
+    <name>Mount Hayes -4</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.850"/>
+        <SteadyState Duration="720.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="150.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.900"/>
+        <SteadyState Duration="720.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="150.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.880"/>
+        <SteadyState Duration="720.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <Cooldown Duration="210.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

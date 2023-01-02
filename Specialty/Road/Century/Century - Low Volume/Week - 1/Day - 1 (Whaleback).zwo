@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Warmup then 5x30s at increasing intensity. 4x5min intervals at just above threshold with 2 minutes rest between intervals.</description>
+    <name>Whaleback</name>
+    <workout>
+        <Warmup Duration="600.0" PowerLow="0.500" PowerHigh="0.650"/>
+        <SteadyState Duration="300.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="30.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="30.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="30.0" PowerLow="0.920" PowerHigh="0.920"/>
+        <SteadyState Duration="30.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="30.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="30.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="30.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="30.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="30.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="300.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="300.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="300.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="300.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="120.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="300.0" PowerLow="1.060" PowerHigh="1.060"/>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Cooldown Duration="270.0" PowerLow="0.600" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

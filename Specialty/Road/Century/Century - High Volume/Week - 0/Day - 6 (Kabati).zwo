@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Kabati&amp;nbsp;is 7x7-minute Sweet Spot intervals at 88% FTP with 7.5-minute recoveries between intervals.</description>
+    <name>Kabati</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="120.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="420.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="450.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="450.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="450.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="450.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="450.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="450.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="420.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Cooldown Duration="420.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

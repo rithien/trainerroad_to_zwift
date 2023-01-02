@@ -1,0 +1,85 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Carn is made up of 4x7.5-minute race-start intervals that each begins with a 30-second surge at 150% FTP, followed by 30 seconds building back up to 88% FTP and remaining there 6.5 minutes.Each interval is separated by 10.5 minutes of recovery.
+FILE NAME = Carn
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	72
+8	72
+8	96
+11.5	96
+11.5	150
+11.75	150
+11.75	40
+21.75	40
+21.75	150
+22.25	150
+22.25	80
+22.75	88
+22.75	88
+29.25	88
+29.25	40
+29.75	40
+29.75	40
+39.75	40
+39.75	150
+40.25	150
+40.25	80
+40.75	88
+40.75	88
+47.25	88
+47.25	40
+47.75	40
+47.75	40
+57.75	40
+57.75	150
+58.25	150
+58.25	80
+58.75	88
+58.75	88
+65.25	88
+65.25	40
+65.75	40
+65.75	40
+75.75	40
+75.75	150
+76.25	150
+76.25	80
+76.75	88
+76.75	88
+83.25	88
+83.25	40
+87	40
+87	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+180	480	Endurance 1
+480	690	Threshold 1
+690	705	Sprint 1
+1305	1335	Sprint 2
+1335	1365	Tempo 1
+1365	1755	Sweet Spot 1
+2385	2415	Sprint 3
+2415	2445	Tempo 2
+2445	2835	Sweet Spot 2
+3465	3495	Sprint 4
+3495	3525	Tempo 3
+3525	3915	Sweet Spot 3
+4545	4575	Sprint 5
+4575	4605	Tempo 4
+4605	4995	Sweet Spot 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

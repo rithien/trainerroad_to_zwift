@@ -1,0 +1,59 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Ragged +2 is 84 minutes of continuous progression from 60% FTP all the way up to 100% FTP via 8% increases every 14 minutes.
+FILE NAME = Ragged +2
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	50
+3.5	60
+3.5	60
+17	60
+17	60
+17.5	68
+17.5	68
+31	68
+31	68
+31.5	76
+31.5	76
+45	76
+45	76
+45.5	84
+45.5	84
+59	84
+59	84
+59.5	92
+59.5	92
+73	92
+73	92
+73.5	100
+73.5	100
+87	100
+87	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+210	1020	Endurance 1
+1020	1050	Endurance 2
+1050	1860	Endurance 3
+1860	1890	Endurance 4
+1890	2700	Tempo 1
+2700	2730	Tempo 2
+2730	3540	Tempo 3
+3540	3570	Sweet Spot 1
+3570	4380	Sweet Spot 2
+4380	4410	Threshold 1
+4410	5220	Threshold 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

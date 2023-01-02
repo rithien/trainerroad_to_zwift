@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Crater is 3x10-minute intervals between 95-99% FTP with 5-minute recoveries between intervals. These intervals are bookended by 10-minute stretches of Endurance work that will total 75 minutes of nicely varied ride time.</description>
+    <name>Crater</name>
+    <workout>
+        <SteadyState Duration="150.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Cooldown Duration="120.0" PowerLow="0.740" PowerHigh="0.720"/>
+        <Warmup Duration="120.0" PowerLow="0.720" PowerHigh="0.740"/>
+        <Cooldown Duration="120.0" PowerLow="0.740" PowerHigh="0.720"/>
+        <Warmup Duration="120.0" PowerLow="0.720" PowerHigh="0.740"/>
+        <Cooldown Duration="120.0" PowerLow="0.740" PowerHigh="0.720"/>
+        <SteadyState Duration="600.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="600.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="600.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <Warmup Duration="120.0" PowerLow="0.720" PowerHigh="0.740"/>
+        <Cooldown Duration="120.0" PowerLow="0.740" PowerHigh="0.720"/>
+        <Warmup Duration="120.0" PowerLow="0.720" PowerHigh="0.740"/>
+        <Cooldown Duration="120.0" PowerLow="0.740" PowerHigh="0.720"/>
+        <Warmup Duration="120.0" PowerLow="0.720" PowerHigh="0.740"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

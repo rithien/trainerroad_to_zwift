@@ -1,0 +1,45 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Abraham is three 4-minute intervals at 105% FTP. The recoveries between intervals are 4 minutes long.
+FILE NAME = Abraham
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	90
+15	90
+15	50
+21	50
+21	105
+25	105
+25	50
+29	50
+29	105
+33	105
+33	50
+37	50
+37	105
+41	105
+41	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	720	Endurance 1
+720	900	Sweet Spot 1
+1260	1500	Threshold 1
+1740	1980	Threshold 2
+2220	2460	Threshold 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

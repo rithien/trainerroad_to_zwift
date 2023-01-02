@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mont Albert -1 is a lighter version spent between 60-70% FTP while the  intermittent, 1- to 3-minute recoveries at 55% FTP remain the same. 
+FILE NAME = Mont Albert -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3.5	50
+3.5	55
+7	55
+7	60
+17	60
+17	55
+18	55
+18	65
+31	65
+31	55
+34	55
+34	70
+44	70
+44	55
+46	55
+46	60
+57	60
+57	60
+58	50
+58	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+210	420	Endurance 1
+420	1020	Endurance 2
+1020	1080	Endurance 3
+1080	1860	Endurance 4
+1860	2040	Endurance 5
+2040	2640	Endurance 6
+2640	2760	Endurance 7
+2760	3420	Endurance 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

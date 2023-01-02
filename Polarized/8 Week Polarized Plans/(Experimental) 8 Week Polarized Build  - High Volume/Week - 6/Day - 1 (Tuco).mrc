@@ -1,0 +1,90 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tuco is twelve 2-minute intervals at 128% FTP. The recoveries between intervals are 3 minutes long.
+FILE NAME = Tuco
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	128
+23	128
+23	50
+26	50
+26	128
+28	128
+28	50
+31	50
+31	128
+33	128
+33	50
+36	50
+36	128
+38	128
+38	50
+41	50
+41	128
+43	128
+43	50
+46	50
+46	128
+48	128
+48	50
+51	50
+51	128
+53	128
+53	50
+56	50
+56	128
+58	128
+58	50
+61	50
+61	128
+63	128
+63	50
+66	50
+66	128
+68	128
+68	50
+71	50
+71	128
+73	128
+73	50
+76	50
+76	128
+78	128
+78	50
+90	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	1380	Anaerobic Capacity 1
+1560	1680	Anaerobic Capacity 2
+1860	1980	Anaerobic Capacity 3
+2160	2280	Anaerobic Capacity 4
+2460	2580	Anaerobic Capacity 5
+2760	2880	Anaerobic Capacity 6
+3060	3180	Anaerobic Capacity 7
+3360	3480	Anaerobic Capacity 8
+3660	3780	Anaerobic Capacity 9
+3960	4080	Anaerobic Capacity 10
+4260	4380	Anaerobic Capacity 11
+4560	4680	Anaerobic Capacity 12
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

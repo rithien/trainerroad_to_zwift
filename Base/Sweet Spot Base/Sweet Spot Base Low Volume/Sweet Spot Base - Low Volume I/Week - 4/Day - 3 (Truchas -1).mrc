@@ -1,0 +1,58 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Truchas -1 is 2x22-minute Sweet Spot efforts between 90-92% FTP with just 2 minutes of recovery between intervals.
+FILE NAME = Truchas -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	70
+6	70
+6	90
+9	90
+9	50
+11	50
+11	92
+17	92
+17	90
+22	90
+22	92
+28	92
+28	91
+33	91
+33	50
+35	50
+35	90
+40	90
+40	92
+46	92
+46	91
+51	91
+51	92
+57	92
+57	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+180	360	Endurance 1
+360	540	Sweet Spot 1
+660	1020	Sweet Spot 2
+1020	1320	Sweet Spot 3
+1320	1680	Sweet Spot 4
+1680	1980	Sweet Spot 5
+2100	2400	Sweet Spot 6
+2400	2760	Sweet Spot 7
+2760	3060	Sweet Spot 8
+3060	3420	Sweet Spot 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

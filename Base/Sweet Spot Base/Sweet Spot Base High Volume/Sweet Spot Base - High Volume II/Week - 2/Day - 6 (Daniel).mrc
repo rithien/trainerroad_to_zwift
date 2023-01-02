@@ -1,0 +1,98 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Daniel is made up of 3x20-minute intervals at 85% FTP that are broken up with 2-minute recovery valleys throughout each interval. Recoveries between intervals last 6 minutes.
+FILE NAME = Daniel
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	58
+8	58
+8	67
+12	67
+12	76
+16	76
+16	85
+20	85
+20	40
+25	40
+25	85
+30	85
+30	40
+32	40
+32	85
+37	85
+37	40
+39	40
+39	85
+44	85
+44	40
+46	40
+46	85
+51	85
+51	40
+57	40
+57	85
+62	85
+62	40
+64	40
+64	85
+69	85
+69	40
+71	40
+71	85
+76	85
+76	40
+78	40
+78	85
+83	85
+83	40
+89	40
+89	85
+94	85
+94	40
+96	40
+96	85
+101	85
+101	40
+103	40
+103	85
+108	85
+108	40
+110	40
+110	85
+115	85
+115	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Tempo 1
+960	1200	Sweet Spot 1
+1500	1800	Sweet Spot 2
+1920	2220	Sweet Spot 3
+2340	2640	Sweet Spot 4
+2760	3060	Sweet Spot 5
+3420	3720	Sweet Spot 6
+3840	4140	Sweet Spot 7
+4260	4560	Sweet Spot 8
+4680	4980	Sweet Spot 9
+5340	5640	Sweet Spot 10
+5760	6060	Sweet Spot 11
+6180	6480	Sweet Spot 12
+6600	6900	Sweet Spot 13
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+                                              

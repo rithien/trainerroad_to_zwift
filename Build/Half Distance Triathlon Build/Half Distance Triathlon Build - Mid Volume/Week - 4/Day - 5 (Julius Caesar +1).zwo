@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Julius Caesar +1 combines VO2max efforts and short over-unders pitting you against 2 sets of 4x90-second high-intensity repeats at 115% FTP with 2.5 minutes of easy spinning between repeats and 5 minutes of active recovery between sets. Following a short, 4-minute stretch of recovery, you'll tackle a couple sets of 4x4-minute OU's consisting of 2 minutes at 90% FTP and 2 minutes at 105% FTP in a couple formats. You'll recover for 2 minutes after each over-under and for 5 minutes between sets.</description>
+    <name>Julius Caesar +1</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="150.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="150.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="150.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="150.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="150.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="150.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="90.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="300.0" PowerLow="0.410" PowerHigh="0.410"/>
+        <SteadyState Duration="120.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Mount Hope -2 is 4x10-minute intervals at 95-99% FTP with 6-minute Endurance intervals at 60% FTP between each.</description>
+    <name>Mount Hope -2</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="270.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.950"/>
+        <SteadyState Duration="600.0" PowerLow="0.950" PowerHigh="0.950"/>
+        <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="0.940"/>
+        <SteadyState Duration="600.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="0.960"/>
+        <SteadyState Duration="600.0" PowerLow="0.990" PowerHigh="0.990"/>
+        <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="0.940"/>
+        <SteadyState Duration="600.0" PowerLow="0.970" PowerHigh="0.970"/>
+        <Cooldown Duration="210.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

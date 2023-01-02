@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Hueco is four 16-minute intervals at 104% FTP. The recoveries between intervals are 3 minutes long.</description>
+    <name>Hueco</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="960.0" PowerLow="1.040" PowerHigh="1.040"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="960.0" PowerLow="1.040" PowerHigh="1.040"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="960.0" PowerLow="1.040" PowerHigh="1.040"/>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="960.0" PowerLow="1.040" PowerHigh="1.040"/>
+        <SteadyState Duration="1560.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

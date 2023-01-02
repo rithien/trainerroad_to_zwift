@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Greens&amp;nbsp;is a progression workout where each 10% step lasts between 13 and 14:30 minutes&amp;nbsp;and starts at 60% FTP and progresses the workload up to 100% FTP during the final step.</description>
+    <name>Greens</name>
+    <workout>
+        <SteadyState Duration="210.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="30.0" PowerLow="0.500" PowerHigh="0.600"/>
+        <SteadyState Duration="780.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="0.700"/>
+        <SteadyState Duration="780.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Warmup Duration="30.0" PowerLow="0.700" PowerHigh="0.800"/>
+        <SteadyState Duration="780.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.900"/>
+        <SteadyState Duration="870.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="1.000"/>
+        <SteadyState Duration="870.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

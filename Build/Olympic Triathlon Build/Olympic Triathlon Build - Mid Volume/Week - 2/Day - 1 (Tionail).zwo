@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Tionail is three 4-minute intervals at 104% FTP. The recoveries between intervals are 4 minutes long.</description>
+    <name>Tionail</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="360.0" PowerLow="0.460" PowerHigh="0.460"/>
+        <SteadyState Duration="240.0" PowerLow="1.040" PowerHigh="1.040"/>
+        <SteadyState Duration="240.0" PowerLow="0.460" PowerHigh="0.460"/>
+        <SteadyState Duration="240.0" PowerLow="1.040" PowerHigh="1.040"/>
+        <SteadyState Duration="240.0" PowerLow="0.460" PowerHigh="0.460"/>
+        <SteadyState Duration="240.0" PowerLow="1.040" PowerHigh="1.040"/>
+        <SteadyState Duration="1140.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

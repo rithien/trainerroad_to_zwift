@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Tower +4 is 128 minutes of continuous progression from 60% FTP all the way up to 100% FTP via 5-6% increases every 16 minutes.</description>
+    <name>Tower +4</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="30.0" PowerLow="0.500" PowerHigh="0.600"/>
+        <SteadyState Duration="930.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="0.660"/>
+        <SteadyState Duration="930.0" PowerLow="0.660" PowerHigh="0.660"/>
+        <Warmup Duration="30.0" PowerLow="0.660" PowerHigh="0.720"/>
+        <SteadyState Duration="930.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <Warmup Duration="30.0" PowerLow="0.720" PowerHigh="0.770"/>
+        <SteadyState Duration="930.0" PowerLow="0.770" PowerHigh="0.770"/>
+        <Warmup Duration="30.0" PowerLow="0.770" PowerHigh="0.830"/>
+        <SteadyState Duration="930.0" PowerLow="0.830" PowerHigh="0.830"/>
+        <Warmup Duration="30.0" PowerLow="0.830" PowerHigh="0.880"/>
+        <SteadyState Duration="930.0" PowerLow="0.880" PowerHigh="0.880"/>
+        <Warmup Duration="30.0" PowerLow="0.880" PowerHigh="0.940"/>
+        <SteadyState Duration="930.0" PowerLow="0.940" PowerHigh="0.940"/>
+        <Warmup Duration="30.0" PowerLow="0.940" PowerHigh="1.000"/>
+        <SteadyState Duration="930.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

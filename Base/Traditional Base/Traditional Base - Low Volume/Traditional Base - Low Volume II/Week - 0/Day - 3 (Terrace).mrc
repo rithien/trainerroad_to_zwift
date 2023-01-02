@@ -1,0 +1,77 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Terrace&nbsp;is 75 minutes of near-continuous riding where you'll spend 45 minutes between 80-85% FTP, but 3x4 minute recoveries break up the otherwise continuous effort.
+FILE NAME = Terrace
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	65
+7	65
+7	77
+10	77
+10	87
+13	87
+13	40
+17	40
+17	83
+21	83
+21	80
+25	80
+25	83
+29	83
+29	82
+34	82
+34	40
+38	40
+38	84
+41	84
+41	82
+46	82
+46	86
+50	86
+50	83
+53	83
+53	40
+57	40
+57	83
+60	83
+60	86
+64	86
+64	83
+68	83
+68	84
+72	84
+72	40
+75	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+240	420	Endurance 1
+420	600	Tempo 1
+600	780	Sweet Spot 1
+1020	1260	Tempo 2
+1260	1500	Tempo 3
+1500	1740	Tempo 4
+1740	2040	Tempo 5
+2280	2460	Tempo 6
+2460	2760	Tempo 7
+2760	3000	Sweet Spot 2
+3000	3180	Tempo 8
+3420	3600	Tempo 9
+3600	3840	Sweet Spot 3
+3840	4080	Tempo 10
+4080	4320	Tempo 11
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+        

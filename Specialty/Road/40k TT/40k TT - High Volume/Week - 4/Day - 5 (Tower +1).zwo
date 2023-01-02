@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Tower +1 is 2x48 minutes of continuous progression from 60-80% FTP and then 80% all the way up to 100% FTP via 10% increases every 16 minutes.</description>
+    <name>Tower +1</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="30.0" PowerLow="0.500" PowerHigh="0.600"/>
+        <SteadyState Duration="930.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="30.0" PowerLow="0.600" PowerHigh="0.700"/>
+        <SteadyState Duration="930.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Warmup Duration="30.0" PowerLow="0.700" PowerHigh="0.800"/>
+        <SteadyState Duration="930.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="30.0" PowerLow="0.400" PowerHigh="0.800"/>
+        <SteadyState Duration="930.0" PowerLow="0.800" PowerHigh="0.800"/>
+        <Warmup Duration="30.0" PowerLow="0.800" PowerHigh="0.900"/>
+        <SteadyState Duration="930.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <Warmup Duration="30.0" PowerLow="0.900" PowerHigh="1.000"/>
+        <SteadyState Duration="930.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <Cooldown Duration="120.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>
