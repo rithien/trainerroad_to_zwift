@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>3 sets of ascending-intensity/descending-duration VO2max repeats starting with 3x3-minutes at 105-109% FTP with 3-minute recoveries. Next is 3x2-minute efforts at 110-114% FTP with 2-minute recoveries. Finally, 3x1-minute repeats at 120-130% FTP with 1-minute recoveries close out the workout.</description>
+    <name>Marroquin</name>
+    <workout>
+        <SteadyState Duration="150.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="150.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="120.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.080" PowerHigh="1.080"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.120" PowerHigh="1.120"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="30.0" PowerLow="1.150" PowerHigh="1.150"/>
+        <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.050" PowerHigh="1.050"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.070" PowerHigh="1.070"/>
+        <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="180.0" PowerLow="1.090" PowerHigh="1.090"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.100" PowerHigh="1.100"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.120" PowerHigh="1.120"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="120.0" PowerLow="1.140" PowerHigh="1.140"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.200" PowerHigh="1.200"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.250" PowerHigh="1.250"/>
+        <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="60.0" PowerLow="1.300" PowerHigh="1.300"/>
+        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

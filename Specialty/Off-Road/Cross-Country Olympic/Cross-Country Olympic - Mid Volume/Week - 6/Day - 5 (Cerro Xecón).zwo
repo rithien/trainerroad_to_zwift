@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Cerro Xecon&amp;nbsp;is 1 hour of high-end Tempo intervals spent between 84-91% FTP with intermittent, 1 to 3-minute recoveries at 55% FTP.</description>
+    <name>Cerro Xecón</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.840"/>
+        <SteadyState Duration="600.0" PowerLow="0.840" PowerHigh="0.840"/>
+        <SteadyState Duration="60.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="780.0" PowerLow="0.910" PowerHigh="0.910"/>
+        <SteadyState Duration="180.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="600.0" PowerLow="0.900" PowerHigh="0.900"/>
+        <SteadyState Duration="120.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <Cooldown Duration="60.0" PowerLow="0.850" PowerHigh="0.500"/>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

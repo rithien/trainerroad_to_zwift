@@ -1,0 +1,52 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Ibapah is four 4-minute intervals at 105% FTP. The recoveries between intervals are 4 minutes long.
+FILE NAME = Ibapah
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	105
+25	105
+25	50
+29	50
+29	105
+33	105
+33	50
+37	50
+37	105
+41	105
+41	50
+45	50
+45	105
+49	105
+49	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	1500	Threshold 2
+1740	1980	Threshold 3
+2220	2460	Threshold 4
+2700	2940	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+   

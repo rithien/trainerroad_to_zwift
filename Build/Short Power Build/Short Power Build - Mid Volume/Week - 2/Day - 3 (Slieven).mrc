@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Slieven&nbsp;is 6x4.5-minute sets of VO2max repeats where you'll ride for 15-25 seconds at 120% FTP and then 'float' for 15-30 seconds at 88% FTP. 6 minutes of active recovery separate each set.
+DESCRIPTION = Slieven&nbsp;is 6x4.5-minute sets of VO2max repeats where you'll ride for 20 seconds at 122% FTP and then 'float' for 25 seconds at 88% FTP. 6 minutes of active recovery separate each set.
 FILE NAME = Slieven
 MINUTES	FTP
 [END COURSE HEADER]

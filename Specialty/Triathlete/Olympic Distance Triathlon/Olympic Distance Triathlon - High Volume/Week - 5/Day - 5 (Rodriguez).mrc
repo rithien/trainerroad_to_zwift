@@ -1,0 +1,63 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Rodriguez&nbsp;is 66.5 near-continuous minutes of Tempo/Sweet Spot&nbsp;work broken into 7x9.5-minute segments ranging from 81-92% FTP separated by short, 30-second recoveries.
+FILE NAME = Rodriguez
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	65
+10	65
+10	65
+10.5	80
+10.5	81
+20	81
+20	40
+20.5	40
+20.5	85
+30	85
+30	40
+30.5	40
+30.5	92
+40	92
+40	40
+40.5	40
+40.5	81
+50	81
+50	40
+50.5	40
+50.5	85
+60	85
+60	40
+60.5	40
+60.5	92
+70	92
+70	40
+70.5	40
+70.5	80
+80	80
+80	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	600	Endurance 1
+600	630	Endurance 2
+630	1200	Tempo 1
+1230	1800	Sweet Spot 1
+1830	2400	Sweet Spot 2
+2430	3000	Tempo 2
+3030	3600	Sweet Spot 3
+3630	4200	Sweet Spot 4
+4230	4800	Tempo 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

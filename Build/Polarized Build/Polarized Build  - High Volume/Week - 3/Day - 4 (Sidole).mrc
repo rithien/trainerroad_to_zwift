@@ -1,0 +1,33 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Sidole&nbsp;consists of 75 minutes of aerobic Endurance riding spent between 50-62% FTP.
+FILE NAME = Sidole
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	54
+13	54
+13	58
+23	58
+23	62
+65	62
+65	62
+75	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+300	780	Active Recovery 1
+780	1380	Endurance 1
+1380	3900	Endurance 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Plummer +2 is 70 near-continuous minutes of Tempo/Sweet Spot&nbsp;work broken into 7x10-minute segments ranging from 80-90% FTP separated by short, 30-second recoveries.
+DESCRIPTION = Plummer +2 is 66.5 near-continuous minutes of Tempo/Sweet Spot work broken into 7x9.5-minute segments ranging from 80-90% FTP separated by short, 30-second recoveries.
 FILE NAME = Plummer +2
 MINUTES	FTP
 [END COURSE HEADER]
@@ -21,8 +21,8 @@ MINUTES	FTP
 30	85
 30	40
 30.5	40
-30.5	90
-40	90
+30.5	89
+40	89
 40	40
 40.5	40
 40.5	80
@@ -46,17 +46,17 @@ MINUTES	FTP
 [COURSE TEXT]
 0	10 minutes of general warm up ahead...	8	0	0	72	16777215	10
 0	and then your workout kicks off at a reasonably low % of FTP	8	0	0	72	16777215	20
-0	So your first 10-minute segment will serve to further your warm up	8	0	0	72	16777215	30
+0	So your first 9.5-minute segment will serve to further your warm up	8	0	0	72	16777215	30
 0	Settle into a comfortably quick cadence above 85rpm	8	0	0	72	16777215	40
 300	You'll ramp into your first of 7 segments in a couple minutes	8	0	0	72	16777215	180
-300	Each is 10 minutes long for a total of 70 minutes of Tempo-ish work	8	0	0	72	16777215	190
+300	Each is 9.5 minutes long for a total of 66.5 minutes of Tempo-ish work	8	0	0	72	16777215	190
 300	The primary goal is still extending your aerobic endurance...	8	0	0	72	16777215	200
 300	with a bit of additional duration over shorter, similar workouts	8	0	0	72	16777215	210
 300	During these "+" versions, the interval intensity rises a bit as well	8	0	0	72	16777215	220
 300	All part of a progressive process that keeps things challenging & interesting...	8	0	0	72	16777215	230
 300	but manageable as well	4	0	0	72	16777215	239
 600	Keep your cadence steady as your power output comes up	8	0	0	72	16777215	0
-630	During this first 10 minutes, work in & out of your aero position	8	0	0	72	16777215	0
+630	During this first 9.5 minutes, work in & out of your aero position	8	0	0	72	16777215	0
 630	Don't worry about how long you stay low or sit upright...	8	0	0	72	16777215	10
 630	just spend a little time riding low when you feel like it, no specific goals	8	0	0	72	16777215	20
 630	With the obvious objective of extending your aerobic endurance in mind...	8	0	0	72	16777215	30
@@ -118,7 +118,7 @@ MINUTES	FTP
 1830	This has to do with shorter, lighter muscle contractions, but that's beside the point	8	0	0	72	16777215	50
 1830	The real point is that lighter, quicker spins can help preserve those sugar stores too!	8	0	0	72	16777215	60
 1830	So by improving your aerobic endurance AND making your spin more aerobic...	8	0	0	72	16777215	70
-1830	you'll watch your peformance capabilities become less dependent on sugar intake	8	0	0	72	16777215	80
+1830	you'll watch your performance capabilities become less dependent on sugar intake	8	0	0	72	16777215	80
 1830	This is of special concern to athletes who are riding for longer than 90 minutes...	8	0	0	72	16777215	90
 1830	since eating & digestion while on the bike can be somewhat challenging	8	0	0	72	16777215	100
 1830	5 more minutes in this higher-intensity segment...	8	0	0	72	16777215	270
@@ -137,9 +137,9 @@ MINUTES	FTP
 2430	By stopping or backpedaling as briefly as 10 seconds, you might find your interest renewed	8	0	0	72	16777215	50
 2430	Shake out your legs, stretch your back, take your hands off the bars...	8	0	0	72	16777215	60
 2430	but keep it short, no longer than 30 seconds at the very most	8	0	0	72	16777215	70
-2430	And try to limit these breaks to 1 per 10-minute segment	8	0	0	72	16777215	80
+2430	And try to limit these breaks to 1 per 9.5-minute segment	8	0	0	72	16777215	80
 2430	But even if you were to take a 30-second break at the end of every segment...	8	0	0	72	16777215	90
-2430	that only adds up to 3 minutes of recovery out of 80 minutes of riding	8	0	0	72	16777215	100
+2430	that only adds up to 3 minutes of recovery out of 90 minutes of riding	8	0	0	72	16777215	100
 2430	Point is, if short, occasional breaks help you keep your form...	8	0	0	72	16777215	110
 2430	and your cadence and your focus, even keep you from cramping...	8	0	0	72	16777215	120
 2430	and thus keep the quality of this workout very high, it's time well spent	8	0	0	72	16777215	130
@@ -190,9 +190,9 @@ MINUTES	FTP
 3630	Just 5 more minutes to employ your ideal cadence & spend some time down low	8	0	0	72	16777215	270
 3630	And it probably doesn't need to be stated (again), but any cadence changes you pursue...	8	0	0	72	16777215	280
 3630	need to work just as well, if not better, in your aero position	8	0	0	72	16777215	290
-4200	Back things off and then gradually ease into your final 10-minute push	8	0	0	72	16777215	0
+4200	Back things off and then gradually ease into your final 9.5-minute push	8	0	0	72	16777215	0
 4230	It's no accident that this final interval is at the lower end of things	8	0	0	72	16777215	0
-4230	Riding for 70 minutes with few or possibly no breaks...	8	0	0	72	16777215	10
+4230	Riding for 66.5 minutes with few or possibly no breaks...	8	0	0	72	16777215	10
 4230	is a surprisingly tall order for many riders new to indoor training...	8	0	0	72	16777215	20
 4230	so making this final interval more manageable is our gift to you	8	0	0	72	16777215	30
 4230	You're welcome ;-)	4	0	0	72	16777215	40
@@ -209,7 +209,7 @@ MINUTES	FTP
 4230	Just 5 more minutes of keeping it together, be patient, stay focused	8	0	0	72	16777215	270
 4230	And with this being at the low end of today's power range...	8	0	0	72	16777215	280
 4230	try to spend most of this last few minutes in your aero position	8	0	0	72	16777215	290
-4800	Well done! 70 minutes of solid effort with very little recovery	8	0	0	72	16777215	0
+4800	Well done! 66.5 minutes of solid effort with very little recovery	8	0	0	72	16777215	0
 4800	Time to treat those legs to some well-earned rest & relaxation...	8	0	0	72	16777215	10
 4800	and some proper post-workout nutrition that's in line with your personal goals	8	0	0	72	16777215	20
 4800	Rest up, eat up, and we'll see you next time	8	0	0	72	16777215	30
@@ -231,4 +231,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
-                                                                                                                       
+                                                                                                         

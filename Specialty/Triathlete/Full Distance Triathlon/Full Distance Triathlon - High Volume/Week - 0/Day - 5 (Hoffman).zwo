@@ -6,59 +6,59 @@
         <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
         <SteadyState Duration="300.0" PowerLow="0.570" PowerHigh="0.570"/>
         <SteadyState Duration="1500.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Once you're thoroughly warmed up, perform 3-5 Form Sprints over this 25-minute stretch" timeoffset="-1.000000"/>
+            <textevent message="Once you're thoroughly warmed up, perform 3-5 Form Sprints over this 25-minute stretch" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700">
-            <textevent message="Spend 10 of these minutes alternating your Single Leg Focus" timeoffset="-1.000000"/>
+            <textevent message="Spend 10 of these minutes alternating your Single Leg Focus" timeoffset="-1"/>
         </Warmup>
         <SteadyState Duration="540.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
         <SteadyState Duration="1800.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Try to include a couple 5-minute stretches of Endurance Spinning over this 30 minutes" timeoffset="-1.000000"/>
+            <textevent message="Try to include a couple 5-minute stretches of Endurance Spinning over this 30 minutes" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="600.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Another 10 minutes of alternating Single Leg Focus anywhere within this stretch" timeoffset="-1.000000"/>
+            <textevent message="Another 10 minutes of alternating Single Leg Focus anywhere within this stretch" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
         <SteadyState Duration="600.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="How about 1 or 2 more Endurance Spins? 5 minutes each" timeoffset="-1.000000"/>
+            <textevent message="How about 1 or 2 more Endurance Spins? 5 minutes each" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
         <SteadyState Duration="480.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.620"/>
         <SteadyState Duration="1500.0" PowerLow="0.620" PowerHigh="0.620">
-            <textevent message="Try to add some Pistons and Kick &amp; Pull drills over this 25-minute segment" timeoffset="0.000000"/>
+            <textevent message="Try to add some Pistons and Kick &amp; Pull drills over this 25-minute segment" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.620" PowerHigh="0.700">
-            <textevent message="Once more, alternate your Single Leg Focus for 10 minutes total" timeoffset="-1.000000"/>
+            <textevent message="Once more, alternate your Single Leg Focus for 10 minutes total" timeoffset="-1"/>
         </Warmup>
         <SteadyState Duration="540.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
         <SteadyState Duration="600.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="You up for 1 or 2 more Endurance Spins? 5 minutes each" timeoffset="0.000000"/>
+            <textevent message="You up for 1 or 2 more Endurance Spins? 5 minutes each" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
         <SteadyState Duration="360.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
         <SteadyState Duration="1620.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Add a couple of 5-minute Kick &amp; Pull drills with 5 minutes between them" timeoffset="0.000000"/>
+            <textevent message="Add a couple of 5-minute Kick &amp; Pull drills with 5 minutes between them" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700">
-            <textevent message="Couple more times, alternate your Single Leg Focus for 10 minutes total" timeoffset="-1.000000"/>
+            <textevent message="Couple more times, alternate your Single Leg Focus for 10 minutes total" timeoffset="-1"/>
         </Warmup>
         <SteadyState Duration="540.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
         <SteadyState Duration="1560.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="If you aren't completely shot, add some Pistons and Kick &amp; Pull drills" timeoffset="-1.000000"/>
+            <textevent message="If you aren't completely shot, add some Pistons and Kick &amp; Pull drills" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.650"/>
         <SteadyState Duration="600.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="One last 10 minutes of alternating Single Leg Focus, almost done!" timeoffset="-1.000000"/>
+            <textevent message="One last 10 minutes of alternating Single Leg Focus, almost done!" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.650" PowerHigh="0.630"/>
         <SteadyState Duration="360.0" PowerLow="0.630" PowerHigh="0.630">
-            <textevent message="How about 1 or 2 more Endurance Spins? Just 3 minutes each" timeoffset="-1.000000"/>
+            <textevent message="How about 1 or 2 more Endurance Spins? Just 3 minutes each" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.630" PowerHigh="0.680"/>
         <SteadyState Duration="780.0" PowerLow="0.680" PowerHigh="0.680"/>

@@ -41,7 +41,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Kaweah	5	0	0	72	16777215	10
-0	Coach Chad here to shepherd you through...	4	0	0	72	16777215	17
+0	Coach here, ready to shepherd you through...	4	0	0	72	16777215	17
 0	a healthy dose of Threshold work where each interval ahead...	5	0	0	72	16777215	22
 0	will keep you just below your FTP	3	0	0	72	16777215	28
 0	They'll place you right on the verge...	4	0	0	72	16777215	33

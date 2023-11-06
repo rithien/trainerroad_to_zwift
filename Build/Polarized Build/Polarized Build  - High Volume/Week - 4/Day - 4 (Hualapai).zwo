@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Hualapai is two 16-minute intervals at 102% FTP. The recoveries between intervals are 8 minutes long.</description>
+    <name>Hualapai</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="960.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="480.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="960.0" PowerLow="1.020" PowerHigh="1.020"/>
+        <SteadyState Duration="1140.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

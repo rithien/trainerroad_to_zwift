@@ -27,8 +27,8 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Holt Hill -1	5	0	0	72	16777215	10
-0	Coach Chad here to lead you through some climbing intervals...	5	0	0	72	16777215	17
-0	will you work to further your aerobic endurance...	5	0	0	72	16777215	23
+0	Coach here, ready to lead you through some climbing intervals...	5	0	0	72	16777215	17
+0	while you work to further your aerobic endurance...	5	0	0	72	16777215	23
 0	with some fairly long intervals spent well below FTP...	5	0	0	72	16777215	29
 0	but workloads high enough to lift your heart rate...	4	0	0	72	16777215	35
 0	sufficiently enough...	2	0	0	72	16777215	40

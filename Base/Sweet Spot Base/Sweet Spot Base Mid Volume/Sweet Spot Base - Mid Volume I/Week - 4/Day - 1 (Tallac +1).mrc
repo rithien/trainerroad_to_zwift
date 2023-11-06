@@ -63,7 +63,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Tallac +1	5	0	0	72	16777215	10
-0	Coach Chad here to guide you through a reasonably quick jaunt...	5	0	0	72	16777215	17
+0	We're here to guide you through a reasonably quick jaunt...	5	0	0	72	16777215	17
 0	into muscle endurance territory...	4	0	0	72	16777215	23
 0	starting with some comfortably quick & light legs	4	0	0	72	16777215	28
 0	The primary aim of the intervals ahead...	4	0	0	72	16777215	35
@@ -532,4 +532,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
-                                                                                                   
+                                                                                                        

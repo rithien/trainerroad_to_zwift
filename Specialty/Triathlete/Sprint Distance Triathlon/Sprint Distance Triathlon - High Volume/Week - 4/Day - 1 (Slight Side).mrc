@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Slight Side&nbsp;is 4x5.5-minute repeats at 106% FTP where each interval is split iby a 45-second recovery valley. Each full interval is separated by a 10 minute and 15 second recovery valley.
+DESCRIPTION = Slight Side&nbsp;is 4x5.5-minute repeats at 106% FTP where each interval is split by a 45-second recovery valley. Each full interval is separated by a 10 minute and 15 second recovery valley.
 FILE NAME = Slight Side
 MINUTES	FTP
 [END COURSE HEADER]

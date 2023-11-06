@@ -89,7 +89,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Warlow +1	4	0	0	72	16777215	10
-0	Coach Chad here to guide you through a workout...	4	0	0	72	16777215	16
+0	TrainerRoad is here to guide you through your workout...	4	0	0	72	16777215	16
 0	where the intervals typically hug your FTP...	4	0	0	72	16777215	21
 0	staying either a little below or a bit above it...	4	0	0	72	16777215	26
 0	but this one extends that upper limit more than usual	5	0	0	72	16777215	31

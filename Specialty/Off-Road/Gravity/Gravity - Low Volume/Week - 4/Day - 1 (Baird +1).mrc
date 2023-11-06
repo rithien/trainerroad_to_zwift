@@ -111,8 +111,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Baird +1	5	0	0	72	16777215	10
-0	Coach Chad here and I'll be taking you through...	4	0	0	72	16777215	16
-0	this smattering of closely set high-intensity intervals...	4	0	0	72	16777215	21
+0	this is a smattering of closely set high-intensity intervals...	4	0	0	72	16777215	21
 0	bent on pushing your aerobic capabilities to a higher level	5	0	0	72	16777215	26
 0	By trimming down the recoveries between intervals...	4	0	0	72	16777215	33
 0	and tacking on another set of repeats...	4	0	0	72	16777215	38
@@ -521,3 +520,5 @@ MINUTES	FTP
 
 [MODE DATA]
 [END MODE DATA]
+
+                                                                     

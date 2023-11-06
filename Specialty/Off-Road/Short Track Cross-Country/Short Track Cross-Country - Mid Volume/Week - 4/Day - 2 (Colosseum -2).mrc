@@ -135,7 +135,7 @@ MINUTES	FTP
 2640	Probably somewhere in between; regardless, go a little quicker now	8	0	0	72	16777215	50
 2700	Hold a slightly quicker than usual spin for 1-2 of these three minutes	8	0	0	72	16777215	0
 2880	For one minute, try to ride a full 10 rpm above your usual cadence	8	0	0	72	16777215	0
-2880	So if you've settled at 85rpm, try a couple minutes at 105rpm	8	0	0	72	16777215	10
+2880	So if you've settled at 85rpm, try a couple minutes at 95rpm	8	0	0	72	16777215	10
 2880	As you wind it up, do your best to keep the same level of relaxation	8	0	0	72	16777215	20
 2880	One more minute, drop 5rpm if you're feeling sloppy or bouncing	8	0	0	72	16777215	60
 2880	Anytime your form fails, do what you need to do in order to correct it	8	0	0	72	16777215	70
@@ -176,4 +176,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
-                                                                                                    
+                                                                                                      

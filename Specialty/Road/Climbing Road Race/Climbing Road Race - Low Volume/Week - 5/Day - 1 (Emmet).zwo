@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <workout_file>
-    <description>Emmet&amp;nbsp;is 8x2-minute largely aerobic efforts at 109% FTP with 4 standing, 6-second sprint-like bursts at 150-200% FTP. Recoveries between intervals are about 2 minutes long.</description>
+    <description>Emmet&amp;nbsp;is 8x2-minute largely aerobic efforts at 109% FTP with 4 standing, 6-second sprint-like bursts at 150-200% FTP. Recoveries between intervals are 2.5 minutes long.</description>
     <name>Emmet</name>
     <workout>
         <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>

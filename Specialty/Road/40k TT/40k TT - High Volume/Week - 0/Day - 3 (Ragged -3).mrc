@@ -37,7 +37,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Ragged -3!	5	0	0	72	16777215	10
-0	Coach Chad here to distract and educate you..	4	0	0	72	16777215	17
+0	Coach here, ready to distract and educate you..	4	0	0	72	16777215	17
 0	over this series of increasingly demanding, steady-state steps	5	0	0	72	16777215	22
 0	But those demands are ever so slightly reduced in this version...	5	0	0	72	16777215	29
 0	due to some short, but more refreshing recovery valleys	5	0	0	72	16777215	35

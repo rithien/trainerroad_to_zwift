@@ -22,8 +22,6 @@ MINUTES	FTP
 30	105
 35	105
 35	40
-36.5	40
-36.5	40
 38	40
 38	108
 42	108
@@ -42,7 +40,7 @@ MINUTES	FTP
 [COURSE TEXT]
 0	We'll kick things off with a bit of warm up	8	0	0	72	16777215	10
 0	Keep your spin quick & light for the first few minutes	8	0	0	72	16777215	20
-360	Ramp things up a little, further your warm up, open your lungs a bit	8	0	0	72	16777215	0
+360	Pick things up a little, further your warm up, open your lungs a bit	8	0	0	72	16777215	0
 360	Keep your spin above 85rpm, higher if reasonably comfortable	8	0	0	72	16777215	10
 600	Final minutes, right next to FTP	8	0	0	72	16777215	0
 600	Increase your spin to 90rpm or higher...	8	0	0	72	16777215	10
@@ -115,9 +113,6 @@ MINUTES	FTP
 2100	Keep your legs moving if you can, even backwards works	8	0	0	72	16777215	10
 2100	These are short breaks...	8	0	0	72	16777215	20
 2100	so do whatever you need to maximize your recovery	8	0	0	72	16777215	30
-2190	Very well done	8	0	0	72	16777215	0
-2190	Ease off the gas for a few minutes...	8	0	0	72	16777215	10
-2190	and bring your breathing & heart rate back down	8	0	0	72	16777215	17
 2280	From the very start, give your breathing some added focus	8	0	0	72	16777215	0
 2280	Get in the habit of breathing fully BEFORE you're in a bad spot	8	0	0	72	16777215	10
 2280	Power's on Target, breathing is top-notch...	8	0	0	72	16777215	60
@@ -179,4 +174,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

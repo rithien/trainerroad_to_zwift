@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Moresville&amp;nbsp;consists of about 2 hours &amp;amp; 15 minutes of aerobic Endurance riding spent between 52-54% FTP.</description>
+    <name>Moresville</name>
+    <workout>
+        <Warmup Duration="180.0" PowerLow="0.420" PowerHigh="0.480"/>
+        <SteadyState Duration="1020.0" PowerLow="0.520" PowerHigh="0.520"/>
+        <SteadyState Duration="1440.0" PowerLow="0.540" PowerHigh="0.540"/>
+        <SteadyState Duration="2340.0" PowerLow="0.520" PowerHigh="0.520"/>
+        <SteadyState Duration="1800.0" PowerLow="0.540" PowerHigh="0.540"/>
+        <SteadyState Duration="960.0" PowerLow="0.520" PowerHigh="0.520"/>
+        <Cooldown Duration="360.0" PowerLow="0.490" PowerHigh="0.280"/>
+    </workout>
+</workout_file>

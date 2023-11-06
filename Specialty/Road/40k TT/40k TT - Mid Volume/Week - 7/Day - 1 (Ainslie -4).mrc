@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Ainslie -4 is 4x4-minute intervals at 105% FTP with 4-minute recoveries at 50% FTP. 
+DESCRIPTION = Ainslie -4 is 4x4-minute intervals at 105% FTP with 4-minute recoveries at 40% FTP. 
 FILE NAME = Ainslie -4
 MINUTES	FTP
 [END COURSE HEADER]

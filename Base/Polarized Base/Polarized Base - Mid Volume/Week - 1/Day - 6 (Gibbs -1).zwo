@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Gibbs -1 consists of 2 hours of aerobic Endurance riding spent between 50-60% FTP.</description>
+    <name>Gibbs -1</name>
+    <workout>
+        <SteadyState Duration="600.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="60.0" PowerLow="0.500" PowerHigh="0.530"/>
+        <SteadyState Duration="900.0" PowerLow="0.530" PowerHigh="0.530"/>
+        <Warmup Duration="60.0" PowerLow="0.530" PowerHigh="0.560"/>
+        <SteadyState Duration="840.0" PowerLow="0.560" PowerHigh="0.560"/>
+        <Warmup Duration="60.0" PowerLow="0.560" PowerHigh="0.600"/>
+        <SteadyState Duration="900.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Cooldown Duration="60.0" PowerLow="0.600" PowerHigh="0.560"/>
+        <SteadyState Duration="1260.0" PowerLow="0.560" PowerHigh="0.560"/>
+        <Warmup Duration="60.0" PowerLow="0.560" PowerHigh="0.600"/>
+        <SteadyState Duration="780.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Cooldown Duration="60.0" PowerLow="0.600" PowerHigh="0.550"/>
+        <SteadyState Duration="480.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Cooldown Duration="60.0" PowerLow="0.550" PowerHigh="0.500"/>
+        <SteadyState Duration="660.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Cooldown Duration="360.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Slatna&amp;nbsp;consists of nearly 90 minutes of aerobic Endurance riding spent between 50-55% FTP.</description>
+    <name>Slatna</name>
+    <workout>
+        <SteadyState Duration="840.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="1380.0" PowerLow="0.520" PowerHigh="0.520"/>
+        <SteadyState Duration="1380.0" PowerLow="0.540" PowerHigh="0.540"/>
+        <SteadyState Duration="1500.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Cooldown Duration="2100.0" PowerLow="0.550" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

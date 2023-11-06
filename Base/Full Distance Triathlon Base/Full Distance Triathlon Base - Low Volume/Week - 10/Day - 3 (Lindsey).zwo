@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>In total,&amp;nbsp;Lindsey&amp;nbsp;is 59 minutes of  Tempo/Sweet Spot work broken into 6 segments ranging from 9-10.5 minutes and from 85-93% FTP with only short, 30-second recoveries between each.</description>
+    <name>Lindsey</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="630.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.860" PowerHigh="0.860"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.930" PowerHigh="0.930"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="630.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="540.0" PowerLow="0.860" PowerHigh="0.860"/>
+        <SteadyState Duration="30.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="600.0" PowerLow="0.930" PowerHigh="0.930"/>
+        <Cooldown Duration="240.0" PowerLow="0.600" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

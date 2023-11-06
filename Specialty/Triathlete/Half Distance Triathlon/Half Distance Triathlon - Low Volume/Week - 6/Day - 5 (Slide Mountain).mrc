@@ -31,7 +31,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Slide Mountain	5	0	0	72	16777215	10
-0	Coach Chad here, and just ahead are 3 long-ish intervals...	5	0	0	72	16777215	17
+0	Coach here, just ahead are 3 long-ish intervals...	5	0	0	72	16777215	17
 0	intent on improving your strength endurance...	4	0	0	72	16777215	23
 0	lifting your aerobic endurance...	4	0	0	72	16777215	28
 0	and burning some calories in the process	4	0	0	72	16777215	33
@@ -443,4 +443,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
- 
+          

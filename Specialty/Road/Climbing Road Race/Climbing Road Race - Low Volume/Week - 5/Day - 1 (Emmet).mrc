@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Emmet&nbsp;is 8x2-minute largely aerobic efforts at 109% FTP with 4 standing, 6-second sprint-like bursts at 150-200% FTP. Recoveries between intervals are about 2 minutes long. 
+DESCRIPTION = Emmet&nbsp;is 8x2-minute largely aerobic efforts at 109% FTP with 4 standing, 6-second sprint-like bursts at 150-200% FTP. Recoveries between intervals are 2.5 minutes long. 
 FILE NAME = Emmet
 MINUTES	FTP
 [END COURSE HEADER]

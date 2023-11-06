@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <workout_file>
-    <description>Desperation&amp;nbsp;totals over 75 minutes of Tempo intervals spent between 65-92% FTP with intermittent, 2.75-minute recoveries at 55% FTP.</description>
+    <description>Desperation&amp;nbsp;totals over 65 minutes of Tempo intervals spent between 65-92% FTP with intermittent, 2.75-minute recoveries at 55% FTP.</description>
     <name>Desperation</name>
     <workout>
         <SteadyState Duration="210.0" PowerLow="0.500" PowerHigh="0.500"/>

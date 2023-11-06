@@ -7,31 +7,31 @@
         <SteadyState Duration="300.0" PowerLow="0.570" PowerHigh="0.570"/>
         <Warmup Duration="60.0" PowerLow="0.570" PowerHigh="0.650"/>
         <SteadyState Duration="1200.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Let's kick things off with 5 minutes of Endurance Spinning" timeoffset="120.000000"/>
+            <textevent message="Let's kick things off with 5 minutes of Endurance Spinning" timeoffset="120"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.650" PowerHigh="0.600"/>
         <SteadyState Duration="1440.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="Here's a nice long stretch to use for 3-5 Form Sprints" timeoffset="0.000000"/>
+            <textevent message="Here's a nice long stretch to use for 3-5 Form Sprints" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
         <SteadyState Duration="1500.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Spend 5 of these 25 minutes doing some Endurance Spinning" timeoffset="-1.000000"/>
+            <textevent message="Spend 5 of these 25 minutes doing some Endurance Spinning" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
         <SteadyState Duration="1260.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="Another stretch to focus on some 30 to 60-second ILT efforts" timeoffset="0.000000"/>
+            <textevent message="Another stretch to focus on some 30 to 60-second ILT efforts" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.650"/>
         <SteadyState Duration="1620.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="How about another 5-minute Endurance Spin during these next 27 minutes?" timeoffset="-1.000000"/>
+            <textevent message="How about another 5-minute Endurance Spin during these next 27 minutes?" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.650" PowerHigh="0.600"/>
         <SteadyState Duration="1320.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="Try 3-5 late-ride Form Sprints to see if you can still manage good form" timeoffset="0.000000"/>
+            <textevent message="Try 3-5 late-ride Form Sprints to see if you can still manage good form" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.650"/>
         <SteadyState Duration="1200.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="And one more 5-minute Endurance Spin unless you're just too tired" timeoffset="-1.000000"/>
+            <textevent message="And one more 5-minute Endurance Spin unless you're just too tired" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.650" PowerHigh="0.500"/>
         <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>

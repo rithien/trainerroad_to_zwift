@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Desperation&nbsp;totals over 75 minutes of Tempo intervals spent between 65-92% FTP with intermittent, 2.75-minute recoveries at 55% FTP. 
+DESCRIPTION = Desperation&nbsp;totals over 65 minutes of Tempo intervals spent between 65-92% FTP with intermittent, 2.75-minute recoveries at 55% FTP. 
 FILE NAME = Desperation
 MINUTES	FTP
 [END COURSE HEADER]

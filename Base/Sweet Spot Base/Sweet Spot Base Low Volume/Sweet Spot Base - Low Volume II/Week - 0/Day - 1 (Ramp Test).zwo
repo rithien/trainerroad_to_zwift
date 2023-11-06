@@ -4,137 +4,137 @@
     <name>Ramp Test</name>
     <workout>
         <SteadyState Duration="300.0" PowerLow="0.460" PowerHigh="0.460">
-            <textevent message="Welcome to the TrainerRoad Ramp Test!" timeoffset="1.000000"/>
-            <textevent message="This is a fitness benchmark test" timeoffset="7.000000"/>
-            <textevent message="That will make sure you get the right workout, every time" timeoffset="14.000000"/>
-            <textevent message="This alternate testing protocol..." timeoffset="19.000000"/>
-            <textevent message="is aimed at offering an alternative to longer, steady-state efforts..." timeoffset="23.000000"/>
-            <textevent message="like the 8- or 20-minute tests" timeoffset="29.000000"/>
-            <textevent message="This alternative is ideal for new riders..." timeoffset="34.000000"/>
-            <textevent message="who may not be familiar with pacing those steady efforts..." timeoffset="39.000000"/>
-            <textevent message="but it can work just as well..." timeoffset="45.000000"/>
-            <textevent message="for even the most experienced cyclists" timeoffset="49.000000"/>
-            <textevent message="Your goal for this test..." timeoffset="56.000000"/>
-            <textevent message="is to pedal until you physically can't continue pedalling anymore" timeoffset="60.000000"/>
-            <textevent message="What lays ahead is a series of 1-minute steps..." timeoffset="67.000000"/>
-            <textevent message="that will start somewhere very close to 50% of your current FTP..." timeoffset="72.000000"/>
-            <textevent message="or roughly half of what you've estimated your FTP to be" timeoffset="78.000000"/>
-            <textevent message="This will feel easy at first..." timeoffset="85.000000"/>
-            <textevent message="and might feel easy for awhile..." timeoffset="90.000000"/>
-            <textevent message="But eventually, it gets really hard" timeoffset="96.000000"/>
-            <textevent message="Once the effort feels very difficult..." timeoffset="101.000000"/>
-            <textevent message="you'll only have a handful of minutes left" timeoffset="105.000000"/>
-            <textevent message="Remember..." timeoffset="111.000000"/>
-            <textevent message="this is a test to see how far you can push yourself" timeoffset="115.000000"/>
-            <textevent message="That means you'll need to go all out..." timeoffset="120.000000"/>
-            <textevent message="but you've got this!" timeoffset="125.000000"/>
-            <textevent message="Giving your all is important..." timeoffset="130.000000"/>
-            <textevent message="so your future workouts are adjusted to your abilities" timeoffset="135.000000"/>
-            <textevent message="So before you get started, let's check on a few things..." timeoffset="142.000000"/>
-            <textevent message="if you have a fan, turn it on high" timeoffset="147.000000"/>
-            <textevent message="and grab everything you need to go deep" timeoffset="153.000000"/>
-            <textevent message="Because this is a Ramp Test..." timeoffset="160.000000"/>
-            <textevent message="there will be no recovery between now..." timeoffset="164.000000"/>
-            <textevent message="and when it's too hard to keep going" timeoffset="169.000000"/>
-            <textevent message="Only two more minutes until you start ramping" timeoffset="180.000000"/>
-            <textevent message="One thing that really helps..." timeoffset="185.000000"/>
-            <textevent message="is to remember that even though this is a test to failure..." timeoffset="190.000000"/>
-            <textevent message="it's only hard for a few minutes" timeoffset="197.000000"/>
-            <textevent message="And you know you can do anything for just a few minutes!" timeoffset="202.000000"/>
-            <textevent message="Once you've done all that you can..." timeoffset="216.000000"/>
-            <textevent message="You'll receive an estimate of your FTP..." timeoffset="221.000000"/>
-            <textevent message="which is the benchmark we use to adjust your training" timeoffset="227.000000"/>
-            <textevent message="Just one more minute before the ramping begins..." timeoffset="240.000000"/>
-            <textevent message="take a deep breath and focus on your goals..." timeoffset="245.000000"/>
-            <textevent message="This is your first step in achieving those goals..." timeoffset="249.000000"/>
-            <textevent message="So, no matter the result, you're well on your way" timeoffset="255.000000"/>
-            <textevent message="You've got this!" timeoffset="293.000000"/>
+            <textevent message="Welcome to the TrainerRoad Ramp Test!" timeoffset="1"/>
+            <textevent message="This is a fitness benchmark test" timeoffset="7"/>
+            <textevent message="That will make sure you get the right workout, every time" timeoffset="14"/>
+            <textevent message="This alternate testing protocol..." timeoffset="19"/>
+            <textevent message="is aimed at offering an alternative to longer, steady-state efforts..." timeoffset="23"/>
+            <textevent message="like the 8- or 20-minute tests" timeoffset="29"/>
+            <textevent message="This alternative is ideal for new riders..." timeoffset="34"/>
+            <textevent message="who may not be familiar with pacing those steady efforts..." timeoffset="39"/>
+            <textevent message="but it can work just as well..." timeoffset="45"/>
+            <textevent message="for even the most experienced cyclists" timeoffset="49"/>
+            <textevent message="Your goal for this test..." timeoffset="56"/>
+            <textevent message="is to pedal until you physically can't continue pedalling anymore" timeoffset="60"/>
+            <textevent message="What lays ahead is a series of 1-minute steps..." timeoffset="67"/>
+            <textevent message="that will start somewhere very close to 50% of your current FTP..." timeoffset="72"/>
+            <textevent message="or roughly half of what you've estimated your FTP to be" timeoffset="78"/>
+            <textevent message="This will feel easy at first..." timeoffset="85"/>
+            <textevent message="and might feel easy for awhile..." timeoffset="90"/>
+            <textevent message="But eventually, it gets really hard" timeoffset="96"/>
+            <textevent message="Once the effort feels very difficult..." timeoffset="101"/>
+            <textevent message="you'll only have a handful of minutes left" timeoffset="105"/>
+            <textevent message="Remember..." timeoffset="111"/>
+            <textevent message="this is a test to see how far you can push yourself" timeoffset="115"/>
+            <textevent message="That means you'll need to go all out..." timeoffset="120"/>
+            <textevent message="but you've got this!" timeoffset="125"/>
+            <textevent message="Giving your all is important..." timeoffset="130"/>
+            <textevent message="so your future workouts are adjusted to your abilities" timeoffset="135"/>
+            <textevent message="So before you get started, let's check on a few things..." timeoffset="142"/>
+            <textevent message="if you have a fan, turn it on high" timeoffset="147"/>
+            <textevent message="and grab everything you need to go deep" timeoffset="153"/>
+            <textevent message="Because this is a Ramp Test..." timeoffset="160"/>
+            <textevent message="there will be no recovery between now..." timeoffset="164"/>
+            <textevent message="and when it's too hard to keep going" timeoffset="169"/>
+            <textevent message="Only two more minutes until you start ramping" timeoffset="180"/>
+            <textevent message="One thing that really helps..." timeoffset="185"/>
+            <textevent message="is to remember that even though this is a test to failure..." timeoffset="190"/>
+            <textevent message="it's only hard for a few minutes" timeoffset="197"/>
+            <textevent message="And you know you can do anything for just a few minutes!" timeoffset="202"/>
+            <textevent message="Once you've done all that you can..." timeoffset="216"/>
+            <textevent message="You'll receive an estimate of your FTP..." timeoffset="221"/>
+            <textevent message="which is the benchmark we use to adjust your training" timeoffset="227"/>
+            <textevent message="Just one more minute before the ramping begins..." timeoffset="240"/>
+            <textevent message="take a deep breath and focus on your goals..." timeoffset="245"/>
+            <textevent message="This is your first step in achieving those goals..." timeoffset="249"/>
+            <textevent message="So, no matter the result, you're well on your way" timeoffset="255"/>
+            <textevent message="You've got this!" timeoffset="293"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.520" PowerHigh="0.520">
-            <textevent message="And here we go" timeoffset="0.000000"/>
-            <textevent message="A few things worth noting..." timeoffset="7.000000"/>
-            <textevent message="1 - Try to remain seated throughout the entirety of the ramp test" timeoffset="14.000000"/>
-            <textevent message="Standing and &quot;sprinting to the line&quot; will adversely affect our estimate..." timeoffset="21.000000"/>
-            <textevent message="and standing earlier in the workout can also cloud the estimation waters" timeoffset="27.000000"/>
-            <textevent message="So stay in the saddle" timeoffset="34.000000"/>
-            <textevent message="2 - If you're on a smart trainer..." timeoffset="40.000000"/>
-            <textevent message="you have the luxury of options" timeoffset="45.000000"/>
-            <textevent message="You can either use Erg or Resistance mode..." timeoffset="51.000000"/>
-            <textevent message="whichever suits you" timeoffset="56.000000"/>
+            <textevent message="And here we go" timeoffset="0"/>
+            <textevent message="A few things worth noting..." timeoffset="7"/>
+            <textevent message="1 - Try to remain seated throughout the entirety of the ramp test" timeoffset="14"/>
+            <textevent message="Standing and &quot;sprinting to the line&quot; will adversely affect our estimate..." timeoffset="21"/>
+            <textevent message="and standing earlier in the workout can also cloud the estimation waters" timeoffset="27"/>
+            <textevent message="So stay in the saddle" timeoffset="34"/>
+            <textevent message="2 - If you're on a smart trainer..." timeoffset="40"/>
+            <textevent message="you have the luxury of options" timeoffset="45"/>
+            <textevent message="You can either use Erg or Resistance mode..." timeoffset="51"/>
+            <textevent message="whichever suits you" timeoffset="56"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.580" PowerHigh="0.580">
-            <textevent message="Next step, stay smooth..." timeoffset="0.000000"/>
-            <textevent message="and just as relaxed as you've been all along" timeoffset="5.000000"/>
-            <textevent message="Again, it's likely to take a bit of time..." timeoffset="11.000000"/>
-            <textevent message="before this starts to feel like work" timeoffset="17.000000"/>
-            <textevent message="Some riders will start to hurt only several minutes in..." timeoffset="23.000000"/>
-            <textevent message="while others will take a bit longer..." timeoffset="29.000000"/>
+            <textevent message="Next step, stay smooth..." timeoffset="0"/>
+            <textevent message="and just as relaxed as you've been all along" timeoffset="5"/>
+            <textevent message="Again, it's likely to take a bit of time..." timeoffset="11"/>
+            <textevent message="before this starts to feel like work" timeoffset="17"/>
+            <textevent message="Some riders will start to hurt only several minutes in..." timeoffset="23"/>
+            <textevent message="while others will take a bit longer..." timeoffset="29"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.640" PowerHigh="0.640">
-            <textevent message="Next small bump in effort..." timeoffset="0.000000"/>
-            <textevent message="but no real changes anywhere..." timeoffset="5.000000"/>
-            <textevent message="smooth, relaxed, steady cadence" timeoffset="10.000000"/>
-            <textevent message="By now you've gleaned that a ramp test is just that..." timeoffset="16.000000"/>
-            <textevent message="a ramp used to test (assess) your fitness" timeoffset="22.000000"/>
-            <textevent message="In this case, we're trying to estimate your max steady-state power..." timeoffset="29.000000"/>
-            <textevent message="based on just how far you can push yourself up this ramp" timeoffset="35.000000"/>
+            <textevent message="Next small bump in effort..." timeoffset="0"/>
+            <textevent message="but no real changes anywhere..." timeoffset="5"/>
+            <textevent message="smooth, relaxed, steady cadence" timeoffset="10"/>
+            <textevent message="By now you've gleaned that a ramp test is just that..." timeoffset="16"/>
+            <textevent message="a ramp used to test (assess) your fitness" timeoffset="22"/>
+            <textevent message="In this case, we're trying to estimate your max steady-state power..." timeoffset="29"/>
+            <textevent message="based on just how far you can push yourself up this ramp" timeoffset="35"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="One more step..." timeoffset="0.000000"/>
-            <textevent message="You're still doing great!" timeoffset="7.000000"/>
+            <textevent message="One more step..." timeoffset="0"/>
+            <textevent message="You're still doing great!" timeoffset="7"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.760" PowerHigh="0.760">
-            <textevent message="Up again..." timeoffset="0.000000"/>
-            <textevent message="You are in control of your breathing..." timeoffset="5.000000"/>
-            <textevent message="So relax, drop your shoulders, easy in, easy out." timeoffset="10.000000"/>
+            <textevent message="Up again..." timeoffset="0"/>
+            <textevent message="You are in control of your breathing..." timeoffset="5"/>
+            <textevent message="So relax, drop your shoulders, easy in, easy out." timeoffset="10"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.820" PowerHigh="0.820">
-            <textevent message="Step it up!" timeoffset="0.000000"/>
-            <textevent message="And make that pedal stroke smooth" timeoffset="5.000000"/>
-            <textevent message="because smooth equals fast :)" timeoffset="10.000000"/>
+            <textevent message="Step it up!" timeoffset="0"/>
+            <textevent message="And make that pedal stroke smooth" timeoffset="5"/>
+            <textevent message="because smooth equals fast :)" timeoffset="10"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.880" PowerHigh="0.880">
-            <textevent message="Another step" timeoffset="0.000000"/>
-            <textevent message="That's one step closer to your goal" timeoffset="5.000000"/>
-            <textevent message="maybe this is still a breeze..." timeoffset="10.000000"/>
-            <textevent message="but when you tick over that one step..." timeoffset="14.000000"/>
-            <textevent message="and notice the fatigue for the first time..." timeoffset="19.000000"/>
-            <textevent message="your focus has to sharpen" timeoffset="24.000000"/>
+            <textevent message="Another step" timeoffset="0"/>
+            <textevent message="That's one step closer to your goal" timeoffset="5"/>
+            <textevent message="maybe this is still a breeze..." timeoffset="10"/>
+            <textevent message="but when you tick over that one step..." timeoffset="14"/>
+            <textevent message="and notice the fatigue for the first time..." timeoffset="19"/>
+            <textevent message="your focus has to sharpen" timeoffset="24"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.940" PowerHigh="0.940">
-            <textevent message="With each small increase..." timeoffset="0.000000"/>
-            <textevent message="you can expect a slight delay..." timeoffset="4.000000"/>
-            <textevent message="in the pending rise in discomfort" timeoffset="8.000000"/>
-            <textevent message="It might take 10-20 seconds..." timeoffset="13.000000"/>
-            <textevent message="but it's coming, so be ready for it" timeoffset="17.000000"/>
-            <textevent message="Stay on top of your cadence..." timeoffset="23.000000"/>
-            <textevent message="and stay focused" timeoffset="28.000000"/>
+            <textevent message="With each small increase..." timeoffset="0"/>
+            <textevent message="you can expect a slight delay..." timeoffset="4"/>
+            <textevent message="in the pending rise in discomfort" timeoffset="8"/>
+            <textevent message="It might take 10-20 seconds..." timeoffset="13"/>
+            <textevent message="but it's coming, so be ready for it" timeoffset="17"/>
+            <textevent message="Stay on top of your cadence..." timeoffset="23"/>
+            <textevent message="and stay focused" timeoffset="28"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="1.000" PowerHigh="1.000">
-            <textevent message="Here we go" timeoffset="0.000000"/>
-            <textevent message="by now your breathing may be getting faster" timeoffset="5.000000"/>
-            <textevent message="and your legs might be feeling it too" timeoffset="11.000000"/>
-            <textevent message="Smooth and strong, you've got this!" timeoffset="15.000000"/>
+            <textevent message="Here we go" timeoffset="0"/>
+            <textevent message="by now your breathing may be getting faster" timeoffset="5"/>
+            <textevent message="and your legs might be feeling it too" timeoffset="11"/>
+            <textevent message="Smooth and strong, you've got this!" timeoffset="15"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="1.060" PowerHigh="1.060">
-            <textevent message="New step, same game..." timeoffset="0.000000"/>
-            <textevent message="stay on it!" timeoffset="4.000000"/>
+            <textevent message="New step, same game..." timeoffset="0"/>
+            <textevent message="stay on it!" timeoffset="4"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="1.120" PowerHigh="1.120">
-            <textevent message="Ramp it up" timeoffset="0.000000"/>
-            <textevent message="Remember, breathe" timeoffset="7.000000"/>
+            <textevent message="Ramp it up" timeoffset="0"/>
+            <textevent message="Remember, breathe" timeoffset="7"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="1.180" PowerHigh="1.180">
-            <textevent message="Another bump in power..." timeoffset="0.000000"/>
+            <textevent message="Another bump in power..." timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="1.240" PowerHigh="1.240">
-            <textevent message="Take it one minute at a time" timeoffset="0.000000"/>
+            <textevent message="Take it one minute at a time" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="1.300" PowerHigh="1.300">
-            <textevent message="So strong!" timeoffset="0.000000"/>
+            <textevent message="So strong!" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="1.360" PowerHigh="1.360">
-            <textevent message="You're crushing it!" timeoffset="0.000000"/>
+            <textevent message="You're crushing it!" timeoffset="0"/>
         </SteadyState>
         <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
     </workout>

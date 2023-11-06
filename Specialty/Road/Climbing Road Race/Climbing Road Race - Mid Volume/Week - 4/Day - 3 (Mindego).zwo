@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <workout_file>
-    <description>Mindego is 5x5-minute repeats at 107% FTP separated by 5-minute recovery valleys.</description>
+    <description>Mindego is 5x5-minute repeats at 107% FTP separated by&amp;nbsp;recovery valleys of 4 minutes and 50 seconds.</description>
     <name>Mindego</name>
     <workout>
         <SteadyState Duration="380.0" PowerLow="0.500" PowerHigh="0.500"/>

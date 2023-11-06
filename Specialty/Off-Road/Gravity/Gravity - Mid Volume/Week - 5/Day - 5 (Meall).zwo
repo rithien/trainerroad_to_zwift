@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <workout_file>
-    <description>Meall&amp;nbsp;is 5x11-minute Big Gear Starts consisting of a 30-second wind-up at 150% FTP in the biggest gear you can turn.These hard starts are followed closely by 10 minutes of&amp;nbsp;Threshold&amp;nbsp;work at 98% FTP in a gear that allows you to spin at a more reasonable cadence.Each recovery between intervals is 5 minutes long.</description>
+    <description>Meall&amp;nbsp;is 5x10-11-minute Big Gear Starts consisting of a 30-second wind-up at 150% FTP in the biggest gear you can turn.These hard starts are followed closely by 9-10 minutes of&amp;nbsp;Threshold&amp;nbsp;work at 98% FTP in a gear that allows you to spin at a more reasonable cadence.Each recovery between intervals is 5 minutes long.</description>
     <name>Meall</name>
     <workout>
         <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>

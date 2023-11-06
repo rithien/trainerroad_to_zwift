@@ -35,7 +35,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Rendezvous -1!	5	0	0	72	16777215	10
-0	Coach Chad here to shed light on the great mysteries of the universe...	5	0	0	72	16777215	17
+0	Coach here, ready to shed light on the great mysteries of the universe...	5	0	0	72	16777215	17
 0	or perhaps just to offer some encouragement and share my training knowledge	5	0	0	72	16777215	23
 0	And to further that encouragement...	3	0	0	72	16777215	30
 0	this version even includes some crazy-short but still useful recovery ramps	5	0	0	72	16777215	34

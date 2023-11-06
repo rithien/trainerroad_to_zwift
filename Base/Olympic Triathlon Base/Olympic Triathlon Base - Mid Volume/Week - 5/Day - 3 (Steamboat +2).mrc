@@ -402,7 +402,7 @@ MINUTES	FTP
 3000	is all a rider needs to tense up	4	0	0	72	16777215	29
 3000	So stay relaxed...	3	0	0	72	16777215	35
 3000	and be confident in your ability to do this one more time...	5	0	0	72	16777215	39
-3000	knowing you've already bagged 3 of these bad boys	5	0	0	72	16777215	45
+3000	knowing you've already bagged 4 of these bad boys	5	0	0	72	16777215	45
 3000	3 more minutes of mild, manageable leg speed...	5	0	0	72	16777215	60
 3000	taken 1 minute at a time	3	0	0	72	16777215	66
 3000	The more fatigued you get, the more useful it becomes...	4	0	0	72	16777215	71

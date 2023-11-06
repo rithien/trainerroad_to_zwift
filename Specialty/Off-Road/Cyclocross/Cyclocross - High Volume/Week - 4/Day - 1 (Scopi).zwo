@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <workout_file>
-    <description>Scopi&amp;nbsp;consists of 3 sets of 6 descending-duration/ascending intensity intervals from 115% FTP for 2 minutes to 150% FTP for 30 seconds. Recovery between intervals&amp;nbsp;approximately&amp;nbsp;matches the duration of the preceding interval - work for approximately 2&amp;nbsp;minutes, rest for 2 minutes.Recoveries between sets of intervals are 8 minutes and 45 seconds&amp;nbsp;long.</description>
+    <description>Scopi&amp;nbsp;consists of 3 sets of 6 descending-duration/ascending intensity intervals from 115% FTP for 1 minute and 45 seconds to 150% FTP for 30 seconds. Recovery between intervals&amp;nbsp;approximately&amp;nbsp;matches the duration of the preceding interval - work for approximately 2&amp;nbsp;minutes, rest for 2 minutes.Recoveries between sets of intervals are 8 minutes and 45 seconds&amp;nbsp;long.</description>
     <name>Scopi</name>
     <workout>
         <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>

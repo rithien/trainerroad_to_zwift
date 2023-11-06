@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Spruce -2 is 2x20-minute intervals at 85% FTP with a 5-minute recovery between intervals.</description>
+    <name>Spruce -2</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
+        <SteadyState Duration="180.0" PowerLow="0.430" PowerHigh="0.430"/>
+        <SteadyState Duration="1200.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="1200.0" PowerLow="0.850" PowerHigh="0.850"/>
+        <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300"/>
+    </workout>
+</workout_file>

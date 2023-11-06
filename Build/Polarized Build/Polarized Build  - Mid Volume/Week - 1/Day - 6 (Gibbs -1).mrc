@@ -1,0 +1,65 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Gibbs -1 consists of 2 hours of aerobic Endurance riding spent between 50-60% FTP.
+FILE NAME = Gibbs -1
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	50
+10	50
+11	53
+11	53
+26	53
+26	53
+27	56
+27	56
+41	56
+41	56
+42	60
+42	60
+57	60
+57	60
+58	56
+58	56
+79	56
+79	56
+80	60
+80	60
+93	60
+93	60
+94	55
+94	55
+102	55
+102	55
+103	50
+103	50
+114	50
+114	50
+120	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+660	1560	Active Recovery 1
+1560	1620	Active Recovery 2
+1620	2460	Endurance 1
+2460	2520	Endurance 2
+2520	3420	Endurance 3
+3420	3480	Endurance 4
+3480	4740	Endurance 5
+4740	4800	Endurance 6
+4800	5580	Endurance 7
+5580	5640	Endurance 8
+5640	6120	Endurance 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+                                    

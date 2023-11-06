@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Meall&nbsp;is 5x11-minute Big Gear Starts consisting of a 30-second wind-up at 150% FTP in the biggest gear you can turn.These hard starts are followed closely by 10 minutes of&nbsp;Threshold&nbsp;work at 98% FTP in a gear that allows you to spin at a more reasonable cadence.Each recovery between intervals is 5 minutes long.
+DESCRIPTION = Meall&nbsp;is 5x10-11-minute Big Gear Starts consisting of a 30-second wind-up at 150% FTP in the biggest gear you can turn.These hard starts are followed closely by 9-10 minutes of&nbsp;Threshold&nbsp;work at 98% FTP in a gear that allows you to spin at a more reasonable cadence.Each recovery between intervals is 5 minutes long.
 FILE NAME = Meall
 MINUTES	FTP
 [END COURSE HEADER]

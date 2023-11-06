@@ -7,55 +7,55 @@
         <SteadyState Duration="300.0" PowerLow="0.550" PowerHigh="0.550"/>
         <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
         <SteadyState Duration="1740.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Once you're thoroughly warmed up, perform 3-5 Form Sprints over this 29-minute stretch" timeoffset="-1.000000"/>
+            <textevent message="Once you're thoroughly warmed up, perform 3-5 Form Sprints over this 29-minute stretch" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="600.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Spend 10 of these minutes alternating your Single Leg Focus" timeoffset="-1.000000"/>
+            <textevent message="Spend 10 of these minutes alternating your Single Leg Focus" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
         <SteadyState Duration="1620.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Spend 5 minutes of this 27 minutes doing some Endurance Spinning" timeoffset="0.000000"/>
+            <textevent message="Spend 5 minutes of this 27 minutes doing some Endurance Spinning" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="600.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Another 10 minutes of alternating Single Leg Focus" timeoffset="-1.000000"/>
+            <textevent message="Another 10 minutes of alternating Single Leg Focus" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
         <SteadyState Duration="1620.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Shoot for two 5-minute stretches of Endurance Spinning" timeoffset="0.000000"/>
+            <textevent message="Shoot for two 5-minute stretches of Endurance Spinning" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="600.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Once more, alternate your Single Leg Focus for 10 minutes total" timeoffset="-1.000000"/>
+            <textevent message="Once more, alternate your Single Leg Focus for 10 minutes total" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.670"/>
         <SteadyState Duration="1980.0" PowerLow="0.670" PowerHigh="0.670">
-            <textevent message="Throw in 5 minutes of Endurance Spinning anytime during this stretch" timeoffset="0.000000"/>
+            <textevent message="Throw in 5 minutes of Endurance Spinning anytime during this stretch" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.670" PowerHigh="0.700"/>
         <SteadyState Duration="600.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Another 10 minutes of alternating Single Leg Focus won't kill ya" timeoffset="-1.000000"/>
+            <textevent message="Another 10 minutes of alternating Single Leg Focus won't kill ya" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.620"/>
         <SteadyState Duration="2100.0" PowerLow="0.620" PowerHigh="0.620">
-            <textevent message="Another couple 5-minute stretched of Endurance Spinning" timeoffset="0.000000"/>
+            <textevent message="Another couple 5-minute stretched of Endurance Spinning" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.620" PowerHigh="0.690"/>
         <SteadyState Duration="600.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Couple times left, alternate your Single Leg Focus for 10 minutes total" timeoffset="-1.000000"/>
+            <textevent message="Couple times left, alternate your Single Leg Focus for 10 minutes total" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.690" PowerHigh="0.650"/>
         <SteadyState Duration="1980.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Add 3 to 5 late-ride Form Sprints to remind your tired legs how to go fast" timeoffset="0.000000"/>
+            <textevent message="Add 3 to 5 late-ride Form Sprints to remind your tired legs how to go fast" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="600.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Another 10 minutes of alternating Single Leg Focus, almost done!" timeoffset="-1.000000"/>
+            <textevent message="Another 10 minutes of alternating Single Leg Focus, almost done!" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
         <Cooldown Duration="1740.0" PowerLow="0.600" PowerHigh="0.400">
-            <textevent message="Focus slipping? Add some Pistons and Kick &amp; Pull drills" timeoffset="0.000000"/>
+            <textevent message="Focus slipping? Add some Pistons and Kick &amp; Pull drills" timeoffset="0"/>
         </Cooldown>
     </workout>
 </workout_file>

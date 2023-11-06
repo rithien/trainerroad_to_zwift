@@ -45,7 +45,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Leavitt -5!	5	0	0	72	16777215	10
-0	Coach Chad here to accompany you over the course of today's endeavor...	8	0	0	72	16777215	17
+0	Coach here, ready to accompany you over the course of today's endeavor...	8	0	0	72	16777215	17
 0	aimed at pushing up your aerobic capacity...	5	0	0	72	16777215	27
 0	and growing your ability to perform work while riding aerodynamically	8	0	0	72	16777215	33
 150	You'll ramp into your first of 7 segments in a couple minutes	8	0	0	72	16777215	0

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Glenwood is four 4-minute intervals at 103% FTP. The recoveries between intervals are 4 minutes long.</description>
+    <name>Glenwood</name>
+    <workout>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="360.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <SteadyState Duration="180.0" PowerLow="1.000" PowerHigh="1.000"/>
+        <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="1.030" PowerHigh="1.030"/>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="1.030" PowerHigh="1.030"/>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="1.030" PowerHigh="1.030"/>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="240.0" PowerLow="1.030" PowerHigh="1.030"/>
+        <SteadyState Duration="660.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

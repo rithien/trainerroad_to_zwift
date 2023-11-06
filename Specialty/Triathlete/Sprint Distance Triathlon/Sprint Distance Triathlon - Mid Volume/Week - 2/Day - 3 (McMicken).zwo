@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <workout_file>
-    <description>McMicken&amp;nbsp;is 4x4.75-minute intervals at 106% FTP. Each full interval is spearated by 9 and a half minute recovery valley.&amp;nbsp;</description>
+    <description>McMicken&amp;nbsp;is 4x4.75-minute intervals at 106% FTP. Each full interval is separated by a 9 and a half minute recovery valley.&amp;nbsp;</description>
     <name>McMicken</name>
     <workout>
         <SteadyState Duration="90.0" PowerLow="0.500" PowerHigh="0.500"/>

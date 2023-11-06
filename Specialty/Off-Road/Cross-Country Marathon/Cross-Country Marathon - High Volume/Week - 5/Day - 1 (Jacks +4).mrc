@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Jacks +4 is 6x7-minute intervals at 105% FTP with short, 2-minute recoveries between intervals. 
+DESCRIPTION = Jacks +4 is 6x7-minute intervals at 105% FTP with short, 2-minute recoveries between intervals.
 FILE NAME = Jacks +4
 MINUTES	FTP
 [END COURSE HEADER]

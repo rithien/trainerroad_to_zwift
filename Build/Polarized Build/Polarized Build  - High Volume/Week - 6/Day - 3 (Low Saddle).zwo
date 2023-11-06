@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Low Saddle&amp;nbsp;is 105 minutes of aerobic Endurance riding at 74% FTP.</description>
+    <name>Low Saddle</name>
+    <workout>
+        <SteadyState Duration="60.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="420.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <SteadyState Duration="5580.0" PowerLow="0.740" PowerHigh="0.740"/>
+        <SteadyState Duration="180.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <Cooldown Duration="60.0" PowerLow="0.500" PowerHigh="0.400"/>
+    </workout>
+</workout_file>

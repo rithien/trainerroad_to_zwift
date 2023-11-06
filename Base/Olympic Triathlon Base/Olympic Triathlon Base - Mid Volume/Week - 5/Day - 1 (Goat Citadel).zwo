@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <workout_file>
-    <description>Goat Citadel&amp;nbsp;is 3 sets of 5x1-minute intervals at 125% FTP where recoveries between intervals are 2 minutes long and recoveries between sets of intervals are 3 minutes long.</description>
+    <description>Goat Citadel&amp;nbsp;is 3 sets of 5x1-minute intervals between 120 and 125% FTP where recoveries between intervals are 2 minutes long and recoveries between sets of intervals are 3 minutes long.</description>
     <name>Goat Citadel</name>
     <workout>
         <SteadyState Duration="120.0" PowerLow="0.520" PowerHigh="0.520"/>

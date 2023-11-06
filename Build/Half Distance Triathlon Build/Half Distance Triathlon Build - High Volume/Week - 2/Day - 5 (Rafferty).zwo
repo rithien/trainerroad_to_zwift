@@ -8,37 +8,37 @@
         <SteadyState Duration="420.0" PowerLow="0.600" PowerHigh="0.600"/>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.650"/>
         <SteadyState Duration="1680.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Here's a nice long stretch to use for 3-5 Form Sprints" timeoffset="-1.000000"/>
+            <textevent message="Here's a nice long stretch to use for 3-5 Form Sprints" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Use 5 of these 15 minutes for some Endurance Spinning" timeoffset="0.000000"/>
+            <textevent message="Use 5 of these 15 minutes for some Endurance Spinning" timeoffset="0"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
         <SteadyState Duration="1680.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Here's a good stretch to focus on some 30 to 60-second ILT efforts" timeoffset="0.000000"/>
+            <textevent message="Here's a good stretch to focus on some 30 to 60-second ILT efforts" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="How about another 5 minutes of Endurance Spinning over these 15 minutes" timeoffset="0.000000"/>
+            <textevent message="How about another 5 minutes of Endurance Spinning over these 15 minutes" timeoffset="0"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
         <SteadyState Duration="1620.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="Another stretch to focus on some 30 to 60-second ILT efforts" timeoffset="0.000000"/>
+            <textevent message="Another stretch to focus on some 30 to 60-second ILT efforts" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.650"/>
         <SteadyState Duration="780.0" PowerLow="0.650" PowerHigh="0.650"/>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="1800.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="How about another 5-minute Endurance Spin over this 30 minutes?" timeoffset="-1.000000"/>
+            <textevent message="How about another 5-minute Endurance Spin over this 30 minutes?" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
         <SteadyState Duration="840.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Add 3-5 late-ride Form Sprints to see if your form's still hangin' on" timeoffset="0.000000"/>
+            <textevent message="Add 3-5 late-ride Form Sprints to see if your form's still hangin' on" timeoffset="0"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.650" PowerHigh="0.600"/>
         <SteadyState Duration="1440.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="If you're not totally shot, add 5 more minute of ILT, 30-60s at a time" timeoffset="0.000000"/>
+            <textevent message="If you're not totally shot, add 5 more minute of ILT, 30-60s at a time" timeoffset="0"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.600" PowerHigh="0.500"/>
         <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>

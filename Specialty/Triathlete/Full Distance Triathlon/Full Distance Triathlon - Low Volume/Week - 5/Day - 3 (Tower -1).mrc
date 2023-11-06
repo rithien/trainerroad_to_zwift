@@ -35,7 +35,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Tower -1!	5	0	0	72	16777215	10
-0	Coach Chad here to help you weather the toughest workout in this series	5	0	0	72	16777215	17
+0	We're here to help you weather the toughest workout in this series	5	0	0	72	16777215	17
 0	But if you've made it here via the shorter-step progression workouts...	5	0	0	72	16777215	24
 0	it's safe to assume you'll handle this one just as capably	5	0	0	72	16777215	30
 0	On top of that...	2	0	0	72	16777215	37
@@ -295,3 +295,5 @@ MINUTES	FTP
 
 [MODE DATA]
 [END MODE DATA]
+
+     

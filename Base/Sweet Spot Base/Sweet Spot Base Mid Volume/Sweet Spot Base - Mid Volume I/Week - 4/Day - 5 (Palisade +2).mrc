@@ -89,7 +89,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Palisade +2	4	0	0	72	16777215	10
-0	Coach Chad here to guide you through some over-unders	5	0	0	72	16777215	15
+0	Coach here, ready to guide you through some over-unders	5	0	0	72	16777215	15
 0	The intervals ahead will straddle your FTP...	4	0	0	72	16777215	22
 0	either a little below or a little above it...	4	0	0	72	16777215	27
 0	such that you never stray far from your Functional Threshold	4	0	0	72	16777215	32
@@ -660,4 +660,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
-                                       
+                                   

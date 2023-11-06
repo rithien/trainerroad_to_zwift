@@ -242,7 +242,7 @@ MINUTES	FTP
 1320	but simply takes a little pressure from your hands...	4	0	0	72	16777215	507
 1320	up through your arms, through your shoulder blades...	4	0	0	72	16777215	512
 1320	into your spine & down to your hips	3	0	0	72	16777215	517
-1320	Voil?, you're anchored	3	0	0	72	16777215	522
+1320	Voila?, you're anchored	3	0	0	72	16777215	522
 1320	Try to hold this gently anchored position...	4	0	0	72	16777215	540
 1320	for about another minute	3	0	0	72	16777215	545
 1920	Well done, time for another quick break...	5	0	0	72	16777215	2

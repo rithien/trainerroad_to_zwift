@@ -6,7 +6,7 @@
         <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500"/>
         <SteadyState Duration="360.0" PowerLow="0.720" PowerHigh="0.720"/>
         <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960"/>
-        <SteadyState Duration="290.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400"/>
         <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
         <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
         <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
@@ -26,6 +26,6 @@
         <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
         <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400"/>
         <SteadyState Duration="150.0" PowerLow="1.060" PowerHigh="1.060"/>
-        <Cooldown Duration="300.0" PowerLow="0.400" PowerHigh="0.300"/>
+        <Cooldown Duration="340.0" PowerLow="0.400" PowerHigh="0.300"/>
     </workout>
 </workout_file>

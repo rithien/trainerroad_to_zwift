@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Crows Nest consists of nearly 3 hours of aerobic Endurance riding spent between 55-74% FTP.Some of the optional form drills are Form Sprints, Endurance Spinning intervals, a bit of aero work &amp;amp; some Single-Leg Focus drills to name a few.</description>
+    <name>Crows Nest</name>
+    <workout>
+        <SteadyState Duration="600.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <Warmup Duration="120.0" PowerLow="0.500" PowerHigh="0.600"/>
+        <SteadyState Duration="1500.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="180.0" PowerLow="0.600" PowerHigh="0.700"/>
+        <SteadyState Duration="1200.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Cooldown Duration="180.0" PowerLow="0.700" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Warmup Duration="180.0" PowerLow="0.550" PowerHigh="0.740"/>
+        <SteadyState Duration="1500.0" PowerLow="0.740" PowerHigh="0.740"/>
+        <Cooldown Duration="180.0" PowerLow="0.740" PowerHigh="0.550"/>
+        <SteadyState Duration="900.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Warmup Duration="180.0" PowerLow="0.550" PowerHigh="0.700"/>
+        <SteadyState Duration="1200.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Cooldown Duration="180.0" PowerLow="0.700" PowerHigh="0.600"/>
+        <SteadyState Duration="1200.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Cooldown Duration="120.0" PowerLow="0.600" PowerHigh="0.500"/>
+        <SteadyState Duration="480.0" PowerLow="0.500" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

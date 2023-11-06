@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Vladeasa&amp;nbsp;consists of nearly 90 minutes of aerobic Endurance riding spent between 50-55% FTP.</description>
+    <name>Vladeasa</name>
+    <workout>
+        <SteadyState Duration="720.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="480.0" PowerLow="0.520" PowerHigh="0.520"/>
+        <SteadyState Duration="1200.0" PowerLow="0.540" PowerHigh="0.540"/>
+        <SteadyState Duration="600.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Cooldown Duration="1500.0" PowerLow="0.550" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

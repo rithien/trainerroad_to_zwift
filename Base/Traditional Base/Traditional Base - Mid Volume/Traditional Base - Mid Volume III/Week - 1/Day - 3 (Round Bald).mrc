@@ -30,8 +30,8 @@ MINUTES	FTP
 [END COURSE DATA]
 
 [COURSE TEXT]
-0	Welcome to Round Bald	5	0	0	72	16777215	10
-0	Coach Chad here to accompany you during some long efforts...	5	0	0	72	16777215	17
+0	Welcome to Round Bald!	5	0	0	72	16777215	10
+0	Coach here, ready to accompany you during some long efforts...	5	0	0	72	16777215	17
 0	aimed at improving your strength endurance...	4	0	0	72	16777215	23
 0	lifting your aerobic endurance...	4	0	0	72	16777215	28
 0	and burning a bit of fat, bit of sugar	4	0	0	72	16777215	33
@@ -584,5 +584,3 @@ MINUTES	FTP
 
 [MODE DATA]
 [END MODE DATA]
-
-   

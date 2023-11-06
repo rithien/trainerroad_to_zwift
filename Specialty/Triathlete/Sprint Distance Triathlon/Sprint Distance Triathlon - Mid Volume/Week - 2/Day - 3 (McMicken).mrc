@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = McMicken&nbsp;is 4x4.75-minute intervals at 106% FTP. Each full interval is spearated by 9 and a half minute recovery valley.&nbsp;
+DESCRIPTION = McMicken&nbsp;is 4x4.75-minute intervals at 106% FTP. Each full interval is separated by a 9 and a half minute recovery valley.&nbsp;
 FILE NAME = McMicken
 MINUTES	FTP
 [END COURSE HEADER]

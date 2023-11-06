@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Brasted consists of 3 sets of 13x30/15's where you'll ride at 120% FTP for 30 seconds before recovering briefly for only 15 seconds between repeats. Recoveries beween sets of repeats are also pretty short at just 3 minutes each.
+DESCRIPTION = Brasted consists of 3 sets of 13x30/15's where you'll ride at 120% FTP for 30 seconds before recovering briefly for only 15 seconds between repeats. Recoveries between sets of repeats are also pretty short at just 3 minutes each.
 FILE NAME = Brasted
 MINUTES	FTP
 [END COURSE HEADER]

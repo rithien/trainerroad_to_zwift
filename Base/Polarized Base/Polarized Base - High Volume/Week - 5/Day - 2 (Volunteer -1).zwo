@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Volunteer -1 is 30 minutes of aerobic Endurance riding spent somewhere between 55-65% FTP.</description>
+    <name>Volunteer -1</name>
+    <workout>
+        <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.650"/>
+        <SteadyState Duration="360.0" PowerLow="0.650" PowerHigh="0.650"/>
+        <Cooldown Duration="60.0" PowerLow="0.650" PowerHigh="0.550"/>
+        <SteadyState Duration="360.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Cooldown Duration="300.0" PowerLow="0.550" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

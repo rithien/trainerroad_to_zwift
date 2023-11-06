@@ -4,92 +4,92 @@
     <name>Beech</name>
     <workout>
         <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="Keep your spin quick &amp; light as you settle into an easy hour of riding" timeoffset="10.000000"/>
-            <textevent message="Today's goal is little more than cultivating aerobic base" timeoffset="20.000000"/>
-            <textevent message="Typically, aerobic Endurance work involves long rides..." timeoffset="30.000000"/>
-            <textevent message="consisting of hours of low, steady effort" timeoffset="37.000000"/>
-            <textevent message="But on a more time-constrained schedule..." timeoffset="44.000000"/>
-            <textevent message="shorter rides have to suffice" timeoffset="51.000000"/>
-            <textevent message="Fortunately, the steady-effort nature of riding indoors is highly productive" timeoffset="60.000000"/>
-            <textevent message="Shorter indoor durations can match the effects of longer outdoor mileage" timeoffset="70.000000"/>
-            <textevent message="So do your best to resist the urge to take breaks or fall off pace" timeoffset="80.000000"/>
-            <textevent message="Just keep those pedals turning, keep your body loose &amp; relaxed..." timeoffset="90.000000"/>
-            <textevent message="and keep your power close to Target Power..." timeoffset="100.000000"/>
-            <textevent message="within just a few watts" timeoffset="107.000000"/>
+            <textevent message="Keep your spin quick &amp; light as you settle into an easy hour of riding" timeoffset="10"/>
+            <textevent message="Today's goal is little more than cultivating aerobic base" timeoffset="20"/>
+            <textevent message="Typically, aerobic Endurance work involves long rides..." timeoffset="30"/>
+            <textevent message="consisting of hours of low, steady effort" timeoffset="37"/>
+            <textevent message="But on a more time-constrained schedule..." timeoffset="44"/>
+            <textevent message="shorter rides have to suffice" timeoffset="51"/>
+            <textevent message="Fortunately, the steady-effort nature of riding indoors is highly productive" timeoffset="60"/>
+            <textevent message="Shorter indoor durations can match the effects of longer outdoor mileage" timeoffset="70"/>
+            <textevent message="So do your best to resist the urge to take breaks or fall off pace" timeoffset="80"/>
+            <textevent message="Just keep those pedals turning, keep your body loose &amp; relaxed..." timeoffset="90"/>
+            <textevent message="and keep your power close to Target Power..." timeoffset="100"/>
+            <textevent message="within just a few watts" timeoffset="107"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.570" PowerHigh="0.570"/>
         <SteadyState Duration="180.0" PowerLow="0.640" PowerHigh="0.640"/>
         <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Aerobic base is vital to an endurance athlete's success..." timeoffset="0.000000"/>
-            <textevent message="and especially important to steady-state endurance athletes" timeoffset="7.000000"/>
-            <textevent message="In order to tolerate high workloads without burning a lot of sugar..." timeoffset="14.000000"/>
-            <textevent message="a wide &amp; deep aerobic base is crucial" timeoffset="21.000000"/>
-            <textevent message="This aerobic &quot;infrastructure&quot; is also responsible..." timeoffset="28.000000"/>
-            <textevent message="for processing excess metabolic byproducts..." timeoffset="35.000000"/>
-            <textevent message="that your body generates when you work near &amp; above FTP" timeoffset="42.000000"/>
-            <textevent message="So not only can you work at fairly high power outputs..." timeoffset="49.000000"/>
-            <textevent message="while sparing precious glycogen stores, i.e. aerobically..." timeoffset="56.000000"/>
-            <textevent message="you can work even harder, more frequently..." timeoffset="63.000000"/>
-            <textevent message="without crushing yourself" timeoffset="70.000000"/>
-            <textevent message="So during those instances where you're riding that edge..." timeoffset="75.000000"/>
-            <textevent message="then you push harder, over that edge, and load up your legs..." timeoffset="82.000000"/>
-            <textevent message="your aerobic fitness will help you clear that excess, that burn..." timeoffset="89.000000"/>
-            <textevent message="while still riding at a high power output" timeoffset="96.000000"/>
-            <textevent message="You can work hard, then work harder..." timeoffset="103.000000"/>
-            <textevent message="and then return to working hard again" timeoffset="110.000000"/>
+            <textevent message="Aerobic base is vital to an endurance athlete's success..." timeoffset="0"/>
+            <textevent message="and especially important to steady-state endurance athletes" timeoffset="7"/>
+            <textevent message="In order to tolerate high workloads without burning a lot of sugar..." timeoffset="14"/>
+            <textevent message="a wide &amp; deep aerobic base is crucial" timeoffset="21"/>
+            <textevent message="This aerobic &quot;infrastructure&quot; is also responsible..." timeoffset="28"/>
+            <textevent message="for processing excess metabolic byproducts..." timeoffset="35"/>
+            <textevent message="that your body generates when you work near &amp; above FTP" timeoffset="42"/>
+            <textevent message="So not only can you work at fairly high power outputs..." timeoffset="49"/>
+            <textevent message="while sparing precious glycogen stores, i.e. aerobically..." timeoffset="56"/>
+            <textevent message="you can work even harder, more frequently..." timeoffset="63"/>
+            <textevent message="without crushing yourself" timeoffset="70"/>
+            <textevent message="So during those instances where you're riding that edge..." timeoffset="75"/>
+            <textevent message="then you push harder, over that edge, and load up your legs..." timeoffset="82"/>
+            <textevent message="your aerobic fitness will help you clear that excess, that burn..." timeoffset="89"/>
+            <textevent message="while still riding at a high power output" timeoffset="96"/>
+            <textevent message="You can work hard, then work harder..." timeoffset="103"/>
+            <textevent message="and then return to working hard again" timeoffset="110"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
         <SteadyState Duration="840.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="If riding more aerodynamically is a priority..." timeoffset="0.000000"/>
-            <textevent message="spend some time in an aero position" timeoffset="6.000000"/>
-            <textevent message="Over time, try to incorporate increasingly longer periods of time there" timeoffset="12.000000"/>
-            <textevent message="Low to moderate intensity rides are an ideal time to adjust to riding aero" timeoffset="20.000000"/>
-            <textevent message="Much more tolerable than trying to adapt to a rigorous position..." timeoffset="30.000000"/>
-            <textevent message="when riding near your FTP or right at Threshold" timeoffset="40.000000"/>
-            <textevent message="Think of easy, aero mileage as taking things incrementally" timeoffset="50.000000"/>
-            <textevent message="Some workouts will be spent riding aero..." timeoffset="60.000000"/>
-            <textevent message="some workouts will be spent riding hard..." timeoffset="67.000000"/>
-            <textevent message="and some workouts will be spent doing both at once" timeoffset="74.000000"/>
-            <textevent message="Today, just focus on the aero positioning with proper breathing" timeoffset="81.000000"/>
-            <textevent message="because if you can't draw full breaths..." timeoffset="88.000000"/>
-            <textevent message="due to a position that's too severe..." timeoffset="95.000000"/>
-            <textevent message="the sooner you correct your fit..." timeoffset="102.000000"/>
-            <textevent message="the more effective your time in the saddle will become" timeoffset="108.000000"/>
+            <textevent message="If riding more aerodynamically is a priority..." timeoffset="0"/>
+            <textevent message="spend some time in an aero position" timeoffset="6"/>
+            <textevent message="Over time, try to incorporate increasingly longer periods of time there" timeoffset="12"/>
+            <textevent message="Low to moderate intensity rides are an ideal time to adjust to riding aero" timeoffset="20"/>
+            <textevent message="Much more tolerable than trying to adapt to a rigorous position..." timeoffset="30"/>
+            <textevent message="when riding near your FTP or right at Threshold" timeoffset="40"/>
+            <textevent message="Think of easy, aero mileage as taking things incrementally" timeoffset="50"/>
+            <textevent message="Some workouts will be spent riding aero..." timeoffset="60"/>
+            <textevent message="some workouts will be spent riding hard..." timeoffset="67"/>
+            <textevent message="and some workouts will be spent doing both at once" timeoffset="74"/>
+            <textevent message="Today, just focus on the aero positioning with proper breathing" timeoffset="81"/>
+            <textevent message="because if you can't draw full breaths..." timeoffset="88"/>
+            <textevent message="due to a position that's too severe..." timeoffset="95"/>
+            <textevent message="the sooner you correct your fit..." timeoffset="102"/>
+            <textevent message="the more effective your time in the saddle will become" timeoffset="108"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.750"/>
         <SteadyState Duration="840.0" PowerLow="0.750" PowerHigh="0.750">
-            <textevent message="Still working in &amp; out of that aero position?" timeoffset="0.000000"/>
-            <textevent message="You don't have to spend the whole workout there" timeoffset="7.000000"/>
-            <textevent message="Rather, spend reasonable durations down low..." timeoffset="14.000000"/>
-            <textevent message="then rise for non-aero breaks as often/long as necessary..." timeoffset="21.000000"/>
-            <textevent message="then try to reduce the number &amp; duration of these breaks over time" timeoffset="28.000000"/>
-            <textevent message="Make this a process, and not an overnight one" timeoffset="38.000000"/>
-            <textevent message="Use the entire course of a training plan to adjust to your position..." timeoffset="60.000000"/>
-            <textevent message="and to adjust your bike to your body" timeoffset="70.000000"/>
-            <textevent message="And while it takes time to adjust to riding aero..." timeoffset="77.000000"/>
-            <textevent message="it shouldn't be miserable" timeoffset="84.000000"/>
-            <textevent message="Work on finding your Power-Aero Balance..." timeoffset="90.000000"/>
-            <textevent message="which is the balance between sustaining FTP..." timeoffset="97.000000"/>
-            <textevent message="while riding as low &amp; narrow as possible" timeoffset="104.000000"/>
-            <textevent message="And keep in mind just how long..." timeoffset="111.000000"/>
-            <textevent message="you'll have to sustain this balance" timeoffset="118.000000"/>
-            <textevent message="Roughly an hour for 40k TT riders..." timeoffset="125.000000"/>
-            <textevent message="often longer than 5 hours for ultra-distance triathletes" timeoffset="132.000000"/>
+            <textevent message="Still working in &amp; out of that aero position?" timeoffset="0"/>
+            <textevent message="You don't have to spend the whole workout there" timeoffset="7"/>
+            <textevent message="Rather, spend reasonable durations down low..." timeoffset="14"/>
+            <textevent message="then rise for non-aero breaks as often/long as necessary..." timeoffset="21"/>
+            <textevent message="then try to reduce the number &amp; duration of these breaks over time" timeoffset="28"/>
+            <textevent message="Make this a process, and not an overnight one" timeoffset="38"/>
+            <textevent message="Use the entire course of a training plan to adjust to your position..." timeoffset="60"/>
+            <textevent message="and to adjust your bike to your body" timeoffset="70"/>
+            <textevent message="And while it takes time to adjust to riding aero..." timeoffset="77"/>
+            <textevent message="it shouldn't be miserable" timeoffset="84"/>
+            <textevent message="Work on finding your Power-Aero Balance..." timeoffset="90"/>
+            <textevent message="which is the balance between sustaining FTP..." timeoffset="97"/>
+            <textevent message="while riding as low &amp; narrow as possible" timeoffset="104"/>
+            <textevent message="And keep in mind just how long..." timeoffset="111"/>
+            <textevent message="you'll have to sustain this balance" timeoffset="118"/>
+            <textevent message="Roughly an hour for 40k TT riders..." timeoffset="125"/>
+            <textevent message="often longer than 5 hours for ultra-distance triathletes" timeoffset="132"/>
         </SteadyState>
         <Cooldown Duration="300.0" PowerLow="0.750" PowerHigh="0.500">
-            <textevent message="Excellent, time to gradually back things down again" timeoffset="0.000000"/>
-            <textevent message="Keep your aero position if you like, but you're welcome to sit up" timeoffset="10.000000"/>
-            <textevent message="Contemplate any fit changes you noted..." timeoffset="20.000000"/>
-            <textevent message="but also consider their root causes" timeoffset="27.000000"/>
-            <textevent message="Are they due to true bike fit issues..." timeoffset="34.000000"/>
-            <textevent message="or perhaps flexibility or fatigue issues?" timeoffset="41.000000"/>
-            <textevent message="Don't be too quick to make fit adjustments based on non-fit factors" timeoffset="48.000000"/>
-            <textevent message="At the same time..." timeoffset="58.000000"/>
-            <textevent message="don't endure position-misery just because you look fast" timeoffset="63.000000"/>
-            <textevent message="Looking fast &amp; going fast might not always align" timeoffset="70.000000"/>
-            <textevent message="Food for thought" timeoffset="77.000000"/>
-            <textevent message="Until next time, train smart, ride hard..." timeoffset="82.000000"/>
-            <textevent message="and above all, have fun!" timeoffset="88.000000"/>
+            <textevent message="Excellent, time to gradually back things down again" timeoffset="0"/>
+            <textevent message="Keep your aero position if you like, but you're welcome to sit up" timeoffset="10"/>
+            <textevent message="Contemplate any fit changes you noted..." timeoffset="20"/>
+            <textevent message="but also consider their root causes" timeoffset="27"/>
+            <textevent message="Are they due to true bike fit issues..." timeoffset="34"/>
+            <textevent message="or perhaps flexibility or fatigue issues?" timeoffset="41"/>
+            <textevent message="Don't be too quick to make fit adjustments based on non-fit factors" timeoffset="48"/>
+            <textevent message="At the same time..." timeoffset="58"/>
+            <textevent message="don't endure position-misery just because you look fast" timeoffset="63"/>
+            <textevent message="Looking fast &amp; going fast might not always align" timeoffset="70"/>
+            <textevent message="Food for thought" timeoffset="77"/>
+            <textevent message="Until next time, train smart, ride hard..." timeoffset="82"/>
+            <textevent message="and above all, have fun!" timeoffset="88"/>
         </Cooldown>
     </workout>
 </workout_file>

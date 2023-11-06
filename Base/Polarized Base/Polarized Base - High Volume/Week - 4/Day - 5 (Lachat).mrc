@@ -1,0 +1,68 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Lachat is 2 hours of steady, aerobic Endurance spent between 60-75% FTP.
+FILE NAME = Lachat
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	60
+10	60
+10	70
+22	70
+22	70
+23	67
+23	67
+33	67
+33	67
+34	72
+34	72
+49	72
+49	72
+50	75
+50	75
+70	75
+70	75
+71	72
+71	72
+85	72
+85	72
+86	75
+86	75
+104	75
+104	75
+105	72
+105	72
+115	72
+115	72
+120	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+300	600	Endurance 1
+600	1320	Endurance 2
+1320	1380	Endurance 3
+1380	1980	Endurance 4
+1980	2040	Endurance 5
+2040	2940	Endurance 6
+2940	3000	Endurance 7
+3000	4200	Endurance 8
+4200	4260	Endurance 9
+4260	5100	Endurance 10
+5100	5160	Endurance 11
+5160	6240	Endurance 12
+6240	6300	Endurance 13
+6300	6900	Endurance 14
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+             

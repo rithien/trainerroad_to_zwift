@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Scopi&nbsp;consists of 3 sets of 6 descending-duration/ascending intensity intervals from 115% FTP for 2 minutes to 150% FTP for 30 seconds. Recovery between intervals&nbsp;approximately&nbsp;matches the duration of the preceding interval - work for approximately 2&nbsp;minutes, rest for 2 minutes.Recoveries between sets of intervals are 8 minutes and 45 seconds&nbsp;long.
+DESCRIPTION = Scopi&nbsp;consists of 3 sets of 6 descending-duration/ascending intensity intervals from 115% FTP for 1 minute and 45 seconds to 150% FTP for 30 seconds. Recovery between intervals&nbsp;approximately&nbsp;matches the duration of the preceding interval - work for approximately 2&nbsp;minutes, rest for 2 minutes.Recoveries between sets of intervals are 8 minutes and 45 seconds&nbsp;long.
 FILE NAME = Scopi
 MINUTES	FTP
 [END COURSE HEADER]

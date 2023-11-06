@@ -4,127 +4,127 @@
     <name>Rubicon -3</name>
     <workout>
         <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="Let's kick things off with about 15 minutes of warm up" timeoffset="10.000000"/>
-            <textevent message="Keep a quick &amp; light spin for these first few minutes" timeoffset="20.000000"/>
+            <textevent message="Let's kick things off with about 15 minutes of warm up" timeoffset="10"/>
+            <textevent message="Keep a quick &amp; light spin for these first few minutes" timeoffset="20"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720">
-            <textevent message="Ramp things up a little, further your warm up, open your lungs a bit" timeoffset="0.000000"/>
-            <textevent message="And do your best to keep your spin above 85rpm, higher if it's reasonably comfortable" timeoffset="10.000000"/>
+            <textevent message="Ramp things up a little, further your warm up, open your lungs a bit" timeoffset="0"/>
+            <textevent message="And do your best to keep your spin above 85rpm, higher if it's reasonably comfortable" timeoffset="10"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.960" PowerHigh="0.960">
-            <textevent message="Final 3 minutes of your warm up, right next to FTP" timeoffset="0.000000"/>
-            <textevent message="Increase your spin to 90rpm or higher..." timeoffset="10.000000"/>
-            <textevent message="if you're not already spinning that quickly" timeoffset="20.000000"/>
-            <textevent message="And draw long, full belly-breaths..." timeoffset="30.000000"/>
-            <textevent message="then completely empty your lungs" timeoffset="40.000000"/>
-            <textevent message="Establish this breathing pattern now, eventually it'll come naturally" timeoffset="50.000000"/>
+            <textevent message="Final 3 minutes of your warm up, right next to FTP" timeoffset="0"/>
+            <textevent message="Increase your spin to 90rpm or higher..." timeoffset="10"/>
+            <textevent message="if you're not already spinning that quickly" timeoffset="20"/>
+            <textevent message="And draw long, full belly-breaths..." timeoffset="30"/>
+            <textevent message="then completely empty your lungs" timeoffset="40"/>
+            <textevent message="Establish this breathing pattern now, eventually it'll come naturally" timeoffset="50"/>
         </SteadyState>
         <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="Rubicon -3 is a low-volume version of similar supra-threshold workouts..." timeoffset="0.000000"/>
-            <textevent message="where intervals are spent at 5% above FTP" timeoffset="10.000000"/>
-            <textevent message="Interval intensity &amp; duration hold steady while the number of repetitions drops" timeoffset="20.000000"/>
-            <textevent message="So this won't be a cakewalk but it is enough of a drop in volume..." timeoffset="30.000000"/>
-            <textevent message="to allow you to keep your current fitness while absorbing past work" timeoffset="40.000000"/>
-            <textevent message="Only 3 sets this time around and the recoveries are relatively longer" timeoffset="50.000000"/>
-            <textevent message="So again, not easy but not enough to bury you" timeoffset="60.000000"/>
-            <textevent message="And all the same rules apply..." timeoffset="70.000000"/>
-            <textevent message="in terms of cadence, aero positioning &amp; Target Power" timeoffset="80.000000"/>
-            <textevent message="If this happens to be a recovery week, treat it as such" timeoffset="90.000000"/>
-            <textevent message="If the intervals seem harder than usual, drop the Intensity 5%..." timeoffset="100.000000"/>
-            <textevent message="maybe even end the intervals a minute or two early and extend the recoveries" timeoffset="110.000000"/>
-            <textevent message="Everyone responds differently to training and to recovery" timeoffset="120.000000"/>
-            <textevent message="Some recover quickly, some take a little extra time" timeoffset="130.000000"/>
-            <textevent message="So don't hesitate to tweak the structure of a recovery workout..." timeoffset="140.000000"/>
-            <textevent message="if you recognize that you aren't gradually getting back on top of things" timeoffset="150.000000"/>
-            <textevent message="A minute out, start to solidify your cadence &amp; aero objectives" timeoffset="240.000000"/>
-            <textevent message="Try to keep your spin in the 85-95rpm range..." timeoffset="250.000000"/>
-            <textevent message="and decide if aero positioning is going to contribute to your workout..." timeoffset="260.000000"/>
-            <textevent message="or degrade it and bury you deeper in fatigue" timeoffset="270.000000"/>
-            <textevent message="It's not often we'll encourage you to take it easy..." timeoffset="280.000000"/>
+            <textevent message="Rubicon -3 is a low-volume version of similar supra-threshold workouts..." timeoffset="0"/>
+            <textevent message="where intervals are spent at 5% above FTP" timeoffset="10"/>
+            <textevent message="Interval intensity &amp; duration hold steady while the number of repetitions drops" timeoffset="20"/>
+            <textevent message="So this won't be a cakewalk but it is enough of a drop in volume..." timeoffset="30"/>
+            <textevent message="to allow you to keep your current fitness while absorbing past work" timeoffset="40"/>
+            <textevent message="Only 3 sets this time around and the recoveries are relatively longer" timeoffset="50"/>
+            <textevent message="So again, not easy but not enough to bury you" timeoffset="60"/>
+            <textevent message="And all the same rules apply..." timeoffset="70"/>
+            <textevent message="in terms of cadence, aero positioning &amp; Target Power" timeoffset="80"/>
+            <textevent message="If this happens to be a recovery week, treat it as such" timeoffset="90"/>
+            <textevent message="If the intervals seem harder than usual, drop the Intensity 5%..." timeoffset="100"/>
+            <textevent message="maybe even end the intervals a minute or two early and extend the recoveries" timeoffset="110"/>
+            <textevent message="Everyone responds differently to training and to recovery" timeoffset="120"/>
+            <textevent message="Some recover quickly, some take a little extra time" timeoffset="130"/>
+            <textevent message="So don't hesitate to tweak the structure of a recovery workout..." timeoffset="140"/>
+            <textevent message="if you recognize that you aren't gradually getting back on top of things" timeoffset="150"/>
+            <textevent message="A minute out, start to solidify your cadence &amp; aero objectives" timeoffset="240"/>
+            <textevent message="Try to keep your spin in the 85-95rpm range..." timeoffset="250"/>
+            <textevent message="and decide if aero positioning is going to contribute to your workout..." timeoffset="260"/>
+            <textevent message="or degrade it and bury you deeper in fatigue" timeoffset="270"/>
+            <textevent message="It's not often we'll encourage you to take it easy..." timeoffset="280"/>
         </SteadyState>
         <SteadyState Duration="600.0" PowerLow="1.050" PowerHigh="1.050">
-            <textevent message="2 minutes worth of form &amp; focus..." timeoffset="0.000000"/>
-            <textevent message="shorter chunks depending on how you best keep things together" timeoffset="10.000000"/>
-            <textevent message="Any lengths of time that aren't too distractingly frequent will work" timeoffset="20.000000"/>
-            <textevent message="Practice managing your discomfort before the interval gets more demanding" timeoffset="80.000000"/>
-            <textevent message="Then when things get truly tough, good habits are easier to reinforce" timeoffset="90.000000"/>
-            <textevent message="2 minutes behind ya, 2 minutes ahead of ya" timeoffset="120.000000"/>
-            <textevent message="Keep your focus limited, keep your body low" timeoffset="130.000000"/>
-            <textevent message="As the workout rolls by &amp; the time adds up..." timeoffset="180.000000"/>
-            <textevent message="focus becomes harder to hang onto" timeoffset="190.000000"/>
-            <textevent message="But maintaining it can be the difference between surviving &amp; thriving" timeoffset="200.000000"/>
-            <textevent message="Most riders can survive an interval with poor form, too-low cadence, messy form..." timeoffset="210.000000"/>
-            <textevent message="but the riders who keep it together &amp; maintain quality throughout..." timeoffset="220.000000"/>
-            <textevent message="are the riders who learn how to deliver when it really counts" timeoffset="230.000000"/>
-            <textevent message="Next 2 minutes of steady focus" timeoffset="240.000000"/>
-            <textevent message="Remember, your body can do this..." timeoffset="250.000000"/>
-            <textevent message="as long as your mind doesn't talk you out of it" timeoffset="260.000000"/>
-            <textevent message="And drifting focus is almost as harmful as negative self-talk" timeoffset="270.000000"/>
-            <textevent message="So stay sharp, don't distance yourself too far from the job at hand" timeoffset="280.000000"/>
-            <textevent message="Another 2 minutes behind you!" timeoffset="360.000000"/>
-            <textevent message="This is just a matter of deciding how you'll ride" timeoffset="370.000000"/>
-            <textevent message="If you tell yourself you can't do this, you're very likely to quit" timeoffset="380.000000"/>
-            <textevent message="But if you keep reminding yourself, &quot;I got this&quot;..." timeoffset="390.000000"/>
-            <textevent message="you're accepting your capabilities, allowing yourself to truly perform" timeoffset="400.000000"/>
-            <textevent message="Allowing yourself to come closer &amp; closer..." timeoffset="410.000000"/>
-            <textevent message="to what your body is actually capable of" timeoffset="420.000000"/>
-            <textevent message="You push yourself closer to your potential each &amp; every workout" timeoffset="430.000000"/>
-            <textevent message="Final 2 minutes! 30 seconds at a time" timeoffset="480.000000"/>
-            <textevent message="Keep your breathing steady &amp; deep, 30 seconds" timeoffset="510.000000"/>
-            <textevent message="Keep your pedal stroke fluid &amp; light, 30 seconds" timeoffset="540.000000"/>
-            <textevent message="Keep your focus sharp, 30 seconds" timeoffset="570.000000"/>
+            <textevent message="2 minutes worth of form &amp; focus..." timeoffset="0"/>
+            <textevent message="shorter chunks depending on how you best keep things together" timeoffset="10"/>
+            <textevent message="Any lengths of time that aren't too distractingly frequent will work" timeoffset="20"/>
+            <textevent message="Practice managing your discomfort before the interval gets more demanding" timeoffset="80"/>
+            <textevent message="Then when things get truly tough, good habits are easier to reinforce" timeoffset="90"/>
+            <textevent message="2 minutes behind ya, 2 minutes ahead of ya" timeoffset="120"/>
+            <textevent message="Keep your focus limited, keep your body low" timeoffset="130"/>
+            <textevent message="As the workout rolls by &amp; the time adds up..." timeoffset="180"/>
+            <textevent message="focus becomes harder to hang onto" timeoffset="190"/>
+            <textevent message="But maintaining it can be the difference between surviving &amp; thriving" timeoffset="200"/>
+            <textevent message="Most riders can survive an interval with poor form, too-low cadence, messy form..." timeoffset="210"/>
+            <textevent message="but the riders who keep it together &amp; maintain quality throughout..." timeoffset="220"/>
+            <textevent message="are the riders who learn how to deliver when it really counts" timeoffset="230"/>
+            <textevent message="Next 2 minutes of steady focus" timeoffset="240"/>
+            <textevent message="Remember, your body can do this..." timeoffset="250"/>
+            <textevent message="as long as your mind doesn't talk you out of it" timeoffset="260"/>
+            <textevent message="And drifting focus is almost as harmful as negative self-talk" timeoffset="270"/>
+            <textevent message="So stay sharp, don't distance yourself too far from the job at hand" timeoffset="280"/>
+            <textevent message="Another 2 minutes behind you!" timeoffset="360"/>
+            <textevent message="This is just a matter of deciding how you'll ride" timeoffset="370"/>
+            <textevent message="If you tell yourself you can't do this, you're very likely to quit" timeoffset="380"/>
+            <textevent message="But if you keep reminding yourself, &quot;I got this&quot;..." timeoffset="390"/>
+            <textevent message="you're accepting your capabilities, allowing yourself to truly perform" timeoffset="400"/>
+            <textevent message="Allowing yourself to come closer &amp; closer..." timeoffset="410"/>
+            <textevent message="to what your body is actually capable of" timeoffset="420"/>
+            <textevent message="You push yourself closer to your potential each &amp; every workout" timeoffset="430"/>
+            <textevent message="Final 2 minutes! 30 seconds at a time" timeoffset="480"/>
+            <textevent message="Keep your breathing steady &amp; deep, 30 seconds" timeoffset="510"/>
+            <textevent message="Keep your pedal stroke fluid &amp; light, 30 seconds" timeoffset="540"/>
+            <textevent message="Keep your focus sharp, 30 seconds" timeoffset="570"/>
         </SteadyState>
         <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Well done, backpedal or spin lightly for about a couple minutes" timeoffset="0.000000"/>
+            <textevent message="Well done, backpedal or spin lightly for about a couple minutes" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="600.0" PowerLow="1.050" PowerHigh="1.050">
-            <textevent message="Settle into your aero position right away" timeoffset="0.000000"/>
-            <textevent message="The &quot;recovery&quot; workouts can be even tougher to handle..." timeoffset="30.000000"/>
-            <textevent message="than the more intense stuff if you mentally check out" timeoffset="40.000000"/>
-            <textevent message="These are not easy workouts, they're shorter workouts" timeoffset="50.000000"/>
-            <textevent message="We increased your workload each week, and now it's time to back things down" timeoffset="60.000000"/>
-            <textevent message="But only enough to refresh you for you next round of training..." timeoffset="70.000000"/>
-            <textevent message="or to taper you for your upcoming key event" timeoffset="80.000000"/>
-            <textevent message="In either case, this is where you really get stronger, faster, even tougher..." timeoffset="90.000000"/>
-            <textevent message="because your body gets a better chance to adapt to the stress..." timeoffset="100.000000"/>
-            <textevent message="of all the previous weeks &amp; your mind gets a bit of a break as well" timeoffset="110.000000"/>
-            <textevent message="Two minutes in, keep your cadence steady..." timeoffset="120.000000"/>
-            <textevent message="and make sure you're spending most or all of your time in aero" timeoffset="130.000000"/>
-            <textevent message="Think back to the overload principle of training..." timeoffset="150.000000"/>
-            <textevent message="By consistently exceeding the demands your body's use to..." timeoffset="160.000000"/>
-            <textevent message="you impose new demands, greater demands, ones that spur growth" timeoffset="170.000000"/>
-            <textevent message="Each week gets a little tougher than the previous week..." timeoffset="180.000000"/>
-            <textevent message="but each week you get a little stronger" timeoffset="190.000000"/>
-            <textevent message="And then we back things off enough that you can really feel the improvement" timeoffset="200.000000"/>
-            <textevent message="Maybe not this week, but as early as next week you'll start to feel it" timeoffset="210.000000"/>
-            <textevent message="Two more minutes behind you, next 2 in mind" timeoffset="240.000000"/>
-            <textevent message="Either in your aero position or taking a short, upright break" timeoffset="250.000000"/>
-            <textevent message="Each time you return to aero, do a couple things..." timeoffset="260.000000"/>
-            <textevent message="First, make sure you aren't crimping your breathing cavity" timeoffset="270.000000"/>
-            <textevent message="This happens when you hinge sharpley at the hips..." timeoffset="280.000000"/>
-            <textevent message="but can be avoided by hollowing out your abdomen instead" timeoffset="290.000000"/>
-            <textevent message="This ties into the second thing to try each time..." timeoffset="300.000000"/>
-            <textevent message="and that's keeping your sit bones anchored" timeoffset="310.000000"/>
-            <textevent message="When you get low but manage to keep your sit bones on the saddle..." timeoffset="320.000000"/>
-            <textevent message="you set the stage for a gently rounded spine" timeoffset="330.000000"/>
-            <textevent message="This rounding is what allows a hollow abdomen instead of a hinged one" timeoffset="340.000000"/>
-            <textevent message="Hinging results from a too-flat back, but rounding allows your belly to distend" timeoffset="350.000000"/>
-            <textevent message="Next 2 minutes, breath with your belly" timeoffset="360.000000"/>
-            <textevent message="Breath into that ample cavity created by anchoring &amp; rounding" timeoffset="370.000000"/>
-            <textevent message="Anchoring the sit bones, gently rounding your lower spine" timeoffset="380.000000"/>
-            <textevent message="Give your belly room to maneuver, to breathe fully" timeoffset="390.000000"/>
-            <textevent message="Final 2 minutes! Make sure you can see the horizon" timeoffset="480.000000"/>
-            <textevent message="Avoid the habit of staring at your arms or closing your eyes" timeoffset="490.000000"/>
-            <textevent message="Practice keeping your eyes on the horizon, where they'll be outdoors" timeoffset="500.000000"/>
-            <textevent message="Next 30 seconds! Sit bones anchored" timeoffset="510.000000"/>
-            <textevent message="Next 30 seconds, full belly-breaths" timeoffset="540.000000"/>
-            <textevent message="Final 30! Keep your spin smooth &amp; steady" timeoffset="570.000000"/>
+            <textevent message="Settle into your aero position right away" timeoffset="0"/>
+            <textevent message="The &quot;recovery&quot; workouts can be even tougher to handle..." timeoffset="30"/>
+            <textevent message="than the more intense stuff if you mentally check out" timeoffset="40"/>
+            <textevent message="These are not easy workouts, they're shorter workouts" timeoffset="50"/>
+            <textevent message="We increased your workload each week, and now it's time to back things down" timeoffset="60"/>
+            <textevent message="But only enough to refresh you for you next round of training..." timeoffset="70"/>
+            <textevent message="or to taper you for your upcoming key event" timeoffset="80"/>
+            <textevent message="In either case, this is where you really get stronger, faster, even tougher..." timeoffset="90"/>
+            <textevent message="because your body gets a better chance to adapt to the stress..." timeoffset="100"/>
+            <textevent message="of all the previous weeks &amp; your mind gets a bit of a break as well" timeoffset="110"/>
+            <textevent message="Two minutes in, keep your cadence steady..." timeoffset="120"/>
+            <textevent message="and make sure you're spending most or all of your time in aero" timeoffset="130"/>
+            <textevent message="Think back to the overload principle of training..." timeoffset="150"/>
+            <textevent message="By consistently exceeding the demands your body's use to..." timeoffset="160"/>
+            <textevent message="you impose new demands, greater demands, ones that spur growth" timeoffset="170"/>
+            <textevent message="Each week gets a little tougher than the previous week..." timeoffset="180"/>
+            <textevent message="but each week you get a little stronger" timeoffset="190"/>
+            <textevent message="And then we back things off enough that you can really feel the improvement" timeoffset="200"/>
+            <textevent message="Maybe not this week, but as early as next week you'll start to feel it" timeoffset="210"/>
+            <textevent message="Two more minutes behind you, next 2 in mind" timeoffset="240"/>
+            <textevent message="Either in your aero position or taking a short, upright break" timeoffset="250"/>
+            <textevent message="Each time you return to aero, do a couple things..." timeoffset="260"/>
+            <textevent message="First, make sure you aren't crimping your breathing cavity" timeoffset="270"/>
+            <textevent message="This happens when you hinge sharpley at the hips..." timeoffset="280"/>
+            <textevent message="but can be avoided by hollowing out your abdomen instead" timeoffset="290"/>
+            <textevent message="This ties into the second thing to try each time..." timeoffset="300"/>
+            <textevent message="and that's keeping your sit bones anchored" timeoffset="310"/>
+            <textevent message="When you get low but manage to keep your sit bones on the saddle..." timeoffset="320"/>
+            <textevent message="you set the stage for a gently rounded spine" timeoffset="330"/>
+            <textevent message="This rounding is what allows a hollow abdomen instead of a hinged one" timeoffset="340"/>
+            <textevent message="Hinging results from a too-flat back, but rounding allows your belly to distend" timeoffset="350"/>
+            <textevent message="Next 2 minutes, breath with your belly" timeoffset="360"/>
+            <textevent message="Breath into that ample cavity created by anchoring &amp; rounding" timeoffset="370"/>
+            <textevent message="Anchoring the sit bones, gently rounding your lower spine" timeoffset="380"/>
+            <textevent message="Give your belly room to maneuver, to breathe fully" timeoffset="390"/>
+            <textevent message="Final 2 minutes! Make sure you can see the horizon" timeoffset="480"/>
+            <textevent message="Avoid the habit of staring at your arms or closing your eyes" timeoffset="490"/>
+            <textevent message="Practice keeping your eyes on the horizon, where they'll be outdoors" timeoffset="500"/>
+            <textevent message="Next 30 seconds! Sit bones anchored" timeoffset="510"/>
+            <textevent message="Next 30 seconds, full belly-breaths" timeoffset="540"/>
+            <textevent message="Final 30! Keep your spin smooth &amp; steady" timeoffset="570"/>
         </SteadyState>
         <Cooldown Duration="240.0" PowerLow="0.500" PowerHigh="0.400">
-            <textevent message="Nicely done, ramp things down &amp; relax" timeoffset="0.000000"/>
-            <textevent message="Start your post-workout nutrition or start planning it..." timeoffset="10.000000"/>
-            <textevent message="and remember to take it easy this week, let your body heal" timeoffset="20.000000"/>
-            <textevent message="We'll see you next time" timeoffset="30.000000"/>
+            <textevent message="Nicely done, ramp things down &amp; relax" timeoffset="0"/>
+            <textevent message="Start your post-workout nutrition or start planning it..." timeoffset="10"/>
+            <textevent message="and remember to take it easy this week, let your body heal" timeoffset="20"/>
+            <textevent message="We'll see you next time" timeoffset="30"/>
         </Cooldown>
     </workout>
 </workout_file>

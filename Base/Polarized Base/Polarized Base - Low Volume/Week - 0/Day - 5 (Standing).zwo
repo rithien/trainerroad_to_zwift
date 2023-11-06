@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Standing&amp;nbsp;consists of nearly 90 minutes of aerobic Endurance riding spent between 50- 57% FTP.</description>
+    <name>Standing</name>
+    <workout>
+        <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="180.0" PowerLow="0.520" PowerHigh="0.520"/>
+        <SteadyState Duration="180.0" PowerLow="0.540" PowerHigh="0.540"/>
+        <SteadyState Duration="3120.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Warmup Duration="60.0" PowerLow="0.550" PowerHigh="0.570"/>
+        <SteadyState Duration="300.0" PowerLow="0.570" PowerHigh="0.570"/>
+        <Cooldown Duration="60.0" PowerLow="0.570" PowerHigh="0.550"/>
+        <SteadyState Duration="660.0" PowerLow="0.550" PowerHigh="0.550"/>
+        <Cooldown Duration="600.0" PowerLow="0.550" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

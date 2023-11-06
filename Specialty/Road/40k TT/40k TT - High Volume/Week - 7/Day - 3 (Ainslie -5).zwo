@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <workout_file>
-    <description>Ainslie -5 is 3x4-minute intervals at 105% FTP with 4-minute recoveries at 50% FTP.</description>
+    <description>Ainslie -5 is 3x4-minute intervals at 105% FTP with 4-minute recoveries at 40% FTP.</description>
     <name>Ainslie -5</name>
     <workout>
         <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>

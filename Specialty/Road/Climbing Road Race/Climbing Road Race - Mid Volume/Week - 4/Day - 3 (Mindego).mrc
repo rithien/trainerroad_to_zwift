@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Mindego is 5x5-minute repeats at 107% FTP separated by 5-minute recovery valleys.
+DESCRIPTION = Mindego is 5x5-minute repeats at 107% FTP separated by&nbsp;recovery valleys of 4 minutes and 50 seconds.
 FILE NAME = Mindego
 MINUTES	FTP
 [END COURSE HEADER]

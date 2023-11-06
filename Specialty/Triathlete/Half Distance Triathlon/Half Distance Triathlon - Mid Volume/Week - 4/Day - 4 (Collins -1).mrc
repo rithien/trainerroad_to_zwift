@@ -42,18 +42,6 @@ MINUTES	FTP
 0	Just keep those pedals turning, keep your body loose & relaxed...	8	0	0	72	16777215	90
 0	and keep your power close to Target Power...	5	0	0	72	16777215	100
 0	within just a few watts	5	0	0	72	16777215	107
-300	Keep your spin quick & light as you settle into 75 minutes of easy riding	8	0	0	72	16777215	10
-300	As with similar workouts, today's goal is about cultivating aerobic base...	8	0	0	72	16777215	20
-300	which typically involves loooong durations in the saddle...	5	0	0	72	16777215	30
-300	consisting of hours of low, steady effort	5	0	0	72	16777215	37
-300	But on a more time-constrained schedule...	5	0	0	72	16777215	44
-300	shorter rides have to suffice	5	0	0	72	16777215	51
-300	Fortunately, the steady-effort nature of riding indoors is highly productive	8	0	0	72	16777215	60
-300	Shorter indoor durations can match the effects of longer outdoor mileage	8	0	0	72	16777215	70
-300	So do your best to resist the urge to take breaks or fall off pace	8	0	0	72	16777215	80
-300	Just keep those pedals turning, keep your body loose & relaxed...	8	0	0	72	16777215	90
-300	and keep your power close to Target Power...	5	0	0	72	16777215	100
-300	within just a few watts	5	0	0	72	16777215	107
 600	Aerobic base is vital to an endurance athlete's success...	5	0	0	72	16777215	0
 600	and especially important to steady-state endurance athletes	5	0	0	72	16777215	7
 600	In order to tolerate high workloads without burning a lot of sugar...	5	0	0	72	16777215	14
@@ -187,3 +175,5 @@ MINUTES	FTP
 
 [MODE DATA]
 [END MODE DATA]
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

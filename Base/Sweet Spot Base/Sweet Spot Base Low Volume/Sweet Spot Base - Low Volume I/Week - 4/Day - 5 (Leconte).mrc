@@ -129,7 +129,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Leconte...	5	0	0	72	16777215	10
-0	Coach Chad here to help you push your so-called 'limits'	5	0	0	72	16777215	16
+0	Coach here, ready to help you push your so-called 'limits'	5	0	0	72	16777215	16
 0	3 sets of intervals hover close to your FTP...	4	0	0	72	16777215	23
 0	while you work hard for 10 minutes each time	4	0	0	72	16777215	28
 0	As you work your way through the intervals...	4	0	0	72	16777215	34
@@ -739,5 +739,3 @@ MINUTES	FTP
 
 [MODE DATA]
 [END MODE DATA]
-
- 

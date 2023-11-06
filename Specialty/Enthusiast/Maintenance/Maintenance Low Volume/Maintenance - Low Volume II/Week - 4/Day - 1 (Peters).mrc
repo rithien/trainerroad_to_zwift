@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Peters&nbsp;is 7x2-minute largely aerobic efforts at 106% FTP with 4 standing, 6-second sprint-like bursts at 150-200% FTP. Recoveries between intervals are about 4 minutes long. 
+DESCRIPTION = Peters&nbsp;is 6x2-minute largely aerobic efforts at 106% FTP with 4 standing, 6-second sprint-like bursts at 150-200% FTP. Recoveries between intervals are about 4 minutes long. 
 FILE NAME = Peters
 MINUTES	FTP
 [END COURSE HEADER]

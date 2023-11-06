@@ -4,158 +4,158 @@
     <name>Riscos</name>
     <workout>
         <SteadyState Duration="360.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="We'll kick things off with a bit of warm up" timeoffset="10.000000"/>
-            <textevent message="Keep your spin quick &amp; light for the first few minutes" timeoffset="20.000000"/>
+            <textevent message="We'll kick things off with a bit of warm up" timeoffset="10"/>
+            <textevent message="Keep your spin quick &amp; light for the first few minutes" timeoffset="20"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.720" PowerHigh="0.720">
-            <textevent message="Ramp things up a little, further your warm up, open your lungs a bit" timeoffset="0.000000"/>
-            <textevent message="Keep your spin above 85rpm, higher if reasonably comfortable" timeoffset="10.000000"/>
+            <textevent message="Ramp things up a little, further your warm up, open your lungs a bit" timeoffset="0"/>
+            <textevent message="Keep your spin above 85rpm, higher if reasonably comfortable" timeoffset="10"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="0.960" PowerHigh="0.960">
-            <textevent message="Final minutes, right next to FTP" timeoffset="0.000000"/>
-            <textevent message="Increase your spin to 90rpm or higher..." timeoffset="10.000000"/>
-            <textevent message="if you're not already spinning that quickly" timeoffset="20.000000"/>
-            <textevent message="Draw long, full belly-breaths..." timeoffset="30.000000"/>
-            <textevent message="then completely &amp; actively empty your lungs" timeoffset="40.000000"/>
-            <textevent message="Make it an obvious and forceful push - clear them completely" timeoffset="50.000000"/>
+            <textevent message="Final minutes, right next to FTP" timeoffset="0"/>
+            <textevent message="Increase your spin to 90rpm or higher..." timeoffset="10"/>
+            <textevent message="if you're not already spinning that quickly" timeoffset="20"/>
+            <textevent message="Draw long, full belly-breaths..." timeoffset="30"/>
+            <textevent message="then completely &amp; actively empty your lungs" timeoffset="40"/>
+            <textevent message="Make it an obvious and forceful push - clear them completely" timeoffset="50"/>
         </SteadyState>
         <SteadyState Duration="600.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Today's intervals are all about &quot;overload&quot;" timeoffset="0.000000"/>
-            <textevent message="In particular, overload in the form of supra-Threshold intensity" timeoffset="10.000000"/>
-            <textevent message="The idea is to familiarize your body &amp; mind with higher power output..." timeoffset="20.000000"/>
-            <textevent message="than you're currently accustomed to, both physically &amp; mentally" timeoffset="30.000000"/>
-            <textevent message="Not only will your legs burn more intensely &amp; sooner each interval..." timeoffset="40.000000"/>
-            <textevent message="but you'll be tempted to mentally check out more quickly" timeoffset="50.000000"/>
-            <textevent message="But we'll try to keep this temptation at bay..." timeoffset="60.000000"/>
-            <textevent message="by gradually easing up the intensity over the course of the workout" timeoffset="70.000000"/>
-            <textevent message="At the same time, the intervals will get shorter..." timeoffset="80.000000"/>
-            <textevent message="while the recoveries between intervals hold steady at 3 minutes" timeoffset="90.000000"/>
-            <textevent message="We'll ramp into your first effort in a minute" timeoffset="160.000000"/>
-            <textevent message="Establish a quick but sustainable spin before the interval begins..." timeoffset="170.000000"/>
-            <textevent message="ideally above 90rpm, but tailor your spin to your needs" timeoffset="180.000000"/>
-            <textevent message="Each interval begins with a 10-second ramp..." timeoffset="190.000000"/>
-            <textevent message="before you settle into various effort levels above FTP" timeoffset="200.000000"/>
-            <textevent message="The higher above FTP, the shorter the interval..." timeoffset="210.000000"/>
-            <textevent message="again, with the intent of raising your sustainable power..." timeoffset="220.000000"/>
-            <textevent message="higher than the power you're currently accustomed to --&gt; overload" timeoffset="230.000000"/>
+            <textevent message="Today's intervals are all about &quot;overload&quot;" timeoffset="0"/>
+            <textevent message="In particular, overload in the form of supra-Threshold intensity" timeoffset="10"/>
+            <textevent message="The idea is to familiarize your body &amp; mind with higher power output..." timeoffset="20"/>
+            <textevent message="than you're currently accustomed to, both physically &amp; mentally" timeoffset="30"/>
+            <textevent message="Not only will your legs burn more intensely &amp; sooner each interval..." timeoffset="40"/>
+            <textevent message="but you'll be tempted to mentally check out more quickly" timeoffset="50"/>
+            <textevent message="But we'll try to keep this temptation at bay..." timeoffset="60"/>
+            <textevent message="by gradually easing up the intensity over the course of the workout" timeoffset="70"/>
+            <textevent message="At the same time, the intervals will get shorter..." timeoffset="80"/>
+            <textevent message="while the recoveries between intervals hold steady at 3 minutes" timeoffset="90"/>
+            <textevent message="We'll ramp into your first effort in a minute" timeoffset="160"/>
+            <textevent message="Establish a quick but sustainable spin before the interval begins..." timeoffset="170"/>
+            <textevent message="ideally above 90rpm, but tailor your spin to your needs" timeoffset="180"/>
+            <textevent message="Each interval begins with a 10-second ramp..." timeoffset="190"/>
+            <textevent message="before you settle into various effort levels above FTP" timeoffset="200"/>
+            <textevent message="The higher above FTP, the shorter the interval..." timeoffset="210"/>
+            <textevent message="again, with the intent of raising your sustainable power..." timeoffset="220"/>
+            <textevent message="higher than the power you're currently accustomed to --&gt; overload" timeoffset="230"/>
         </SteadyState>
         <SteadyState Duration="300.0" PowerLow="1.020" PowerHigh="1.020">
-            <textevent message="Take a minute to adjust to the workload..." timeoffset="0.000000"/>
-            <textevent message="then settle into your aero position when you feel ready" timeoffset="10.000000"/>
-            <textevent message="If your power starts to waver, more than 10 watts up or down..." timeoffset="60.000000"/>
-            <textevent message="take brief breaks from your aero position for 20-30 seconds" timeoffset="70.000000"/>
-            <textevent message="Sit upright long enough to stabilize your power &amp; stay in sync with your Target Power" timeoffset="80.000000"/>
-            <textevent message="Holding your power on Target is priority #1 today..." timeoffset="90.000000"/>
-            <textevent message="spending time in your aero position is priority #2" timeoffset="100.000000"/>
-            <textevent message="3 minutes in, how are your legs handling the burn?" timeoffset="180.000000"/>
-            <textevent message="If you find your spin slowing to a crawl, try a couple things" timeoffset="190.000000"/>
-            <textevent message="First, focus on how well you're kicking &amp; pulling" timeoffset="200.000000"/>
-            <textevent message="Toes kick over the top of each pedal stroke..." timeoffset="210.000000"/>
-            <textevent message="heels pull across the bottom of each pedal stroke" timeoffset="220.000000"/>
-            <textevent message="And they both do it lightly - most of your power is in the downstroke" timeoffset="230.000000"/>
-            <textevent message="The objective is more about lifting your spin rate..." timeoffset="240.000000"/>
-            <textevent message="and focusing on other segments of your pedal stroke often works well" timeoffset="250.000000"/>
-            <textevent message="Second option: backpedal for 5-10 seconds..." timeoffset="260.000000"/>
-            <textevent message="then wind your legs back up to your goal cadence" timeoffset="270.000000"/>
+            <textevent message="Take a minute to adjust to the workload..." timeoffset="0"/>
+            <textevent message="then settle into your aero position when you feel ready" timeoffset="10"/>
+            <textevent message="If your power starts to waver, more than 10 watts up or down..." timeoffset="60"/>
+            <textevent message="take brief breaks from your aero position for 20-30 seconds" timeoffset="70"/>
+            <textevent message="Sit upright long enough to stabilize your power &amp; stay in sync with your Target Power" timeoffset="80"/>
+            <textevent message="Holding your power on Target is priority #1 today..." timeoffset="90"/>
+            <textevent message="spending time in your aero position is priority #2" timeoffset="100"/>
+            <textevent message="3 minutes in, how are your legs handling the burn?" timeoffset="180"/>
+            <textevent message="If you find your spin slowing to a crawl, try a couple things" timeoffset="190"/>
+            <textevent message="First, focus on how well you're kicking &amp; pulling" timeoffset="200"/>
+            <textevent message="Toes kick over the top of each pedal stroke..." timeoffset="210"/>
+            <textevent message="heels pull across the bottom of each pedal stroke" timeoffset="220"/>
+            <textevent message="And they both do it lightly - most of your power is in the downstroke" timeoffset="230"/>
+            <textevent message="The objective is more about lifting your spin rate..." timeoffset="240"/>
+            <textevent message="and focusing on other segments of your pedal stroke often works well" timeoffset="250"/>
+            <textevent message="Second option: backpedal for 5-10 seconds..." timeoffset="260"/>
+            <textevent message="then wind your legs back up to your goal cadence" timeoffset="270"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Well done, take a few minutes to relax and clear your mind" timeoffset="0.000000"/>
+            <textevent message="Well done, take a few minutes to relax and clear your mind" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="300.0" PowerLow="1.020" PowerHigh="1.020">
-            <textevent message="Again, you'll hold 105% FTP for 5 minutes..." timeoffset="0.000000"/>
-            <textevent message="spending as much time in your aero position as possible" timeoffset="10.000000"/>
-            <textevent message="But if your power falls more than 10 watts off the mark..." timeoffset="20.000000"/>
-            <textevent message="sit up for as long as necessary to stabilize your watts" timeoffset="30.000000"/>
-            <textevent message="Aero or upright, start to pay extra attention to your breathing..." timeoffset="60.000000"/>
-            <textevent message="both how fast you're breathing as well as how deeply" timeoffset="70.000000"/>
-            <textevent message="Ideally, your breathing is deep &amp; smooth..." timeoffset="90.000000"/>
-            <textevent message="but if your breaths are short, choppy or ragged, you can fix this" timeoffset="100.000000"/>
-            <textevent message="Even if your lung capacity isn't exceptional, i.e. average VO2max..." timeoffset="110.000000"/>
-            <textevent message="you can still ride like you have the lungs of a horse" timeoffset="120.000000"/>
-            <textevent message="Start by taking full breaths in through your nose &amp; mouth" timeoffset="130.000000"/>
-            <textevent message="Let your mouth hang open, relaxed jaw, loose cheeks" timeoffset="140.000000"/>
-            <textevent message="At the same time, draw air in through your nose too" timeoffset="150.000000"/>
-            <textevent message="Most of your intake will come via your mouth..." timeoffset="160.000000"/>
-            <textevent message="but you can take in MORE air if you breathe through your nose too" timeoffset="170.000000"/>
-            <textevent message="And the more air you take in, the greater your potential for work" timeoffset="180.000000"/>
-            <textevent message="Just focus on that for now" timeoffset="190.000000"/>
-            <textevent message="Still targeting your inhales, allow your belly to distend each time" timeoffset="240.000000"/>
-            <textevent message="Think of creating space for air by moving your guts out of the way" timeoffset="250.000000"/>
-            <textevent message="Let that belly pooch out!" timeoffset="260.000000"/>
-            <textevent message="Breathing in through your mouth &amp; nose, belly pooching out" timeoffset="270.000000"/>
-            <textevent message="Let's target your exhales now, through your mouth only" timeoffset="300.000000"/>
-            <textevent message="Actively force out the used air by breathing diaphragmatically" timeoffset="310.000000"/>
-            <textevent message="Big word, just means using your dedicated breathing muscle" timeoffset="320.000000"/>
-            <textevent message="By drawing your navel inward, you'll likely engage your diaphragm" timeoffset="330.000000"/>
-            <textevent message="This forces the expired air out &amp; clears the waste..." timeoffset="340.000000"/>
-            <textevent message="and is commonly referred to as &quot;Belly Breathing&quot;" timeoffset="350.000000"/>
+            <textevent message="Again, you'll hold 105% FTP for 5 minutes..." timeoffset="0"/>
+            <textevent message="spending as much time in your aero position as possible" timeoffset="10"/>
+            <textevent message="But if your power falls more than 10 watts off the mark..." timeoffset="20"/>
+            <textevent message="sit up for as long as necessary to stabilize your watts" timeoffset="30"/>
+            <textevent message="Aero or upright, start to pay extra attention to your breathing..." timeoffset="60"/>
+            <textevent message="both how fast you're breathing as well as how deeply" timeoffset="70"/>
+            <textevent message="Ideally, your breathing is deep &amp; smooth..." timeoffset="90"/>
+            <textevent message="but if your breaths are short, choppy or ragged, you can fix this" timeoffset="100"/>
+            <textevent message="Even if your lung capacity isn't exceptional, i.e. average VO2max..." timeoffset="110"/>
+            <textevent message="you can still ride like you have the lungs of a horse" timeoffset="120"/>
+            <textevent message="Start by taking full breaths in through your nose &amp; mouth" timeoffset="130"/>
+            <textevent message="Let your mouth hang open, relaxed jaw, loose cheeks" timeoffset="140"/>
+            <textevent message="At the same time, draw air in through your nose too" timeoffset="150"/>
+            <textevent message="Most of your intake will come via your mouth..." timeoffset="160"/>
+            <textevent message="but you can take in MORE air if you breathe through your nose too" timeoffset="170"/>
+            <textevent message="And the more air you take in, the greater your potential for work" timeoffset="180"/>
+            <textevent message="Just focus on that for now" timeoffset="190"/>
+            <textevent message="Still targeting your inhales, allow your belly to distend each time" timeoffset="240"/>
+            <textevent message="Think of creating space for air by moving your guts out of the way" timeoffset="250"/>
+            <textevent message="Let that belly pooch out!" timeoffset="260"/>
+            <textevent message="Breathing in through your mouth &amp; nose, belly pooching out" timeoffset="270"/>
+            <textevent message="Let's target your exhales now, through your mouth only" timeoffset="300"/>
+            <textevent message="Actively force out the used air by breathing diaphragmatically" timeoffset="310"/>
+            <textevent message="Big word, just means using your dedicated breathing muscle" timeoffset="320"/>
+            <textevent message="By drawing your navel inward, you'll likely engage your diaphragm" timeoffset="330"/>
+            <textevent message="This forces the expired air out &amp; clears the waste..." timeoffset="340"/>
+            <textevent message="and is commonly referred to as &quot;Belly Breathing&quot;" timeoffset="350"/>
         </SteadyState>
         <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Excellent, time for some rest" timeoffset="0.000000"/>
-            <textevent message="Keep your legs moving if you can, even backwards works" timeoffset="10.000000"/>
-            <textevent message="These are short breaks..." timeoffset="20.000000"/>
-            <textevent message="so do whatever you need to maximize your recovery" timeoffset="30.000000"/>
+            <textevent message="Excellent, time for some rest" timeoffset="0"/>
+            <textevent message="Keep your legs moving if you can, even backwards works" timeoffset="10"/>
+            <textevent message="These are short breaks..." timeoffset="20"/>
+            <textevent message="so do whatever you need to maximize your recovery" timeoffset="30"/>
         </SteadyState>
         <SteadyState Duration="90.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Very well done" timeoffset="0.000000"/>
-            <textevent message="Ease off the gas for a few minutes..." timeoffset="10.000000"/>
-            <textevent message="and bring your breathing &amp; heart rate back down" timeoffset="17.000000"/>
+            <textevent message="Very well done" timeoffset="0"/>
+            <textevent message="Ease off the gas for a few minutes..." timeoffset="10"/>
+            <textevent message="and bring your breathing &amp; heart rate back down" timeoffset="17"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="1.050" PowerHigh="1.050">
-            <textevent message="From the very start, give your breathing some added focus" timeoffset="0.000000"/>
-            <textevent message="Get in the habit of breathing fully BEFORE you're in a bad spot" timeoffset="10.000000"/>
-            <textevent message="Power's on Target, breathing is top-notch..." timeoffset="60.000000"/>
-            <textevent message="nothing left to do but make sure you're staying relaxed" timeoffset="70.000000"/>
-            <textevent message="Start by dropping your shoulders..." timeoffset="80.000000"/>
-            <textevent message="if you're in aero, relax your shoulder blades a bit" timeoffset="90.000000"/>
-            <textevent message="Take some of the tension out of the back of your neck" timeoffset="100.000000"/>
-            <textevent message="Aero riders, just tip your head up enough to see the horizon" timeoffset="110.000000"/>
-            <textevent message="Upright riders, tip your head down a bit, eyes up a bit" timeoffset="120.000000"/>
-            <textevent message="In both cases, also try to lengthen your neck a little..." timeoffset="130.000000"/>
-            <textevent message="by slightly &quot;reaching&quot; your head away from your body" timeoffset="140.000000"/>
-            <textevent message="Now your grip - aero or upright, keep it soft" timeoffset="150.000000"/>
-            <textevent message="You only need to hold the bars firmly enough to control the bike..." timeoffset="160.000000"/>
-            <textevent message="and when you're heading down a straight road..." timeoffset="170.000000"/>
-            <textevent message="that's not very firm at all since most of your stability comes from your hips" timeoffset="180.000000"/>
-            <textevent message="Under 1 minute!" timeoffset="190.000000"/>
-            <textevent message="The more your legs well up with that unfriendly burn..." timeoffset="200.000000"/>
-            <textevent message="the more important your breathing becomes..." timeoffset="210.000000"/>
-            <textevent message="especially your exhales - get rid of the waste!" timeoffset="220.000000"/>
+            <textevent message="From the very start, give your breathing some added focus" timeoffset="0"/>
+            <textevent message="Get in the habit of breathing fully BEFORE you're in a bad spot" timeoffset="10"/>
+            <textevent message="Power's on Target, breathing is top-notch..." timeoffset="60"/>
+            <textevent message="nothing left to do but make sure you're staying relaxed" timeoffset="70"/>
+            <textevent message="Start by dropping your shoulders..." timeoffset="80"/>
+            <textevent message="if you're in aero, relax your shoulder blades a bit" timeoffset="90"/>
+            <textevent message="Take some of the tension out of the back of your neck" timeoffset="100"/>
+            <textevent message="Aero riders, just tip your head up enough to see the horizon" timeoffset="110"/>
+            <textevent message="Upright riders, tip your head down a bit, eyes up a bit" timeoffset="120"/>
+            <textevent message="In both cases, also try to lengthen your neck a little..." timeoffset="130"/>
+            <textevent message="by slightly &quot;reaching&quot; your head away from your body" timeoffset="140"/>
+            <textevent message="Now your grip - aero or upright, keep it soft" timeoffset="150"/>
+            <textevent message="You only need to hold the bars firmly enough to control the bike..." timeoffset="160"/>
+            <textevent message="and when you're heading down a straight road..." timeoffset="170"/>
+            <textevent message="that's not very firm at all since most of your stability comes from your hips" timeoffset="180"/>
+            <textevent message="Under 1 minute!" timeoffset="190"/>
+            <textevent message="The more your legs well up with that unfriendly burn..." timeoffset="200"/>
+            <textevent message="the more important your breathing becomes..." timeoffset="210"/>
+            <textevent message="especially your exhales - get rid of the waste!" timeoffset="220"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Excellent! The &quot;long&quot; stuff is done" timeoffset="0.000000"/>
-            <textevent message="Spin out the heaviness and breathe deeply" timeoffset="10.000000"/>
+            <textevent message="Excellent! The &quot;long&quot; stuff is done" timeoffset="0"/>
+            <textevent message="Spin out the heaviness and breathe deeply" timeoffset="10"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="1.100" PowerHigh="1.100">
-            <textevent message="All the way up to 115% FTP but only for 2 minutes" timeoffset="0.000000"/>
-            <textevent message="Most riders won't stay aero for these final 2 efforts..." timeoffset="10.000000"/>
-            <textevent message="but if you feel it suits your particular needs..." timeoffset="20.000000"/>
-            <textevent message="(maybe there are some short climbs in your upcoming TT)" timeoffset="30.000000"/>
-            <textevent message="and you can keep your power on Target, get low ASAP" timeoffset="40.000000"/>
-            <textevent message="First minute behind you, stay ahead of the burn..." timeoffset="60.000000"/>
-            <textevent message="by breathing really well &amp; keeping your spin quick" timeoffset="70.000000"/>
-            <textevent message="If possible, shoot for 100rpm or even a little higher" timeoffset="80.000000"/>
-            <textevent message="Almost Done! Relax" timeoffset="90.000000"/>
+            <textevent message="All the way up to 115% FTP but only for 2 minutes" timeoffset="0"/>
+            <textevent message="Most riders won't stay aero for these final 2 efforts..." timeoffset="10"/>
+            <textevent message="but if you feel it suits your particular needs..." timeoffset="20"/>
+            <textevent message="(maybe there are some short climbs in your upcoming TT)" timeoffset="30"/>
+            <textevent message="and you can keep your power on Target, get low ASAP" timeoffset="40"/>
+            <textevent message="First minute behind you, stay ahead of the burn..." timeoffset="60"/>
+            <textevent message="by breathing really well &amp; keeping your spin quick" timeoffset="70"/>
+            <textevent message="If possible, shoot for 100rpm or even a little higher" timeoffset="80"/>
+            <textevent message="Almost Done! Relax" timeoffset="90"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Great job, only 1 to go!" timeoffset="0.000000"/>
-            <textevent message="Spin lightly, backpedal if necessary, catch your breath" timeoffset="10.000000"/>
+            <textevent message="Great job, only 1 to go!" timeoffset="0"/>
+            <textevent message="Spin lightly, backpedal if necessary, catch your breath" timeoffset="10"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="1.150" PowerHigh="1.150">
-            <textevent message="This is a shorty and it's not much rougher than the last one..." timeoffset="0.000000"/>
-            <textevent message="2 minutes at 115% FTP" timeoffset="10.000000"/>
-            <textevent message="Make sure you're on top of your breathing right away" timeoffset="20.000000"/>
-            <textevent message="Aero or upright, keep your power on Target for another 90 seconds" timeoffset="30.000000"/>
-            <textevent message="1 minute's worth of work is all that's left!" timeoffset="60.000000"/>
-            <textevent message="30 more seconds of quick legs &amp; big, belly-breaths" timeoffset="90.000000"/>
-            <textevent message="Final 10 seconds, don't quit!" timeoffset="110.000000"/>
+            <textevent message="This is a shorty and it's not much rougher than the last one..." timeoffset="0"/>
+            <textevent message="2 minutes at 115% FTP" timeoffset="10"/>
+            <textevent message="Make sure you're on top of your breathing right away" timeoffset="20"/>
+            <textevent message="Aero or upright, keep your power on Target for another 90 seconds" timeoffset="30"/>
+            <textevent message="1 minute's worth of work is all that's left!" timeoffset="60"/>
+            <textevent message="30 more seconds of quick legs &amp; big, belly-breaths" timeoffset="90"/>
+            <textevent message="Final 10 seconds, don't quit!" timeoffset="110"/>
         </SteadyState>
         <Cooldown Duration="480.0" PowerLow="0.400" PowerHigh="0.300">
-            <textevent message="Really well done, time to cool down" timeoffset="0.000000"/>
-            <textevent message="As you catch your breath and clear your legs..." timeoffset="30.000000"/>
-            <textevent message="either start your post-workout nutrition..." timeoffset="40.000000"/>
-            <textevent message="or at least start thinking about how you'll address it" timeoffset="50.000000"/>
-            <textevent message="See you next time" timeoffset="60.000000"/>
+            <textevent message="Really well done, time to cool down" timeoffset="0"/>
+            <textevent message="As you catch your breath and clear your legs..." timeoffset="30"/>
+            <textevent message="either start your post-workout nutrition..." timeoffset="40"/>
+            <textevent message="or at least start thinking about how you'll address it" timeoffset="50"/>
+            <textevent message="See you next time" timeoffset="60"/>
         </Cooldown>
     </workout>
 </workout_file>

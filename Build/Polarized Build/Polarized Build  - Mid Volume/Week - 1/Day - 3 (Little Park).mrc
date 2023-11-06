@@ -1,0 +1,44 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Little Park&nbsp;consists of nearly 90 minutes of aerobic Endurance riding spent between 50-59% FTP.
+FILE NAME = Little Park
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	54
+7	54
+7	55
+12	55
+12	55
+13	59
+13	59
+68	59
+68	59
+69	55
+69	55
+80	55
+80	55
+90	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	420	Active Recovery 1
+420	720	Endurance 1
+720	780	Endurance 2
+780	4080	Endurance 3
+4080	4140	Endurance 4
+4140	4800	Endurance 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+    

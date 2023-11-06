@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Marvine is four 4-minute intervals at 105% FTP. The recoveries between intervals are 2 minutes long.
+FILE NAME = Marvine
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	105
+25	105
+25	50
+27	50
+27	105
+31	105
+31	50
+33	50
+33	105
+37	105
+37	50
+39	50
+39	105
+43	105
+43	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	1500	Threshold 2
+1620	1860	Threshold 3
+1980	2220	Threshold 4
+2340	2580	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

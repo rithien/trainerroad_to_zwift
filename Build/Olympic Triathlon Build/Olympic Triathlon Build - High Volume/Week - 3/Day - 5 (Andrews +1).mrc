@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Andrews is 90 minutes of aerobic Endurance riding spent somewhere between 65-75% FTP. This version inlcudes 4 late-ride sprints at 180% FTP for 20 seconds each.
+DESCRIPTION = Andrews is 90 minutes of aerobic Endurance riding spent somewhere between 65-75% FTP. This version includes 4 late-ride sprints at 180% FTP for 20 seconds each.
 FILE NAME = Andrews +1
 MINUTES	FTP
 [END COURSE HEADER]

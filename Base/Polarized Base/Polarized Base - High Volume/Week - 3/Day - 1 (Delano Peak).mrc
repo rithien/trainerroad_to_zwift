@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Delano Peak is four 4-minute intervals at 103% FTP. The recoveries between intervals are 2 minutes long.
+FILE NAME = Delano Peak
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	103
+25	103
+25	50
+27	50
+27	103
+31	103
+31	50
+33	50
+33	103
+37	103
+37	50
+39	50
+39	103
+43	103
+43	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	1500	Threshold 2
+1620	1860	Threshold 3
+1980	2220	Threshold 4
+2340	2580	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

@@ -4,569 +4,569 @@
     <name>Ericsson +2</name>
     <workout>
         <SteadyState Duration="180.0" PowerLow="0.450" PowerHigh="0.450">
-            <textevent message="Welcome to Ericsson +2!" timeoffset="10.000000"/>
-            <textevent message="Ahead of you is combination of efficiency drills..." timeoffset="17.000000"/>
-            <textevent message="and low-end muscular endurance work..." timeoffset="22.000000"/>
-            <textevent message="that can together make this an exceptionally well-rounded set of intervals" timeoffset="27.000000"/>
-            <textevent message="It's up to you to decide which emphasis..." timeoffset="34.000000"/>
-            <textevent message="is more important to your goals..." timeoffset="39.000000"/>
-            <textevent message="and then approach the intervals with your priorities in mind" timeoffset="43.000000"/>
-            <textevent message="There's nothing to prevent you from attaining both benefits..." timeoffset="50.000000"/>
-            <textevent message="in full effect too, but it's a good idea..." timeoffset="56.000000"/>
-            <textevent message="to decide which goal is more important to you..." timeoffset="61.000000"/>
-            <textevent message="just in case the combined effort level &amp; drills..." timeoffset="66.000000"/>
-            <textevent message="turns out to be a bit too much to handle effectively" timeoffset="71.000000"/>
-            <textevent message="So decide now..." timeoffset="78.000000"/>
-            <textevent message="are you mostly here for the Speed Work..." timeoffset="82.000000"/>
-            <textevent message="because your leg speed is a going concern..." timeoffset="87.000000"/>
-            <textevent message="or are you here primarily to address your ability..." timeoffset="92.000000"/>
-            <textevent message="to work hard for extended periods of time?" timeoffset="97.000000"/>
-            <textevent message="Again, you can very probably do both..." timeoffset="103.000000"/>
-            <textevent message="but have a fall-back plan just to be safe" timeoffset="108.000000"/>
+            <textevent message="Welcome to Ericsson +2!" timeoffset="10"/>
+            <textevent message="Ahead of you is combination of efficiency drills..." timeoffset="17"/>
+            <textevent message="and low-end muscular endurance work..." timeoffset="22"/>
+            <textevent message="that can together make this an exceptionally well-rounded set of intervals" timeoffset="27"/>
+            <textevent message="It's up to you to decide which emphasis..." timeoffset="34"/>
+            <textevent message="is more important to your goals..." timeoffset="39"/>
+            <textevent message="and then approach the intervals with your priorities in mind" timeoffset="43"/>
+            <textevent message="There's nothing to prevent you from attaining both benefits..." timeoffset="50"/>
+            <textevent message="in full effect too, but it's a good idea..." timeoffset="56"/>
+            <textevent message="to decide which goal is more important to you..." timeoffset="61"/>
+            <textevent message="just in case the combined effort level &amp; drills..." timeoffset="66"/>
+            <textevent message="turns out to be a bit too much to handle effectively" timeoffset="71"/>
+            <textevent message="So decide now..." timeoffset="78"/>
+            <textevent message="are you mostly here for the Speed Work..." timeoffset="82"/>
+            <textevent message="because your leg speed is a going concern..." timeoffset="87"/>
+            <textevent message="or are you here primarily to address your ability..." timeoffset="92"/>
+            <textevent message="to work hard for extended periods of time?" timeoffset="97"/>
+            <textevent message="Again, you can very probably do both..." timeoffset="103"/>
+            <textevent message="but have a fall-back plan just to be safe" timeoffset="108"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="A little quicker spin..." timeoffset="0.000000"/>
-            <textevent message="but very smooth, very relaxed" timeoffset="5.000000"/>
+            <textevent message="A little quicker spin..." timeoffset="0"/>
+            <textevent message="but very smooth, very relaxed" timeoffset="5"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900">
-            <textevent message="Here's a quick 3-minute effort..." timeoffset="0.000000"/>
-            <textevent message="to get the blood flowing, adjust your mindset" timeoffset="5.000000"/>
-            <textevent message="Try to spin quickly but comfortably..." timeoffset="12.000000"/>
-            <textevent message="with a cadence in the 85-95rpm range" timeoffset="17.000000"/>
-            <textevent message="In doing so..." timeoffset="23.000000"/>
-            <textevent message="get a sense of what cadence suits you..." timeoffset="27.000000"/>
-            <textevent message="or at least what sort of leg speed your body prefers" timeoffset="32.000000"/>
-            <textevent message="The intervals ahead are going to explore..." timeoffset="39.000000"/>
-            <textevent message="the upper bounds of your controllable, sustainable leg speed..." timeoffset="44.000000"/>
-            <textevent message="and ideally improve your speed-endurance capabilities" timeoffset="50.000000"/>
-            <textevent message="You'll spend a few minutes spinning a little quicker than usual..." timeoffset="57.000000"/>
-            <textevent message="then a few minutes spinning even more quickly..." timeoffset="63.000000"/>
-            <textevent message="and finally a single minute spinning all-out fast" timeoffset="68.000000"/>
-            <textevent message="All relative to your quick-spinning capabilities..." timeoffset="73.000000"/>
-            <textevent message="and the amount of leg speed you can control" timeoffset="78.000000"/>
-            <textevent message="Before that though..." timeoffset="84.000000"/>
-            <textevent message="you'll work through some single-leg drills..." timeoffset="88.000000"/>
-            <textevent message="but more on that in a couple minutes" timeoffset="93.000000"/>
+            <textevent message="Here's a quick 3-minute effort..." timeoffset="0"/>
+            <textevent message="to get the blood flowing, adjust your mindset" timeoffset="5"/>
+            <textevent message="Try to spin quickly but comfortably..." timeoffset="12"/>
+            <textevent message="with a cadence in the 85-95rpm range" timeoffset="17"/>
+            <textevent message="In doing so..." timeoffset="23"/>
+            <textevent message="get a sense of what cadence suits you..." timeoffset="27"/>
+            <textevent message="or at least what sort of leg speed your body prefers" timeoffset="32"/>
+            <textevent message="The intervals ahead are going to explore..." timeoffset="39"/>
+            <textevent message="the upper bounds of your controllable, sustainable leg speed..." timeoffset="44"/>
+            <textevent message="and ideally improve your speed-endurance capabilities" timeoffset="50"/>
+            <textevent message="You'll spend a few minutes spinning a little quicker than usual..." timeoffset="57"/>
+            <textevent message="then a few minutes spinning even more quickly..." timeoffset="63"/>
+            <textevent message="and finally a single minute spinning all-out fast" timeoffset="68"/>
+            <textevent message="All relative to your quick-spinning capabilities..." timeoffset="73"/>
+            <textevent message="and the amount of leg speed you can control" timeoffset="78"/>
+            <textevent message="Before that though..." timeoffset="84"/>
+            <textevent message="you'll work through some single-leg drills..." timeoffset="88"/>
+            <textevent message="but more on that in a couple minutes" timeoffset="93"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Take it easy for a couple minutes..." timeoffset="0.000000"/>
-            <textevent message="and we'll talk ILT drills" timeoffset="5.000000"/>
-            <textevent message="ILT stands for Isolated Leg Training..." timeoffset="10.000000"/>
-            <textevent message="which is fancy-talk for one-legged pedaling drills" timeoffset="15.000000"/>
-            <textevent message="By pedaling with 1 leg at a time..." timeoffset="22.000000"/>
-            <textevent message="you can learn things you can't see when using both legs" timeoffset="27.000000"/>
-            <textevent message="You'll learn which leg is more coordinated, more fluid" timeoffset="34.000000"/>
-            <textevent message="You'll learn where your &quot;dead spots&quot; are" timeoffset="40.000000"/>
-            <textevent message="You'll learn how vital a strong midsection is..." timeoffset="46.000000"/>
-            <textevent message="to smooth, efficient, minimally wasteful pedaling" timeoffset="51.000000"/>
-            <textevent message="You'll also experience just how important..." timeoffset="57.000000"/>
-            <textevent message="your placement on the saddle is" timeoffset="62.000000"/>
-            <textevent message="And you'll learn this and more starting in about a minute" timeoffset="67.000000"/>
-            <textevent message="When that time comes..." timeoffset="75.000000"/>
-            <textevent message="you'll need to remove one leg from its pedal..." timeoffset="79.000000"/>
-            <textevent message="and dangle it safely out of the way" timeoffset="84.000000"/>
-            <textevent message="You can drape it on your trainer depending on its configuration..." timeoffset="90.000000"/>
-            <textevent message="or a chair or stool..." timeoffset="96.000000"/>
-            <textevent message="or you can simply hold it out of the way..." timeoffset="101.000000"/>
-            <textevent message="for the short period of time your other leg is working" timeoffset="106.000000"/>
-            <textevent message="Whatever you decide..." timeoffset="113.000000"/>
-            <textevent message="now's the time" timeoffset="117.000000"/>
+            <textevent message="Take it easy for a couple minutes..." timeoffset="0"/>
+            <textevent message="and we'll talk ILT drills" timeoffset="5"/>
+            <textevent message="ILT stands for Isolated Leg Training..." timeoffset="10"/>
+            <textevent message="which is fancy-talk for one-legged pedaling drills" timeoffset="15"/>
+            <textevent message="By pedaling with 1 leg at a time..." timeoffset="22"/>
+            <textevent message="you can learn things you can't see when using both legs" timeoffset="27"/>
+            <textevent message="You'll learn which leg is more coordinated, more fluid" timeoffset="34"/>
+            <textevent message="You'll learn where your &quot;dead spots&quot; are" timeoffset="40"/>
+            <textevent message="You'll learn how vital a strong midsection is..." timeoffset="46"/>
+            <textevent message="to smooth, efficient, minimally wasteful pedaling" timeoffset="51"/>
+            <textevent message="You'll also experience just how important..." timeoffset="57"/>
+            <textevent message="your placement on the saddle is" timeoffset="62"/>
+            <textevent message="And you'll learn this and more starting in about a minute" timeoffset="67"/>
+            <textevent message="When that time comes..." timeoffset="75"/>
+            <textevent message="you'll need to remove one leg from its pedal..." timeoffset="79"/>
+            <textevent message="and dangle it safely out of the way" timeoffset="84"/>
+            <textevent message="You can drape it on your trainer depending on its configuration..." timeoffset="90"/>
+            <textevent message="or a chair or stool..." timeoffset="96"/>
+            <textevent message="or you can simply hold it out of the way..." timeoffset="101"/>
+            <textevent message="for the short period of time your other leg is working" timeoffset="106"/>
+            <textevent message="Whatever you decide..." timeoffset="113"/>
+            <textevent message="now's the time" timeoffset="117"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="0.450" PowerHigh="0.450">
-            <textevent message="First things first..." timeoffset="1.000000"/>
-            <textevent message="go slow" timeoffset="5.000000"/>
-            <textevent message="Unless you're versed in ILT, speed comes later" timeoffset="10.000000"/>
-            <textevent message="Perhaps just as important..." timeoffset="17.000000"/>
-            <textevent message="you'll trade legs ANY time one leg feels cooked" timeoffset="21.000000"/>
-            <textevent message="Third, there's a learning curve when it comes to switching legs..." timeoffset="28.000000"/>
-            <textevent message="just like there's a curve with learning to pedal with one leg" timeoffset="34.000000"/>
-            <textevent message="So be PATIENT with yourself..." timeoffset="41.000000"/>
-            <textevent message="and keep in mind that this is a process..." timeoffset="46.000000"/>
-            <textevent message="and no one does this perfectly the first time" timeoffset="51.000000"/>
-            <textevent message="For another minute..." timeoffset="60.000000"/>
-            <textevent message="just practice switching legs when one gets tired..." timeoffset="64.000000"/>
-            <textevent message="Nothing more complex than that for now" timeoffset="71.000000"/>
-            <textevent message="Either your leg will start to burn..." timeoffset="78.000000"/>
-            <textevent message="or it will just feel sloppy..." timeoffset="83.000000"/>
-            <textevent message="which is your cue to come to a stop, switch feet..." timeoffset="88.000000"/>
-            <textevent message="and get pedaling again" timeoffset="94.000000"/>
-            <textevent message="Soon enough..." timeoffset="99.000000"/>
-            <textevent message="your stops/switches will become things of beauty..." timeoffset="103.000000"/>
-            <textevent message="but all in due time" timeoffset="109.000000"/>
+            <textevent message="First things first..." timeoffset="1"/>
+            <textevent message="go slow" timeoffset="5"/>
+            <textevent message="Unless you're versed in ILT, speed comes later" timeoffset="10"/>
+            <textevent message="Perhaps just as important..." timeoffset="17"/>
+            <textevent message="you'll trade legs ANY time one leg feels cooked" timeoffset="21"/>
+            <textevent message="Third, there's a learning curve when it comes to switching legs..." timeoffset="28"/>
+            <textevent message="just like there's a curve with learning to pedal with one leg" timeoffset="34"/>
+            <textevent message="So be PATIENT with yourself..." timeoffset="41"/>
+            <textevent message="and keep in mind that this is a process..." timeoffset="46"/>
+            <textevent message="and no one does this perfectly the first time" timeoffset="51"/>
+            <textevent message="For another minute..." timeoffset="60"/>
+            <textevent message="just practice switching legs when one gets tired..." timeoffset="64"/>
+            <textevent message="Nothing more complex than that for now" timeoffset="71"/>
+            <textevent message="Either your leg will start to burn..." timeoffset="78"/>
+            <textevent message="or it will just feel sloppy..." timeoffset="83"/>
+            <textevent message="which is your cue to come to a stop, switch feet..." timeoffset="88"/>
+            <textevent message="and get pedaling again" timeoffset="94"/>
+            <textevent message="Soon enough..." timeoffset="99"/>
+            <textevent message="your stops/switches will become things of beauty..." timeoffset="103"/>
+            <textevent message="but all in due time" timeoffset="109"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="Slight increase in resistance..." timeoffset="0.000000"/>
-            <textevent message="but not one that's likely to slow you down" timeoffset="4.000000"/>
-            <textevent message="A little extra resistance can even make for better control" timeoffset="10.000000"/>
-            <textevent message="This round, keep your spin as slow as necessary..." timeoffset="17.000000"/>
-            <textevent message="to prevent &quot;the knocks&quot;" timeoffset="22.000000"/>
-            <textevent message="The knocks happen at the top &amp; bottom of each pedal stroke..." timeoffset="28.000000"/>
-            <textevent message="and they reveal you how poorly you're kicking &amp; pulling" timeoffset="34.000000"/>
-            <textevent message="So when the knocks set in..." timeoffset="41.000000"/>
-            <textevent message="first slow your spin down..." timeoffset="45.000000"/>
-            <textevent message="then focus more on kicking your toes forward..." timeoffset="50.000000"/>
-            <textevent message="and dragging your heel backward" timeoffset="56.000000"/>
-            <textevent message="Kick &amp; Pull" timeoffset="62.000000"/>
-            <textevent message="Put another way..." timeoffset="68.000000"/>
-            <textevent message="kick over the top of each pedal stroke..." timeoffset="72.000000"/>
-            <textevent message="as your leg rises toward the 12 o'clock position..." timeoffset="77.000000"/>
-            <textevent message="and then pull across the bottom of each revolution..." timeoffset="83.000000"/>
-            <textevent message="as your foot descends toward the 6 o'clock position" timeoffset="89.000000"/>
-            <textevent message="So rather than the typical, quad-intensive mashing..." timeoffset="96.000000"/>
-            <textevent message="which takes place in a more vertical manner..." timeoffset="102.000000"/>
-            <textevent message="think of pedaling in a more horizontal plane..." timeoffset="107.000000"/>
-            <textevent message="in a forward/backward set of motions" timeoffset="112.000000"/>
+            <textevent message="Slight increase in resistance..." timeoffset="0"/>
+            <textevent message="but not one that's likely to slow you down" timeoffset="4"/>
+            <textevent message="A little extra resistance can even make for better control" timeoffset="10"/>
+            <textevent message="This round, keep your spin as slow as necessary..." timeoffset="17"/>
+            <textevent message="to prevent &quot;the knocks&quot;" timeoffset="22"/>
+            <textevent message="The knocks happen at the top &amp; bottom of each pedal stroke..." timeoffset="28"/>
+            <textevent message="and they reveal you how poorly you're kicking &amp; pulling" timeoffset="34"/>
+            <textevent message="So when the knocks set in..." timeoffset="41"/>
+            <textevent message="first slow your spin down..." timeoffset="45"/>
+            <textevent message="then focus more on kicking your toes forward..." timeoffset="50"/>
+            <textevent message="and dragging your heel backward" timeoffset="56"/>
+            <textevent message="Kick &amp; Pull" timeoffset="62"/>
+            <textevent message="Put another way..." timeoffset="68"/>
+            <textevent message="kick over the top of each pedal stroke..." timeoffset="72"/>
+            <textevent message="as your leg rises toward the 12 o'clock position..." timeoffset="77"/>
+            <textevent message="and then pull across the bottom of each revolution..." timeoffset="83"/>
+            <textevent message="as your foot descends toward the 6 o'clock position" timeoffset="89"/>
+            <textevent message="So rather than the typical, quad-intensive mashing..." timeoffset="96"/>
+            <textevent message="which takes place in a more vertical manner..." timeoffset="102"/>
+            <textevent message="think of pedaling in a more horizontal plane..." timeoffset="107"/>
+            <textevent message="in a forward/backward set of motions" timeoffset="112"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="0.550" PowerHigh="0.550">
-            <textevent message="Next little increase in effort..." timeoffset="0.000000"/>
-            <textevent message="and one that's more likely to slow you down a bit" timeoffset="5.000000"/>
-            <textevent message="This time, get in the habit of switching legs..." timeoffset="12.000000"/>
-            <textevent message="the moment you start to feel fatigue" timeoffset="17.000000"/>
-            <textevent message="Don't set any time goals yet..." timeoffset="23.000000"/>
-            <textevent message="just focus on performing each drill as well as possible..." timeoffset="28.000000"/>
-            <textevent message="until you feel that familiar sensation of fatigue" timeoffset="34.000000"/>
-            <textevent message="Even if each leg only lasts 10 seconds at a time..." timeoffset="41.000000"/>
-            <textevent message="it's better to bail during the early, still-in-control side of things..." timeoffset="46.000000"/>
-            <textevent message="than to push each leg to a point..." timeoffset="52.000000"/>
-            <textevent message="where you're actively courting undesirable habits" timeoffset="57.000000"/>
-            <textevent message="Put really simply..." timeoffset="64.000000"/>
-            <textevent message="pedal well, with one leg..." timeoffset="68.000000"/>
-            <textevent message="and switch legs BEFORE your form declines" timeoffset="72.000000"/>
-            <textevent message="Final 30 seconds..." timeoffset="90.000000"/>
-            <textevent message="so when this last leg gets cooked..." timeoffset="94.000000"/>
-            <textevent message="get both feet back in the pedals" timeoffset="99.000000"/>
+            <textevent message="Next little increase in effort..." timeoffset="0"/>
+            <textevent message="and one that's more likely to slow you down a bit" timeoffset="5"/>
+            <textevent message="This time, get in the habit of switching legs..." timeoffset="12"/>
+            <textevent message="the moment you start to feel fatigue" timeoffset="17"/>
+            <textevent message="Don't set any time goals yet..." timeoffset="23"/>
+            <textevent message="just focus on performing each drill as well as possible..." timeoffset="28"/>
+            <textevent message="until you feel that familiar sensation of fatigue" timeoffset="34"/>
+            <textevent message="Even if each leg only lasts 10 seconds at a time..." timeoffset="41"/>
+            <textevent message="it's better to bail during the early, still-in-control side of things..." timeoffset="46"/>
+            <textevent message="than to push each leg to a point..." timeoffset="52"/>
+            <textevent message="where you're actively courting undesirable habits" timeoffset="57"/>
+            <textevent message="Put really simply..." timeoffset="64"/>
+            <textevent message="pedal well, with one leg..." timeoffset="68"/>
+            <textevent message="and switch legs BEFORE your form declines" timeoffset="72"/>
+            <textevent message="Final 30 seconds..." timeoffset="90"/>
+            <textevent message="so when this last leg gets cooked..." timeoffset="94"/>
+            <textevent message="get both feet back in the pedals" timeoffset="99"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Well done" timeoffset="0.000000"/>
-            <textevent message="Get both feet back in if you haven't already" timeoffset="5.000000"/>
-            <textevent message="Spin easy for a couple minutes &amp; clear any heaviness..." timeoffset="12.000000"/>
-            <textevent message="and shake out any tension that made its way..." timeoffset="18.000000"/>
-            <textevent message="into your hands, elbows, shoulders &amp; neck" timeoffset="23.000000"/>
-            <textevent message="In a minute..." timeoffset="60.000000"/>
-            <textevent message="you'll do your first of your Spin-Ups" timeoffset="64.000000"/>
-            <textevent message="Spin-Ups are all about speed &amp; control..." timeoffset="70.000000"/>
-            <textevent message="but we're also working on muscle endurance today" timeoffset="75.000000"/>
-            <textevent message="Again, it's your decision which one you'll prioritize..." timeoffset="82.000000"/>
-            <textevent message="but our assumption is that you're choosing efficiency over watts" timeoffset="88.000000"/>
-            <textevent message="If that's not the case..." timeoffset="95.000000"/>
-            <textevent message="you're sure to figure out which recommendations to ignore ;-)" timeoffset="99.000000"/>
-            <textevent message="Settle into a spin that's comfortable for you..." timeoffset="106.000000"/>
-            <textevent message="and try to relax with a couple deep breaths" timeoffset="111.000000"/>
+            <textevent message="Well done" timeoffset="0"/>
+            <textevent message="Get both feet back in if you haven't already" timeoffset="5"/>
+            <textevent message="Spin easy for a couple minutes &amp; clear any heaviness..." timeoffset="12"/>
+            <textevent message="and shake out any tension that made its way..." timeoffset="18"/>
+            <textevent message="into your hands, elbows, shoulders &amp; neck" timeoffset="23"/>
+            <textevent message="In a minute..." timeoffset="60"/>
+            <textevent message="you'll do your first of your Spin-Ups" timeoffset="64"/>
+            <textevent message="Spin-Ups are all about speed &amp; control..." timeoffset="70"/>
+            <textevent message="but we're also working on muscle endurance today" timeoffset="75"/>
+            <textevent message="Again, it's your decision which one you'll prioritize..." timeoffset="82"/>
+            <textevent message="but our assumption is that you're choosing efficiency over watts" timeoffset="88"/>
+            <textevent message="If that's not the case..." timeoffset="95"/>
+            <textevent message="you're sure to figure out which recommendations to ignore ;-)" timeoffset="99"/>
+            <textevent message="Settle into a spin that's comfortable for you..." timeoffset="106"/>
+            <textevent message="and try to relax with a couple deep breaths" timeoffset="111"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.940" PowerHigh="0.940">
-            <textevent message="Your initial cadence is ideally above 85rpm..." timeoffset="0.000000"/>
-            <textevent message="but don't sweat it if that's not the case" timeoffset="5.000000"/>
-            <textevent message="Just choose a spin that suits you for the time being..." timeoffset="12.000000"/>
-            <textevent message="but leave yourself some room to grow..." timeoffset="18.000000"/>
-            <textevent message="because these intervals only get faster &amp; faster" timeoffset="23.000000"/>
-            <textevent message="Just like you did during the ILT drills..." timeoffset="60.000000"/>
-            <textevent message="think about your kick &amp; pull" timeoffset="65.000000"/>
-            <textevent message="A pedalstroke tends to get sloppy when riders spin too quickly..." timeoffset="71.000000"/>
-            <textevent message="without any focus on the top &amp; bottom of their pedalstrokes" timeoffset="77.000000"/>
-            <textevent message="So conscioulsy kick forward, lightly..." timeoffset="84.000000"/>
-            <textevent message="and just as intentionally pull backward, lightly" timeoffset="89.000000"/>
-            <textevent message="The downstroke will always be the power phase..." timeoffset="96.000000"/>
-            <textevent message="but the top &amp; bottom of your pedalstrokes..." timeoffset="102.000000"/>
-            <textevent message="can make a subtle yet productive difference..." timeoffset="107.000000"/>
-            <textevent message="in your highly trainable level of pedal efficiency" timeoffset="112.000000"/>
-            <textevent message="Teaching your muscles when to fire, when to relax..." timeoffset="119.000000"/>
-            <textevent message="how to move whether recovering or working..." timeoffset="125.000000"/>
-            <textevent message="how to retain control during mounting fatigue..." timeoffset="130.000000"/>
-            <textevent message="is all part of the pedal efficiency learning process" timeoffset="135.000000"/>
-            <textevent message="A process that takes a lot of time &amp; consistency..." timeoffset="142.000000"/>
-            <textevent message="and never really ends..." timeoffset="148.000000"/>
-            <textevent message="no matter how high-level an athlete becomes" timeoffset="152.000000"/>
-            <textevent message="One more minute..." timeoffset="180.000000"/>
-            <textevent message="and then the leg speed kicks up a bit" timeoffset="184.000000"/>
-            <textevent message="So if you're tense already, try to relax..." timeoffset="190.000000"/>
-            <textevent message="because any unnecessary tension you're carrying now..." timeoffset="196.000000"/>
-            <textevent message="will only worsen as your cadence rises" timeoffset="202.000000"/>
-            <textevent message="So soften your elbows a bit..." timeoffset="203.000000"/>
-            <textevent message="and let your shoulders fall" timeoffset="208.000000"/>
-            <textevent message="Unclench your jaw, relax your grip..." timeoffset="214.000000"/>
-            <textevent message="and breathe slowly &amp; fully using your belly" timeoffset="219.000000"/>
-            <textevent message="Quick pedaling doesn't have to mean quick breathing" timeoffset="226.000000"/>
+            <textevent message="Your initial cadence is ideally above 85rpm..." timeoffset="0"/>
+            <textevent message="but don't sweat it if that's not the case" timeoffset="5"/>
+            <textevent message="Just choose a spin that suits you for the time being..." timeoffset="12"/>
+            <textevent message="but leave yourself some room to grow..." timeoffset="18"/>
+            <textevent message="because these intervals only get faster &amp; faster" timeoffset="23"/>
+            <textevent message="Just like you did during the ILT drills..." timeoffset="60"/>
+            <textevent message="think about your kick &amp; pull" timeoffset="65"/>
+            <textevent message="A pedalstroke tends to get sloppy when riders spin too quickly..." timeoffset="71"/>
+            <textevent message="without any focus on the top &amp; bottom of their pedalstrokes" timeoffset="77"/>
+            <textevent message="So conscioulsy kick forward, lightly..." timeoffset="84"/>
+            <textevent message="and just as intentionally pull backward, lightly" timeoffset="89"/>
+            <textevent message="The downstroke will always be the power phase..." timeoffset="96"/>
+            <textevent message="but the top &amp; bottom of your pedalstrokes..." timeoffset="102"/>
+            <textevent message="can make a subtle yet productive difference..." timeoffset="107"/>
+            <textevent message="in your highly trainable level of pedal efficiency" timeoffset="112"/>
+            <textevent message="Teaching your muscles when to fire, when to relax..." timeoffset="119"/>
+            <textevent message="how to move whether recovering or working..." timeoffset="125"/>
+            <textevent message="how to retain control during mounting fatigue..." timeoffset="130"/>
+            <textevent message="is all part of the pedal efficiency learning process" timeoffset="135"/>
+            <textevent message="A process that takes a lot of time &amp; consistency..." timeoffset="142"/>
+            <textevent message="and never really ends..." timeoffset="148"/>
+            <textevent message="no matter how high-level an athlete becomes" timeoffset="152"/>
+            <textevent message="One more minute..." timeoffset="180"/>
+            <textevent message="and then the leg speed kicks up a bit" timeoffset="184"/>
+            <textevent message="So if you're tense already, try to relax..." timeoffset="190"/>
+            <textevent message="because any unnecessary tension you're carrying now..." timeoffset="196"/>
+            <textevent message="will only worsen as your cadence rises" timeoffset="202"/>
+            <textevent message="So soften your elbows a bit..." timeoffset="203"/>
+            <textevent message="and let your shoulders fall" timeoffset="208"/>
+            <textevent message="Unclench your jaw, relax your grip..." timeoffset="214"/>
+            <textevent message="and breathe slowly &amp; fully using your belly" timeoffset="219"/>
+            <textevent message="Quick pedaling doesn't have to mean quick breathing" timeoffset="226"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900">
-            <textevent message="Time to pick things up a bit" timeoffset="0.000000"/>
-            <textevent message="Not trying to set any records here..." timeoffset="6.000000"/>
-            <textevent message="you're just trying to manage more leg speed" timeoffset="11.000000"/>
-            <textevent message="So shift down a gear, maybe two..." timeoffset="18.000000"/>
-            <textevent message="and spin your legs a bit more quickly" timeoffset="23.000000"/>
-            <textevent message="Unless you're on an electronic trainer in Erg mode..." timeoffset="40.000000"/>
-            <textevent message="in which case you'll just pedal more quickly..." timeoffset="45.000000"/>
-            <textevent message="no shifting required" timeoffset="50.000000"/>
-            <textevent message="It's useful to recognize..." timeoffset="120.000000"/>
-            <textevent message="that the strongest riders don't just push hard on the pedals..." timeoffset="124.000000"/>
-            <textevent message="but they push hard while spinning quickly" timeoffset="130.000000"/>
-            <textevent message="For now, just focus on the &quot;quickly&quot; part of that combination..." timeoffset="136.000000"/>
-            <textevent message="and we'll address the &quot;hard&quot; part in other workouts" timeoffset="142.000000"/>
-            <textevent message="This focus on speed over power..." timeoffset="149.000000"/>
-            <textevent message="is why the watts will drop twice each interval" timeoffset="154.000000"/>
-            <textevent message="The intention is to coax more speed out of those legs..." timeoffset="160.000000"/>
-            <textevent message="by slightly reducing the power requirement" timeoffset="166.000000"/>
-            <textevent message="Final minute, get ready!" timeoffset="172.000000"/>
+            <textevent message="Time to pick things up a bit" timeoffset="0"/>
+            <textevent message="Not trying to set any records here..." timeoffset="6"/>
+            <textevent message="you're just trying to manage more leg speed" timeoffset="11"/>
+            <textevent message="So shift down a gear, maybe two..." timeoffset="18"/>
+            <textevent message="and spin your legs a bit more quickly" timeoffset="23"/>
+            <textevent message="Unless you're on an electronic trainer in Erg mode..." timeoffset="40"/>
+            <textevent message="in which case you'll just pedal more quickly..." timeoffset="45"/>
+            <textevent message="no shifting required" timeoffset="50"/>
+            <textevent message="It's useful to recognize..." timeoffset="120"/>
+            <textevent message="that the strongest riders don't just push hard on the pedals..." timeoffset="124"/>
+            <textevent message="but they push hard while spinning quickly" timeoffset="130"/>
+            <textevent message="For now, just focus on the &quot;quickly&quot; part of that combination..." timeoffset="136"/>
+            <textevent message="and we'll address the &quot;hard&quot; part in other workouts" timeoffset="142"/>
+            <textevent message="This focus on speed over power..." timeoffset="149"/>
+            <textevent message="is why the watts will drop twice each interval" timeoffset="154"/>
+            <textevent message="The intention is to coax more speed out of those legs..." timeoffset="160"/>
+            <textevent message="by slightly reducing the power requirement" timeoffset="166"/>
+            <textevent message="Final minute, get ready!" timeoffset="172"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.880" PowerHigh="0.880">
-            <textevent message="Really pick things up..." timeoffset="0.000000"/>
-            <textevent message="but absolutely no bouncing allowed" timeoffset="4.000000"/>
-            <textevent message="Every minute is about CONTROL, even this one" timeoffset="10.000000"/>
-            <textevent message="Fast, but controlled" timeoffset="17.000000"/>
-            <textevent message="Any slop and you're just reinforcing bad habits..." timeoffset="23.000000"/>
-            <textevent message="and bad habits are tough to break" timeoffset="29.000000"/>
-            <textevent message="Much, much harder than learning good ones" timeoffset="35.000000"/>
-            <textevent message="Be fluid, be relaxed, just 15 more seconds!" timeoffset="42.000000"/>
-            <textevent message="Final 10, no slip in control!" timeoffset="50.000000"/>
+            <textevent message="Really pick things up..." timeoffset="0"/>
+            <textevent message="but absolutely no bouncing allowed" timeoffset="4"/>
+            <textevent message="Every minute is about CONTROL, even this one" timeoffset="10"/>
+            <textevent message="Fast, but controlled" timeoffset="17"/>
+            <textevent message="Any slop and you're just reinforcing bad habits..." timeoffset="23"/>
+            <textevent message="and bad habits are tough to break" timeoffset="29"/>
+            <textevent message="Much, much harder than learning good ones" timeoffset="35"/>
+            <textevent message="Be fluid, be relaxed, just 15 more seconds!" timeoffset="42"/>
+            <textevent message="Final 10, no slip in control!" timeoffset="50"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Done! Slow things down again..." timeoffset="0.000000"/>
-            <textevent message="but try to keep your legs moving" timeoffset="5.000000"/>
-            <textevent message="Backspinning is always an option..." timeoffset="11.000000"/>
-            <textevent message="when you feel a need for something closer to complete rest" timeoffset="16.000000"/>
-            <textevent message="In any case, keep your legs turning over..." timeoffset="23.000000"/>
-            <textevent message="and we'll touch base about a minute before your next interval" timeoffset="28.000000"/>
-            <textevent message="Next round in about a minute..." timeoffset="180.000000"/>
-            <textevent message="so plan your approach based on that first interval" timeoffset="185.000000"/>
-            <textevent message="If you reached a point of bouncing..." timeoffset="190.000000"/>
-            <textevent message="consider starting a little more conservatively..." timeoffset="195.000000"/>
-            <textevent message="or don't speed up so much when the watts drop" timeoffset="200.000000"/>
-            <textevent message="Or maybe it's only a matter of staying more relaxed" timeoffset="207.000000"/>
-            <textevent message="Excess tension, anywhere in your body..." timeoffset="214.000000"/>
-            <textevent message="only worsens your spin..." timeoffset="219.000000"/>
-            <textevent message="especially at higher cadences" timeoffset="223.000000"/>
-            <textevent message="So start out relaxed..." timeoffset="229.000000"/>
-            <textevent message="then do your best to remain relaxed" timeoffset="233.000000"/>
+            <textevent message="Done! Slow things down again..." timeoffset="0"/>
+            <textevent message="but try to keep your legs moving" timeoffset="5"/>
+            <textevent message="Backspinning is always an option..." timeoffset="11"/>
+            <textevent message="when you feel a need for something closer to complete rest" timeoffset="16"/>
+            <textevent message="In any case, keep your legs turning over..." timeoffset="23"/>
+            <textevent message="and we'll touch base about a minute before your next interval" timeoffset="28"/>
+            <textevent message="Next round in about a minute..." timeoffset="180"/>
+            <textevent message="so plan your approach based on that first interval" timeoffset="185"/>
+            <textevent message="If you reached a point of bouncing..." timeoffset="190"/>
+            <textevent message="consider starting a little more conservatively..." timeoffset="195"/>
+            <textevent message="or don't speed up so much when the watts drop" timeoffset="200"/>
+            <textevent message="Or maybe it's only a matter of staying more relaxed" timeoffset="207"/>
+            <textevent message="Excess tension, anywhere in your body..." timeoffset="214"/>
+            <textevent message="only worsens your spin..." timeoffset="219"/>
+            <textevent message="especially at higher cadences" timeoffset="223"/>
+            <textevent message="So start out relaxed..." timeoffset="229"/>
+            <textevent message="then do your best to remain relaxed" timeoffset="233"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.940" PowerHigh="0.940">
-            <textevent message="Settle into something quick &amp; controlled..." timeoffset="0.000000"/>
-            <textevent message="something you can sustain for a few minutes..." timeoffset="5.000000"/>
-            <textevent message="but that leaves room to grow, twice" timeoffset="10.000000"/>
-            <textevent message="From the start, keep your hands &amp; jaw loose" timeoffset="16.000000"/>
-            <textevent message="These are both tension points of origin..." timeoffset="23.000000"/>
-            <textevent message="in the way that tension almost grows outward..." timeoffset="29.000000"/>
-            <textevent message="starting at either your jaw or hands" timeoffset="34.000000"/>
-            <textevent message="So if you can keep JUST these two points relaxed..." timeoffset="40.000000"/>
-            <textevent message="you can only grow so bunched up..." timeoffset="46.000000"/>
-            <textevent message="over the course of each interval" timeoffset="51.000000"/>
-            <textevent message="Spend the next minute bouncing your attention..." timeoffset="60.000000"/>
-            <textevent message="from your jaw to your hands to your jaw" timeoffset="65.000000"/>
-            <textevent message="Relax one then the other..." timeoffset="71.000000"/>
-            <textevent message="as you keep your legs ticking over quickly" timeoffset="75.000000"/>
-            <textevent message="Two more minutes..." timeoffset="120.000000"/>
-            <textevent message="to stay quick, smooth &amp; relaxed..." timeoffset="125.000000"/>
-            <textevent message="and to contemplate why you're doing this" timeoffset="130.000000"/>
-            <textevent message="A quick, light spin is just that..." timeoffset="136.000000"/>
-            <textevent message="LIGHT on the muscles" timeoffset="141.000000"/>
-            <textevent message="When you spin slowly - 80 rpm, 70 ...60!?" timeoffset="146.000000"/>
-            <textevent message="your muscles get drained more quickly than necessary" timeoffset="152.000000"/>
-            <textevent message="And while it may seem easier to spin slowly..." timeoffset="159.000000"/>
-            <textevent message="because your heart rate &amp; breathing stay relatively low..." timeoffset="164.000000"/>
-            <textevent message="it's very taxing on your muscles" timeoffset="170.000000"/>
-            <textevent message="Think of it like walking up a steep hill" timeoffset="176.000000"/>
-            <textevent message="Long, slow strides cover a lot of ground and keep your HR down..." timeoffset="183.000000"/>
-            <textevent message="but they exact a greater muscular toll on your legs" timeoffset="189.000000"/>
-            <textevent message="In comparison..." timeoffset="196.000000"/>
-            <textevent message="short, choppy steps shift some of the stress off the legs..." timeoffset="200.000000"/>
-            <textevent message="and increase the burden on your far less fatigable heart &amp; lungs" timeoffset="206.000000"/>
-            <textevent message="In both cases..." timeoffset="213.000000"/>
-            <textevent message="you get to the top of the hill at the same time..." timeoffset="217.000000"/>
-            <textevent message="but which leaves your legs feeling fresher, ready for more work?" timeoffset="222.000000"/>
+            <textevent message="Settle into something quick &amp; controlled..." timeoffset="0"/>
+            <textevent message="something you can sustain for a few minutes..." timeoffset="5"/>
+            <textevent message="but that leaves room to grow, twice" timeoffset="10"/>
+            <textevent message="From the start, keep your hands &amp; jaw loose" timeoffset="16"/>
+            <textevent message="These are both tension points of origin..." timeoffset="23"/>
+            <textevent message="in the way that tension almost grows outward..." timeoffset="29"/>
+            <textevent message="starting at either your jaw or hands" timeoffset="34"/>
+            <textevent message="So if you can keep JUST these two points relaxed..." timeoffset="40"/>
+            <textevent message="you can only grow so bunched up..." timeoffset="46"/>
+            <textevent message="over the course of each interval" timeoffset="51"/>
+            <textevent message="Spend the next minute bouncing your attention..." timeoffset="60"/>
+            <textevent message="from your jaw to your hands to your jaw" timeoffset="65"/>
+            <textevent message="Relax one then the other..." timeoffset="71"/>
+            <textevent message="as you keep your legs ticking over quickly" timeoffset="75"/>
+            <textevent message="Two more minutes..." timeoffset="120"/>
+            <textevent message="to stay quick, smooth &amp; relaxed..." timeoffset="125"/>
+            <textevent message="and to contemplate why you're doing this" timeoffset="130"/>
+            <textevent message="A quick, light spin is just that..." timeoffset="136"/>
+            <textevent message="LIGHT on the muscles" timeoffset="141"/>
+            <textevent message="When you spin slowly - 80 rpm, 70 ...60!?" timeoffset="146"/>
+            <textevent message="your muscles get drained more quickly than necessary" timeoffset="152"/>
+            <textevent message="And while it may seem easier to spin slowly..." timeoffset="159"/>
+            <textevent message="because your heart rate &amp; breathing stay relatively low..." timeoffset="164"/>
+            <textevent message="it's very taxing on your muscles" timeoffset="170"/>
+            <textevent message="Think of it like walking up a steep hill" timeoffset="176"/>
+            <textevent message="Long, slow strides cover a lot of ground and keep your HR down..." timeoffset="183"/>
+            <textevent message="but they exact a greater muscular toll on your legs" timeoffset="189"/>
+            <textevent message="In comparison..." timeoffset="196"/>
+            <textevent message="short, choppy steps shift some of the stress off the legs..." timeoffset="200"/>
+            <textevent message="and increase the burden on your far less fatigable heart &amp; lungs" timeoffset="206"/>
+            <textevent message="In both cases..." timeoffset="213"/>
+            <textevent message="you get to the top of the hill at the same time..." timeoffset="217"/>
+            <textevent message="but which leaves your legs feeling fresher, ready for more work?" timeoffset="222"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900">
-            <textevent message="Less power, more speed..." timeoffset="0.000000"/>
-            <textevent message="same high level of control" timeoffset="5.000000"/>
-            <textevent message="And try expanding your &quot;relaxation areas of interest&quot;..." timeoffset="11.000000"/>
-            <textevent message="to include your shoulders &amp; elbows" timeoffset="17.000000"/>
-            <textevent message="By keeping a soft bend in your elbows..." timeoffset="23.000000"/>
-            <textevent message="as opposed to stiff-arming your handlebars..." timeoffset="28.000000"/>
-            <textevent message="like you're trying to keep your bike away from you..." timeoffset="33.000000"/>
-            <textevent message="you not only provide some in-body shock absorption..." timeoffset="38.000000"/>
-            <textevent message="but you also create the necessary room to drop your shoulders" timeoffset="43.000000"/>
-            <textevent message="So now your hands are loose..." timeoffset="50.000000"/>
-            <textevent message="your elbows are soft..." timeoffset="55.000000"/>
-            <textevent message="your shoulders are low..." timeoffset="59.000000"/>
-            <textevent message="and your jaw is relaxed" timeoffset="63.000000"/>
-            <textevent message="Perfect" timeoffset="68.000000"/>
-            <textevent message="At least above the waist" timeoffset="73.000000"/>
-            <textevent message="Just practice maintaining this ever-growing list of relaxation..." timeoffset="79.000000"/>
-            <textevent message="over the course of this remaining 90 seconds..." timeoffset="85.000000"/>
-            <textevent message="and we'll work on the lower body..." timeoffset="90.000000"/>
-            <textevent message="during your final, blindingly fast minute" timeoffset="95.000000"/>
-            <textevent message="Coming up on that final minute!" timeoffset="167.000000"/>
-            <textevent message="Ready to grow your speed without compromising your technique?" timeoffset="172.000000"/>
+            <textevent message="Less power, more speed..." timeoffset="0"/>
+            <textevent message="same high level of control" timeoffset="5"/>
+            <textevent message="And try expanding your &quot;relaxation areas of interest&quot;..." timeoffset="11"/>
+            <textevent message="to include your shoulders &amp; elbows" timeoffset="17"/>
+            <textevent message="By keeping a soft bend in your elbows..." timeoffset="23"/>
+            <textevent message="as opposed to stiff-arming your handlebars..." timeoffset="28"/>
+            <textevent message="like you're trying to keep your bike away from you..." timeoffset="33"/>
+            <textevent message="you not only provide some in-body shock absorption..." timeoffset="38"/>
+            <textevent message="but you also create the necessary room to drop your shoulders" timeoffset="43"/>
+            <textevent message="So now your hands are loose..." timeoffset="50"/>
+            <textevent message="your elbows are soft..." timeoffset="55"/>
+            <textevent message="your shoulders are low..." timeoffset="59"/>
+            <textevent message="and your jaw is relaxed" timeoffset="63"/>
+            <textevent message="Perfect" timeoffset="68"/>
+            <textevent message="At least above the waist" timeoffset="73"/>
+            <textevent message="Just practice maintaining this ever-growing list of relaxation..." timeoffset="79"/>
+            <textevent message="over the course of this remaining 90 seconds..." timeoffset="85"/>
+            <textevent message="and we'll work on the lower body..." timeoffset="90"/>
+            <textevent message="during your final, blindingly fast minute" timeoffset="95"/>
+            <textevent message="Coming up on that final minute!" timeoffset="167"/>
+            <textevent message="Ready to grow your speed without compromising your technique?" timeoffset="172"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.880" PowerHigh="0.880">
-            <textevent message="Stay relaxed, pick a lighter gear..." timeoffset="0.000000"/>
-            <textevent message="and pedal a little more quickly" timeoffset="5.000000"/>
-            <textevent message="As always, no bouncing  &amp; no knocking" timeoffset="10.000000"/>
-            <textevent message="If either start to occur, either slow down a bit..." timeoffset="16.000000"/>
-            <textevent message="or try to shed some lower-leg tension..." timeoffset="21.000000"/>
-            <textevent message="by relaxing your calf muscles, your ankles..." timeoffset="26.000000"/>
-            <textevent message="even your feet" timeoffset="31.000000"/>
-            <textevent message="Just let those lower legs dangle..." timeoffset="36.000000"/>
-            <textevent message="while the real workers, the upper legs, tow them along" timeoffset="40.000000"/>
-            <textevent message="10 seconds, keep it pretty!" timeoffset="50.000000"/>
+            <textevent message="Stay relaxed, pick a lighter gear..." timeoffset="0"/>
+            <textevent message="and pedal a little more quickly" timeoffset="5"/>
+            <textevent message="As always, no bouncing  &amp; no knocking" timeoffset="10"/>
+            <textevent message="If either start to occur, either slow down a bit..." timeoffset="16"/>
+            <textevent message="or try to shed some lower-leg tension..." timeoffset="21"/>
+            <textevent message="by relaxing your calf muscles, your ankles..." timeoffset="26"/>
+            <textevent message="even your feet" timeoffset="31"/>
+            <textevent message="Just let those lower legs dangle..." timeoffset="36"/>
+            <textevent message="while the real workers, the upper legs, tow them along" timeoffset="40"/>
+            <textevent message="10 seconds, keep it pretty!" timeoffset="50"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Well done, that's 2 down!" timeoffset="0.000000"/>
-            <textevent message="Take it easy for a few minutes..." timeoffset="7.000000"/>
-            <textevent message="and clear the heaviness, slow your breathing" timeoffset="12.000000"/>
-            <textevent message="We'll talk again about a minute out from Spin-Up #3" timeoffset="19.000000"/>
-            <textevent message="In about a minute, round 3 begins..." timeoffset="180.000000"/>
-            <textevent message="so it's time to make a quick decision" timeoffset="185.000000"/>
-            <textevent message="If your leg fatigue is building to a point..." timeoffset="191.000000"/>
-            <textevent message="that it prevents you from riding quickly..." timeoffset="196.000000"/>
-            <textevent message="revisit your priorities" timeoffset="201.000000"/>
-            <textevent message="Either lower the Workout Intensity a couple points..." timeoffset="206.000000"/>
-            <textevent message="and keep your emphasis on leg speed &amp; efficiency..." timeoffset="211.000000"/>
-            <textevent message="or lower your cadence requirements enough to keep your Power on Target" timeoffset="216.000000"/>
-            <textevent message="Either way, be clear on what you're after" timeoffset="223.000000"/>
+            <textevent message="Well done, that's 2 down!" timeoffset="0"/>
+            <textevent message="Take it easy for a few minutes..." timeoffset="7"/>
+            <textevent message="and clear the heaviness, slow your breathing" timeoffset="12"/>
+            <textevent message="We'll talk again about a minute out from Spin-Up #3" timeoffset="19"/>
+            <textevent message="In about a minute, round 3 begins..." timeoffset="180"/>
+            <textevent message="so it's time to make a quick decision" timeoffset="185"/>
+            <textevent message="If your leg fatigue is building to a point..." timeoffset="191"/>
+            <textevent message="that it prevents you from riding quickly..." timeoffset="196"/>
+            <textevent message="revisit your priorities" timeoffset="201"/>
+            <textevent message="Either lower the Workout Intensity a couple points..." timeoffset="206"/>
+            <textevent message="and keep your emphasis on leg speed &amp; efficiency..." timeoffset="211"/>
+            <textevent message="or lower your cadence requirements enough to keep your Power on Target" timeoffset="216"/>
+            <textevent message="Either way, be clear on what you're after" timeoffset="223"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.940" PowerHigh="0.940">
-            <textevent message="Settle into your starting cadence..." timeoffset="0.000000"/>
-            <textevent message="(you've probably narrowed that down to a tight range by now)..." timeoffset="5.000000"/>
-            <textevent message="and if it's not at least 85rpm, fret not..." timeoffset="11.000000"/>
-            <textevent message="it soon will be!" timeoffset="16.000000"/>
-            <textevent message="In fact, it's not unreasonable to expect..." timeoffset="21.000000"/>
-            <textevent message="that a cadence of 90-95 can eventually become your norm" timeoffset="26.000000"/>
-            <textevent message="But that takes time &amp; practice..." timeoffset="33.000000"/>
-            <textevent message="and PROPER practice at that, no bad habits" timeoffset="38.000000"/>
-            <textevent message="Keep it quick, stay relaxed..." timeoffset="60.000000"/>
-            <textevent message="and don't forget to lightly kick &amp; pull" timeoffset="65.000000"/>
-            <textevent message="2 more minutes right here..." timeoffset="120.000000"/>
-            <textevent message="and if you're feeling a bit tired..." timeoffset="125.000000"/>
-            <textevent message="to the point where your spin is slowing a little..." timeoffset="129.000000"/>
-            <textevent message="don't sacrifice your technique for that extra leg speed" timeoffset="134.000000"/>
-            <textevent message="Depending your level of speed endurance..." timeoffset="141.000000"/>
-            <textevent message="each interval might yield slightly lower cadences" timeoffset="146.000000"/>
-            <textevent message="So if 105rpm becomes 103 or 102..." timeoffset="153.000000"/>
-            <textevent message="then you might consider working more consistently..." timeoffset="158.000000"/>
-            <textevent message="on your speed-endurance later, IF you feel it limits your performance..." timeoffset="163.000000"/>
-            <textevent message="but you can also just recognize that spinning upwards of 100rpm..." timeoffset="169.000000"/>
-            <textevent message="isn't something you'll do often, if ever..." timeoffset="175.000000"/>
-            <textevent message="and just do your best to stay reasonably quick..." timeoffset="180.000000"/>
-            <textevent message="if slightly slower than earlier in the workout" timeoffset="185.000000"/>
-            <textevent message="Try to keep your personal objectives in mind..." timeoffset="191.000000"/>
-            <textevent message="and know that you don't have to excel at EVERYTHING..." timeoffset="196.000000"/>
-            <textevent message="but you do have to emphasize those capabilities..." timeoffset="202.000000"/>
-            <textevent message="that limit the way you want to perform" timeoffset="208.000000"/>
+            <textevent message="Settle into your starting cadence..." timeoffset="0"/>
+            <textevent message="(you've probably narrowed that down to a tight range by now)..." timeoffset="5"/>
+            <textevent message="and if it's not at least 85rpm, fret not..." timeoffset="11"/>
+            <textevent message="it soon will be!" timeoffset="16"/>
+            <textevent message="In fact, it's not unreasonable to expect..." timeoffset="21"/>
+            <textevent message="that a cadence of 90-95 can eventually become your norm" timeoffset="26"/>
+            <textevent message="But that takes time &amp; practice..." timeoffset="33"/>
+            <textevent message="and PROPER practice at that, no bad habits" timeoffset="38"/>
+            <textevent message="Keep it quick, stay relaxed..." timeoffset="60"/>
+            <textevent message="and don't forget to lightly kick &amp; pull" timeoffset="65"/>
+            <textevent message="2 more minutes right here..." timeoffset="120"/>
+            <textevent message="and if you're feeling a bit tired..." timeoffset="125"/>
+            <textevent message="to the point where your spin is slowing a little..." timeoffset="129"/>
+            <textevent message="don't sacrifice your technique for that extra leg speed" timeoffset="134"/>
+            <textevent message="Depending your level of speed endurance..." timeoffset="141"/>
+            <textevent message="each interval might yield slightly lower cadences" timeoffset="146"/>
+            <textevent message="So if 105rpm becomes 103 or 102..." timeoffset="153"/>
+            <textevent message="then you might consider working more consistently..." timeoffset="158"/>
+            <textevent message="on your speed-endurance later, IF you feel it limits your performance..." timeoffset="163"/>
+            <textevent message="but you can also just recognize that spinning upwards of 100rpm..." timeoffset="169"/>
+            <textevent message="isn't something you'll do often, if ever..." timeoffset="175"/>
+            <textevent message="and just do your best to stay reasonably quick..." timeoffset="180"/>
+            <textevent message="if slightly slower than earlier in the workout" timeoffset="185"/>
+            <textevent message="Try to keep your personal objectives in mind..." timeoffset="191"/>
+            <textevent message="and know that you don't have to excel at EVERYTHING..." timeoffset="196"/>
+            <textevent message="but you do have to emphasize those capabilities..." timeoffset="202"/>
+            <textevent message="that limit the way you want to perform" timeoffset="208"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900">
-            <textevent message="Little bit quicker, little less power..." timeoffset="0.000000"/>
-            <textevent message="And remember, the more quickly you spin..." timeoffset="5.000000"/>
-            <textevent message="the more relaxed you need to be" timeoffset="10.000000"/>
-            <textevent message="So start with your forehead, end with your toes..." timeoffset="17.000000"/>
-            <textevent message="and get rid of any tension..." timeoffset="23.000000"/>
-            <textevent message="that's not helping you turn the pedals" timeoffset="27.000000"/>
-            <textevent message="Spend this minute kicking your toes forward..." timeoffset="60.000000"/>
-            <textevent message="with slightly more energy than usual" timeoffset="65.000000"/>
-            <textevent message="Use this kick-emphasis to create that extra bit of speed..." timeoffset="71.000000"/>
-            <textevent message="and give your quads the slightest of breaks in doing so" timeoffset="76.000000"/>
-            <textevent message="By carrying just a little added momentum into the downstroke..." timeoffset="82.000000"/>
-            <textevent message="you can alleviate a little bit of downstroke force..." timeoffset="88.000000"/>
-            <textevent message="and give your quads a millisecond's more rest..." timeoffset="93.000000"/>
-            <textevent message="with each pedalstroke" timeoffset="98.000000"/>
-            <textevent message="Spend this next minute pulling your heels backward..." timeoffset="120.000000"/>
-            <textevent message="only slightly harder than usual" timeoffset="125.000000"/>
-            <textevent message="Same idea in the way that actively pulling your feet back..." timeoffset="130.000000"/>
-            <textevent message="can allow your quads to &quot;turn off&quot; slightly earlier..." timeoffset="136.000000"/>
-            <textevent message="and spare those bigger muscles a LITTLE bit of work..." timeoffset="141.000000"/>
-            <textevent message="over &amp; over &amp; over again" timeoffset="147.000000"/>
+            <textevent message="Little bit quicker, little less power..." timeoffset="0"/>
+            <textevent message="And remember, the more quickly you spin..." timeoffset="5"/>
+            <textevent message="the more relaxed you need to be" timeoffset="10"/>
+            <textevent message="So start with your forehead, end with your toes..." timeoffset="17"/>
+            <textevent message="and get rid of any tension..." timeoffset="23"/>
+            <textevent message="that's not helping you turn the pedals" timeoffset="27"/>
+            <textevent message="Spend this minute kicking your toes forward..." timeoffset="60"/>
+            <textevent message="with slightly more energy than usual" timeoffset="65"/>
+            <textevent message="Use this kick-emphasis to create that extra bit of speed..." timeoffset="71"/>
+            <textevent message="and give your quads the slightest of breaks in doing so" timeoffset="76"/>
+            <textevent message="By carrying just a little added momentum into the downstroke..." timeoffset="82"/>
+            <textevent message="you can alleviate a little bit of downstroke force..." timeoffset="88"/>
+            <textevent message="and give your quads a millisecond's more rest..." timeoffset="93"/>
+            <textevent message="with each pedalstroke" timeoffset="98"/>
+            <textevent message="Spend this next minute pulling your heels backward..." timeoffset="120"/>
+            <textevent message="only slightly harder than usual" timeoffset="125"/>
+            <textevent message="Same idea in the way that actively pulling your feet back..." timeoffset="130"/>
+            <textevent message="can allow your quads to &quot;turn off&quot; slightly earlier..." timeoffset="136"/>
+            <textevent message="and spare those bigger muscles a LITTLE bit of work..." timeoffset="141"/>
+            <textevent message="over &amp; over &amp; over again" timeoffset="147"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.880" PowerHigh="0.880">
-            <textevent message="Pick it up!" timeoffset="0.000000"/>
-            <textevent message="As much speed as you can control..." timeoffset="5.000000"/>
-            <textevent message="with a couple spin-ups already in your muscles" timeoffset="10.000000"/>
-            <textevent message="And give due credit..." timeoffset="17.000000"/>
-            <textevent message="to the fact that riding at Sweet Spot power levels..." timeoffset="21.000000"/>
-            <textevent message="is challenging enough even without speed drills!" timeoffset="26.000000"/>
-            <textevent message="20 seconds of flawless, fast pedalstrokes" timeoffset="40.000000"/>
-            <textevent message="Keep your sit-bones down, hips as quiet as possible" timeoffset="46.000000"/>
+            <textevent message="Pick it up!" timeoffset="0"/>
+            <textevent message="As much speed as you can control..." timeoffset="5"/>
+            <textevent message="with a couple spin-ups already in your muscles" timeoffset="10"/>
+            <textevent message="And give due credit..." timeoffset="17"/>
+            <textevent message="to the fact that riding at Sweet Spot power levels..." timeoffset="21"/>
+            <textevent message="is challenging enough even without speed drills!" timeoffset="26"/>
+            <textevent message="20 seconds of flawless, fast pedalstrokes" timeoffset="40"/>
+            <textevent message="Keep your sit-bones down, hips as quiet as possible" timeoffset="46"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Well done, that's 3 in the bag" timeoffset="0.000000"/>
-            <textevent message="Spin easy for a few minutes..." timeoffset="7.000000"/>
-            <textevent message="clear the heaviness, slow your breathing and HR" timeoffset="12.000000"/>
-            <textevent message="We'll talk again about a minute out from round 4" timeoffset="19.000000"/>
-            <textevent message="In about a minute, your 4th round begins..." timeoffset="180.000000"/>
-            <textevent message="and it's again time to make that quick decision" timeoffset="185.000000"/>
-            <textevent message="If your leg fatigue has reached a point..." timeoffset="191.000000"/>
-            <textevent message="that you can't pedal quickly with high control..." timeoffset="196.000000"/>
-            <textevent message="realign your priorities" timeoffset="201.000000"/>
-            <textevent message="Either lower the Workout Intensity a couple points..." timeoffset="206.000000"/>
-            <textevent message="and keep your emphasis on leg speed &amp; efficiency..." timeoffset="211.000000"/>
-            <textevent message="or lower your cadence goals enough to keep your Power on Target" timeoffset="216.000000"/>
-            <textevent message="Your call, just be clear on your aim" timeoffset="223.000000"/>
+            <textevent message="Well done, that's 3 in the bag" timeoffset="0"/>
+            <textevent message="Spin easy for a few minutes..." timeoffset="7"/>
+            <textevent message="clear the heaviness, slow your breathing and HR" timeoffset="12"/>
+            <textevent message="We'll talk again about a minute out from round 4" timeoffset="19"/>
+            <textevent message="In about a minute, your 4th round begins..." timeoffset="180"/>
+            <textevent message="and it's again time to make that quick decision" timeoffset="185"/>
+            <textevent message="If your leg fatigue has reached a point..." timeoffset="191"/>
+            <textevent message="that you can't pedal quickly with high control..." timeoffset="196"/>
+            <textevent message="realign your priorities" timeoffset="201"/>
+            <textevent message="Either lower the Workout Intensity a couple points..." timeoffset="206"/>
+            <textevent message="and keep your emphasis on leg speed &amp; efficiency..." timeoffset="211"/>
+            <textevent message="or lower your cadence goals enough to keep your Power on Target" timeoffset="216"/>
+            <textevent message="Your call, just be clear on your aim" timeoffset="223"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.940" PowerHigh="0.940">
-            <textevent message="Settle into that starting rpm..." timeoffset="0.000000"/>
-            <textevent message="something quick, but something you know you can grow..." timeoffset="5.000000"/>
-            <textevent message="and try to immediately ditch any useless tension" timeoffset="11.000000"/>
-            <textevent message="Quick but relaxed" timeoffset="16.000000"/>
-            <textevent message="Over time, as your natural cadence rises..." timeoffset="21.000000"/>
-            <textevent message="anything lower than 90rpm will feel downright improper" timeoffset="26.000000"/>
-            <textevent message="But again, much time &amp; practice..." timeoffset="33.000000"/>
-            <textevent message="and yep, proper practice - no bad habits" timeoffset="38.000000"/>
-            <textevent message="Still quick, still relaxed..." timeoffset="60.000000"/>
-            <textevent message="and don't forget a light kick &amp; pull" timeoffset="65.000000"/>
-            <textevent message="2 more minutes right here..." timeoffset="120.000000"/>
-            <textevent message="and if fatigue is taking its toll..." timeoffset="125.000000"/>
-            <textevent message="to a point where your spin slows a bit..." timeoffset="129.000000"/>
-            <textevent message="maintain your technique, even at a slightly lower cadence" timeoffset="134.000000"/>
-            <textevent message="It's okay to lose a couple rpm during the latter intervals..." timeoffset="141.000000"/>
-            <textevent message="but it's not okay to start riding poorly at any point" timeoffset="146.000000"/>
-            <textevent message="So if 105rpm became 103 last interval, 101 this interval..." timeoffset="153.000000"/>
-            <textevent message="don't worry about the subtle decline..." timeoffset="159.000000"/>
-            <textevent message="at least not at the expense of the superb form you're maintaining" timeoffset="163.000000"/>
-            <textevent message="And again, spinning upwards of 100rpm..." timeoffset="170.000000"/>
-            <textevent message="doesn't work optimally for all riders..." timeoffset="175.000000"/>
-            <textevent message="so just do your best to stay quicker than usual..." timeoffset="180.000000"/>
-            <textevent message="without too great a concern over a particular rpm" timeoffset="185.000000"/>
-            <textevent message="The goal is quite simply a quicker, fluid spin..." timeoffset="191.000000"/>
-            <textevent message="regardless of where that lands you" timeoffset="196.000000"/>
+            <textevent message="Settle into that starting rpm..." timeoffset="0"/>
+            <textevent message="something quick, but something you know you can grow..." timeoffset="5"/>
+            <textevent message="and try to immediately ditch any useless tension" timeoffset="11"/>
+            <textevent message="Quick but relaxed" timeoffset="16"/>
+            <textevent message="Over time, as your natural cadence rises..." timeoffset="21"/>
+            <textevent message="anything lower than 90rpm will feel downright improper" timeoffset="26"/>
+            <textevent message="But again, much time &amp; practice..." timeoffset="33"/>
+            <textevent message="and yep, proper practice - no bad habits" timeoffset="38"/>
+            <textevent message="Still quick, still relaxed..." timeoffset="60"/>
+            <textevent message="and don't forget a light kick &amp; pull" timeoffset="65"/>
+            <textevent message="2 more minutes right here..." timeoffset="120"/>
+            <textevent message="and if fatigue is taking its toll..." timeoffset="125"/>
+            <textevent message="to a point where your spin slows a bit..." timeoffset="129"/>
+            <textevent message="maintain your technique, even at a slightly lower cadence" timeoffset="134"/>
+            <textevent message="It's okay to lose a couple rpm during the latter intervals..." timeoffset="141"/>
+            <textevent message="but it's not okay to start riding poorly at any point" timeoffset="146"/>
+            <textevent message="So if 105rpm became 103 last interval, 101 this interval..." timeoffset="153"/>
+            <textevent message="don't worry about the subtle decline..." timeoffset="159"/>
+            <textevent message="at least not at the expense of the superb form you're maintaining" timeoffset="163"/>
+            <textevent message="And again, spinning upwards of 100rpm..." timeoffset="170"/>
+            <textevent message="doesn't work optimally for all riders..." timeoffset="175"/>
+            <textevent message="so just do your best to stay quicker than usual..." timeoffset="180"/>
+            <textevent message="without too great a concern over a particular rpm" timeoffset="185"/>
+            <textevent message="The goal is quite simply a quicker, fluid spin..." timeoffset="191"/>
+            <textevent message="regardless of where that lands you" timeoffset="196"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900">
-            <textevent message="A bit quicker, a bit less power..." timeoffset="0.000000"/>
-            <textevent message="And again, the more quickly you spin..." timeoffset="5.000000"/>
-            <textevent message="the more relaxed you become" timeoffset="10.000000"/>
-            <textevent message="So back to your forehead, out through your toes..." timeoffset="17.000000"/>
-            <textevent message="ditch any tension..." timeoffset="23.000000"/>
-            <textevent message="that's not helping you power the bike" timeoffset="27.000000"/>
-            <textevent message="Another minute kicking your toes forward..." timeoffset="60.000000"/>
-            <textevent message="with slightly more energy than usual" timeoffset="65.000000"/>
-            <textevent message="Think of lightly kicking to create a little extra speed..." timeoffset="71.000000"/>
-            <textevent message="and give your quads the slightest, super short break" timeoffset="76.000000"/>
-            <textevent message="Carry that little added momentum into the downstroke..." timeoffset="82.000000"/>
-            <textevent message="and try to alleviate a little bit of downstroke force..." timeoffset="88.000000"/>
-            <textevent message="to give your quads a millisecond's added rest..." timeoffset="93.000000"/>
-            <textevent message="with each revolution" timeoffset="98.000000"/>
-            <textevent message="Switch to a minute of pulling your heels backward..." timeoffset="120.000000"/>
-            <textevent message="just slightly harder than usual" timeoffset="125.000000"/>
-            <textevent message="Though slight, by actively pulling your feet back..." timeoffset="130.000000"/>
-            <textevent message="you can allow your quads to relax slightly earlier..." timeoffset="136.000000"/>
-            <textevent message="which can make a small but measurable difference..." timeoffset="141.000000"/>
-            <textevent message="as the pedalstrokes add up" timeoffset="147.000000"/>
+            <textevent message="A bit quicker, a bit less power..." timeoffset="0"/>
+            <textevent message="And again, the more quickly you spin..." timeoffset="5"/>
+            <textevent message="the more relaxed you become" timeoffset="10"/>
+            <textevent message="So back to your forehead, out through your toes..." timeoffset="17"/>
+            <textevent message="ditch any tension..." timeoffset="23"/>
+            <textevent message="that's not helping you power the bike" timeoffset="27"/>
+            <textevent message="Another minute kicking your toes forward..." timeoffset="60"/>
+            <textevent message="with slightly more energy than usual" timeoffset="65"/>
+            <textevent message="Think of lightly kicking to create a little extra speed..." timeoffset="71"/>
+            <textevent message="and give your quads the slightest, super short break" timeoffset="76"/>
+            <textevent message="Carry that little added momentum into the downstroke..." timeoffset="82"/>
+            <textevent message="and try to alleviate a little bit of downstroke force..." timeoffset="88"/>
+            <textevent message="to give your quads a millisecond's added rest..." timeoffset="93"/>
+            <textevent message="with each revolution" timeoffset="98"/>
+            <textevent message="Switch to a minute of pulling your heels backward..." timeoffset="120"/>
+            <textevent message="just slightly harder than usual" timeoffset="125"/>
+            <textevent message="Though slight, by actively pulling your feet back..." timeoffset="130"/>
+            <textevent message="you can allow your quads to relax slightly earlier..." timeoffset="136"/>
+            <textevent message="which can make a small but measurable difference..." timeoffset="141"/>
+            <textevent message="as the pedalstrokes add up" timeoffset="147"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.880" PowerHigh="0.880">
-            <textevent message="Time to go fast!" timeoffset="0.000000"/>
-            <textevent message="Only as much speed as you can control..." timeoffset="5.000000"/>
-            <textevent message="with the same level of control you've managed so far" timeoffset="10.000000"/>
-            <textevent message="And again..." timeoffset="17.000000"/>
-            <textevent message="riding in the Sweet Spot is demanding in and of itself..." timeoffset="21.000000"/>
-            <textevent message="even without these added speed drills" timeoffset="27.000000"/>
-            <textevent message="20 more seconds of fluid, pretty pedalstrokes" timeoffset="40.000000"/>
-            <textevent message="Sit-bones anchored, hips are quiet, quiet, quiet..." timeoffset="46.000000"/>
-            <textevent message="shhhhhhhhhh" timeoffset="51.000000"/>
+            <textevent message="Time to go fast!" timeoffset="0"/>
+            <textevent message="Only as much speed as you can control..." timeoffset="5"/>
+            <textevent message="with the same level of control you've managed so far" timeoffset="10"/>
+            <textevent message="And again..." timeoffset="17"/>
+            <textevent message="riding in the Sweet Spot is demanding in and of itself..." timeoffset="21"/>
+            <textevent message="even without these added speed drills" timeoffset="27"/>
+            <textevent message="20 more seconds of fluid, pretty pedalstrokes" timeoffset="40"/>
+            <textevent message="Sit-bones anchored, hips are quiet, quiet, quiet..." timeoffset="46"/>
+            <textevent message="shhhhhhhhhh" timeoffset="51"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Well done, take 'er easy for a few..." timeoffset="0.000000"/>
-            <textevent message="and we'll touch base a minute prior to your next spin-up" timeoffset="6.000000"/>
-            <textevent message="In about a minute, yet another round begins..." timeoffset="180.000000"/>
-            <textevent message="so yet again, make that quick decision" timeoffset="185.000000"/>
-            <textevent message="Leg speed and near-perfect form..." timeoffset="191.000000"/>
-            <textevent message="are the tightly linked goals, as per usual..." timeoffset="196.000000"/>
-            <textevent message="even if your spin slows a little bit" timeoffset="201.000000"/>
+            <textevent message="Well done, take 'er easy for a few..." timeoffset="0"/>
+            <textevent message="and we'll touch base a minute prior to your next spin-up" timeoffset="6"/>
+            <textevent message="In about a minute, yet another round begins..." timeoffset="180"/>
+            <textevent message="so yet again, make that quick decision" timeoffset="185"/>
+            <textevent message="Leg speed and near-perfect form..." timeoffset="191"/>
+            <textevent message="are the tightly linked goals, as per usual..." timeoffset="196"/>
+            <textevent message="even if your spin slows a little bit" timeoffset="201"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.940" PowerHigh="0.940">
-            <textevent message="Settle into your starting spin..." timeoffset="0.000000"/>
-            <textevent message="and stay fluid and relaxed" timeoffset="5.000000"/>
-            <textevent message="We'll check in just prior to the next segment" timeoffset="11.000000"/>
-            <textevent message="Almost time to ramp things up a little..." timeoffset="210.000000"/>
-            <textevent message="but only if you strongly feel..." timeoffset="216.000000"/>
-            <textevent message="that you can keep your form intact" timeoffset="220.000000"/>
-            <textevent message="Take a couple full, deep, belly-driven breaths..." timeoffset="226.000000"/>
-            <textevent message="and shed a little fatigue with each exhale" timeoffset="232.000000"/>
+            <textevent message="Settle into your starting spin..." timeoffset="0"/>
+            <textevent message="and stay fluid and relaxed" timeoffset="5"/>
+            <textevent message="We'll check in just prior to the next segment" timeoffset="11"/>
+            <textevent message="Almost time to ramp things up a little..." timeoffset="210"/>
+            <textevent message="but only if you strongly feel..." timeoffset="216"/>
+            <textevent message="that you can keep your form intact" timeoffset="220"/>
+            <textevent message="Take a couple full, deep, belly-driven breaths..." timeoffset="226"/>
+            <textevent message="and shed a little fatigue with each exhale" timeoffset="232"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900">
-            <textevent message="A little quicker if you can manage it" timeoffset="0.000000"/>
-            <textevent message="Clear your mind, relax your body..." timeoffset="7.000000"/>
-            <textevent message="and we'll catch back up in a couple minutes" timeoffset="12.000000"/>
-            <textevent message="Feel like you can handle even more leg speed?" timeoffset="150.000000"/>
-            <textevent message="If you answered with an emphatic &quot;yes&quot;..." timeoffset="157.000000"/>
-            <textevent message="get ready to wind things up even higher" timeoffset="162.000000"/>
-            <textevent message="Otherwise, just hold your cadence steady..." timeoffset="168.000000"/>
-            <textevent message="and make this last minute pretty" timeoffset="173.000000"/>
+            <textevent message="A little quicker if you can manage it" timeoffset="0"/>
+            <textevent message="Clear your mind, relax your body..." timeoffset="7"/>
+            <textevent message="and we'll catch back up in a couple minutes" timeoffset="12"/>
+            <textevent message="Feel like you can handle even more leg speed?" timeoffset="150"/>
+            <textevent message="If you answered with an emphatic &quot;yes&quot;..." timeoffset="157"/>
+            <textevent message="get ready to wind things up even higher" timeoffset="162"/>
+            <textevent message="Otherwise, just hold your cadence steady..." timeoffset="168"/>
+            <textevent message="and make this last minute pretty" timeoffset="173"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.880" PowerHigh="0.880">
-            <textevent message="Even quicker legs..." timeoffset="0.000000"/>
-            <textevent message="as long as you feel fully in control of the speed" timeoffset="5.000000"/>
-            <textevent message="20 more seconds of fast, fluid legs" timeoffset="40.000000"/>
-            <textevent message="Sit-bones still rooted to the saddle..." timeoffset="46.000000"/>
-            <textevent message="upper body calm and nearly motionless" timeoffset="51.000000"/>
+            <textevent message="Even quicker legs..." timeoffset="0"/>
+            <textevent message="as long as you feel fully in control of the speed" timeoffset="5"/>
+            <textevent message="20 more seconds of fast, fluid legs" timeoffset="40"/>
+            <textevent message="Sit-bones still rooted to the saddle..." timeoffset="46"/>
+            <textevent message="upper body calm and nearly motionless" timeoffset="51"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Nicely done! Ease off the gas" timeoffset="0.000000"/>
-            <textevent message="Take it easy for a few minutes and try to shed some fatigue..." timeoffset="7.000000"/>
-            <textevent message="and we'll catch up about 30 seconds out from your final interval" timeoffset="13.000000"/>
-            <textevent message="Last interval coming up..." timeoffset="210.000000"/>
-            <textevent message="and you know exactly what to do:" timeoffset="215.000000"/>
-            <textevent message="Get as relaxed as possible..." timeoffset="216.000000"/>
-            <textevent message="spin quickly but leave room to grow..." timeoffset="220.000000"/>
-            <textevent message="and down-adjust the Workout Intensity..." timeoffset="225.000000"/>
-            <textevent message="if the watts are keeping you from focusing on leg speed" timeoffset="230.000000"/>
+            <textevent message="Nicely done! Ease off the gas" timeoffset="0"/>
+            <textevent message="Take it easy for a few minutes and try to shed some fatigue..." timeoffset="7"/>
+            <textevent message="and we'll catch up about 30 seconds out from your final interval" timeoffset="13"/>
+            <textevent message="Last interval coming up..." timeoffset="210"/>
+            <textevent message="and you know exactly what to do:" timeoffset="215"/>
+            <textevent message="Get as relaxed as possible..." timeoffset="216"/>
+            <textevent message="spin quickly but leave room to grow..." timeoffset="220"/>
+            <textevent message="and down-adjust the Workout Intensity..." timeoffset="225"/>
+            <textevent message="if the watts are keeping you from focusing on leg speed" timeoffset="230"/>
         </SteadyState>
         <SteadyState Duration="240.0" PowerLow="0.940" PowerHigh="0.940">
-            <textevent message="Settle in - quick, light, controlled" timeoffset="0.000000"/>
-            <textevent message="Let go of any tension below your knees..." timeoffset="7.000000"/>
-            <textevent message="and drape your body over your bike..." timeoffset="12.000000"/>
-            <textevent message="in a manner so relaxed that you look like you're barely working" timeoffset="17.000000"/>
-            <textevent message="Too often, the anticipation of hard work..." timeoffset="24.000000"/>
-            <textevent message="is all a rider needs to tense up" timeoffset="29.000000"/>
-            <textevent message="So stay relaxed..." timeoffset="35.000000"/>
-            <textevent message="and be confident in your ability to do this one more time..." timeoffset="39.000000"/>
-            <textevent message="knowing you've already bagged 5 of these bad boys" timeoffset="45.000000"/>
-            <textevent message="3 more minutes of mild, manageable leg speed..." timeoffset="60.000000"/>
-            <textevent message="taken 1 minute at a time" timeoffset="66.000000"/>
-            <textevent message="The more fatigued you get, the more useful it becomes..." timeoffset="71.000000"/>
-            <textevent message="to limit your focus to shorter work durations" timeoffset="76.000000"/>
-            <textevent message="This keeps the quality of your speed work high..." timeoffset="82.000000"/>
-            <textevent message="and provides an opportunity to practice this hugely helpful skill..." timeoffset="87.000000"/>
-            <textevent message="that you'll NEED to draw upon outdoors at some point" timeoffset="93.000000"/>
-            <textevent message="Another minute's worth of focus on fluid, graceful leg speed..." timeoffset="120.000000"/>
-            <textevent message="and deep, belly-driven breaths that bring greater focus..." timeoffset="126.000000"/>
-            <textevent message="and relieve more muscle tension..." timeoffset="132.000000"/>
-            <textevent message="with each cleansing exhale you push out" timeoffset="137.000000"/>
-            <textevent message="One more minute right here..." timeoffset="180.000000"/>
-            <textevent message="and a body that's just as relaxed as when this interval kicked off" timeoffset="185.000000"/>
-            <textevent message="Check your hands &amp; jaw..." timeoffset="192.000000"/>
-            <textevent message="and keep those sit-bones anchored" timeoffset="196.000000"/>
+            <textevent message="Settle in - quick, light, controlled" timeoffset="0"/>
+            <textevent message="Let go of any tension below your knees..." timeoffset="7"/>
+            <textevent message="and drape your body over your bike..." timeoffset="12"/>
+            <textevent message="in a manner so relaxed that you look like you're barely working" timeoffset="17"/>
+            <textevent message="Too often, the anticipation of hard work..." timeoffset="24"/>
+            <textevent message="is all a rider needs to tense up" timeoffset="29"/>
+            <textevent message="So stay relaxed..." timeoffset="35"/>
+            <textevent message="and be confident in your ability to do this one more time..." timeoffset="39"/>
+            <textevent message="knowing you've already bagged 5 of these bad boys" timeoffset="45"/>
+            <textevent message="3 more minutes of mild, manageable leg speed..." timeoffset="60"/>
+            <textevent message="taken 1 minute at a time" timeoffset="66"/>
+            <textevent message="The more fatigued you get, the more useful it becomes..." timeoffset="71"/>
+            <textevent message="to limit your focus to shorter work durations" timeoffset="76"/>
+            <textevent message="This keeps the quality of your speed work high..." timeoffset="82"/>
+            <textevent message="and provides an opportunity to practice this hugely helpful skill..." timeoffset="87"/>
+            <textevent message="that you'll NEED to draw upon outdoors at some point" timeoffset="93"/>
+            <textevent message="Another minute's worth of focus on fluid, graceful leg speed..." timeoffset="120"/>
+            <textevent message="and deep, belly-driven breaths that bring greater focus..." timeoffset="126"/>
+            <textevent message="and relieve more muscle tension..." timeoffset="132"/>
+            <textevent message="with each cleansing exhale you push out" timeoffset="137"/>
+            <textevent message="One more minute right here..." timeoffset="180"/>
+            <textevent message="and a body that's just as relaxed as when this interval kicked off" timeoffset="185"/>
+            <textevent message="Check your hands &amp; jaw..." timeoffset="192"/>
+            <textevent message="and keep those sit-bones anchored" timeoffset="196"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.900" PowerHigh="0.900">
-            <textevent message="Pick things up again, keep that control..." timeoffset="0.000000"/>
-            <textevent message="and don't get roped into a spin that's too high..." timeoffset="5.000000"/>
-            <textevent message="simply because you could do it earlier" timeoffset="10.000000"/>
-            <textevent message="Fatigue can be managed in such a way..." timeoffset="16.000000"/>
-            <textevent message="that you maintain nearly all of the intended benefit..." timeoffset="21.000000"/>
-            <textevent message="by doing just a little less work than scripted" timeoffset="26.000000"/>
-            <textevent message="So if your spin is a little slower..." timeoffset="32.000000"/>
-            <textevent message="but the quality of your pedaling is still high..." timeoffset="37.000000"/>
-            <textevent message="you are fully in charge of this final interval" timeoffset="42.000000"/>
-            <textevent message="Keep it up!" timeoffset="48.000000"/>
-            <textevent message="Get through another minute..." timeoffset="60.000000"/>
-            <textevent message="without giving up the least bit of fluidity" timeoffset="64.000000"/>
-            <textevent message="Do this primarily by staying relaxed..." timeoffset="71.000000"/>
-            <textevent message="but also by kicking &amp; pulling..." timeoffset="76.000000"/>
-            <textevent message="keeping your hips anchored &amp; quiet..." timeoffset="80.000000"/>
-            <textevent message="and by breathing fully, with your belly" timeoffset="85.000000"/>
-            <textevent message="One more minute's focus..." timeoffset="120.000000"/>
-            <textevent message="on staying fluid &amp; relaxed..." timeoffset="125.000000"/>
-            <textevent message="and still pretty quick if you can manage it" timeoffset="130.000000"/>
+            <textevent message="Pick things up again, keep that control..." timeoffset="0"/>
+            <textevent message="and don't get roped into a spin that's too high..." timeoffset="5"/>
+            <textevent message="simply because you could do it earlier" timeoffset="10"/>
+            <textevent message="Fatigue can be managed in such a way..." timeoffset="16"/>
+            <textevent message="that you maintain nearly all of the intended benefit..." timeoffset="21"/>
+            <textevent message="by doing just a little less work than scripted" timeoffset="26"/>
+            <textevent message="So if your spin is a little slower..." timeoffset="32"/>
+            <textevent message="but the quality of your pedaling is still high..." timeoffset="37"/>
+            <textevent message="you are fully in charge of this final interval" timeoffset="42"/>
+            <textevent message="Keep it up!" timeoffset="48"/>
+            <textevent message="Get through another minute..." timeoffset="60"/>
+            <textevent message="without giving up the least bit of fluidity" timeoffset="64"/>
+            <textevent message="Do this primarily by staying relaxed..." timeoffset="71"/>
+            <textevent message="but also by kicking &amp; pulling..." timeoffset="76"/>
+            <textevent message="keeping your hips anchored &amp; quiet..." timeoffset="80"/>
+            <textevent message="and by breathing fully, with your belly" timeoffset="85"/>
+            <textevent message="One more minute's focus..." timeoffset="120"/>
+            <textevent message="on staying fluid &amp; relaxed..." timeoffset="125"/>
+            <textevent message="and still pretty quick if you can manage it" timeoffset="130"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.880" PowerHigh="0.880">
-            <textevent message="Everything you have left!" timeoffset="0.000000"/>
-            <textevent message="Lots of control, just a minute's worth of work" timeoffset="6.000000"/>
-            <textevent message="Just 15 seconds of controlled speed at a time" timeoffset="15.000000"/>
-            <textevent message="Another 15! Loose hands, loose jaw" timeoffset="30.000000"/>
-            <textevent message="Final 15! No bouncing" timeoffset="45.000000"/>
+            <textevent message="Everything you have left!" timeoffset="0"/>
+            <textevent message="Lots of control, just a minute's worth of work" timeoffset="6"/>
+            <textevent message="Just 15 seconds of controlled speed at a time" timeoffset="15"/>
+            <textevent message="Another 15! Loose hands, loose jaw" timeoffset="30"/>
+            <textevent message="Final 15! No bouncing" timeoffset="45"/>
         </SteadyState>
         <Cooldown Duration="180.0" PowerLow="0.400" PowerHigh="0.300">
-            <textevent message="Well done!" timeoffset="0.000000"/>
-            <textevent message="Pretty quick cool-down on the clock..." timeoffset="5.000000"/>
-            <textevent message="but you're welcome &amp; encouraged to spin for a few extra minutes" timeoffset="10.000000"/>
-            <textevent message="While you wind down..." timeoffset="17.000000"/>
-            <textevent message="give some thought to your post-workout nutrition..." timeoffset="21.000000"/>
-            <textevent message="maybe even start gulping some down..." timeoffset="26.000000"/>
-            <textevent message="and we'll see you next time" timeoffset="31.000000"/>
+            <textevent message="Well done!" timeoffset="0"/>
+            <textevent message="Pretty quick cool-down on the clock..." timeoffset="5"/>
+            <textevent message="but you're welcome &amp; encouraged to spin for a few extra minutes" timeoffset="10"/>
+            <textevent message="While you wind down..." timeoffset="17"/>
+            <textevent message="give some thought to your post-workout nutrition..." timeoffset="21"/>
+            <textevent message="maybe even start gulping some down..." timeoffset="26"/>
+            <textevent message="and we'll see you next time" timeoffset="31"/>
         </Cooldown>
     </workout>
 </workout_file>

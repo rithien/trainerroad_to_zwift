@@ -8,21 +8,21 @@
         <SteadyState Duration="120.0" PowerLow="0.950" PowerHigh="0.950"/>
         <SteadyState Duration="120.0" PowerLow="1.150" PowerHigh="1.150"/>
         <SteadyState Duration="180.0" PowerLow="0.390" PowerHigh="0.390"/>
-        <Warmup Duration="120.0" PowerLow="0.400" PowerHigh="1.250"/>
+        <Warmup Duration="120.0" PowerLow="0.410" PowerHigh="1.250"/>
         <SteadyState Duration="30.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Warmup Duration="90.0" PowerLow="0.700" PowerHigh="1.250"/>
         <SteadyState Duration="30.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Warmup Duration="90.0" PowerLow="0.700" PowerHigh="1.250"/>
         <SteadyState Duration="30.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Warmup Duration="90.0" PowerLow="0.700" PowerHigh="1.250"/>
-        <SteadyState Duration="120.0" PowerLow="0.390" PowerHigh="0.390"/>
-        <Warmup Duration="180.0" PowerLow="0.400" PowerHigh="1.350"/>
+        <SteadyState Duration="120.0" PowerLow="0.400" PowerHigh="0.400"/>
+        <Warmup Duration="180.0" PowerLow="0.410" PowerHigh="1.350"/>
         <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
         <Warmup Duration="180.0" PowerLow="0.500" PowerHigh="1.350"/>
         <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500"/>
         <Warmup Duration="180.0" PowerLow="0.500" PowerHigh="1.350"/>
         <SteadyState Duration="120.0" PowerLow="0.390" PowerHigh="0.390"/>
-        <Warmup Duration="60.0" PowerLow="0.400" PowerHigh="1.400"/>
+        <Warmup Duration="60.0" PowerLow="0.410" PowerHigh="1.400"/>
         <SteadyState Duration="60.0" PowerLow="0.600" PowerHigh="0.600"/>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="1.400"/>
         <SteadyState Duration="60.0" PowerLow="0.600" PowerHigh="0.600"/>
@@ -32,7 +32,7 @@
         <SteadyState Duration="60.0" PowerLow="0.600" PowerHigh="0.600"/>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="1.400"/>
         <SteadyState Duration="180.0" PowerLow="0.390" PowerHigh="0.390"/>
-        <Warmup Duration="300.0" PowerLow="0.400" PowerHigh="1.270"/>
+        <Warmup Duration="300.0" PowerLow="0.410" PowerHigh="1.270"/>
         <Cooldown Duration="300.0" PowerLow="0.370" PowerHigh="0.270"/>
     </workout>
 </workout_file>

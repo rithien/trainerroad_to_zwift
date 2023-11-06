@@ -6,31 +6,31 @@
         <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
         <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
         <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="During this fairly long stretch, include a couple Form Sprints" timeoffset="-1.000000"/>
+            <textevent message="During this fairly long stretch, include a couple Form Sprints" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="120.0" PowerLow="0.550" PowerHigh="0.750"/>
         <SteadyState Duration="480.0" PowerLow="0.750" PowerHigh="0.750">
-            <textevent message="Use 5 of these minutes as an Endurance Spin" timeoffset="-1.000000"/>
+            <textevent message="Use 5 of these minutes as an Endurance Spin" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.550" PowerHigh="0.800"/>
         <SteadyState Duration="720.0" PowerLow="0.800" PowerHigh="0.800">
-            <textevent message="Use this reasonably long stretch to alternate your Single Leg Focus each minute" timeoffset="-1.000000"/>
+            <textevent message="Use this reasonably long stretch to alternate your Single Leg Focus each minute" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="120.0" PowerLow="0.550" PowerHigh="0.750"/>
         <SteadyState Duration="1800.0" PowerLow="0.750" PowerHigh="0.750">
-            <textevent message="Over this long stretch, add a couple more 5-minute Endurance Spins" timeoffset="-1.000000"/>
+            <textevent message="Over this long stretch, add a couple more 5-minute Endurance Spins" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="180.0" PowerLow="0.550" PowerHigh="0.700"/>
         <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Another fairly long stretch, another opportunity for a couple Form Sprints" timeoffset="-1.000000"/>
+            <textevent message="Another fairly long stretch, another opportunity for a couple Form Sprints" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="120.0" PowerLow="0.550" PowerHigh="0.800"/>
         <SteadyState Duration="360.0" PowerLow="0.800" PowerHigh="0.800">
-            <textevent message="One more short stretch of alternating Single Leg Focus, 1 minute at a time" timeoffset="-1.000000"/>
+            <textevent message="One more short stretch of alternating Single Leg Focus, 1 minute at a time" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.550" PowerHigh="0.750"/>
         <SteadyState Duration="540.0" PowerLow="0.750" PowerHigh="0.750">
-            <textevent message="Use this last stretch to put it all together by staying relaxed &amp; pedaling fluidly" timeoffset="0.000000"/>
+            <textevent message="Use this last stretch to put it all together by staying relaxed &amp; pedaling fluidly" timeoffset="0"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.750" PowerHigh="0.500"/>
         <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500"/>

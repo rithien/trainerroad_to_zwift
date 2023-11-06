@@ -26,29 +26,27 @@ MINUTES	FTP
 21	58
 24	58
 24	62
-25	62
-25	57
-28	57
-28	62
-30	62
-30	55
-33	55
-33	62
-35	62
-35	55
-38	55
-38	62
-40	62
-40	56
+26	62
+26	57
+29	57
+29	62
+31	62
+31	55
+34	55
+34	62
+36	62
+36	55
+39	55
+39	62
+41	62
 41	56
-41	63
-44	63
-44	56
-45	56
-45	62
-48	62
-48	54
-50	54
+43	56
+43	63
+46	63
+46	56
+47	56
+47	62
+50	62
 50	58
 53	58
 53	61
@@ -96,51 +94,44 @@ MINUTES	FTP
 1260	And while it seems simple, we can always do it better	8	0	0	72	16777215	40
 1260	Take some time to continue focusing on your breathing	8	0	0	72	16777215	50
 1260	We'll catch up in a couple minutes	5	0	0	72	16777215	60
-1500	Occasionally move in & out of the saddle to stretch out a bit...	8	0	0	72	16777215	0
-1500	but keep your standing durations short, under 30 seconds	8	0	0	72	16777215	10
-1500	And as you ride while standing, try to remain light on your feet...	8	0	0	72	16777215	20
-1500	and even light on your hands as you flit from foot to foot	8	0	0	72	16777215	30
-1500	As soon as you feel anything that resembles muscle burn...	8	0	0	72	16777215	40
-1500	gracefully return to the saddle and lift your spin back up	8	0	0	72	16777215	50
-1800	Time for some economy drills, focus on your right leg...	8	0	0	72	16777215	0
-1800	and make your knee track in line with your foot	8	0	0	72	16777215	10
-1800	Keep your cadence up, 85rpm minimum	5	0	0	72	16777215	20
-1800	Remember to use all of your leg muscles to straighten things out	8	0	0	72	16777215	30
-1800	And use your glutes & core as well	8	0	0	72	16777215	40
-1800	Good, take it easy for a minute, no specific focus	5	0	0	72	16777215	60
-1800	Having cleared your mind for a minute...	8	0	0	72	16777215	110
-1800	Switch your focus to your left leg, your knee in particular	8	0	0	72	16777215	120
-1800	Watch as it tracks straight up, straight down	8	0	0	72	16777215	120
-1800	If there's any wobble at the top of each revolution...	8	0	0	72	16777215	130
-1800	concentrate on lessening & eventually eliminating that lateral movement	8	0	0	72	16777215	140
-2100	3 minutes of riding a little closer to your bike	8	0	0	72	16777215	0
-2100	Lower your body, soften your elbows a bit more...	8	0	0	72	16777215	10
-2100	and imagine cutting a smaller hole in the wind	8	0	0	72	16777215	20
-2100	And keep your power right on Target the entire time	8	0	0	72	16777215	30
-2460	Let's focus on some more speed drills	8	0	0	72	16777215	0
-2460	Having a wide range of comfort with your cadence...	8	0	0	72	16777215	10
-2460	will allow you to push through slow grinds up a hill...	8	0	0	72	16777215	20
-2460	and wind it up when the grade allows it	8	0	0	72	16777215	30
-2460	To that end, we'll work on high-cadence drills a bit	8	0	0	72	16777215	40
-2460	As you do so, there are a few key things to target	8	0	0	72	16777215	50
-2460	All too often, riders tense their lower legs when pedaling quickly...	8	0	0	72	16777215	60
-2460	and this usually stems from the feet, so let 'em dangle	8	0	0	72	16777215	70
-2460	If the bouncing persists, relax your ankles & then your calves	8	0	0	72	16777215	80
-2460	Ease off the speed a bit & return to something more comfortable	8	0	0	72	16777215	90
-2640	Let's take a brief break from the speed drills...	8	0	0	72	16777215	0
-2640	by taking most of this minute to ride smoothly...	8	0	0	72	16777215	10
-2640	and to determine what cadence seems to draw you toward it	8	0	0	72	16777215	20
-2640	Are you a grinder who favors spins lower than 80rpm?	8	0	0	72	16777215	30
-2640	Or do you fluidly & naturally spin upwards of 90rpm?	8	0	0	72	16777215	40
-2640	Probably somewhere in between; regardless, go a little quicker now	8	0	0	72	16777215	50
-2700	Hold a slightly quicker than usual spin for 1-2 of these three minutes	8	0	0	72	16777215	0
-2880	For one minute, try to ride a full 10 rpm above your usual cadence	8	0	0	72	16777215	0
-2880	So if you've settled at 85rpm, try a couple minutes at 105rpm	8	0	0	72	16777215	10
-2880	As you wind it up, do your best to keep the same level of relaxation	8	0	0	72	16777215	20
-2880	One more minute, drop 5rpm if you're feeling sloppy or bouncing	8	0	0	72	16777215	60
-2880	Anytime your form fails, do what you need to do in order to correct it	8	0	0	72	16777215	70
-2880	Get in the habit of recognizing when you might be reinforcing a bad habit...	8	0	0	72	16777215	80
-2880	and seek to remedy the matter right away	5	0	0	72	16777215	90
+1560	Occasionally move in & out of the saddle to stretch out a bit...	8	0	0	72	16777215	0
+1560	but keep your standing durations short, under 30 seconds	8	0	0	72	16777215	10
+1560	And as you ride while standing, try to remain light on your feet...	8	0	0	72	16777215	20
+1560	and even light on your hands as you flit from foot to foot	8	0	0	72	16777215	30
+1560	As soon as you feel anything that resembles muscle burn...	8	0	0	72	16777215	40
+1560	gracefully return to the saddle and lift your spin back up	8	0	0	72	16777215	50
+1860	Time for some economy drills, focus on your right leg...	8	0	0	72	16777215	0
+1860	and make your knee track in line with your foot	8	0	0	72	16777215	10
+1860	Keep your cadence up, 85rpm minimum	5	0	0	72	16777215	20
+1860	Remember to use all of your leg muscles to straighten things out	8	0	0	72	16777215	30
+1860	And use your glutes & core as well	8	0	0	72	16777215	40
+1860	Good, take it easy for a minute, no specific focus	5	0	0	72	16777215	60
+1860	Having cleared your mind for a minute...	8	0	0	72	16777215	110
+1860	Switch your focus to your left leg, your knee in particular	8	0	0	72	16777215	120
+1860	Watch as it tracks straight up, straight down	8	0	0	72	16777215	120
+1860	If there's any wobble at the top of each revolution...	8	0	0	72	16777215	130
+1860	concentrate on lessening & eventually eliminating that lateral movement	8	0	0	72	16777215	140
+2160	3 minutes of riding a little closer to your bike	8	0	0	72	16777215	0
+2160	Lower your body, soften your elbows a bit more...	8	0	0	72	16777215	10
+2160	and imagine cutting a smaller hole in the wind	8	0	0	72	16777215	20
+2160	And keep your power right on Target the entire time	8	0	0	72	16777215	30
+2580	Let's focus on some more speed drills	8	0	0	72	16777215	0
+2580	Having a wide range of comfort with your cadence...	8	0	0	72	16777215	10
+2580	will allow you to push through slow grinds up a hill...	8	0	0	72	16777215	20
+2580	and wind it up when the grade allows it	8	0	0	72	16777215	30
+2580	To that end, we'll work on high-cadence drills a bit	8	0	0	72	16777215	40
+2580	As you do so, there are a few key things to target	8	0	0	72	16777215	50
+2580	All too often, riders tense their lower legs when pedaling quickly...	8	0	0	72	16777215	60
+2580	and this usually stems from the feet, so let 'em dangle	8	0	0	72	16777215	70
+2580	If the bouncing persists, relax your ankles & then your calves	8	0	0	72	16777215	80
+2580	Ease off the speed a bit & return to something more comfortable	8	0	0	72	16777215	90
+2760	Let's take a brief break from the speed drills...	8	0	0	72	16777215	0
+2760	by taking most of this minute to ride smoothly...	8	0	0	72	16777215	10
+2760	and to determine what cadence seems to draw you toward it	8	0	0	72	16777215	20
+2760	Are you a grinder who favors spins lower than 80rpm?	8	0	0	72	16777215	30
+2760	Or do you fluidly & naturally spin upwards of 90rpm?	8	0	0	72	16777215	40
+2760	Probably somewhere in between; regardless, go a little quicker now	8	0	0	72	16777215	50
+2820	Hold a slightly quicker than usual spin for 1-2 of these three minutes	8	0	0	72	16777215	0
 3300	That about does it for today, take a few minutes to warm down	8	0	0	72	16777215	0
 3300	Spin easy for a few minutes as you return your breathing & heart rate...	8	0	0	72	16777215	10
 3300	to closer to their normal, pre-exercise levels	8	0	0	72	16777215	20
@@ -157,18 +148,17 @@ MINUTES	FTP
 1080	1200	Endurance 4
 1200	1260	Endurance 5
 1260	1440	Endurance 6
-1440	1500	Endurance 7
-1500	1680	Endurance 8
-1680	1800	Endurance 9
-1800	1980	Endurance 10
-1980	2100	Endurance 11
-2100	2280	Endurance 12
-2280	2400	Endurance 13
-2400	2460	Endurance 14
-2460	2640	Endurance 15
-2640	2700	Endurance 16
-2700	2880	Endurance 17
-2880	3000	Active Recovery 3
+1440	1560	Endurance 7
+1560	1740	Endurance 8
+1740	1860	Endurance 9
+1860	2040	Endurance 10
+2040	2160	Endurance 11
+2160	2340	Endurance 12
+2340	2460	Endurance 13
+2460	2580	Endurance 14
+2580	2760	Endurance 15
+2760	2820	Endurance 16
+2820	3000	Endurance 17
 3000	3180	Endurance 18
 3180	3300	Endurance 19
 [END INTERVAL DATA]
@@ -176,4 +166,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

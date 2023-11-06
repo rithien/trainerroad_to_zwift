@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Moosilaukee is&nbsp;60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP with the addition of 3x2-minute Force Intervals with 2 minute's rest between them and 3x10-second Strength Sprints followed by 6 minutes of Tempo work. 
+DESCRIPTION = Moosilaukee is 60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP.&nbsp;It starts with 3x2-minute Force Intervals with 2-minute rest periods between them. Then, 11-minute tempo and sweet spot&nbsp;efforts between 80-90% FTP. The workout concludes with 3x5-7 minute tempo intervals, each of which starts with a 10-second Strength Sprint.
 FILE NAME = Moosilaukee
 MINUTES	FTP
 [END COURSE HEADER]

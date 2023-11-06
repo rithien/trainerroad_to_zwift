@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Plummer -2 is 50 near-continuous minutes of Tempo/Sweet Spot&nbsp;work broken into 7x7-minute segments ranging from 80-90% FTP separated by short, 30-second recoveries.
+DESCRIPTION = Plummer -2 is 45.5 near-continuous minutes of Tempo/Sweet Spot work broken into 7x6.5-minute segments ranging from 80-90% FTP separated by short, 30-second recoveries.
 FILE NAME = Plummer -2
 MINUTES	FTP
 [END COURSE HEADER]
@@ -45,7 +45,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Plummer -2!	5	0	0	72	16777215	10
-0	Coach Chad here to accompany you over the course of today's endeavor...	8	0	0	72	16777215	17
+0	Coach here, ready to accompany you over the course of today's endeavor...	8	0	0	72	16777215	17
 0	aimed at pushing up your aerobic capacity...	5	0	0	72	16777215	27
 0	and growing your ability to perform work while riding aerodynamically	8	0	0	72	16777215	33
 180	You'll ramp into your first of 7 segments in a couple minutes	8	0	0	72	16777215	0
@@ -110,7 +110,7 @@ MINUTES	FTP
 1230	This has to do with shorter, lighter muscle contractions, but that's beside the point	8	0	0	72	16777215	50
 1230	The real point is that lighter, quicker spins can help preserve those sugar stores too	8	0	0	72	16777215	60
 1230	So by improving your aerobic endurance AND making your spin more aerobic...	8	0	0	72	16777215	70
-1230	you'll watch your peformance capabilities become less dependent on sugar intake	8	0	0	72	16777215	80
+1230	you'll watch your performance capabilities become less dependent on sugar intake	8	0	0	72	16777215	80
 1230	This is of special concern to athletes who are riding for longer than 90 minutes...	8	0	0	72	16777215	90
 1230	since eating and digestion while on the bike can be somewhat challenging	8	0	0	72	16777215	100
 1230	A couple more minutes in this higher-intensity segment...	8	0	0	72	16777215	270
@@ -127,7 +127,7 @@ MINUTES	FTP
 1650	By stopping or backpedaling as briefly as 10 seconds, you might find your interest renewed	8	0	0	72	16777215	50
 1650	Shake out your legs, stretch your back, take your hands off the bars...	8	0	0	72	16777215	60
 1650	but keep it short, no longer than 30 seconds at the very most	8	0	0	72	16777215	70
-1650	And try to limit these breaks to 1 per 7-minute segment	8	0	0	72	16777215	80
+1650	And try to limit these breaks to 1 per 6.5-minute segment	8	0	0	72	16777215	80
 1650	But even if you were to take a 30-second break at the end of every segment...	8	0	0	72	16777215	90
 1650	that only adds up to 3 minutes of recovery out of 60 minutes of riding	8	0	0	72	16777215	100
 1650	Point is, if short, occasional breaks help you keep your form...	8	0	0	72	16777215	110
@@ -177,7 +177,7 @@ MINUTES	FTP
 2490	Just a handful of minutes to employ your ideal cadence and spend some time down low	8	0	0	72	16777215	270
 2490	And it probably can't be stated enough: any cadence changes you pursue...	8	0	0	72	16777215	280
 2490	need to work just as well, if not better, in your aero position	8	0	0	72	16777215	290
-2880	Excellent, ease back then gradually work into your final 7-minute push	8	0	0	72	16777215	0
+2880	Excellent, ease back then gradually work into your final 6.5-minute push	8	0	0	72	16777215	0
 2910	If you haven't already taken a brief break and you think you need one...	8	0	0	72	16777215	60
 2910	have at it, just keep it under 30 seconds then spin it back up	8	0	0	72	16777215	70
 2910	This final interval is likely to be all about damage control	8	0	0	72	16777215	90
@@ -191,7 +191,7 @@ MINUTES	FTP
 2910	Just a few more minutes of keeping it together, be patient, stay focused	8	0	0	72	16777215	270
 2910	And being at the low end of today's power range...	8	0	0	72	16777215	280
 2910	try to spend most of this last few minutes in your aero position	8	0	0	72	16777215	290
-3300	Well done! 50 minutes of solid effort with minimal recovery	8	0	0	72	16777215	0
+3300	Well done! 45.5 minutes of solid effort with minimal recovery	8	0	0	72	16777215	0
 3300	Time to treat those legs to some well-earned rest & relaxation...	8	0	0	72	16777215	10
 3300	and some proper post-workout nutrition that's in line with your personal goals	8	0	0	72	16777215	20
 3300	Rest up, eat up, and we'll see you next time	8	0	0	72	16777215	30
@@ -213,4 +213,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
-                                                                                                               
+                                                                                                    

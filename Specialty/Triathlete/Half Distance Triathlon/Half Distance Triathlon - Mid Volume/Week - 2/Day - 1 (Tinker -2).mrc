@@ -30,8 +30,8 @@ MINUTES	FTP
 [END COURSE DATA]
 
 [COURSE TEXT]
-0	Coach Chad here...	5	0	0	72	16777215	10
-0	to welcome you to today's workout...	4	0	0	72	16777215	16
+0	TrainerRoad is here...	5	0	0	72	16777215	10
+0	We're here to welcome you to today's workout...	4	0	0	72	16777215	16
 0	and even accompany you through it...	4	0	0	72	16777215	21
 0	with some advice on form, some optional drills...	4	0	0	72	16777215	26
 0	and a seemingly unending supply of life lessons...	4	0	0	72	16777215	31

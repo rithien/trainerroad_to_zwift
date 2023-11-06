@@ -49,7 +49,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Echo -4!	5	0	0	72	16777215	10
-0	Coach Chad here to accompany you through a long set...	5	0	0	72	16777215	17
+0	Coach here, ready to accompany you through a long set...	5	0	0	72	16777215	17
 0	of endurance-enhancing Tempo intervals	4	0	0	72	16777215	23
 0	Echo kicks up the interval count of similar workouts...	5	0	0	72	16777215	29
 0	keeping things ever so slightly more varied & interesting	5	0	0	72	16777215	35

@@ -4,151 +4,151 @@
     <name>Junction -5</name>
     <workout>
         <SteadyState Duration="120.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="Junction -5 has two distinct sections:" timeoffset="10.000000"/>
-            <textevent message="A section of racewinner intervals..." timeoffset="20.000000"/>
-            <textevent message="and a section of microbursts..." timeoffset="30.000000"/>
-            <textevent message="making this a workout that's not for the fainthearted" timeoffset="40.000000"/>
-            <textevent message="If you're not well-rested, consider dialing the intensity down" timeoffset="50.000000"/>
-            <textevent message="This is a substantial workout, even when scaled down" timeoffset="60.000000"/>
-            <textevent message="Of course, don't let this intimidate you..." timeoffset="70.000000"/>
-            <textevent message="as this workout is certainly doable if you're well-recovered" timeoffset="80.000000"/>
+            <textevent message="Junction -5 has two distinct sections:" timeoffset="10"/>
+            <textevent message="A section of racewinner intervals..." timeoffset="20"/>
+            <textevent message="and a section of microbursts..." timeoffset="30"/>
+            <textevent message="making this a workout that's not for the fainthearted" timeoffset="40"/>
+            <textevent message="If you're not well-rested, consider dialing the intensity down" timeoffset="50"/>
+            <textevent message="This is a substantial workout, even when scaled down" timeoffset="60"/>
+            <textevent message="Of course, don't let this intimidate you..." timeoffset="70"/>
+            <textevent message="as this workout is certainly doable if you're well-recovered" timeoffset="80"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Spin comfortably quicker, just a little" timeoffset="0.000000"/>
+            <textevent message="Spin comfortably quicker, just a little" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="0.910" PowerHigh="0.910">
-            <textevent message="Time to get those legs ready for some racewinners" timeoffset="0.000000"/>
-            <textevent message="Find a an even quicker but still controlled cadence" timeoffset="10.000000"/>
-            <textevent message="Shoot for something at least as high as 90rpm" timeoffset="20.000000"/>
+            <textevent message="Time to get those legs ready for some racewinners" timeoffset="0"/>
+            <textevent message="Find a an even quicker but still controlled cadence" timeoffset="10"/>
+            <textevent message="Shoot for something at least as high as 90rpm" timeoffset="20"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Next up are three, short, sprint efforts" timeoffset="30.000000"/>
-            <textevent message="Strive for 100+rpm for these sprints, higher if you can control it" timeoffset="40.000000"/>
+            <textevent message="Next up are three, short, sprint efforts" timeoffset="30"/>
+            <textevent message="Strive for 100+rpm for these sprints, higher if you can control it" timeoffset="40"/>
         </SteadyState>
         <SteadyState Duration="6.0" PowerLow="1.300" PowerHigh="1.300">
-            <textevent message="6 seconds each time!" timeoffset="0.000000"/>
+            <textevent message="6 seconds each time!" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="18.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Ease up but keep your legs quick" timeoffset="0.000000"/>
+            <textevent message="Ease up but keep your legs quick" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="6.0" PowerLow="1.400" PowerHigh="1.400"/>
         <SteadyState Duration="18.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Back off again but keep most of your leg speed" timeoffset="0.000000"/>
+            <textevent message="Back off again but keep most of your leg speed" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="6.0" PowerLow="1.500" PowerHigh="1.500"/>
         <SteadyState Duration="186.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="3 quick minutes to recover your breathing and slow your HR" timeoffset="6.000000"/>
-            <textevent message="Next up are the racewinner intervals" timeoffset="96.000000"/>
-            <textevent message="Racewinners are made up of a 12-second sprint at 150% of FTP..." timeoffset="106.000000"/>
-            <textevent message="followed by 4 minutes at 95% of FTP" timeoffset="116.000000"/>
-            <textevent message="The 12-second sprints will enhance muscle fiber recruitment..." timeoffset="126.000000"/>
-            <textevent message="followed by some muscular endurance work during the subsequent 4 minutes" timeoffset="136.000000"/>
-            <textevent message="You'll be taxing (and eventually improving) both anaerobic &amp; aerobic power today" timeoffset="146.000000"/>
-            <textevent message="30 seconds out, start thinking about your cadence" timeoffset="156.000000"/>
-            <textevent message="Shoot for at least 100rpm for the sprint..." timeoffset="166.000000"/>
-            <textevent message="even as high as 120-130rpm as long as you can control it" timeoffset="176.000000"/>
+            <textevent message="3 quick minutes to recover your breathing and slow your HR" timeoffset="6"/>
+            <textevent message="Next up are the racewinner intervals" timeoffset="96"/>
+            <textevent message="Racewinners are made up of a 12-second sprint at 150% of FTP..." timeoffset="106"/>
+            <textevent message="followed by 4 minutes at 95% of FTP" timeoffset="116"/>
+            <textevent message="The 12-second sprints will enhance muscle fiber recruitment..." timeoffset="126"/>
+            <textevent message="followed by some muscular endurance work during the subsequent 4 minutes" timeoffset="136"/>
+            <textevent message="You'll be taxing (and eventually improving) both anaerobic &amp; aerobic power today" timeoffset="146"/>
+            <textevent message="30 seconds out, start thinking about your cadence" timeoffset="156"/>
+            <textevent message="Shoot for at least 100rpm for the sprint..." timeoffset="166"/>
+            <textevent message="even as high as 120-130rpm as long as you can control it" timeoffset="176"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500">
-            <textevent message="Go! 15 seconds" timeoffset="0.000000"/>
+            <textevent message="Go! 15 seconds" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950">
-            <textevent message="Nice, don't let your cadence drop too much" timeoffset="0.000000"/>
-            <textevent message="Try to keep it at 90rpm or higher while you..." timeoffset="10.000000"/>
-            <textevent message="use this short ramp to regain composure &amp; settle in" timeoffset="20.000000"/>
+            <textevent message="Nice, don't let your cadence drop too much" timeoffset="0"/>
+            <textevent message="Try to keep it at 90rpm or higher while you..." timeoffset="10"/>
+            <textevent message="use this short ramp to regain composure &amp; settle in" timeoffset="20"/>
         </Warmup>
         <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950">
-            <textevent message="Try not to let your cadence drop for the next 4 minutes" timeoffset="0.000000"/>
-            <textevent message="Pedaling at a higher cadence is more efficient in terms of muscle fatigue..." timeoffset="10.000000"/>
-            <textevent message="because a slow cadence places the brunt of the work on your muscles..." timeoffset="20.000000"/>
-            <textevent message="whereas a faster cadence shifts the stress toward your heart &amp; lungs" timeoffset="30.000000"/>
+            <textevent message="Try not to let your cadence drop for the next 4 minutes" timeoffset="0"/>
+            <textevent message="Pedaling at a higher cadence is more efficient in terms of muscle fatigue..." timeoffset="10"/>
+            <textevent message="because a slow cadence places the brunt of the work on your muscles..." timeoffset="20"/>
+            <textevent message="whereas a faster cadence shifts the stress toward your heart &amp; lungs" timeoffset="30"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Try not to let your cadence drop too much during these brief recoveries" timeoffset="0.000000"/>
-            <textevent message="Bring your cadence back up going again in 10 seconds" timeoffset="50.000000"/>
+            <textevent message="Try not to let your cadence drop too much during these brief recoveries" timeoffset="0"/>
+            <textevent message="Bring your cadence back up going again in 10 seconds" timeoffset="50"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500">
-            <textevent message="Drill it, 15 seconds!" timeoffset="0.000000"/>
+            <textevent message="Drill it, 15 seconds!" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950">
-            <textevent message="Steadily ramp things back up &amp; try to clear any heaviness" timeoffset="0.000000"/>
+            <textevent message="Steadily ramp things back up &amp; try to clear any heaviness" timeoffset="0"/>
         </Warmup>
         <SteadyState Duration="210.0" PowerLow="0.950" PowerHigh="0.950">
-            <textevent message="Stay tough! You have a full 5 minutes of recovery ahead of you" timeoffset="90.000000"/>
-            <textevent message="Make this last kick look easy!" timeoffset="200.000000"/>
+            <textevent message="Stay tough! You have a full 5 minutes of recovery ahead of you" timeoffset="90"/>
+            <textevent message="Make this last kick look easy!" timeoffset="200"/>
         </SteadyState>
         <Warmup Duration="30.0" PowerLow="0.950" PowerHigh="1.400">
-            <textevent message="Hold your leg speed or increase it...all the way to the top!" timeoffset="0.000000"/>
+            <textevent message="Hold your leg speed or increase it...all the way to the top!" timeoffset="0"/>
         </Warmup>
         <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="First set - done!" timeoffset="0.000000"/>
-            <textevent message="Enjoy a few minutes of well-earned recovery" timeoffset="10.000000"/>
-            <textevent message="Next set starts in 30 seconds" timeoffset="210.000000"/>
-            <textevent message="Make sure your cadence is at least 100rpm BEFORE the interval starts" timeoffset="220.000000"/>
+            <textevent message="First set - done!" timeoffset="0"/>
+            <textevent message="Enjoy a few minutes of well-earned recovery" timeoffset="10"/>
+            <textevent message="Next set starts in 30 seconds" timeoffset="210"/>
+            <textevent message="Make sure your cadence is at least 100rpm BEFORE the interval starts" timeoffset="220"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500">
-            <textevent message="15 seconds HARD!" timeoffset="0.000000"/>
+            <textevent message="15 seconds HARD!" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950">
-            <textevent message="Slow your legs but don't back off too far" timeoffset="0.000000"/>
+            <textevent message="Slow your legs but don't back off too far" timeoffset="0"/>
         </Warmup>
         <SteadyState Duration="240.0" PowerLow="0.950" PowerHigh="0.950">
-            <textevent message="OK, settle into a sustainable cadence" timeoffset="0.000000"/>
-            <textevent message="Shoot for something above 85rpm" timeoffset="10.000000"/>
-            <textevent message="Once you've settled into a sustainable cadence..." timeoffset="45.000000"/>
-            <textevent message="check your position on the saddle" timeoffset="55.000000"/>
-            <textevent message="Make sure that your pelvis isn't tilted too far forward" timeoffset="65.000000"/>
-            <textevent message="A good way to avoid this is to position your sit bones..." timeoffset="75.000000"/>
-            <textevent message="on the wings (widest part) of your saddle" timeoffset="85.000000"/>
+            <textevent message="OK, settle into a sustainable cadence" timeoffset="0"/>
+            <textevent message="Shoot for something above 85rpm" timeoffset="10"/>
+            <textevent message="Once you've settled into a sustainable cadence..." timeoffset="45"/>
+            <textevent message="check your position on the saddle" timeoffset="55"/>
+            <textevent message="Make sure that your pelvis isn't tilted too far forward" timeoffset="65"/>
+            <textevent message="A good way to avoid this is to position your sit bones..." timeoffset="75"/>
+            <textevent message="on the wings (widest part) of your saddle" timeoffset="85"/>
         </SteadyState>
         <SteadyState Duration="60.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Excellent, only 1 to go. Take it easy for a minute" timeoffset="0.000000"/>
-            <textevent message="Time to bring that cadence back up, next sprint is in 10 seconds" timeoffset="50.000000"/>
+            <textevent message="Excellent, only 1 to go. Take it easy for a minute" timeoffset="0"/>
+            <textevent message="Time to bring that cadence back up, next sprint is in 10 seconds" timeoffset="50"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500">
-            <textevent message="Last sprint, go hard!" timeoffset="0.000000"/>
+            <textevent message="Last sprint, go hard!" timeoffset="0"/>
         </SteadyState>
         <Warmup Duration="45.0" PowerLow="0.850" PowerHigh="0.950">
-            <textevent message="Gradually work your power back up" timeoffset="0.000000"/>
+            <textevent message="Gradually work your power back up" timeoffset="0"/>
         </Warmup>
         <SteadyState Duration="210.0" PowerLow="0.950" PowerHigh="0.950">
-            <textevent message="This is the last interval of its kind in this workout..." timeoffset="0.000000"/>
-            <textevent message="so don't allow yourself to bail out early unless you absolutely have to" timeoffset="10.000000"/>
-            <textevent message="Last 30-second kick just ahead" timeoffset="200.000000"/>
+            <textevent message="This is the last interval of its kind in this workout..." timeoffset="0"/>
+            <textevent message="so don't allow yourself to bail out early unless you absolutely have to" timeoffset="10"/>
+            <textevent message="Last 30-second kick just ahead" timeoffset="200"/>
         </SteadyState>
         <Warmup Duration="30.0" PowerLow="0.950" PowerHigh="1.400">
-            <textevent message="Again, do your best to make this look like you're not working" timeoffset="0.000000"/>
-            <textevent message="Try to display PERFECT form all the way up" timeoffset="10.000000"/>
+            <textevent message="Again, do your best to make this look like you're not working" timeoffset="0"/>
+            <textevent message="Try to display PERFECT form all the way up" timeoffset="10"/>
         </Warmup>
         <SteadyState Duration="240.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="And relax! Keep the pedals turning forward for at least another 30 seconds" timeoffset="0.000000"/>
-            <textevent message="Soak in the recovery before start the microburst portion of the workout" timeoffset="10.000000"/>
-            <textevent message="Microbursts are one of the best ways to spend your training time because..." timeoffset="20.000000"/>
-            <textevent message="they allow you to accumulate a lot of time at a higher percentage of FTP" timeoffset="30.000000"/>
-            <textevent message="than you could normally hold for an extended period of time" timeoffset="40.000000"/>
-            <textevent message="These microbursts are typical in that they're each 15 seconds at 150% FTP" timeoffset="60.000000"/>
-            <textevent message="The recovery intervals are stadard fare too, 15 seconds long" timeoffset="70.000000"/>
-            <textevent message="Microbursts target anaerobic improvements as well as aerobic ones" timeoffset="80.000000"/>
-            <textevent message="What starts out predominantly anaerobic becomes..." timeoffset="90.000000"/>
-            <textevent message="increasingly aerobic as you fatigue over the course of the sets" timeoffset="100.000000"/>
-            <textevent message="Take another few minutes to spin your legs out" timeoffset="110.000000"/>
-            <textevent message="About 1 minute until we start the microbursts" timeoffset="180.000000"/>
-            <textevent message="Make sure you have a quick cadence for these" timeoffset="190.000000"/>
-            <textevent message="100rpm is great, 110rpm is better, 120rpm is ideal..." timeoffset="200.000000"/>
-            <textevent message="but it all comes down to the fastest cadence you can control" timeoffset="210.000000"/>
-            <textevent message="Bring your cadence up..." timeoffset="230.000000"/>
+            <textevent message="And relax! Keep the pedals turning forward for at least another 30 seconds" timeoffset="0"/>
+            <textevent message="Soak in the recovery before start the microburst portion of the workout" timeoffset="10"/>
+            <textevent message="Microbursts are one of the best ways to spend your training time because..." timeoffset="20"/>
+            <textevent message="they allow you to accumulate a lot of time at a higher percentage of FTP" timeoffset="30"/>
+            <textevent message="than you could normally hold for an extended period of time" timeoffset="40"/>
+            <textevent message="These microbursts are typical in that they're each 15 seconds at 150% FTP" timeoffset="60"/>
+            <textevent message="The recovery intervals are stadard fare too, 15 seconds long" timeoffset="70"/>
+            <textevent message="Microbursts target anaerobic improvements as well as aerobic ones" timeoffset="80"/>
+            <textevent message="What starts out predominantly anaerobic becomes..." timeoffset="90"/>
+            <textevent message="increasingly aerobic as you fatigue over the course of the sets" timeoffset="100"/>
+            <textevent message="Take another few minutes to spin your legs out" timeoffset="110"/>
+            <textevent message="About 1 minute until we start the microbursts" timeoffset="180"/>
+            <textevent message="Make sure you have a quick cadence for these" timeoffset="190"/>
+            <textevent message="100rpm is great, 110rpm is better, 120rpm is ideal..." timeoffset="200"/>
+            <textevent message="but it all comes down to the fastest cadence you can control" timeoffset="210"/>
+            <textevent message="Bring your cadence up..." timeoffset="230"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500">
-            <textevent message="And go! 15 seconds at a time" timeoffset="0.000000"/>
+            <textevent message="And go! 15 seconds at a time" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="15 seconds rest but KEEP YOUR LEGS QUICK" timeoffset="0.000000"/>
+            <textevent message="15 seconds rest but KEEP YOUR LEGS QUICK" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500">
-            <textevent message="15 seconds of high power..." timeoffset="0.000000"/>
+            <textevent message="15 seconds of high power..." timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="15 seconds of quick, easy spinning..." timeoffset="0.000000"/>
-            <textevent message="Rinse &amp; repeat ;)" timeoffset="7.000000"/>
+            <textevent message="15 seconds of quick, easy spinning..." timeoffset="0"/>
+            <textevent message="Rinse &amp; repeat ;)" timeoffset="7"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400"/>
@@ -162,16 +162,16 @@
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400"/>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Halfway through the first set!" timeoffset="0.000000"/>
-            <textevent message="If you absolutely need to, you can backpedal through a few seconnds of each recovery valley" timeoffset="7.000000"/>
-        </SteadyState>
-        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
-        <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Alternatively, you can skip the occasional microburst by backpedaling" timeoffset="0.000000"/>
+            <textevent message="Halfway through the first set!" timeoffset="0"/>
+            <textevent message="If you absolutely need to, you can backpedal through a few seconnds of each recovery valley" timeoffset="7"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="You'll know you NEED a break when you can't keep your speed and/or power" timeoffset="0.000000"/>
+            <textevent message="Alternatively, you can skip the occasional microburst by backpedaling" timeoffset="0"/>
+        </SteadyState>
+        <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
+        <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400">
+            <textevent message="You'll know you NEED a break when you can't keep your speed and/or power" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400"/>
@@ -185,21 +185,21 @@
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400"/>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
         <SteadyState Duration="135.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Nicely done! Make the most of a couple minutes of recovery" timeoffset="0.000000"/>
-            <textevent message="If you had to backpedal through 3 or more microbursts..." timeoffset="10.000000"/>
-            <textevent message="consider dropping the Workout Intensity a bit, maybe 5-10%" timeoffset="20.000000"/>
-            <textevent message="What you've done is already a substantial workout..." timeoffset="30.000000"/>
-            <textevent message="and you'll benefit more from completing full sets of microbursts..." timeoffset="40.000000"/>
-            <textevent message="than completing partial sets by skipping too many intervals" timeoffset="50.000000"/>
-            <textevent message="That said, these are meant to be uncomfortable..." timeoffset="60.000000"/>
-            <textevent message="so unless you HAD to skip intervals, try to leave the intensity alne for now" timeoffset="70.000000"/>
-            <textevent message="Next interval is fast approaching, so start finding your cadence now" timeoffset="115.000000"/>
+            <textevent message="Nicely done! Make the most of a couple minutes of recovery" timeoffset="0"/>
+            <textevent message="If you had to backpedal through 3 or more microbursts..." timeoffset="10"/>
+            <textevent message="consider dropping the Workout Intensity a bit, maybe 5-10%" timeoffset="20"/>
+            <textevent message="What you've done is already a substantial workout..." timeoffset="30"/>
+            <textevent message="and you'll benefit more from completing full sets of microbursts..." timeoffset="40"/>
+            <textevent message="than completing partial sets by skipping too many intervals" timeoffset="50"/>
+            <textevent message="That said, these are meant to be uncomfortable..." timeoffset="60"/>
+            <textevent message="so unless you HAD to skip intervals, try to leave the intensity alne for now" timeoffset="70"/>
+            <textevent message="Next interval is fast approaching, so start finding your cadence now" timeoffset="115"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500">
-            <textevent message="Here we go! Round 2" timeoffset="0.000000"/>
+            <textevent message="Here we go! Round 2" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="High leg speed the ENTIRE time unless you're backpedaling" timeoffset="0.000000"/>
+            <textevent message="High leg speed the ENTIRE time unless you're backpedaling" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400"/>
@@ -219,7 +219,7 @@
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400"/>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="More than halfway through, stay tough, stay focused" timeoffset="0.000000"/>
+            <textevent message="More than halfway through, stay tough, stay focused" timeoffset="0"/>
         </SteadyState>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400"/>
@@ -233,10 +233,10 @@
         <SteadyState Duration="15.0" PowerLow="0.400" PowerHigh="0.400"/>
         <SteadyState Duration="15.0" PowerLow="1.500" PowerHigh="1.500"/>
         <Cooldown Duration="75.0" PowerLow="0.400" PowerHigh="0.300">
-            <textevent message="Excellent! That's a lot of work to cram into an hour" timeoffset="0.000000"/>
-            <textevent message="Take more than the short time allotted to cool down, and while you do..." timeoffset="10.000000"/>
-            <textevent message="start to plan (or consume) your post-workout recovery nutrition" timeoffset="20.000000"/>
-            <textevent message="We'll see you next time" timeoffset="30.000000"/>
+            <textevent message="Excellent! That's a lot of work to cram into an hour" timeoffset="0"/>
+            <textevent message="Take more than the short time allotted to cool down, and while you do..." timeoffset="10"/>
+            <textevent message="start to plan (or consume) your post-workout recovery nutrition" timeoffset="20"/>
+            <textevent message="We'll see you next time" timeoffset="30"/>
         </Cooldown>
     </workout>
 </workout_file>

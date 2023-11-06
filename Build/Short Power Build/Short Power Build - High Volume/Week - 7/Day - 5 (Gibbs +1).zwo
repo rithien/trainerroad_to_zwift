@@ -6,68 +6,68 @@
         <SteadyState Duration="600.0" PowerLow="0.500" PowerHigh="0.500"/>
         <Warmup Duration="60.0" PowerLow="0.500" PowerHigh="0.600"/>
         <SteadyState Duration="900.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="During this 15-minute stretch, include a couple Form Sprints" timeoffset="-1.000000"/>
+            <textevent message="During this 15-minute stretch, include a couple Form Sprints" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.650"/>
         <SteadyState Duration="540.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Use 5 of these minutes as an Endurance Spin" timeoffset="-1.000000"/>
+            <textevent message="Use 5 of these minutes as an Endurance Spin" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Use this 15 minutes to alternate your Single Leg Focus each minute " timeoffset="-1.000000"/>
+            <textevent message="Use this 15 minutes to alternate your Single Leg Focus each minute " timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
         <SteadyState Duration="1800.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="Over this 30 minutes, add 2 more 5-minute Endurance Spins" timeoffset="-1.000000"/>
+            <textevent message="Over this 30 minutes, add 2 more 5-minute Endurance Spins" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
         <SteadyState Duration="240.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Another 15 minutes, another opportunity for a couple of Form Sprints" timeoffset="-1.000000"/>
+            <textevent message="Another 15 minutes, another opportunity for a couple of Form Sprints" timeoffset="-1"/>
         </SteadyState>
         <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
-            <textevent message="Go hard!" timeoffset="0.000000"/>
-            <textevent message="10 seconds to go!" timeoffset="10.000000"/>
-            <textevent message="Keep it!" timeoffset="15.000000"/>
+            <textevent message="Go hard!" timeoffset="0"/>
+            <textevent message="10 seconds to go!" timeoffset="10"/>
+            <textevent message="Keep it!" timeoffset="15"/>
         </SteadyState>
         <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.700">
-            <textevent message="Well done" timeoffset="0.000000"/>
-            <textevent message="Dial things back &amp; catch your breath" timeoffset="5.000000"/>
+            <textevent message="Well done" timeoffset="0"/>
+            <textevent message="Dial things back &amp; catch your breath" timeoffset="5"/>
         </Warmup>
         <SteadyState Duration="300.0" PowerLow="0.700" PowerHigh="0.700"/>
         <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
-            <textevent message="Go hard!" timeoffset="0.000000"/>
-            <textevent message="10 seconds to go!" timeoffset="10.000000"/>
-            <textevent message="Keep it!" timeoffset="15.000000"/>
+            <textevent message="Go hard!" timeoffset="0"/>
+            <textevent message="10 seconds to go!" timeoffset="10"/>
+            <textevent message="Keep it!" timeoffset="15"/>
         </SteadyState>
         <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.700">
-            <textevent message="Well done" timeoffset="0.000000"/>
-            <textevent message="Dial things back &amp; catch your breath" timeoffset="5.000000"/>
+            <textevent message="Well done" timeoffset="0"/>
+            <textevent message="Dial things back &amp; catch your breath" timeoffset="5"/>
         </Warmup>
         <SteadyState Duration="240.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
         <SteadyState Duration="180.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="One more short stretch of alternating Single Leg Focus, 1 minute at a time" timeoffset="-1.000000"/>
+            <textevent message="One more short stretch of alternating Single Leg Focus, 1 minute at a time" timeoffset="-1"/>
         </SteadyState>
         <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
-            <textevent message="Go hard!" timeoffset="0.000000"/>
-            <textevent message="10 seconds to go!" timeoffset="10.000000"/>
-            <textevent message="Keep it!" timeoffset="15.000000"/>
+            <textevent message="Go hard!" timeoffset="0"/>
+            <textevent message="10 seconds to go!" timeoffset="10"/>
+            <textevent message="Keep it!" timeoffset="15"/>
         </SteadyState>
         <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.650">
-            <textevent message="Well done" timeoffset="0.000000"/>
-            <textevent message="Dial things back &amp; catch your breath" timeoffset="5.000000"/>
+            <textevent message="Well done" timeoffset="0"/>
+            <textevent message="Dial things back &amp; catch your breath" timeoffset="5"/>
         </Warmup>
         <SteadyState Duration="120.0" PowerLow="0.650" PowerHigh="0.650"/>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="180.0" PowerLow="0.700" PowerHigh="0.700"/>
         <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
-            <textevent message="Go hard!" timeoffset="0.000000"/>
-            <textevent message="10 seconds to go!" timeoffset="10.000000"/>
-            <textevent message="Keep it!" timeoffset="15.000000"/>
+            <textevent message="Go hard!" timeoffset="0"/>
+            <textevent message="10 seconds to go!" timeoffset="10"/>
+            <textevent message="Keep it!" timeoffset="15"/>
         </SteadyState>
         <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.700">
-            <textevent message="Well done" timeoffset="0.000000"/>
-            <textevent message="Dial things back &amp; catch your breath" timeoffset="5.000000"/>
+            <textevent message="Well done" timeoffset="0"/>
+            <textevent message="Dial things back &amp; catch your breath" timeoffset="5"/>
         </Warmup>
         <SteadyState Duration="300.0" PowerLow="0.700" PowerHigh="0.700"/>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.500"/>

@@ -35,11 +35,11 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Ragged!	5	0	0	72	16777215	10
-0	Coach Chad here to distract and educate you..	4	0	0	72	16777215	17
+0	Coach here, ready to distract and educate you..	4	0	0	72	16777215	17
 0	over this series of increasingly demanding, steady-state steps	5	0	0	72	16777215	22
 0	Keep your spin light and quick...	4	0	0	72	16777215	29
 0	and we'll get into the gory details in a few minutes	5	0	0	72	16777215	34
-0	These lowo-recovery steps are each 14 minutes long...	8	0	0	72	16777215	90
+0	These low-recovery steps are each 14 minutes long...	8	0	0	72	16777215	90
 0	and start at 60% of FTP, effectively continuing your warmup	8	0	0	72	16777215	100
 0	You'll face the same 10% increase in FTP with every step...	8	0	0	72	16777215	110
 0	as you gradually progress your power up to 100% FTP	8	0	0	72	16777215	120

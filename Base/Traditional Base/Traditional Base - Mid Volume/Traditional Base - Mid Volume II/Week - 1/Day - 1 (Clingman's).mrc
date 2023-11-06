@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = 60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP with the addition of 3x1-minute Force Intervals with 1 minute's rest between them and 3x10s Strength Sprints followed by 6 minutes of Tempo work. 
+DESCRIPTION = Clingman's&nbsp;is 60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP.&nbsp;It starts with 3x1-minute Force Intervals with 1.5-minute rest periods between them. Then, 13-minute tempo and sweet spot&nbsp;efforts between 80-90% FTP. The workout concludes with 3x5-9 minute tempo intervals, each of which starts with a 10-second Strength Sprint.
 FILE NAME = Clingman's
 MINUTES	FTP
 [END COURSE HEADER]

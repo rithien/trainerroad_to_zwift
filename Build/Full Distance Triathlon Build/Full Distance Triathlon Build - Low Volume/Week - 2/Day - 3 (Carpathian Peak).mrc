@@ -105,7 +105,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Carpathian Peak	5	0	0	72	16777215	10
-0	Coach Chad here to accompany you through a round of over-unders...	5	0	0	72	16777215	16
+0	Coach here, ready to accompany you through a round of over-unders...	5	0	0	72	16777215	16
 0	targeting improvements in muscular endurance	4	0	0	72	16777215	22
 0	Settle into a spin above 85rpm...	3	0	0	72	16777215	28
 0	and we'll talk about the workout just ahead	4	0	0	72	16777215	32
@@ -644,5 +644,3 @@ MINUTES	FTP
 
 [MODE DATA]
 [END MODE DATA]
-
- 

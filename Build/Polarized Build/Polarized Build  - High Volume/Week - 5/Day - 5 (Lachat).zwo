@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Lachat is 2 hours of steady, aerobic Endurance spent between 60-75% FTP.</description>
+    <name>Lachat</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerLow="0.500" PowerHigh="0.500"/>
+        <SteadyState Duration="300.0" PowerLow="0.600" PowerHigh="0.600"/>
+        <SteadyState Duration="720.0" PowerLow="0.700" PowerHigh="0.700"/>
+        <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.670"/>
+        <SteadyState Duration="600.0" PowerLow="0.670" PowerHigh="0.670"/>
+        <Warmup Duration="60.0" PowerLow="0.670" PowerHigh="0.720"/>
+        <SteadyState Duration="900.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <Warmup Duration="60.0" PowerLow="0.720" PowerHigh="0.750"/>
+        <SteadyState Duration="1200.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <Cooldown Duration="60.0" PowerLow="0.750" PowerHigh="0.720"/>
+        <SteadyState Duration="840.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <Warmup Duration="60.0" PowerLow="0.720" PowerHigh="0.750"/>
+        <SteadyState Duration="1080.0" PowerLow="0.750" PowerHigh="0.750"/>
+        <Cooldown Duration="60.0" PowerLow="0.750" PowerHigh="0.720"/>
+        <SteadyState Duration="600.0" PowerLow="0.720" PowerHigh="0.720"/>
+        <Cooldown Duration="300.0" PowerLow="0.720" PowerHigh="0.500"/>
+    </workout>
+</workout_file>

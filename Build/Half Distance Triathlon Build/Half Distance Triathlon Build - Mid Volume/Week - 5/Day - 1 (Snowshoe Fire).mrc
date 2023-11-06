@@ -44,8 +44,9 @@ MINUTES	FTP
 2040	2340	VO2 Max 2
 2940	3240	VO2 Max 3
 3840	4140	VO2 Max 4
-4140	5400	Endurance 2
 [END INTERVAL DATA]
 
 [MODE DATA]
 [END MODE DATA]
+
+                                

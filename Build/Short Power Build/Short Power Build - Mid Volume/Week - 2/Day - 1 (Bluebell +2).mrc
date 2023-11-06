@@ -131,7 +131,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Bluebell +2	5	0	0	72	16777215	10
-0	Coach Chad here, and I'll be joining you..	4	0	0	72	16777215	16
+0	Coach here, I'll be joining you..	4	0	0	72	16777215	16
 0	during this even longer VO2max endeavor	4	0	0	72	16777215	21
 0	While these efforts are pegged at a high percentage of FTP...	5	0	0	72	16777215	27
 0	their short durations are brief enough...	3	0	0	72	16777215	33
@@ -663,4 +663,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

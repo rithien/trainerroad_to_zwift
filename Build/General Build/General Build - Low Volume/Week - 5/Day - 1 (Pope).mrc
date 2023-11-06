@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Pope is 3 sets of 5&nbsp;intervals ranging from 1-minute to 1-minute and 10 seconds. Intervals are between 110 and&nbsp;120% FTP. Recoveries between intervals are 2 minutes long and recoveries between sets of intervals are 3 m
+DESCRIPTION = Pope is 3 sets of 5&nbsp;intervals ranging from 1-minute to 1-minute and 10 seconds. Intervals are between 110 and&nbsp;120% FTP. Recoveries between intervals are 2 minutes long and recoveries between sets of intervals are 3 minutes and 20 seconds.
 FILE NAME = Pope
 MINUTES	FTP
 [END COURSE HEADER]

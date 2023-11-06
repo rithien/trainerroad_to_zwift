@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <workout_file>
-    <description>Brasted consists of 3 sets of 13x30/15's where you'll ride at 120% FTP for 30 seconds before recovering briefly for only 15 seconds between repeats. Recoveries beween sets of repeats are also pretty short at just 3 minutes each.</description>
+    <description>Brasted consists of 3 sets of 13x30/15's where you'll ride at 120% FTP for 30 seconds before recovering briefly for only 15 seconds between repeats. Recoveries between sets of repeats are also pretty short at just 3 minutes each.</description>
     <name>Brasted</name>
     <workout>
         <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500"/>

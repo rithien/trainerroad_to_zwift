@@ -4,126 +4,126 @@
     <name>Dans</name>
     <workout>
         <SteadyState Duration="600.0" PowerLow="0.450" PowerHigh="0.450">
-            <textevent message="Welcome to Dans..." timeoffset="10.000000"/>
-            <textevent message="a light recovery spin with a few possible objectives" timeoffset="16.000000"/>
-            <textevent message="We'll talk about them in a few minutes..." timeoffset="23.000000"/>
-            <textevent message="but until then, just spin lightly &amp; quickly" timeoffset="28.000000"/>
-            <textevent message="Keep that reasonably quick, nicely light spin..." timeoffset="300.000000"/>
-            <textevent message="in the 85-95rpm range throughout the workout today" timeoffset="306.000000"/>
-            <textevent message="If you simply can't spin above 85rpm..." timeoffset="313.000000"/>
-            <textevent message="you might be better served by a day of full rest..." timeoffset="319.000000"/>
-            <textevent message="rather than one of active recovery" timeoffset="325.000000"/>
-            <textevent message="And no need to exceed 95rpm..." timeoffset="331.000000"/>
-            <textevent message="since the primary goal here is to accumulate some extra &quot;mileage&quot;..." timeoffset="336.000000"/>
-            <textevent message="without inducing any further fatigue" timeoffset="342.000000"/>
-            <textevent message="So the ostensible goal of a &quot;recovery ride&quot;..." timeoffset="360.000000"/>
-            <textevent message="is to assist the recovery process in a number of ways" timeoffset="369.000000"/>
-            <textevent message="But whether or not this actually happens is debatable" timeoffset="376.000000"/>
-            <textevent message="A less contentious matter though..." timeoffset="383.000000"/>
-            <textevent message="is the effect extra mileage can have on your aerobic efficiency..." timeoffset="387.000000"/>
-            <textevent message="as well as your muscular control or pedal economy" timeoffset="394.000000"/>
-            <textevent message="So if you think of &quot;recovery rides&quot; more in terms..." timeoffset="401.000000"/>
-            <textevent message="of accumulating extra saddle time, extra go-nowhere mileage..." timeoffset="406.000000"/>
-            <textevent message="they become less about recovery and more about improvement" timeoffset="412.000000"/>
-            <textevent message="So whether this improvement comes as a result..." timeoffset="419.000000"/>
-            <textevent message="of increased blood flow to the muscles..." timeoffset="425.000000"/>
-            <textevent message="increased removal of waste products..." timeoffset="430.000000"/>
-            <textevent message="so-called removal of lactate hours after its natural return to normal..." timeoffset="435.000000"/>
-            <textevent message="is increasingly irrelevant, decreasingly relevant, right?" timeoffset="442.000000"/>
-            <textevent message="The real question is, and always should be..." timeoffset="449.000000"/>
-            <textevent message="&quot;Will this make me faster without causing injury or illness?&quot;" timeoffset="455.000000"/>
-            <textevent message="And the answer is..." timeoffset="462.000000"/>
-            <textevent message="&quot;It Depends&quot;" timeoffset="466.000000"/>
-            <textevent message="Because it always does" timeoffset="470.000000"/>
-            <textevent message="In this case..." timeoffset="475.000000"/>
-            <textevent message="this depends on how effectively you manage your fatigue" timeoffset="479.000000"/>
-            <textevent message="And we'll talk more about this &quot;fatigue management&quot; soon" timeoffset="486.000000"/>
+            <textevent message="Welcome to Dans..." timeoffset="10"/>
+            <textevent message="a light recovery spin with a few possible objectives" timeoffset="16"/>
+            <textevent message="We'll talk about them in a few minutes..." timeoffset="23"/>
+            <textevent message="but until then, just spin lightly &amp; quickly" timeoffset="28"/>
+            <textevent message="Keep that reasonably quick, nicely light spin..." timeoffset="300"/>
+            <textevent message="in the 85-95rpm range throughout the workout today" timeoffset="306"/>
+            <textevent message="If you simply can't spin above 85rpm..." timeoffset="313"/>
+            <textevent message="you might be better served by a day of full rest..." timeoffset="319"/>
+            <textevent message="rather than one of active recovery" timeoffset="325"/>
+            <textevent message="And no need to exceed 95rpm..." timeoffset="331"/>
+            <textevent message="since the primary goal here is to accumulate some extra &quot;mileage&quot;..." timeoffset="336"/>
+            <textevent message="without inducing any further fatigue" timeoffset="342"/>
+            <textevent message="So the ostensible goal of a &quot;recovery ride&quot;..." timeoffset="360"/>
+            <textevent message="is to assist the recovery process in a number of ways" timeoffset="369"/>
+            <textevent message="But whether or not this actually happens is debatable" timeoffset="376"/>
+            <textevent message="A less contentious matter though..." timeoffset="383"/>
+            <textevent message="is the effect extra mileage can have on your aerobic efficiency..." timeoffset="387"/>
+            <textevent message="as well as your muscular control or pedal economy" timeoffset="394"/>
+            <textevent message="So if you think of &quot;recovery rides&quot; more in terms..." timeoffset="401"/>
+            <textevent message="of accumulating extra saddle time, extra go-nowhere mileage..." timeoffset="406"/>
+            <textevent message="they become less about recovery and more about improvement" timeoffset="412"/>
+            <textevent message="So whether this improvement comes as a result..." timeoffset="419"/>
+            <textevent message="of increased blood flow to the muscles..." timeoffset="425"/>
+            <textevent message="increased removal of waste products..." timeoffset="430"/>
+            <textevent message="so-called removal of lactate hours after its natural return to normal..." timeoffset="435"/>
+            <textevent message="is increasingly irrelevant, decreasingly relevant, right?" timeoffset="442"/>
+            <textevent message="The real question is, and always should be..." timeoffset="449"/>
+            <textevent message="&quot;Will this make me faster without causing injury or illness?&quot;" timeoffset="455"/>
+            <textevent message="And the answer is..." timeoffset="462"/>
+            <textevent message="&quot;It Depends&quot;" timeoffset="466"/>
+            <textevent message="Because it always does" timeoffset="470"/>
+            <textevent message="In this case..." timeoffset="475"/>
+            <textevent message="this depends on how effectively you manage your fatigue" timeoffset="479"/>
+            <textevent message="And we'll talk more about this &quot;fatigue management&quot; soon" timeoffset="486"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.450" PowerHigh="0.550">
-            <textevent message="As your effort rises slightly..." timeoffset="0.000000"/>
-            <textevent message="see to it that this small increase in Target Power..." timeoffset="4.000000"/>
-            <textevent message="neither slows your spin below 85rpm..." timeoffset="10.000000"/>
-            <textevent message="nor causes any acidic, burning sensation in your legs" timeoffset="15.000000"/>
-            <textevent message="THIS is the nature of active recovery..." timeoffset="22.000000"/>
-            <textevent message="and the basis of why your fitness DEPENDS..." timeoffset="27.000000"/>
-            <textevent message="on how you approach your recovery rides" timeoffset="32.000000"/>
+            <textevent message="As your effort rises slightly..." timeoffset="0"/>
+            <textevent message="see to it that this small increase in Target Power..." timeoffset="4"/>
+            <textevent message="neither slows your spin below 85rpm..." timeoffset="10"/>
+            <textevent message="nor causes any acidic, burning sensation in your legs" timeoffset="15"/>
+            <textevent message="THIS is the nature of active recovery..." timeoffset="22"/>
+            <textevent message="and the basis of why your fitness DEPENDS..." timeoffset="27"/>
+            <textevent message="on how you approach your recovery rides" timeoffset="32"/>
         </Warmup>
         <SteadyState Duration="540.0" PowerLow="0.550" PowerHigh="0.550">
-            <textevent message="Regardless of the benefits of adding recovery rides to your regimen..." timeoffset="0.000000"/>
-            <textevent message="one clear goal rises above any other:" timeoffset="6.000000"/>
-            <textevent message="Accumulate No Further Fatigue" timeoffset="11.000000"/>
-            <textevent message="And this one, simple requirement makes your job easy" timeoffset="16.000000"/>
-            <textevent message="By paying attention to how you're responding to the light effort..." timeoffset="23.000000"/>
-            <textevent message="you can decide just how light the watts need to be..." timeoffset="30.000000"/>
-            <textevent message="and just how long you can remain on the bike..." timeoffset="36.000000"/>
-            <textevent message="for your recovery rides to improve rather than hinder your fitness" timeoffset="42.000000"/>
-            <textevent message="For some, this can be 70% of FTP..." timeoffset="50.000000"/>
-            <textevent message="while it's more like 40% of FTP for others" timeoffset="55.000000"/>
-            <textevent message="On top of this disparity between riders..." timeoffset="61.000000"/>
-            <textevent message="there's also the matter of each rider's level of fatigue" timeoffset="66.000000"/>
-            <textevent message="On days when it's exceptionally high..." timeoffset="73.000000"/>
-            <textevent message="even 40% FTP could be a little too taxing" timeoffset="78.000000"/>
-            <textevent message="Then days where the fatigue isn't as substantial..." timeoffset="84.000000"/>
-            <textevent message="70% FTP might actually feel easy, recuperative" timeoffset="90.000000"/>
-            <textevent message="The gist of all of this?" timeoffset="97.000000"/>
-            <textevent message="Each rider must build his/her own fatigue profile" timeoffset="102.000000"/>
-            <textevent message="And it's as simple as making notes at the end of each ride..." timeoffset="109.000000"/>
-            <textevent message="or using any of the myriad training log options that exist today" timeoffset="115.000000"/>
-            <textevent message="However you record these tidbits of information..." timeoffset="123.000000"/>
-            <textevent message="the more detailed and consistent you are with your records..." timeoffset="129.000000"/>
-            <textevent message="the more useful they'll prove in the future..." timeoffset="135.000000"/>
-            <textevent message="to you, perhaps a coach, even a sports physician or general MD" timeoffset="141.000000"/>
-            <textevent message="Regardless of who might need this information or when..." timeoffset="148.000000"/>
-            <textevent message="it can prove an invaluable resource to the performance-oriented athlete" timeoffset="154.000000"/>
-            <textevent message="So make notes! :-)" timeoffset="162.000000"/>
-            <textevent message="Back to the matter of how much is too much" timeoffset="240.000000"/>
-            <textevent message="Recovery rides have been found most beneficial in a narrow timeframe" timeoffset="247.000000"/>
-            <textevent message="The science says that anywhere between 4-24 hours is optimal" timeoffset="255.000000"/>
-            <textevent message="So between 4 to 24 hours after a &quot;hard&quot; workout or race..." timeoffset="262.000000"/>
-            <textevent message="hard either in terms of intensity, duration or both..." timeoffset="268.000000"/>
-            <textevent message="ride anywhere from 20 to 60-minutes..." timeoffset="273.000000"/>
-            <textevent message="at your personal (for the moment) recovery pace..." timeoffset="278.000000"/>
-            <textevent message="and let the benefits abound!" timeoffset="283.000000"/>
-            <textevent message="If the prospect of 20 minutes seems daunting..." timeoffset="289.000000"/>
-            <textevent message="you're probably better off taking a day of full rest" timeoffset="294.000000"/>
-            <textevent message="And any rides over an hour aren't really recovery rides..." timeoffset="301.000000"/>
-            <textevent message="so much as Endurance rides with different training objectives" timeoffset="307.000000"/>
-            <textevent message="But light effort, within 4-24 hours after a taxing ride..." timeoffset="314.000000"/>
-            <textevent message="between 20-60 minutes in duration..." timeoffset="320.000000"/>
-            <textevent message="might be the easiest fitness gains you'll ever attain" timeoffset="325.000000"/>
-            <textevent message="And they can transform even the tightest of time-constrained training schedules..." timeoffset="332.000000"/>
-            <textevent message="into ones that look a little less limited on weekly hours..." timeoffset="339.000000"/>
-            <textevent message="because these rides are short &amp; easy to squeeze in should you find the time" timeoffset="345.000000"/>
+            <textevent message="Regardless of the benefits of adding recovery rides to your regimen..." timeoffset="0"/>
+            <textevent message="one clear goal rises above any other:" timeoffset="6"/>
+            <textevent message="Accumulate No Further Fatigue" timeoffset="11"/>
+            <textevent message="And this one, simple requirement makes your job easy" timeoffset="16"/>
+            <textevent message="By paying attention to how you're responding to the light effort..." timeoffset="23"/>
+            <textevent message="you can decide just how light the watts need to be..." timeoffset="30"/>
+            <textevent message="and just how long you can remain on the bike..." timeoffset="36"/>
+            <textevent message="for your recovery rides to improve rather than hinder your fitness" timeoffset="42"/>
+            <textevent message="For some, this can be 70% of FTP..." timeoffset="50"/>
+            <textevent message="while it's more like 40% of FTP for others" timeoffset="55"/>
+            <textevent message="On top of this disparity between riders..." timeoffset="61"/>
+            <textevent message="there's also the matter of each rider's level of fatigue" timeoffset="66"/>
+            <textevent message="On days when it's exceptionally high..." timeoffset="73"/>
+            <textevent message="even 40% FTP could be a little too taxing" timeoffset="78"/>
+            <textevent message="Then days where the fatigue isn't as substantial..." timeoffset="84"/>
+            <textevent message="70% FTP might actually feel easy, recuperative" timeoffset="90"/>
+            <textevent message="The gist of all of this?" timeoffset="97"/>
+            <textevent message="Each rider must build his/her own fatigue profile" timeoffset="102"/>
+            <textevent message="And it's as simple as making notes at the end of each ride..." timeoffset="109"/>
+            <textevent message="or using any of the myriad training log options that exist today" timeoffset="115"/>
+            <textevent message="However you record these tidbits of information..." timeoffset="123"/>
+            <textevent message="the more detailed and consistent you are with your records..." timeoffset="129"/>
+            <textevent message="the more useful they'll prove in the future..." timeoffset="135"/>
+            <textevent message="to you, perhaps a coach, even a sports physician or general MD" timeoffset="141"/>
+            <textevent message="Regardless of who might need this information or when..." timeoffset="148"/>
+            <textevent message="it can prove an invaluable resource to the performance-oriented athlete" timeoffset="154"/>
+            <textevent message="So make notes! :-)" timeoffset="162"/>
+            <textevent message="Back to the matter of how much is too much" timeoffset="240"/>
+            <textevent message="Recovery rides have been found most beneficial in a narrow timeframe" timeoffset="247"/>
+            <textevent message="The science says that anywhere between 4-24 hours is optimal" timeoffset="255"/>
+            <textevent message="So between 4 to 24 hours after a &quot;hard&quot; workout or race..." timeoffset="262"/>
+            <textevent message="hard either in terms of intensity, duration or both..." timeoffset="268"/>
+            <textevent message="ride anywhere from 20 to 60-minutes..." timeoffset="273"/>
+            <textevent message="at your personal (for the moment) recovery pace..." timeoffset="278"/>
+            <textevent message="and let the benefits abound!" timeoffset="283"/>
+            <textevent message="If the prospect of 20 minutes seems daunting..." timeoffset="289"/>
+            <textevent message="you're probably better off taking a day of full rest" timeoffset="294"/>
+            <textevent message="And any rides over an hour aren't really recovery rides..." timeoffset="301"/>
+            <textevent message="so much as Endurance rides with different training objectives" timeoffset="307"/>
+            <textevent message="But light effort, within 4-24 hours after a taxing ride..." timeoffset="314"/>
+            <textevent message="between 20-60 minutes in duration..." timeoffset="320"/>
+            <textevent message="might be the easiest fitness gains you'll ever attain" timeoffset="325"/>
+            <textevent message="And they can transform even the tightest of time-constrained training schedules..." timeoffset="332"/>
+            <textevent message="into ones that look a little less limited on weekly hours..." timeoffset="339"/>
+            <textevent message="because these rides are short &amp; easy to squeeze in should you find the time" timeoffset="345"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.550" PowerHigh="0.500">
-            <textevent message="Time to take things back down a notch..." timeoffset="0.000000"/>
-            <textevent message="and as the power ramps down a little bit..." timeoffset="6.000000"/>
-            <textevent message="pay attention to the sense of relief you feel" timeoffset="11.000000"/>
-            <textevent message="If it's noticeable and you're relieved by this slight drop in Target Power..." timeoffset="17.000000"/>
-            <textevent message="then the previous wattage might have been a little too high..." timeoffset="23.000000"/>
-            <textevent message="relative to the amount of fatigue you brought into this recovery spin" timeoffset="29.000000"/>
-            <textevent message="MAKE NOTE OF THIS" timeoffset="36.000000"/>
+            <textevent message="Time to take things back down a notch..." timeoffset="0"/>
+            <textevent message="and as the power ramps down a little bit..." timeoffset="6"/>
+            <textevent message="pay attention to the sense of relief you feel" timeoffset="11"/>
+            <textevent message="If it's noticeable and you're relieved by this slight drop in Target Power..." timeoffset="17"/>
+            <textevent message="then the previous wattage might have been a little too high..." timeoffset="23"/>
+            <textevent message="relative to the amount of fatigue you brought into this recovery spin" timeoffset="29"/>
+            <textevent message="MAKE NOTE OF THIS" timeoffset="36"/>
         </Cooldown>
         <SteadyState Duration="540.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="At the risk of beating the recovery topic to death..." timeoffset="0.000000"/>
-            <textevent message="it's time to reiterate the take-home message" timeoffset="5.000000"/>
-            <textevent message="Whether you practice &quot;full rest&quot;..." timeoffset="11.000000"/>
-            <textevent message="where you're off the bike, legs up &amp; eating blueberries..." timeoffset="15.000000"/>
-            <textevent message="or you employ &quot;active recovery&quot;..." timeoffset="20.000000"/>
-            <textevent message="where you noodle through 30 minutes of mildly educational spinning..." timeoffset="24.000000"/>
-            <textevent message="remember that it's during rest when our bodies heal, adapt, grow stronger" timeoffset="30.000000"/>
-            <textevent message="Where workouts are about &quot;injuring&quot; our muscles..." timeoffset="37.000000"/>
-            <textevent message="recovery is about healing process..." timeoffset="42.000000"/>
-            <textevent message="so shortchanging your recovery is little more..." timeoffset="47.000000"/>
-            <textevent message="than damaging already damaged muscles..." timeoffset="51.000000"/>
-            <textevent message="and then asking why your training isn't progressing" timeoffset="55.000000"/>
-            <textevent message="So consider treating your recovery program..." timeoffset="61.000000"/>
-            <textevent message="as seriously as your training program" timeoffset="66.000000"/>
-            <textevent message="Better yet..." timeoffset="72.000000"/>
-            <textevent message="recognize that they're actually the same thing:" timeoffset="76.000000"/>
-            <textevent message="Training" timeoffset="81.000000"/>
-            <textevent message="Until next time..." timeoffset="86.000000"/>
-            <textevent message="train smart, ride hard, have fun" timeoffset="90.000000"/>
+            <textevent message="At the risk of beating the recovery topic to death..." timeoffset="0"/>
+            <textevent message="it's time to reiterate the take-home message" timeoffset="5"/>
+            <textevent message="Whether you practice &quot;full rest&quot;..." timeoffset="11"/>
+            <textevent message="where you're off the bike, legs up &amp; eating blueberries..." timeoffset="15"/>
+            <textevent message="or you employ &quot;active recovery&quot;..." timeoffset="20"/>
+            <textevent message="where you noodle through 30 minutes of mildly educational spinning..." timeoffset="24"/>
+            <textevent message="remember that it's during rest when our bodies heal, adapt, grow stronger" timeoffset="30"/>
+            <textevent message="Where workouts are about &quot;injuring&quot; our muscles..." timeoffset="37"/>
+            <textevent message="recovery is about healing process..." timeoffset="42"/>
+            <textevent message="so shortchanging your recovery is little more..." timeoffset="47"/>
+            <textevent message="than damaging already damaged muscles..." timeoffset="51"/>
+            <textevent message="and then asking why your training isn't progressing" timeoffset="55"/>
+            <textevent message="So consider treating your recovery program..." timeoffset="61"/>
+            <textevent message="as seriously as your training program" timeoffset="66"/>
+            <textevent message="Better yet..." timeoffset="72"/>
+            <textevent message="recognize that they're actually the same thing:" timeoffset="76"/>
+            <textevent message="Training" timeoffset="81"/>
+            <textevent message="Until next time..." timeoffset="86"/>
+            <textevent message="train smart, ride hard, have fun" timeoffset="90"/>
         </SteadyState>
     </workout>
 </workout_file>

@@ -4,145 +4,145 @@
     <name>Taku</name>
     <workout>
         <SteadyState Duration="180.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="Welcome to Taku" timeoffset="10.000000"/>
-            <textevent message="The workout ahead has many potential purposes..." timeoffset="17.000000"/>
-            <textevent message="and can litter any rider's training plan based on specific needs" timeoffset="22.000000"/>
-            <textevent message="One day it might be used as a light spin between harder sessions..." timeoffset="29.000000"/>
-            <textevent message="while the next day it's used to further a warmup or cooldown" timeoffset="35.000000"/>
-            <textevent message="It can also be used to log extra base mileage..." timeoffset="42.000000"/>
-            <textevent message="on a time-restricted training schedule" timeoffset="46.000000"/>
-            <textevent message="Whatever the case may be, Taku is not designed for intensity" timeoffset="51.000000"/>
-            <textevent message="So gradually warm as you settle into a short, easy 30 minutes..." timeoffset="57.000000"/>
-            <textevent message="and try to keep your spin light &amp; quick, preferably above 85rpm" timeoffset="62.000000"/>
+            <textevent message="Welcome to Taku" timeoffset="10"/>
+            <textevent message="The workout ahead has many potential purposes..." timeoffset="17"/>
+            <textevent message="and can litter any rider's training plan based on specific needs" timeoffset="22"/>
+            <textevent message="One day it might be used as a light spin between harder sessions..." timeoffset="29"/>
+            <textevent message="while the next day it's used to further a warmup or cooldown" timeoffset="35"/>
+            <textevent message="It can also be used to log extra base mileage..." timeoffset="42"/>
+            <textevent message="on a time-restricted training schedule" timeoffset="46"/>
+            <textevent message="Whatever the case may be, Taku is not designed for intensity" timeoffset="51"/>
+            <textevent message="So gradually warm as you settle into a short, easy 30 minutes..." timeoffset="57"/>
+            <textevent message="and try to keep your spin light &amp; quick, preferably above 85rpm" timeoffset="62"/>
         </SteadyState>
         <SteadyState Duration="120.0" PowerLow="0.600" PowerHigh="0.600"/>
         <SteadyState Duration="300.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Regardless of how you use this workout..." timeoffset="0.000000"/>
-            <textevent message="the intensity is still on the low end of things..." timeoffset="5.000000"/>
-            <textevent message="meaning the muscular toll is low, the recovery is quick..." timeoffset="10.000000"/>
-            <textevent message="and the energy demand is largely fulfilled aerobically" timeoffset="15.000000"/>
-            <textevent message="And by working aerobically, you can enhance your aerobic base..." timeoffset="21.000000"/>
-            <textevent message="with the simple accumulation of more easy time in the saddle..." timeoffset="26.000000"/>
-            <textevent message="than you'd acquire if you recovered less actively, off the bike" timeoffset="31.000000"/>
-            <textevent message="This may not seem like much..." timeoffset="38.000000"/>
-            <textevent message="but if you were to add an extra 30 minutes, 3 or 4 times each week..." timeoffset="42.000000"/>
-            <textevent message="of steady, low-intensity indoor trainer riding..." timeoffset="48.000000"/>
-            <textevent message="the benefit would almost undoubtedly be recognizable" timeoffset="52.000000"/>
-            <textevent message="You don't have to bury yourself during every workout..." timeoffset="57.000000"/>
-            <textevent message="if you're getting on the bike several times each week" timeoffset="62.000000"/>
-            <textevent message="In fact, that would almost definitely be counterproductive..." timeoffset="68.000000"/>
-            <textevent message="and force your training adaptation to stall or even go backwards" timeoffset="73.000000"/>
-            <textevent message="Put more simply, you'd very likely cost yourself some fitness..." timeoffset="80.000000"/>
-            <textevent message="and quite possibly set the stage for overtraining syndrome" timeoffset="86.000000"/>
-            <textevent message="So if you're of the mindset that every ride needs to be demanding..." timeoffset="93.000000"/>
-            <textevent message="either in its intensity, its duration or both..." timeoffset="99.000000"/>
-            <textevent message="then it's absolutely in your best interest to learn the benefits of easy mileage" timeoffset="104.000000"/>
-            <textevent message="More on this in a few minutes" timeoffset="111.000000"/>
+            <textevent message="Regardless of how you use this workout..." timeoffset="0"/>
+            <textevent message="the intensity is still on the low end of things..." timeoffset="5"/>
+            <textevent message="meaning the muscular toll is low, the recovery is quick..." timeoffset="10"/>
+            <textevent message="and the energy demand is largely fulfilled aerobically" timeoffset="15"/>
+            <textevent message="And by working aerobically, you can enhance your aerobic base..." timeoffset="21"/>
+            <textevent message="with the simple accumulation of more easy time in the saddle..." timeoffset="26"/>
+            <textevent message="than you'd acquire if you recovered less actively, off the bike" timeoffset="31"/>
+            <textevent message="This may not seem like much..." timeoffset="38"/>
+            <textevent message="but if you were to add an extra 30 minutes, 3 or 4 times each week..." timeoffset="42"/>
+            <textevent message="of steady, low-intensity indoor trainer riding..." timeoffset="48"/>
+            <textevent message="the benefit would almost undoubtedly be recognizable" timeoffset="52"/>
+            <textevent message="You don't have to bury yourself during every workout..." timeoffset="57"/>
+            <textevent message="if you're getting on the bike several times each week" timeoffset="62"/>
+            <textevent message="In fact, that would almost definitely be counterproductive..." timeoffset="68"/>
+            <textevent message="and force your training adaptation to stall or even go backwards" timeoffset="73"/>
+            <textevent message="Put more simply, you'd very likely cost yourself some fitness..." timeoffset="80"/>
+            <textevent message="and quite possibly set the stage for overtraining syndrome" timeoffset="86"/>
+            <textevent message="So if you're of the mindset that every ride needs to be demanding..." timeoffset="93"/>
+            <textevent message="either in its intensity, its duration or both..." timeoffset="99"/>
+            <textevent message="then it's absolutely in your best interest to learn the benefits of easy mileage" timeoffset="104"/>
+            <textevent message="More on this in a few minutes" timeoffset="111"/>
         </SteadyState>
         <Warmup Duration="120.0" PowerLow="0.650" PowerHigh="0.700">
-            <textevent message="More &amp; more riders understand..." timeoffset="0.000000"/>
-            <textevent message="the absolute necessity of recovery within the training process" timeoffset="4.000000"/>
-            <textevent message="It's the stress of each workout that breaks down our muscles..." timeoffset="11.000000"/>
-            <textevent message="and the recovery which falls between them that allows adaptation" timeoffset="17.000000"/>
-            <textevent message="But recovery doesn't have to be a sedentary process..." timeoffset="24.000000"/>
-            <textevent message="wherein riders sit around waiting to rebound from their training" timeoffset="29.000000"/>
-            <textevent message="Few of us have that luxury anyway" timeoffset="36.000000"/>
-            <textevent message="Enter the notion of &quot;active recovery&quot;" timeoffset="41.000000"/>
-            <textevent message="By resting, but doing it in a more active manner..." timeoffset="47.000000"/>
-            <textevent message="we can address two issues at once:" timeoffset="52.000000"/>
-            <textevent message="Rest &amp; further training stress" timeoffset="57.000000"/>
-            <textevent message="Clearly, this form of training stress has to be very low in intensity..." timeoffset="63.000000"/>
-            <textevent message="so as not to disrupt the repair process our bodies desperately need..." timeoffset="69.000000"/>
-            <textevent message="in order to &quot;supercompensate&quot;..." timeoffset="74.000000"/>
-            <textevent message="or to return to training with greater capabilities than before" timeoffset="78.000000"/>
-            <textevent message="So the gist of the training/adaptation cycle is..." timeoffset="85.000000"/>
-            <textevent message="Stress --&gt; Rest --&gt; Increased Fitness" timeoffset="90.000000"/>
+            <textevent message="More &amp; more riders understand..." timeoffset="0"/>
+            <textevent message="the absolute necessity of recovery within the training process" timeoffset="4"/>
+            <textevent message="It's the stress of each workout that breaks down our muscles..." timeoffset="11"/>
+            <textevent message="and the recovery which falls between them that allows adaptation" timeoffset="17"/>
+            <textevent message="But recovery doesn't have to be a sedentary process..." timeoffset="24"/>
+            <textevent message="wherein riders sit around waiting to rebound from their training" timeoffset="29"/>
+            <textevent message="Few of us have that luxury anyway" timeoffset="36"/>
+            <textevent message="Enter the notion of &quot;active recovery&quot;" timeoffset="41"/>
+            <textevent message="By resting, but doing it in a more active manner..." timeoffset="47"/>
+            <textevent message="we can address two issues at once:" timeoffset="52"/>
+            <textevent message="Rest &amp; further training stress" timeoffset="57"/>
+            <textevent message="Clearly, this form of training stress has to be very low in intensity..." timeoffset="63"/>
+            <textevent message="so as not to disrupt the repair process our bodies desperately need..." timeoffset="69"/>
+            <textevent message="in order to &quot;supercompensate&quot;..." timeoffset="74"/>
+            <textevent message="or to return to training with greater capabilities than before" timeoffset="78"/>
+            <textevent message="So the gist of the training/adaptation cycle is..." timeoffset="85"/>
+            <textevent message="Stress --&gt; Rest --&gt; Increased Fitness" timeoffset="90"/>
         </Warmup>
         <SteadyState Duration="300.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="This cycle has a ton of variables, and one of them is rest itself" timeoffset="0.000000"/>
-            <textevent message="How long should you rest?" timeoffset="7.000000"/>
-            <textevent message="How often should you rest each week?" timeoffset="12.000000"/>
-            <textevent message="How complete should your rest be?" timeoffset="17.000000"/>
-            <textevent message="The questions go on &amp; on and they're all dependent on each rider" timeoffset="22.000000"/>
-            <textevent message="But many riders can effectively recover..." timeoffset="29.000000"/>
-            <textevent message="while doing just a little bit of work" timeoffset="33.000000"/>
-            <textevent message="The explanations behind this aren't as important as the outcome..." timeoffset="38.000000"/>
-            <textevent message="which is a number of positive adaptations in our endurance capacity" timeoffset="43.000000"/>
-            <textevent message="So the simple point is that active rest can be very beneficial..." timeoffset="50.000000"/>
-            <textevent message="when it's performed properly" timeoffset="56.000000"/>
-            <textevent message="What's proper though?" timeoffset="61.000000"/>
-            <textevent message="For some, simply getting on the bike after a hard workout..." timeoffset="66.000000"/>
-            <textevent message="is too much stress and will hamper recovery" timeoffset="72.000000"/>
-            <textevent message="But as riders become more experienced, log more hours, ride more miles..." timeoffset="78.000000"/>
-            <textevent message="and do so over a number of seasons &amp; years..." timeoffset="84.000000"/>
-            <textevent message="their ability to tolerate frequent, low-intensity recovery sessions..." timeoffset="89.000000"/>
-            <textevent message="increases as does their aerobic fitness" timeoffset="95.000000"/>
-            <textevent message="So it's up to you to determine how active your recovery can be" timeoffset="101.000000"/>
-            <textevent message="And while there is plenty of recovery variability..." timeoffset="108.000000"/>
-            <textevent message="leading to a need for some straightforward trial &amp; error..." timeoffset="113.000000"/>
-            <textevent message="it doesn't take long to recognize trends in recovery levels" timeoffset="118.000000"/>
-            <textevent message="More on this in a few minutes" timeoffset="125.000000"/>
+            <textevent message="This cycle has a ton of variables, and one of them is rest itself" timeoffset="0"/>
+            <textevent message="How long should you rest?" timeoffset="7"/>
+            <textevent message="How often should you rest each week?" timeoffset="12"/>
+            <textevent message="How complete should your rest be?" timeoffset="17"/>
+            <textevent message="The questions go on &amp; on and they're all dependent on each rider" timeoffset="22"/>
+            <textevent message="But many riders can effectively recover..." timeoffset="29"/>
+            <textevent message="while doing just a little bit of work" timeoffset="33"/>
+            <textevent message="The explanations behind this aren't as important as the outcome..." timeoffset="38"/>
+            <textevent message="which is a number of positive adaptations in our endurance capacity" timeoffset="43"/>
+            <textevent message="So the simple point is that active rest can be very beneficial..." timeoffset="50"/>
+            <textevent message="when it's performed properly" timeoffset="56"/>
+            <textevent message="What's proper though?" timeoffset="61"/>
+            <textevent message="For some, simply getting on the bike after a hard workout..." timeoffset="66"/>
+            <textevent message="is too much stress and will hamper recovery" timeoffset="72"/>
+            <textevent message="But as riders become more experienced, log more hours, ride more miles..." timeoffset="78"/>
+            <textevent message="and do so over a number of seasons &amp; years..." timeoffset="84"/>
+            <textevent message="their ability to tolerate frequent, low-intensity recovery sessions..." timeoffset="89"/>
+            <textevent message="increases as does their aerobic fitness" timeoffset="95"/>
+            <textevent message="So it's up to you to determine how active your recovery can be" timeoffset="101"/>
+            <textevent message="And while there is plenty of recovery variability..." timeoffset="108"/>
+            <textevent message="leading to a need for some straightforward trial &amp; error..." timeoffset="113"/>
+            <textevent message="it doesn't take long to recognize trends in recovery levels" timeoffset="118"/>
+            <textevent message="More on this in a few minutes" timeoffset="125"/>
         </SteadyState>
         <Cooldown Duration="120.0" PowerLow="0.700" PowerHigh="0.600">
-            <textevent message="The recovery variability between riders..." timeoffset="0.000000"/>
-            <textevent message="and even within the SAME rider makes simple answers difficult" timeoffset="4.000000"/>
-            <textevent message="But when you look at trends over time..." timeoffset="10.000000"/>
-            <textevent message="you can start to recognize patterns" timeoffset="14.000000"/>
-            <textevent message="For example, adding 30 minutes of Taku to every evening..." timeoffset="19.000000"/>
-            <textevent message="where the morning included a hard round of VO2 Max repeats..." timeoffset="24.000000"/>
-            <textevent message="might leave you a little beat down for your next intervals workout..." timeoffset="29.000000"/>
-            <textevent message="or it might leave you slightly refreshed" timeoffset="35.000000"/>
-            <textevent message="So you have to explore, note &amp; adapt some aspects of your training..." timeoffset="41.000000"/>
-            <textevent message="based on your personal recovery profile" timeoffset="46.000000"/>
-            <textevent message="It's also necessary to keep the big picture in mind..." timeoffset="52.000000"/>
-            <textevent message="and account for the many possible stressors outside of your athletic endeavors" timeoffset="57.000000"/>
-            <textevent message="Sounds tricky, right?" timeoffset="65.000000"/>
-            <textevent message="It is  ;-)" timeoffset="70.000000"/>
-            <textevent message="But the more you do it, the more consciously you pay attention..." timeoffset="75.000000"/>
-            <textevent message="and the more thoroughly you document these relationships..." timeoffset="80.000000"/>
-            <textevent message="between stress &amp; recovery via a training log..." timeoffset="85.000000"/>
-            <textevent message="the greater your chances of discovering trends..." timeoffset="90.000000"/>
-            <textevent message="and benefitting from the added diligence" timeoffset="94.000000"/>
-            <textevent message="But this is all based on the assumption..." timeoffset="99.000000"/>
-            <textevent message="that you're willing to invest this much effort in your training" timeoffset="103.000000"/>
-            <textevent message="A reasonably safe assumption considering you're sitting on an indoor trainer..." timeoffset="109.000000"/>
-            <textevent message="reading coaching/training advice off a screen while working out" timeoffset="115.000000"/>
+            <textevent message="The recovery variability between riders..." timeoffset="0"/>
+            <textevent message="and even within the SAME rider makes simple answers difficult" timeoffset="4"/>
+            <textevent message="But when you look at trends over time..." timeoffset="10"/>
+            <textevent message="you can start to recognize patterns" timeoffset="14"/>
+            <textevent message="For example, adding 30 minutes of Taku to every evening..." timeoffset="19"/>
+            <textevent message="where the morning included a hard round of VO2 Max repeats..." timeoffset="24"/>
+            <textevent message="might leave you a little beat down for your next intervals workout..." timeoffset="29"/>
+            <textevent message="or it might leave you slightly refreshed" timeoffset="35"/>
+            <textevent message="So you have to explore, note &amp; adapt some aspects of your training..." timeoffset="41"/>
+            <textevent message="based on your personal recovery profile" timeoffset="46"/>
+            <textevent message="It's also necessary to keep the big picture in mind..." timeoffset="52"/>
+            <textevent message="and account for the many possible stressors outside of your athletic endeavors" timeoffset="57"/>
+            <textevent message="Sounds tricky, right?" timeoffset="65"/>
+            <textevent message="It is  ;-)" timeoffset="70"/>
+            <textevent message="But the more you do it, the more consciously you pay attention..." timeoffset="75"/>
+            <textevent message="and the more thoroughly you document these relationships..." timeoffset="80"/>
+            <textevent message="between stress &amp; recovery via a training log..." timeoffset="85"/>
+            <textevent message="the greater your chances of discovering trends..." timeoffset="90"/>
+            <textevent message="and benefitting from the added diligence" timeoffset="94"/>
+            <textevent message="But this is all based on the assumption..." timeoffset="99"/>
+            <textevent message="that you're willing to invest this much effort in your training" timeoffset="103"/>
+            <textevent message="A reasonably safe assumption considering you're sitting on an indoor trainer..." timeoffset="109"/>
+            <textevent message="reading coaching/training advice off a screen while working out" timeoffset="115"/>
         </Cooldown>
         <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="While Taku is less about recovery and more about aerobic adaptation..." timeoffset="60.000000"/>
-            <textevent message="this is an effort level that can qualify as active recovery..." timeoffset="66.000000"/>
-            <textevent message="considering its short duration" timeoffset="72.000000"/>
-            <textevent message="Which brings up another aspect of active recovery..." timeoffset="77.000000"/>
-            <textevent message="which is that it can fall at different percentages of FTP..." timeoffset="82.000000"/>
-            <textevent message="depending on your level of fitness as well as your level of fatigue" timeoffset="87.000000"/>
-            <textevent message="On tired days, Taku might be a reasonably challenging half-hour spin..." timeoffset="94.000000"/>
-            <textevent message="while on other days it might be boringly easy on fresh legs" timeoffset="100.000000"/>
-            <textevent message="But if you're shooting for active recovery..." timeoffset="107.000000"/>
-            <textevent message="and the effort seems a little high, not quite easy..." timeoffset="112.000000"/>
-            <textevent message="either dial down the Workout Intensity..." timeoffset="117.000000"/>
-            <textevent message="or accept that this ride may not be entirely restful..." timeoffset="121.000000"/>
-            <textevent message="and might negatively impact your next, higher-intensity workout" timeoffset="125.000000"/>
+            <textevent message="While Taku is less about recovery and more about aerobic adaptation..." timeoffset="60"/>
+            <textevent message="this is an effort level that can qualify as active recovery..." timeoffset="66"/>
+            <textevent message="considering its short duration" timeoffset="72"/>
+            <textevent message="Which brings up another aspect of active recovery..." timeoffset="77"/>
+            <textevent message="which is that it can fall at different percentages of FTP..." timeoffset="82"/>
+            <textevent message="depending on your level of fitness as well as your level of fatigue" timeoffset="87"/>
+            <textevent message="On tired days, Taku might be a reasonably challenging half-hour spin..." timeoffset="94"/>
+            <textevent message="while on other days it might be boringly easy on fresh legs" timeoffset="100"/>
+            <textevent message="But if you're shooting for active recovery..." timeoffset="107"/>
+            <textevent message="and the effort seems a little high, not quite easy..." timeoffset="112"/>
+            <textevent message="either dial down the Workout Intensity..." timeoffset="117"/>
+            <textevent message="or accept that this ride may not be entirely restful..." timeoffset="121"/>
+            <textevent message="and might negatively impact your next, higher-intensity workout" timeoffset="125"/>
         </SteadyState>
         <Cooldown Duration="300.0" PowerLow="0.600" PowerHigh="0.400">
-            <textevent message="At the risk of beating the recovery topic to death..." timeoffset="0.000000"/>
-            <textevent message="simply be clear on the importance of recovery" timeoffset="5.000000"/>
-            <textevent message="Whether it's &quot;full&quot; rest..." timeoffset="11.000000"/>
-            <textevent message="where you're off the bike, legs up &amp; eating blueberries..." timeoffset="15.000000"/>
-            <textevent message="or more active recovery..." timeoffset="20.000000"/>
-            <textevent message="where you noodle through 30 minutes of mildly educational Endurance effort..." timeoffset="24.000000"/>
-            <textevent message="it's during rest that our bodies heal, adapt, grow stronger" timeoffset="30.000000"/>
-            <textevent message="So if workouts are about &quot;injuring&quot; our muscles..." timeoffset="37.000000"/>
-            <textevent message="and recovery is the healing process..." timeoffset="42.000000"/>
-            <textevent message="then shortchanging your recovery is little more..." timeoffset="47.000000"/>
-            <textevent message="than damaging already damaged muscles..." timeoffset="51.000000"/>
-            <textevent message="and then wondering why your training isn't progressing" timeoffset="55.000000"/>
-            <textevent message="So consider treating your recovery program..." timeoffset="61.000000"/>
-            <textevent message="as seriously as your training program" timeoffset="66.000000"/>
-            <textevent message="Or better yet..." timeoffset="72.000000"/>
-            <textevent message="recognize that they're actually the same thing..." timeoffset="76.000000"/>
-            <textevent message="Training" timeoffset="81.000000"/>
-            <textevent message="Until next time..." timeoffset="86.000000"/>
-            <textevent message="train smart, ride hard, have fun" timeoffset="90.000000"/>
+            <textevent message="At the risk of beating the recovery topic to death..." timeoffset="0"/>
+            <textevent message="simply be clear on the importance of recovery" timeoffset="5"/>
+            <textevent message="Whether it's &quot;full&quot; rest..." timeoffset="11"/>
+            <textevent message="where you're off the bike, legs up &amp; eating blueberries..." timeoffset="15"/>
+            <textevent message="or more active recovery..." timeoffset="20"/>
+            <textevent message="where you noodle through 30 minutes of mildly educational Endurance effort..." timeoffset="24"/>
+            <textevent message="it's during rest that our bodies heal, adapt, grow stronger" timeoffset="30"/>
+            <textevent message="So if workouts are about &quot;injuring&quot; our muscles..." timeoffset="37"/>
+            <textevent message="and recovery is the healing process..." timeoffset="42"/>
+            <textevent message="then shortchanging your recovery is little more..." timeoffset="47"/>
+            <textevent message="than damaging already damaged muscles..." timeoffset="51"/>
+            <textevent message="and then wondering why your training isn't progressing" timeoffset="55"/>
+            <textevent message="So consider treating your recovery program..." timeoffset="61"/>
+            <textevent message="as seriously as your training program" timeoffset="66"/>
+            <textevent message="Or better yet..." timeoffset="72"/>
+            <textevent message="recognize that they're actually the same thing..." timeoffset="76"/>
+            <textevent message="Training" timeoffset="81"/>
+            <textevent message="Until next time..." timeoffset="86"/>
+            <textevent message="train smart, ride hard, have fun" timeoffset="90"/>
         </Cooldown>
     </workout>
 </workout_file>

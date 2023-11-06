@@ -1,7 +1,7 @@
 [COURSE HEADER]
 VERSION = 0
 UNITS = ENGLISH
-DESCRIPTION = Goat Citadel&nbsp;is 3 sets of 5x1-minute intervals at 125% FTP where recoveries between intervals are 2 minutes long and recoveries between sets of intervals are 3 minutes long. 
+DESCRIPTION = Goat Citadel&nbsp;is 3 sets of 5x1-minute intervals between 120 and 125% FTP where recoveries between intervals are 2 minutes long and recoveries between sets of intervals are 3 minutes long. 
 FILE NAME = Goat Citadel
 MINUTES	FTP
 [END COURSE HEADER]

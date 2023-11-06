@@ -1,0 +1,35 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Slatna&nbsp;consists of nearly 90 minutes of aerobic Endurance riding spent between 50-55% FTP.
+FILE NAME = Slatna
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+14	50
+14	52
+37	52
+37	54
+60	54
+60	55
+85	55
+85	55
+120	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+840	2220	Active Recovery 1
+2220	3600	Active Recovery 2
+3600	5100	Endurance 1
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
+ 

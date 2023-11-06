@@ -26,8 +26,8 @@ MINUTES	FTP
 [END COURSE DATA]
 
 [COURSE TEXT]
-0	Welcome to Spruce Knob	5	0	0	72	16777215	10
-0	Coach Chad here with some good news...	4	0	0	72	16777215	17
+0	Welcome to Spruce!	5	0	0	72	16777215	10
+0	Coach is here with some good news...	4	0	0	72	16777215	17
 0	and some less-good news	3	0	0	72	16777215	22
 0	You only have TWO intervals today!	4	0	0	72	16777215	28
 0	Buuuut they're each about as long as an entire workout	5	0	0	72	16777215	34
@@ -370,3 +370,5 @@ MINUTES	FTP
 
 [MODE DATA]
 [END MODE DATA]
+
+           

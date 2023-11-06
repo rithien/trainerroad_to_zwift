@@ -6,82 +6,82 @@
         <SteadyState Duration="600.0" PowerLow="0.500" PowerHigh="0.500"/>
         <Warmup Duration="60.0" PowerLow="0.500" PowerHigh="0.600"/>
         <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="In about 2 minutes you'll face your first Power Sprint" timeoffset="240.000000"/>
-            <textevent message="Power Sprints combine the speed of Form Sprints..." timeoffset="250.000000"/>
-            <textevent message="and the force of Strength Sprints" timeoffset="260.000000"/>
-            <textevent message="The objective is to overcome a lot of resistance quickly" timeoffset="270.000000"/>
-            <textevent message="You'll roll into these sprints with reasonable leg speed" timeoffset="280.000000"/>
-            <textevent message="Try using a cadence between 85-95rpm" timeoffset="290.000000"/>
-            <textevent message="Then you'll stand and drive your feet forward &amp; down HARD" timeoffset="300.000000"/>
-            <textevent message="Feel free to lead with either foot - find what works best" timeoffset="310.000000"/>
-            <textevent message="You'll sprint for 10 seconds or about 24 pedal strokes..." timeoffset="320.000000"/>
-            <textevent message="and you should be able to get on top of your gear choice quickly..." timeoffset="330.000000"/>
-            <textevent message="and reach 130rpm or higher" timeoffset="340.000000"/>
-            <textevent message="But stay CONTROLLED. Get ready!" timeoffset="350.000000"/>
+            <textevent message="In about 2 minutes you'll face your first Power Sprint" timeoffset="240"/>
+            <textevent message="Power Sprints combine the speed of Form Sprints..." timeoffset="250"/>
+            <textevent message="and the force of Strength Sprints" timeoffset="260"/>
+            <textevent message="The objective is to overcome a lot of resistance quickly" timeoffset="270"/>
+            <textevent message="You'll roll into these sprints with reasonable leg speed" timeoffset="280"/>
+            <textevent message="Try using a cadence between 85-95rpm" timeoffset="290"/>
+            <textevent message="Then you'll stand and drive your feet forward &amp; down HARD" timeoffset="300"/>
+            <textevent message="Feel free to lead with either foot - find what works best" timeoffset="310"/>
+            <textevent message="You'll sprint for 10 seconds or about 24 pedal strokes..." timeoffset="320"/>
+            <textevent message="and you should be able to get on top of your gear choice quickly..." timeoffset="330"/>
+            <textevent message="and reach 130rpm or higher" timeoffset="340"/>
+            <textevent message="But stay CONTROLLED. Get ready!" timeoffset="350"/>
         </SteadyState>
         <SteadyState Duration="10.0" PowerLow="2.000" PowerHigh="2.000">
-            <textevent message="Go!" timeoffset="0.000000"/>
-            <textevent message="3..." timeoffset="7.000000"/>
-            <textevent message="2..." timeoffset="8.000000"/>
-            <textevent message="1..." timeoffset="9.000000"/>
+            <textevent message="Go!" timeoffset="0"/>
+            <textevent message="3..." timeoffset="7"/>
+            <textevent message="2..." timeoffset="8"/>
+            <textevent message="1..." timeoffset="9"/>
         </SteadyState>
         <Warmup Duration="50.0" PowerLow="0.200" PowerHigh="0.600">
-            <textevent message="Shut it down" timeoffset="0.000000"/>
+            <textevent message="Shut it down" timeoffset="0"/>
         </Warmup>
         <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="1 minute until Power Sprint #2" timeoffset="300.000000"/>
-            <textevent message="If you ran out of gears last time &amp; couldn't sustain your sprint power..." timeoffset="310.000000"/>
-            <textevent message="choose a bigger gear this time" timeoffset="320.000000"/>
-            <textevent message="But choose a gear that you can wind up very quickly" timeoffset="330.000000"/>
-            <textevent message="130rpm or higher depending on your level of control" timeoffset="340.000000"/>
-            <textevent message="Get ready..." timeoffset="350.000000"/>
+            <textevent message="1 minute until Power Sprint #2" timeoffset="300"/>
+            <textevent message="If you ran out of gears last time &amp; couldn't sustain your sprint power..." timeoffset="310"/>
+            <textevent message="choose a bigger gear this time" timeoffset="320"/>
+            <textevent message="But choose a gear that you can wind up very quickly" timeoffset="330"/>
+            <textevent message="130rpm or higher depending on your level of control" timeoffset="340"/>
+            <textevent message="Get ready..." timeoffset="350"/>
         </SteadyState>
         <SteadyState Duration="10.0" PowerLow="2.000" PowerHigh="2.000">
-            <textevent message="Go!" timeoffset="0.000000"/>
-            <textevent message="3..." timeoffset="7.000000"/>
-            <textevent message="2..." timeoffset="8.000000"/>
-            <textevent message="1..." timeoffset="9.000000"/>
+            <textevent message="Go!" timeoffset="0"/>
+            <textevent message="3..." timeoffset="7"/>
+            <textevent message="2..." timeoffset="8"/>
+            <textevent message="1..." timeoffset="9"/>
         </SteadyState>
         <Warmup Duration="50.0" PowerLow="0.200" PowerHigh="0.600">
-            <textevent message="Shut it down" timeoffset="0.000000"/>
+            <textevent message="Shut it down" timeoffset="0"/>
         </Warmup>
         <SteadyState Duration="360.0" PowerLow="0.620" PowerHigh="0.620">
-            <textevent message="Last Power Sprint is about a minute out" timeoffset="300.000000"/>
-            <textevent message="Same rules apply &amp; consider leading with your other foot if you haven't yet" timeoffset="310.000000"/>
-            <textevent message="Remember, a big gear but one you can get on top of quickly" timeoffset="320.000000"/>
-            <textevent message="Wind it up, keep the power high, stay controlled..." timeoffset="330.000000"/>
-            <textevent message="all for 10 seconds or about 24 pedal strokes" timeoffset="340.000000"/>
-            <textevent message="Get ready..." timeoffset="350.000000"/>
+            <textevent message="Last Power Sprint is about a minute out" timeoffset="300"/>
+            <textevent message="Same rules apply &amp; consider leading with your other foot if you haven't yet" timeoffset="310"/>
+            <textevent message="Remember, a big gear but one you can get on top of quickly" timeoffset="320"/>
+            <textevent message="Wind it up, keep the power high, stay controlled..." timeoffset="330"/>
+            <textevent message="all for 10 seconds or about 24 pedal strokes" timeoffset="340"/>
+            <textevent message="Get ready..." timeoffset="350"/>
         </SteadyState>
         <SteadyState Duration="10.0" PowerLow="2.000" PowerHigh="2.000">
-            <textevent message="Go!" timeoffset="0.000000"/>
-            <textevent message="3..." timeoffset="7.000000"/>
-            <textevent message="2..." timeoffset="8.000000"/>
-            <textevent message="1..." timeoffset="9.000000"/>
+            <textevent message="Go!" timeoffset="0"/>
+            <textevent message="3..." timeoffset="7"/>
+            <textevent message="2..." timeoffset="8"/>
+            <textevent message="1..." timeoffset="9"/>
         </SteadyState>
         <Warmup Duration="50.0" PowerLow="0.200" PowerHigh="0.600">
-            <textevent message="Shut it down, you're done sprinting today" timeoffset="0.000000"/>
+            <textevent message="Shut it down, you're done sprinting today" timeoffset="0"/>
         </Warmup>
         <SteadyState Duration="360.0" PowerLow="0.600" PowerHigh="0.600"/>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.650"/>
         <SteadyState Duration="540.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="Use 5 of these minutes as an Endurance Spin" timeoffset="-1.000000"/>
+            <textevent message="Use 5 of these minutes as an Endurance Spin" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Use this 15 minutes to alternate your Single Leg Focus each minute " timeoffset="-1.000000"/>
+            <textevent message="Use this 15 minutes to alternate your Single Leg Focus each minute " timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.600"/>
         <SteadyState Duration="1200.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="Over this 20 minutes, add 2 more 5-minute Endurance Spins" timeoffset="-1.000000"/>
+            <textevent message="Over this 20 minutes, add 2 more 5-minute Endurance Spins" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.600" PowerHigh="0.700"/>
         <SteadyState Duration="900.0" PowerLow="0.700" PowerHigh="0.700">
-            <textevent message="Another 15 minutes, another opportunity for a couple of Form Sprints" timeoffset="-1.000000"/>
+            <textevent message="Another 15 minutes, another opportunity for a couple of Form Sprints" timeoffset="-1"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.700" PowerHigh="0.650"/>
         <SteadyState Duration="360.0" PowerLow="0.650" PowerHigh="0.650">
-            <textevent message="One more short stretch of alternating Single Leg Focus, 1 minute at a time" timeoffset="-1.000000"/>
+            <textevent message="One more short stretch of alternating Single Leg Focus, 1 minute at a time" timeoffset="-1"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.650" PowerHigh="0.700"/>
         <SteadyState Duration="420.0" PowerLow="0.700" PowerHigh="0.700"/>

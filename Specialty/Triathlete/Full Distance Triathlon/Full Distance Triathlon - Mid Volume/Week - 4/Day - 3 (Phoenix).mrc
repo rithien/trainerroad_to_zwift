@@ -55,7 +55,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Phoenix	5	0	0	72	16777215	10
-0	Coach Chad here to serve as chaperone...	5	0	0	72	16777215	17
+0	Coach here to serve as a chaperone...	5	0	0	72	16777215	17
 0	over the course of this moderate-intensity, moderate duration workout...	5	0	0	72	16777215	23
 0	aimed squarely at adding support to your aerobic base...	5	0	0	72	16777215	29
 0	while also addressing a few other training benefits	4	0	0	72	16777215	35
@@ -723,4 +723,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
-                                                                                                   
+                                                                                                      

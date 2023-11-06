@@ -35,7 +35,7 @@ MINUTES	FTP
 
 [COURSE TEXT]
 0	Welcome to Piute -1!	5	0	0	72	16777215	10
-0	Coach Chad here to accompany you, step by step...	5	0	0	72	16777215	17
+0	Coach here, ready to accompany you, step by step...	5	0	0	72	16777215	17
 0	over the course of this series of gradual increases in power output	5	0	0	72	16777215	23
 0	And to keep you just a little more encouraged & motivated...	4	0	0	72	16777215	30
 0	this version even includes some crazy-short but still useful recovery ramps	5	0	0	72	16777215	35

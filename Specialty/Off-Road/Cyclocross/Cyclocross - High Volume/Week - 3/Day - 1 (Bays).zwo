@@ -4,150 +4,150 @@
     <name>Bays</name>
     <workout>
         <SteadyState Duration="240.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="Settle in and start gradually warming..." timeoffset="10.000000"/>
-            <textevent message="with light &amp; quick feet and quiet hips" timeoffset="16.000000"/>
-            <textevent message="Breathe fully through this slow build toward today's sprints..." timeoffset="30.000000"/>
-            <textevent message="which are all surrounded by some fairly easy endurance work" timeoffset="37.000000"/>
-            <textevent message="You'll face 4 muscle activation drills, or sprints..." timeoffset="45.000000"/>
-            <textevent message="so the workout will be a bit more engaging..." timeoffset="52.000000"/>
-            <textevent message="than simply noodling along for an hour" timeoffset="59.000000"/>
-            <textevent message="More on that later..." timeoffset="66.000000"/>
-            <textevent message="just continue warming as you pedal fluidly and comfortably quickly" timeoffset="70.000000"/>
+            <textevent message="Settle in and start gradually warming..." timeoffset="10"/>
+            <textevent message="with light &amp; quick feet and quiet hips" timeoffset="16"/>
+            <textevent message="Breathe fully through this slow build toward today's sprints..." timeoffset="30"/>
+            <textevent message="which are all surrounded by some fairly easy endurance work" timeoffset="37"/>
+            <textevent message="You'll face 4 muscle activation drills, or sprints..." timeoffset="45"/>
+            <textevent message="so the workout will be a bit more engaging..." timeoffset="52"/>
+            <textevent message="than simply noodling along for an hour" timeoffset="59"/>
+            <textevent message="More on that later..." timeoffset="66"/>
+            <textevent message="just continue warming as you pedal fluidly and comfortably quickly" timeoffset="70"/>
         </SteadyState>
         <SteadyState Duration="180.0" PowerLow="0.580" PowerHigh="0.580"/>
         <SteadyState Duration="180.0" PowerLow="0.670" PowerHigh="0.670"/>
         <SteadyState Duration="360.0" PowerLow="0.750" PowerHigh="0.750">
-            <textevent message="Keep things light &amp; fluid for a few more minutes..." timeoffset="0.000000"/>
-            <textevent message="as we work toward today's first of 4 high-intensity efforts" timeoffset="7.000000"/>
-            <textevent message="All with the purpose of improved Muscle Activation..." timeoffset="14.000000"/>
-            <textevent message="or an increase in the number of muscle fibers you're able to recruit" timeoffset="21.000000"/>
-            <textevent message="Increasing your capacity for fiber recruitment means higher power potential" timeoffset="31.000000"/>
-            <textevent message="We know this, but the icing on this cake..." timeoffset="41.000000"/>
-            <textevent message="is how this increase in muscle activity can extend muscle endurance" timeoffset="48.000000"/>
-            <textevent message="This higher recruitment capacity..." timeoffset="58.000000"/>
-            <textevent message="spreads your workload across more muscle fibers" timeoffset="65.000000"/>
-            <textevent message="By sharing the work..." timeoffset="72.000000"/>
-            <textevent message="the usually overworked fibers get more rest" timeoffset="79.000000"/>
-            <textevent message="This Motor Unit Cycling improves with increased muscle activity" timeoffset="86.000000"/>
-            <textevent message="Cycling from tired fibers to fresh ones helps postpone fatigue" timeoffset="96.000000"/>
-            <textevent message="But first, you have to be able to recruit more fibers" timeoffset="106.000000"/>
-            <textevent message="Enter muscle fiber recruitment drills" timeoffset="113.000000"/>
-            <textevent message="You'll force your legs to activate a lot of muscle..." timeoffset="120.000000"/>
-            <textevent message="but for only brief periods of time..." timeoffset="127.000000"/>
-            <textevent message="in order to avoid fatiguing your muscles so much..." timeoffset="134.000000"/>
-            <textevent message="that subsequent workouts suffer" timeoffset="141.000000"/>
-            <textevent message="So you'll work really hard for 20 seconds at a time..." timeoffset="150.000000"/>
-            <textevent message="and only a small handful of times" timeoffset="157.000000"/>
-            <textevent message="20 seconds of all-out, seated sprinting..." timeoffset="165.000000"/>
-            <textevent message="followed by several minutes of easy spinning before you do it again" timeoffset="172.000000"/>
-            <textevent message="First sprint is 1 minute away" timeoffset="300.000000"/>
-            <textevent message="Try to keep your spin high, 100rpm or quicker" timeoffset="307.000000"/>
-            <textevent message="You only have to hold your speed &amp; control for 20 seconds..." timeoffset="314.000000"/>
-            <textevent message="and then you'll settle right back into your current effort level" timeoffset="321.000000"/>
-            <textevent message="Lots of leg speed, control and power" timeoffset="343.000000"/>
-            <textevent message="Get ready..." timeoffset="350.000000"/>
-            <textevent message="3..." timeoffset="357.000000"/>
-            <textevent message="2..." timeoffset="358.000000"/>
-            <textevent message="1..." timeoffset="359.000000"/>
+            <textevent message="Keep things light &amp; fluid for a few more minutes..." timeoffset="0"/>
+            <textevent message="as we work toward today's first of 4 high-intensity efforts" timeoffset="7"/>
+            <textevent message="All with the purpose of improved Muscle Activation..." timeoffset="14"/>
+            <textevent message="or an increase in the number of muscle fibers you're able to recruit" timeoffset="21"/>
+            <textevent message="Increasing your capacity for fiber recruitment means higher power potential" timeoffset="31"/>
+            <textevent message="We know this, but the icing on this cake..." timeoffset="41"/>
+            <textevent message="is how this increase in muscle activity can extend muscle endurance" timeoffset="48"/>
+            <textevent message="This higher recruitment capacity..." timeoffset="58"/>
+            <textevent message="spreads your workload across more muscle fibers" timeoffset="65"/>
+            <textevent message="By sharing the work..." timeoffset="72"/>
+            <textevent message="the usually overworked fibers get more rest" timeoffset="79"/>
+            <textevent message="This Motor Unit Cycling improves with increased muscle activity" timeoffset="86"/>
+            <textevent message="Cycling from tired fibers to fresh ones helps postpone fatigue" timeoffset="96"/>
+            <textevent message="But first, you have to be able to recruit more fibers" timeoffset="106"/>
+            <textevent message="Enter muscle fiber recruitment drills" timeoffset="113"/>
+            <textevent message="You'll force your legs to activate a lot of muscle..." timeoffset="120"/>
+            <textevent message="but for only brief periods of time..." timeoffset="127"/>
+            <textevent message="in order to avoid fatiguing your muscles so much..." timeoffset="134"/>
+            <textevent message="that subsequent workouts suffer" timeoffset="141"/>
+            <textevent message="So you'll work really hard for 20 seconds at a time..." timeoffset="150"/>
+            <textevent message="and only a small handful of times" timeoffset="157"/>
+            <textevent message="20 seconds of all-out, seated sprinting..." timeoffset="165"/>
+            <textevent message="followed by several minutes of easy spinning before you do it again" timeoffset="172"/>
+            <textevent message="First sprint is 1 minute away" timeoffset="300"/>
+            <textevent message="Try to keep your spin high, 100rpm or quicker" timeoffset="307"/>
+            <textevent message="You only have to hold your speed &amp; control for 20 seconds..." timeoffset="314"/>
+            <textevent message="and then you'll settle right back into your current effort level" timeoffset="321"/>
+            <textevent message="Lots of leg speed, control and power" timeoffset="343"/>
+            <textevent message="Get ready..." timeoffset="350"/>
+            <textevent message="3..." timeoffset="357"/>
+            <textevent message="2..." timeoffset="358"/>
+            <textevent message="1..." timeoffset="359"/>
         </SteadyState>
         <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
-            <textevent message="Go hard!" timeoffset="0.000000"/>
-            <textevent message="10 more seconds!" timeoffset="10.000000"/>
-            <textevent message="Keep your power high!" timeoffset="15.000000"/>
+            <textevent message="Go hard!" timeoffset="0"/>
+            <textevent message="10 more seconds!" timeoffset="10"/>
+            <textevent message="Keep your power high!" timeoffset="15"/>
         </SteadyState>
         <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.750">
-            <textevent message="Well done" timeoffset="0.000000"/>
-            <textevent message="Ease off the gas and slow things down" timeoffset="5.000000"/>
+            <textevent message="Well done" timeoffset="0"/>
+            <textevent message="Ease off the gas and slow things down" timeoffset="5"/>
         </Warmup>
         <SteadyState Duration="480.0" PowerLow="0.750" PowerHigh="0.750">
-            <textevent message="Settle back into a stretch of light but still challenging spinning..." timeoffset="0.000000"/>
-            <textevent message="and regain any form lost to sloppy speed work" timeoffset="10.000000"/>
-            <textevent message="1 minute away from your second sprint effort" timeoffset="420.000000"/>
-            <textevent message="As always, if you find early sprint efforts too easy..." timeoffset="427.000000"/>
-            <textevent message="feel free to work a little harder each time" timeoffset="435.000000"/>
-            <textevent message="And electronic trainer riders..." timeoffset="442.000000"/>
-            <textevent message="consider switching out of Erg mode if you feel limited by the Target power" timeoffset="449.000000"/>
-            <textevent message="The idea is to go as hard as you can for 20 seconds, seated..." timeoffset="457.000000"/>
-            <textevent message="and Erg mode COULD prevent this" timeoffset="463.000000"/>
-            <textevent message="Get ready..." timeoffset="470.000000"/>
-            <textevent message="3..." timeoffset="477.000000"/>
-            <textevent message="2..." timeoffset="478.000000"/>
-            <textevent message="1..." timeoffset="479.000000"/>
+            <textevent message="Settle back into a stretch of light but still challenging spinning..." timeoffset="0"/>
+            <textevent message="and regain any form lost to sloppy speed work" timeoffset="10"/>
+            <textevent message="1 minute away from your second sprint effort" timeoffset="420"/>
+            <textevent message="As always, if you find early sprint efforts too easy..." timeoffset="427"/>
+            <textevent message="feel free to work a little harder each time" timeoffset="435"/>
+            <textevent message="And electronic trainer riders..." timeoffset="442"/>
+            <textevent message="consider switching out of Erg mode if you feel limited by the Target power" timeoffset="449"/>
+            <textevent message="The idea is to go as hard as you can for 20 seconds, seated..." timeoffset="457"/>
+            <textevent message="and Erg mode COULD prevent this" timeoffset="463"/>
+            <textevent message="Get ready..." timeoffset="470"/>
+            <textevent message="3..." timeoffset="477"/>
+            <textevent message="2..." timeoffset="478"/>
+            <textevent message="1..." timeoffset="479"/>
         </SteadyState>
         <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
-            <textevent message="Go hard!" timeoffset="0.000000"/>
-            <textevent message="10 seconds to go!" timeoffset="10.000000"/>
-            <textevent message="Keep it!" timeoffset="15.000000"/>
+            <textevent message="Go hard!" timeoffset="0"/>
+            <textevent message="10 seconds to go!" timeoffset="10"/>
+            <textevent message="Keep it!" timeoffset="15"/>
         </SteadyState>
         <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.750">
-            <textevent message="Well done" timeoffset="0.000000"/>
-            <textevent message="Dial things back and catch your breath" timeoffset="5.000000"/>
+            <textevent message="Well done" timeoffset="0"/>
+            <textevent message="Dial things back and catch your breath" timeoffset="5"/>
         </Warmup>
         <SteadyState Duration="480.0" PowerLow="0.750" PowerHigh="0.750">
-            <textevent message="Settle into another stretch of moderate spinning..." timeoffset="0.000000"/>
-            <textevent message="and smooth things out if necessary" timeoffset="7.000000"/>
-            <textevent message="1 minute away from another seated sprint" timeoffset="420.000000"/>
-            <textevent message="If you're still finding these efforts a little too easy..." timeoffset="427.000000"/>
-            <textevent message="feel free to work even harder this time" timeoffset="434.000000"/>
-            <textevent message="In the saddle, get ready..." timeoffset="470.000000"/>
-            <textevent message="3..." timeoffset="477.000000"/>
-            <textevent message="2..." timeoffset="478.000000"/>
-            <textevent message="1..." timeoffset="479.000000"/>
+            <textevent message="Settle into another stretch of moderate spinning..." timeoffset="0"/>
+            <textevent message="and smooth things out if necessary" timeoffset="7"/>
+            <textevent message="1 minute away from another seated sprint" timeoffset="420"/>
+            <textevent message="If you're still finding these efforts a little too easy..." timeoffset="427"/>
+            <textevent message="feel free to work even harder this time" timeoffset="434"/>
+            <textevent message="In the saddle, get ready..." timeoffset="470"/>
+            <textevent message="3..." timeoffset="477"/>
+            <textevent message="2..." timeoffset="478"/>
+            <textevent message="1..." timeoffset="479"/>
         </SteadyState>
         <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
-            <textevent message="All out!" timeoffset="0.000000"/>
-            <textevent message="10 seconds left!" timeoffset="10.000000"/>
-            <textevent message="5 seconds! Don't quit" timeoffset="15.000000"/>
+            <textevent message="All out!" timeoffset="0"/>
+            <textevent message="10 seconds left!" timeoffset="10"/>
+            <textevent message="5 seconds! Don't quit" timeoffset="15"/>
         </SteadyState>
         <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.750">
-            <textevent message="Nice job, settle things down again" timeoffset="0.000000"/>
+            <textevent message="Nice job, settle things down again" timeoffset="0"/>
         </Warmup>
         <SteadyState Duration="480.0" PowerLow="0.750" PowerHigh="0.750">
-            <textevent message="Ease into yet another bout of moderate spinning..." timeoffset="0.000000"/>
-            <textevent message="and smooth things out if sacrificed any form" timeoffset="7.000000"/>
-            <textevent message="1 minute away from your fourth &amp; final sprint effort" timeoffset="420.000000"/>
-            <textevent message="Still finding the sprints a bit too easy?" timeoffset="427.000000"/>
-            <textevent message="Then you know what to do" timeoffset="434.000000"/>
-            <textevent message="Electronic trainer riders in Erg mode..." timeoffset="450.000000"/>
-            <textevent message="consider switching modes at least once" timeoffset="457.000000"/>
-            <textevent message="See what it's like to sprint unrestricted" timeoffset="464.000000"/>
-            <textevent message="Get ready" timeoffset="470.000000"/>
-            <textevent message="3..." timeoffset="477.000000"/>
-            <textevent message="2..." timeoffset="478.000000"/>
-            <textevent message="1..." timeoffset="479.000000"/>
+            <textevent message="Ease into yet another bout of moderate spinning..." timeoffset="0"/>
+            <textevent message="and smooth things out if sacrificed any form" timeoffset="7"/>
+            <textevent message="1 minute away from your fourth &amp; final sprint effort" timeoffset="420"/>
+            <textevent message="Still finding the sprints a bit too easy?" timeoffset="427"/>
+            <textevent message="Then you know what to do" timeoffset="434"/>
+            <textevent message="Electronic trainer riders in Erg mode..." timeoffset="450"/>
+            <textevent message="consider switching modes at least once" timeoffset="457"/>
+            <textevent message="See what it's like to sprint unrestricted" timeoffset="464"/>
+            <textevent message="Get ready" timeoffset="470"/>
+            <textevent message="3..." timeoffset="477"/>
+            <textevent message="2..." timeoffset="478"/>
+            <textevent message="1..." timeoffset="479"/>
         </SteadyState>
         <SteadyState Duration="20.0" PowerLow="1.800" PowerHigh="1.800">
-            <textevent message="All out!" timeoffset="0.000000"/>
-            <textevent message="Final 10 seconds!" timeoffset="10.000000"/>
-            <textevent message="Hold it!" timeoffset="15.000000"/>
+            <textevent message="All out!" timeoffset="0"/>
+            <textevent message="Final 10 seconds!" timeoffset="10"/>
+            <textevent message="Hold it!" timeoffset="15"/>
         </SteadyState>
         <Warmup Duration="40.0" PowerLow="0.200" PowerHigh="0.750">
-            <textevent message="Nice job" timeoffset="0.000000"/>
-            <textevent message="Settle things down one last time" timeoffset="5.000000"/>
+            <textevent message="Nice job" timeoffset="0"/>
+            <textevent message="Settle things down one last time" timeoffset="5"/>
         </Warmup>
         <SteadyState Duration="660.0" PowerLow="0.750" PowerHigh="0.750">
-            <textevent message="You're done with the hard stuff, time to ride steadily" timeoffset="0.000000"/>
-            <textevent message="Again, use the remaining minutes..." timeoffset="60.000000"/>
-            <textevent message="to spend time working in your aero position" timeoffset="67.000000"/>
-            <textevent message="Become increasingly familiar with this low riding position..." timeoffset="74.000000"/>
-            <textevent message="especially when the going is relatively easy" timeoffset="81.000000"/>
-            <textevent message="And keep experimenting with bike fit tweaks as necessary" timeoffset="90.000000"/>
-            <textevent message="Spend 90-120 seconds in your aero position..." timeoffset="97.000000"/>
-            <textevent message="even longer if your Power or form doesn't suffer" timeoffset="104.000000"/>
-            <textevent message="Then ride upright for the same duration, 90-120 seconds" timeoffset="111.000000"/>
-            <textevent message="You can even move in &amp; out of the saddle a little bit" timeoffset="118.000000"/>
-            <textevent message="When seated though, keep your spin fairly quick" timeoffset="125.000000"/>
-            <textevent message="85 rpm is the recommended minimum..." timeoffset="132.000000"/>
-            <textevent message="but plenty of the best time trialists ride considerably quicker" timeoffset="139.000000"/>
-            <textevent message="Nudge things up as high as 90-100rpm if you're curious" timeoffset="146.000000"/>
-            <textevent message="You might find similar power for lower muscle stress..." timeoffset="153.000000"/>
-            <textevent message="and consequently, fresher legs for longer durations" timeoffset="160.000000"/>
+            <textevent message="You're done with the hard stuff, time to ride steadily" timeoffset="0"/>
+            <textevent message="Again, use the remaining minutes..." timeoffset="60"/>
+            <textevent message="to spend time working in your aero position" timeoffset="67"/>
+            <textevent message="Become increasingly familiar with this low riding position..." timeoffset="74"/>
+            <textevent message="especially when the going is relatively easy" timeoffset="81"/>
+            <textevent message="And keep experimenting with bike fit tweaks as necessary" timeoffset="90"/>
+            <textevent message="Spend 90-120 seconds in your aero position..." timeoffset="97"/>
+            <textevent message="even longer if your Power or form doesn't suffer" timeoffset="104"/>
+            <textevent message="Then ride upright for the same duration, 90-120 seconds" timeoffset="111"/>
+            <textevent message="You can even move in &amp; out of the saddle a little bit" timeoffset="118"/>
+            <textevent message="When seated though, keep your spin fairly quick" timeoffset="125"/>
+            <textevent message="85 rpm is the recommended minimum..." timeoffset="132"/>
+            <textevent message="but plenty of the best time trialists ride considerably quicker" timeoffset="139"/>
+            <textevent message="Nudge things up as high as 90-100rpm if you're curious" timeoffset="146"/>
+            <textevent message="You might find similar power for lower muscle stress..." timeoffset="153"/>
+            <textevent message="and consequently, fresher legs for longer durations" timeoffset="160"/>
         </SteadyState>
         <Cooldown Duration="300.0" PowerLow="0.750" PowerHigh="0.500">
-            <textevent message="Well done" timeoffset="0.000000"/>
-            <textevent message="Time to bring things down gradually..." timeoffset="7.000000"/>
-            <textevent message="and rest up for whatever lies ahead" timeoffset="14.000000"/>
-            <textevent message="We'll see you next time" timeoffset="21.000000"/>
+            <textevent message="Well done" timeoffset="0"/>
+            <textevent message="Time to bring things down gradually..." timeoffset="7"/>
+            <textevent message="and rest up for whatever lies ahead" timeoffset="14"/>
+            <textevent message="We'll see you next time" timeoffset="21"/>
         </Cooldown>
     </workout>
 </workout_file>

@@ -1,0 +1,50 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Regan is four 8-minute intervals at 100% FTP. The recoveries between intervals are 6 minutes long.
+FILE NAME = Mount Regan
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	70
+12	70
+12	100
+15	100
+15	50
+21	50
+21	100
+29	100
+29	50
+35	50
+35	100
+43	100
+43	50
+49	50
+49	100
+57	100
+57	50
+63	50
+63	100
+71	100
+71	50
+80	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4800	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1260	1740	Threshold 2
+2100	2580	Threshold 3
+2940	3420	Threshold 4
+3780	4260	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

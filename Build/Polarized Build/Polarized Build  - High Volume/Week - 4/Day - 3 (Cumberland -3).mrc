@@ -1,0 +1,78 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Cumberland -3 is a continuous 60-minute stretch of work between 70-75% FTP nestled inside of a 75-minute workout.
+FILE NAME = Cumberland -3
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	58
+8	58
+8	66
+12	66
+12	72
+16	72
+16	74
+19	74
+19	71
+23	71
+23	75
+27	75
+27	70
+30	70
+30	72
+35	72
+35	75
+39	75
+39	70
+42	70
+42	74
+45	74
+45	72
+50	72
+50	70
+54	70
+54	72
+57	72
+57	73
+60	73
+60	71
+64	71
+64	73
+68	73
+68	71
+72	71
+72	40
+75	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+240	480	Endurance 1
+480	720	Endurance 2
+720	960	Endurance 3
+960	1140	Endurance 4
+1140	1380	Endurance 5
+1380	1620	Endurance 6
+1620	1800	Endurance 7
+1800	2100	Endurance 8
+2100	2340	Endurance 9
+2340	2520	Endurance 10
+2520	2700	Endurance 11
+2700	3000	Endurance 12
+3000	3240	Endurance 13
+3240	3420	Endurance 14
+3420	3600	Endurance 15
+3600	3840	Endurance 16
+3840	4080	Endurance 17
+4080	4320	Endurance 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]

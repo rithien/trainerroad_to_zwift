@@ -4,419 +4,419 @@
     <name>Lazy Mountain +1</name>
     <workout>
         <SteadyState Duration="300.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="Welcome to Lazy Mountain +1" timeoffset="10.000000"/>
-            <textevent message="Aptly name, the workout ahead..." timeoffset="17.000000"/>
-            <textevent message="maybe shouldn't be referred to as a 'workout'..." timeoffset="21.000000"/>
-            <textevent message="since the primary aim isn't to stress your body..." timeoffset="26.000000"/>
-            <textevent message="but instead to offer some form of revitalization" timeoffset="31.000000"/>
-            <textevent message="By keeping the intensity low..." timeoffset="37.000000"/>
-            <textevent message="so low that your muscles never feel the sting of blood acidity..." timeoffset="41.000000"/>
-            <textevent message="so low that your breathing never comes close to huffing &amp; puffing..." timeoffset="47.000000"/>
-            <textevent message="you'll be engaging in our preferred form of 'active recovery'" timeoffset="53.000000"/>
-            <textevent message="More on this topic to come" timeoffset="60.000000"/>
-            <textevent message="In the meantime..." timeoffset="65.000000"/>
-            <textevent message="keep your spin fairly quick, very light..." timeoffset="69.000000"/>
-            <textevent message="and target something in the 85-95rpm ballpark..." timeoffset="74.000000"/>
-            <textevent message="unless you're particulary adept at spinning more quickly..." timeoffset="79.000000"/>
-            <textevent message="without elevating your breathing rate..." timeoffset="84.000000"/>
-            <textevent message="and unduly stressing your fatigued muscles" timeoffset="88.000000"/>
+            <textevent message="Welcome to Lazy Mountain +1" timeoffset="10"/>
+            <textevent message="Aptly name, the workout ahead..." timeoffset="17"/>
+            <textevent message="maybe shouldn't be referred to as a 'workout'..." timeoffset="21"/>
+            <textevent message="since the primary aim isn't to stress your body..." timeoffset="26"/>
+            <textevent message="but instead to offer some form of revitalization" timeoffset="31"/>
+            <textevent message="By keeping the intensity low..." timeoffset="37"/>
+            <textevent message="so low that your muscles never feel the sting of blood acidity..." timeoffset="41"/>
+            <textevent message="so low that your breathing never comes close to huffing &amp; puffing..." timeoffset="47"/>
+            <textevent message="you'll be engaging in our preferred form of 'active recovery'" timeoffset="53"/>
+            <textevent message="More on this topic to come" timeoffset="60"/>
+            <textevent message="In the meantime..." timeoffset="65"/>
+            <textevent message="keep your spin fairly quick, very light..." timeoffset="69"/>
+            <textevent message="and target something in the 85-95rpm ballpark..." timeoffset="74"/>
+            <textevent message="unless you're particulary adept at spinning more quickly..." timeoffset="79"/>
+            <textevent message="without elevating your breathing rate..." timeoffset="84"/>
+            <textevent message="and unduly stressing your fatigued muscles" timeoffset="88"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.400" PowerHigh="0.500">
-            <textevent message="If you've yet to settle into an appropriate cadence..." timeoffset="0.000000"/>
-            <textevent message="that strikes a balance between slow, grinding pedaling..." timeoffset="6.000000"/>
-            <textevent message="and too-quick, bouncing-in-the-saddle lack of control..." timeoffset="11.000000"/>
-            <textevent message="use this minute to find that happy medium" timeoffset="17.000000"/>
+            <textevent message="If you've yet to settle into an appropriate cadence..." timeoffset="0"/>
+            <textevent message="that strikes a balance between slow, grinding pedaling..." timeoffset="6"/>
+            <textevent message="and too-quick, bouncing-in-the-saddle lack of control..." timeoffset="11"/>
+            <textevent message="use this minute to find that happy medium" timeoffset="17"/>
         </Warmup>
         <SteadyState Duration="900.0" PowerLow="0.500" PowerHigh="0.500">
-            <textevent message="By now..." timeoffset="0.000000"/>
-            <textevent message="you should have some idea of just how much fatigue..." timeoffset="4.000000"/>
-            <textevent message="you're carrying into this recovery session" timeoffset="9.000000"/>
-            <textevent message="There are some days..." timeoffset="15.000000"/>
-            <textevent message="and we've all been there..." timeoffset="19.000000"/>
-            <textevent message="when the mere act of turning over the pedals feels like work" timeoffset="22.000000"/>
-            <textevent message="If this is one of those days for you..." timeoffset="29.000000"/>
-            <textevent message="time to end the workout and do your recovering off the bike" timeoffset="34.000000"/>
-            <textevent message="There's really nothing to be gained..." timeoffset="40.000000"/>
-            <textevent message="that outweighs the benefits..." timeoffset="44.000000"/>
-            <textevent message="you'll derive from more miserable time in the saddle" timeoffset="48.000000"/>
-            <textevent message="Get okay with the notion that on some days..." timeoffset="54.000000"/>
-            <textevent message="ANY work is too much work" timeoffset="59.000000"/>
-            <textevent message="You're still here..." timeoffset="90.000000"/>
-            <textevent message="so the assumption is that you're either seeking an easy spin..." timeoffset="94.000000"/>
-            <textevent message="for reasons other than 'riding off' some fatigue..." timeoffset="100.000000"/>
-            <textevent message="or that you're tired but not TOO tired..." timeoffset="105.000000"/>
-            <textevent message="to benefit from some active recovery" timeoffset="110.000000"/>
-            <textevent message="So let's talk about what those benefits are" timeoffset="115.000000"/>
-            <textevent message="First off..." timeoffset="121.000000"/>
-            <textevent message="there's the straightforward act of bringing blood to the muscles..." timeoffset="124.000000"/>
-            <textevent message="which both carries nutrients to the damaged cells..." timeoffset="130.000000"/>
-            <textevent message="and carries waste away from them" timeoffset="135.000000"/>
-            <textevent message="In tandem with the lymphatic system..." timeoffset="140.000000"/>
-            <textevent message="your entire circulatory system can better do its job..." timeoffset="144.000000"/>
-            <textevent message="when we help things along with some light muscle contractions" timeoffset="149.000000"/>
-            <textevent message="This enhanced circulation is reason enough..." timeoffset="155.000000"/>
-            <textevent message="to get your legs turning during times of manageable fatigue" timeoffset="159.000000"/>
-            <textevent message="In doing so..." timeoffset="166.000000"/>
-            <textevent message="the outcomes can include faster repair of damaged muscle..." timeoffset="169.000000"/>
-            <textevent message="quicker reduction in muscle soreness..." timeoffset="175.000000"/>
-            <textevent message="also referred to as DOMS..." timeoffset="179.000000"/>
-            <textevent message="or less succinctly, Delayed Onset of Muscle Soreness..." timeoffset="183.000000"/>
-            <textevent message="reductions in various forms of inflammation that stem from training..." timeoffset="188.000000"/>
-            <textevent message="and quicker reduction in your basic level of fatigue..." timeoffset="194.000000"/>
-            <textevent message="which could easily be labeled 'perceived fatigue'..." timeoffset="199.000000"/>
-            <textevent message="because often enough..." timeoffset="204.000000"/>
-            <textevent message="fatigue carries a substantial psychological or mental aspect" timeoffset="208.000000"/>
-            <textevent message="Just the idea of getting on the bike can trigger sensations of fatigue..." timeoffset="215.000000"/>
-            <textevent message="which can be red flags flapping hard and telling you to take it easy..." timeoffset="221.000000"/>
-            <textevent message="or they could simply be a bit of mental fatigue that fades..." timeoffset="227.000000"/>
-            <textevent message="over the course of a warm-up..." timeoffset="233.000000"/>
-            <textevent message="or more eventually, as you work through your opening intervals" timeoffset="237.000000"/>
-            <textevent message="Which brings up a crucial point to consider on those not-so-fresh days" timeoffset="244.000000"/>
-            <textevent message="Once you've gotten through a warm-up..." timeoffset="251.000000"/>
-            <textevent message="you may have already grasped..." timeoffset="256.000000"/>
-            <textevent message="that you're simply too tired to do hard work" timeoffset="260.000000"/>
-            <textevent message="But MAYBE the warm-up shows signs of training readiness..." timeoffset="266.000000"/>
-            <textevent message="and you get through your first short interval or two..." timeoffset="272.000000"/>
-            <textevent message="or perhaps you get a few minutes into a longer interval..." timeoffset="277.000000"/>
-            <textevent message="and then recognize that today is simply not the day to go hard" timeoffset="282.000000"/>
-            <textevent message="What then?" timeoffset="289.000000"/>
-            <textevent message="Usually, a ride at a lower intensity is a good alternative..." timeoffset="294.000000"/>
-            <textevent message="if you're feeling pretty well..." timeoffset="299.000000"/>
-            <textevent message="but not quite sharp enough to really push yourself" timeoffset="303.000000"/>
-            <textevent message="That's the time for some real honesty..." timeoffset="309.000000"/>
-            <textevent message="because far, far too often..." timeoffset="314.000000"/>
-            <textevent message="athletes will tone things down..." timeoffset="317.000000"/>
-            <textevent message="but not far enough" timeoffset="321.000000"/>
-            <textevent message="It's a safer rule of thumb to perform a workout that's a little too easy..." timeoffset="325.000000"/>
-            <textevent message="than one that's a little too hard to facilitate recovery" timeoffset="331.000000"/>
-            <textevent message="When you dial things down..." timeoffset="337.000000"/>
-            <textevent message="you have to dial them down far enough..." timeoffset="341.000000"/>
-            <textevent message="to actually promote recovery" timeoffset="346.000000"/>
-            <textevent message="Otherwise..." timeoffset="351.000000"/>
-            <textevent message="you're only setting yourself up for a repeat performance..." timeoffset="354.000000"/>
-            <textevent message="of this same situation..." timeoffset="359.000000"/>
-            <textevent message="where you're neither rested enough for the hard stuff..." timeoffset="363.000000"/>
-            <textevent message="nor too fatigued to merit a day off the bike" timeoffset="369.000000"/>
-            <textevent message="This cycle of going kinda hard..." timeoffset="375.000000"/>
-            <textevent message="and then resting not quite adequately..." timeoffset="379.000000"/>
-            <textevent message="is the very cycle that dooms riders to mediocre race performances..." timeoffset="384.000000"/>
-            <textevent message="fitness plateaus of all sorts..." timeoffset="390.000000"/>
-            <textevent message="and training motivation that slides a little farther..." timeoffset="394.000000"/>
-            <textevent message="every time you underperform during a workout" timeoffset="399.000000"/>
-            <textevent message="Just a reminder we can never really hear enough:" timeoffset="405.000000"/>
-            <textevent message="Make your hard days hard..." timeoffset="411.000000"/>
-            <textevent message="and your easy days easy" timeoffset="415.000000"/>
-            <textevent message="Back to the benefits of recovery!" timeoffset="420.000000"/>
-            <textevent message="In addition to all the physiologic benefits of easy spinning..." timeoffset="426.000000"/>
-            <textevent message="are some less obvious upsides that warrant active recovery..." timeoffset="432.000000"/>
-            <textevent message="but we'll save those for the next segment of this workout" timeoffset="437.000000"/>
-            <textevent message="Until then..." timeoffset="444.000000"/>
-            <textevent message="keep your spin light, fairly quick..." timeoffset="447.000000"/>
-            <textevent message="sit-bones anchored to the wings of your saddle..." timeoffset="452.000000"/>
-            <textevent message="upper body calm and relaxed..." timeoffset="457.000000"/>
-            <textevent message="hips quiet and knees tracking vertically..." timeoffset="461.000000"/>
-            <textevent message="and keep driving your breathing with your belly" timeoffset="466.000000"/>
+            <textevent message="By now..." timeoffset="0"/>
+            <textevent message="you should have some idea of just how much fatigue..." timeoffset="4"/>
+            <textevent message="you're carrying into this recovery session" timeoffset="9"/>
+            <textevent message="There are some days..." timeoffset="15"/>
+            <textevent message="and we've all been there..." timeoffset="19"/>
+            <textevent message="when the mere act of turning over the pedals feels like work" timeoffset="22"/>
+            <textevent message="If this is one of those days for you..." timeoffset="29"/>
+            <textevent message="time to end the workout and do your recovering off the bike" timeoffset="34"/>
+            <textevent message="There's really nothing to be gained..." timeoffset="40"/>
+            <textevent message="that outweighs the benefits..." timeoffset="44"/>
+            <textevent message="you'll derive from more miserable time in the saddle" timeoffset="48"/>
+            <textevent message="Get okay with the notion that on some days..." timeoffset="54"/>
+            <textevent message="ANY work is too much work" timeoffset="59"/>
+            <textevent message="You're still here..." timeoffset="90"/>
+            <textevent message="so the assumption is that you're either seeking an easy spin..." timeoffset="94"/>
+            <textevent message="for reasons other than 'riding off' some fatigue..." timeoffset="100"/>
+            <textevent message="or that you're tired but not TOO tired..." timeoffset="105"/>
+            <textevent message="to benefit from some active recovery" timeoffset="110"/>
+            <textevent message="So let's talk about what those benefits are" timeoffset="115"/>
+            <textevent message="First off..." timeoffset="121"/>
+            <textevent message="there's the straightforward act of bringing blood to the muscles..." timeoffset="124"/>
+            <textevent message="which both carries nutrients to the damaged cells..." timeoffset="130"/>
+            <textevent message="and carries waste away from them" timeoffset="135"/>
+            <textevent message="In tandem with the lymphatic system..." timeoffset="140"/>
+            <textevent message="your entire circulatory system can better do its job..." timeoffset="144"/>
+            <textevent message="when we help things along with some light muscle contractions" timeoffset="149"/>
+            <textevent message="This enhanced circulation is reason enough..." timeoffset="155"/>
+            <textevent message="to get your legs turning during times of manageable fatigue" timeoffset="159"/>
+            <textevent message="In doing so..." timeoffset="166"/>
+            <textevent message="the outcomes can include faster repair of damaged muscle..." timeoffset="169"/>
+            <textevent message="quicker reduction in muscle soreness..." timeoffset="175"/>
+            <textevent message="also referred to as DOMS..." timeoffset="179"/>
+            <textevent message="or less succinctly, Delayed Onset of Muscle Soreness..." timeoffset="183"/>
+            <textevent message="reductions in various forms of inflammation that stem from training..." timeoffset="188"/>
+            <textevent message="and quicker reduction in your basic level of fatigue..." timeoffset="194"/>
+            <textevent message="which could easily be labeled 'perceived fatigue'..." timeoffset="199"/>
+            <textevent message="because often enough..." timeoffset="204"/>
+            <textevent message="fatigue carries a substantial psychological or mental aspect" timeoffset="208"/>
+            <textevent message="Just the idea of getting on the bike can trigger sensations of fatigue..." timeoffset="215"/>
+            <textevent message="which can be red flags flapping hard and telling you to take it easy..." timeoffset="221"/>
+            <textevent message="or they could simply be a bit of mental fatigue that fades..." timeoffset="227"/>
+            <textevent message="over the course of a warm-up..." timeoffset="233"/>
+            <textevent message="or more eventually, as you work through your opening intervals" timeoffset="237"/>
+            <textevent message="Which brings up a crucial point to consider on those not-so-fresh days" timeoffset="244"/>
+            <textevent message="Once you've gotten through a warm-up..." timeoffset="251"/>
+            <textevent message="you may have already grasped..." timeoffset="256"/>
+            <textevent message="that you're simply too tired to do hard work" timeoffset="260"/>
+            <textevent message="But MAYBE the warm-up shows signs of training readiness..." timeoffset="266"/>
+            <textevent message="and you get through your first short interval or two..." timeoffset="272"/>
+            <textevent message="or perhaps you get a few minutes into a longer interval..." timeoffset="277"/>
+            <textevent message="and then recognize that today is simply not the day to go hard" timeoffset="282"/>
+            <textevent message="What then?" timeoffset="289"/>
+            <textevent message="Usually, a ride at a lower intensity is a good alternative..." timeoffset="294"/>
+            <textevent message="if you're feeling pretty well..." timeoffset="299"/>
+            <textevent message="but not quite sharp enough to really push yourself" timeoffset="303"/>
+            <textevent message="That's the time for some real honesty..." timeoffset="309"/>
+            <textevent message="because far, far too often..." timeoffset="314"/>
+            <textevent message="athletes will tone things down..." timeoffset="317"/>
+            <textevent message="but not far enough" timeoffset="321"/>
+            <textevent message="It's a safer rule of thumb to perform a workout that's a little too easy..." timeoffset="325"/>
+            <textevent message="than one that's a little too hard to facilitate recovery" timeoffset="331"/>
+            <textevent message="When you dial things down..." timeoffset="337"/>
+            <textevent message="you have to dial them down far enough..." timeoffset="341"/>
+            <textevent message="to actually promote recovery" timeoffset="346"/>
+            <textevent message="Otherwise..." timeoffset="351"/>
+            <textevent message="you're only setting yourself up for a repeat performance..." timeoffset="354"/>
+            <textevent message="of this same situation..." timeoffset="359"/>
+            <textevent message="where you're neither rested enough for the hard stuff..." timeoffset="363"/>
+            <textevent message="nor too fatigued to merit a day off the bike" timeoffset="369"/>
+            <textevent message="This cycle of going kinda hard..." timeoffset="375"/>
+            <textevent message="and then resting not quite adequately..." timeoffset="379"/>
+            <textevent message="is the very cycle that dooms riders to mediocre race performances..." timeoffset="384"/>
+            <textevent message="fitness plateaus of all sorts..." timeoffset="390"/>
+            <textevent message="and training motivation that slides a little farther..." timeoffset="394"/>
+            <textevent message="every time you underperform during a workout" timeoffset="399"/>
+            <textevent message="Just a reminder we can never really hear enough:" timeoffset="405"/>
+            <textevent message="Make your hard days hard..." timeoffset="411"/>
+            <textevent message="and your easy days easy" timeoffset="415"/>
+            <textevent message="Back to the benefits of recovery!" timeoffset="420"/>
+            <textevent message="In addition to all the physiologic benefits of easy spinning..." timeoffset="426"/>
+            <textevent message="are some less obvious upsides that warrant active recovery..." timeoffset="432"/>
+            <textevent message="but we'll save those for the next segment of this workout" timeoffset="437"/>
+            <textevent message="Until then..." timeoffset="444"/>
+            <textevent message="keep your spin light, fairly quick..." timeoffset="447"/>
+            <textevent message="sit-bones anchored to the wings of your saddle..." timeoffset="452"/>
+            <textevent message="upper body calm and relaxed..." timeoffset="457"/>
+            <textevent message="hips quiet and knees tracking vertically..." timeoffset="461"/>
+            <textevent message="and keep driving your breathing with your belly" timeoffset="466"/>
         </SteadyState>
         <Warmup Duration="60.0" PowerLow="0.500" PowerHigh="0.600">
-            <textevent message="Very small bump in effort..." timeoffset="0.000000"/>
-            <textevent message="and nothing that should make you suddenly notice your fatigue" timeoffset="5.000000"/>
-            <textevent message="If, however, you do..." timeoffset="12.000000"/>
-            <textevent message="and this small increase has noticeably lifted your level of exertion..." timeoffset="16.000000"/>
-            <textevent message="it's best to call it a day..." timeoffset="22.000000"/>
-            <textevent message="and recognize that 20 minutes of active recovery..." timeoffset="26.000000"/>
-            <textevent message="is all you can offer right now..." timeoffset="31.000000"/>
-            <textevent message="and very likely, all you can benefit from" timeoffset="35.000000"/>
+            <textevent message="Very small bump in effort..." timeoffset="0"/>
+            <textevent message="and nothing that should make you suddenly notice your fatigue" timeoffset="5"/>
+            <textevent message="If, however, you do..." timeoffset="12"/>
+            <textevent message="and this small increase has noticeably lifted your level of exertion..." timeoffset="16"/>
+            <textevent message="it's best to call it a day..." timeoffset="22"/>
+            <textevent message="and recognize that 20 minutes of active recovery..." timeoffset="26"/>
+            <textevent message="is all you can offer right now..." timeoffset="31"/>
+            <textevent message="and very likely, all you can benefit from" timeoffset="35"/>
         </Warmup>
         <SteadyState Duration="900.0" PowerLow="0.600" PowerHigh="0.600">
-            <textevent message="Beyond the recovery benefits tied to increased blood circulation..." timeoffset="0.000000"/>
-            <textevent message="are potential improvements in pedaling economy..." timeoffset="6.000000"/>
-            <textevent message="attributed to the basic act of turning the pedals for a solid hour..." timeoffset="11.000000"/>
-            <textevent message="but also due to the reinforcement of proper motor patterning..." timeoffset="17.000000"/>
-            <textevent message="that can take place when we hold tired muscles..." timeoffset="23.000000"/>
-            <textevent message="to the same high levels of coordination as fresh ones" timeoffset="28.000000"/>
-            <textevent message="These easy rides are among the best opportunities..." timeoffset="34.000000"/>
-            <textevent message="for deeply ingraining desirable movement patterns..." timeoffset="39.000000"/>
-            <textevent message="and increasing the likelihood..." timeoffset="44.000000"/>
-            <textevent message="that even under high degrees of fatigue..." timeoffset="48.000000"/>
-            <textevent message="you'll still power your bike in a minimally wasteful manner" timeoffset="52.000000"/>
-            <textevent message="To this end..." timeoffset="59.000000"/>
-            <textevent message="low-intensity rides..." timeoffset="63.000000"/>
-            <textevent message="whether you're doing Endurance work around 55-75% FTP..." timeoffset="67.000000"/>
-            <textevent message="or recovery rides just like this one..." timeoffset="73.000000"/>
-            <textevent message="are excellent workouts in which to include some form work" timeoffset="77.000000"/>
-            <textevent message="In the case of active recovery riding..." timeoffset="84.000000"/>
-            <textevent message="it's probably best to steer clear of the more intense form drills..." timeoffset="88.000000"/>
-            <textevent message="like form sprints, saddle transitions, riding out of the saddle..." timeoffset="94.000000"/>
-            <textevent message="and even speed-endurance work done at low power outputs" timeoffset="99.000000"/>
-            <textevent message="Save that stuff for days when your mind &amp; muscles are more up to the task..." timeoffset="105.000000"/>
-            <textevent message="and stand a better chance of reinforcing desired habits..." timeoffset="111.000000"/>
-            <textevent message="rather than succumbing to fatigue and missing the benefit" timeoffset="116.000000"/>
-            <textevent message="Instead, drills that center around joint control..." timeoffset="122.000000"/>
-            <textevent message="or how well your knees track..." timeoffset="127.000000"/>
-            <textevent message="based largely on how well your hips steer them..." timeoffset="131.000000"/>
-            <textevent message="are good examples of low-intensity drills..." timeoffset="136.000000"/>
-            <textevent message="Another: quadrant drills..." timeoffset="141.000000"/>
-            <textevent message="where you target different segments of the pedalstroke..." timeoffset="144.000000"/>
-            <textevent message="in order to cultivate a more fluid pedaling style..." timeoffset="149.000000"/>
-            <textevent message="instead of a mashing, quad-intensive one" timeoffset="153.000000"/>
-            <textevent message="So over the next several minutes..." timeoffset="158.000000"/>
-            <textevent message="feel free to follow along with the optional form drills..." timeoffset="162.000000"/>
-            <textevent message="or maybe just read along if you're not in the mood for drills" timeoffset="167.000000"/>
-            <textevent message="For this first minute..." timeoffset="180.000000"/>
-            <textevent message="just focus on getting squarely placed on your saddle..." timeoffset="184.000000"/>
-            <textevent message="since it's especially challenging to do form work..." timeoffset="189.000000"/>
-            <textevent message="when you aren't working from a position of stability" timeoffset="194.000000"/>
-            <textevent message="Try to feel your sit-bones in constant contact..." timeoffset="200.000000"/>
-            <textevent message="with the widest part of your saddle" timeoffset="204.000000"/>
-            <textevent message="By keeping steady and even weight..." timeoffset="209.000000"/>
-            <textevent message="on both wings of your saddle..." timeoffset="213.000000"/>
-            <textevent message="through the larger bony protruberances on your backside..." timeoffset="217.000000"/>
-            <textevent message="your base of support is all but guaranteed to be solid" timeoffset="222.000000"/>
-            <textevent message="This is of special importance when the power output is low..." timeoffset="228.000000"/>
-            <textevent message="and your leg muscles aren't as supportive as usual" timeoffset="234.000000"/>
-            <textevent message="Now that you're anchored..." timeoffset="240.000000"/>
-            <textevent message="shift most of your attention to only one leg..." timeoffset="244.000000"/>
-            <textevent message="whichever you feel is the less coordinated one" timeoffset="249.000000"/>
-            <textevent message="By simply limiting your attention to a single leg..." timeoffset="254.000000"/>
-            <textevent message="a great deal of  improvement can start to take root almost immediately" timeoffset="259.000000"/>
-            <textevent message="This increase in control is entirely attributable to your nervous system..." timeoffset="266.000000"/>
-            <textevent message="and this added attention can be all that's necessary..." timeoffset="272.000000"/>
-            <textevent message="to strengthen the neuro-muscular link..." timeoffset="277.000000"/>
-            <textevent message="between mind and muscle" timeoffset="281.000000"/>
-            <textevent message="Help your brain send the right messages...." timeoffset="286.000000"/>
-            <textevent message="by doing no more than watching that single leg" timeoffset="290.000000"/>
-            <textevent message="Now shift your attention to your other, possibly more coordinated leg..." timeoffset="300.000000"/>
-            <textevent message="and just watch it rise and fall for a minute" timeoffset="306.000000"/>
-            <textevent message="As you do..." timeoffset="312.000000"/>
-            <textevent message="try to notice any variations in movement..." timeoffset="316.000000"/>
-            <textevent message="that pull your knee out of alignment with your foot" timeoffset="321.000000"/>
-            <textevent message="If possible, try to tone down that lateral movement" timeoffset="327.000000"/>
-            <textevent message="20 more seconds of watching that one leg" timeoffset="340.000000"/>
-            <textevent message="Switch back to your first leg..." timeoffset="360.000000"/>
-            <textevent message="and as you try to minimize..." timeoffset="365.000000"/>
-            <textevent message="any knee-wobble you might have spotted..." timeoffset="369.000000"/>
-            <textevent message="also try to feel your foot on the pedal..." timeoffset="375.000000"/>
-            <textevent message="all the way round each revolution" timeoffset="380.000000"/>
-            <textevent message="Light, even pressure on that foot..." timeoffset="385.000000"/>
-            <textevent message="regardless of where it falls within each 360 degrees" timeoffset="390.000000"/>
-            <textevent message="20 more seconds of a stable knee..." timeoffset="400.000000"/>
-            <textevent message="and a foot that feels the pedal" timeoffset="405.000000"/>
-            <textevent message="Trade sides, same deal on the other leg..." timeoffset="420.000000"/>
-            <textevent message="where you try to reduce lateral knee wobble..." timeoffset="426.000000"/>
-            <textevent message="while also keeping your foot continuously 'connected' to your bike" timeoffset="432.000000"/>
-            <textevent message="So you're both limiting knee movement..." timeoffset="439.000000"/>
-            <textevent message="as well as reducing pedalstroke deadspots" timeoffset="444.000000"/>
-            <textevent message="20 more seconds" timeoffset="460.000000"/>
-            <textevent message="Well done, ditch the focus and pedal smoothly" timeoffset="480.000000"/>
-            <textevent message="Pick anything up?" timeoffset="490.000000"/>
-            <textevent message="Even if your pedaling technique is already dialed..." timeoffset="495.000000"/>
-            <textevent message="occasionally limiting your attention to one leg at a time..." timeoffset="500.000000"/>
-            <textevent message="can prove beneficial..." timeoffset="506.000000"/>
-            <textevent message="even if it only demonstrates superb coordination in each leg" timeoffset="510.000000"/>
-            <textevent message="More likely though..." timeoffset="517.000000"/>
-            <textevent message="you'll notice a small amount of correctable inefficiency..." timeoffset="521.000000"/>
-            <textevent message="in one or both legs" timeoffset="526.000000"/>
-            <textevent message="Just how much energy you then dedicate to correcting the issue..." timeoffset="531.000000"/>
-            <textevent message="should depend on how pronounced it appears..." timeoffset="537.000000"/>
-            <textevent message="and if there's any pain associated with it" timeoffset="542.000000"/>
-            <textevent message="Sometimes..." timeoffset="549.000000"/>
-            <textevent message="trying to iron out so-called inefficiencies..." timeoffset="552.000000"/>
-            <textevent message="leads to more problems that it corrects" timeoffset="556.000000"/>
-            <textevent message="But often, these issues simply haven't reached a point..." timeoffset="561.000000"/>
-            <textevent message="where they actually cause dysfunction..." timeoffset="567.000000"/>
-            <textevent message="but someday very well could" timeoffset="572.000000"/>
-            <textevent message="At least becoming aware of them..." timeoffset="577.000000"/>
-            <textevent message="puts them on your radar..." timeoffset="581.000000"/>
-            <textevent message="and can help inform future decisions" timeoffset="585.000000"/>
-            <textevent message="Ready for another short round of drills?" timeoffset="591.000000"/>
-            <textevent message="This time around, both legs split your attention..." timeoffset="600.000000"/>
-            <textevent message="but we'll limit your focus to just the top of each pedalstroke" timeoffset="606.000000"/>
-            <textevent message="Each time a foot approaches top-dead-center..." timeoffset="613.000000"/>
-            <textevent message="or 12 o'clock..." timeoffset="617.000000"/>
-            <textevent message="actively but very lightly kick your foot forward" timeoffset="620.000000"/>
-            <textevent message="The aim here is not to derive extra power..." timeoffset="626.000000"/>
-            <textevent message="from a comparatively weak muscle action..." timeoffset="631.000000"/>
-            <textevent message="but only to smooth out the transition..." timeoffset="636.000000"/>
-            <textevent message="from a leg that's rising up..." timeoffset="641.000000"/>
-            <textevent message="to a leg that's driving down" timeoffset="645.000000"/>
-            <textevent message="A subtle kick through part of that up-down transition..." timeoffset="651.000000"/>
-            <textevent message="can be the difference between a lumbering, stabbing downstroke..." timeoffset="656.000000"/>
-            <textevent message="and a fluid, supple movement..." timeoffset="662.000000"/>
-            <textevent message="where force in one direction..." timeoffset="666.000000"/>
-            <textevent message="smoothly transitions to force in the opposite direction" timeoffset="670.000000"/>
-            <textevent message="So don't concern yourself with redistributing your power..." timeoffset="677.000000"/>
-            <textevent message="but rather, try to ride more smoothly..." timeoffset="683.000000"/>
-            <textevent message="by moving actively through that highest segment of each revolution" timeoffset="688.000000"/>
-            <textevent message="20 more seconds of kicking over the top" timeoffset="700.000000"/>
-            <textevent message="Time for a short break from form drills" timeoffset="720.000000"/>
-            <textevent message="Pedal lightly and comfortably quickly for the rest of this minute..." timeoffset="727.000000"/>
-            <textevent message="and shed any upper body tension you may have picked up" timeoffset="733.000000"/>
-            <textevent message="Over these final couple of minutes..." timeoffset="765.000000"/>
-            <textevent message="let's shift attention to the bottom of each pedalstroke" timeoffset="771.000000"/>
-            <textevent message="Now the added emphasis occurs..." timeoffset="780.000000"/>
-            <textevent message="as you approach the low point in each pedal revolution..." timeoffset="784.000000"/>
-            <textevent message="and activate the muscles in the backs of each leg..." timeoffset="790.000000"/>
-            <textevent message="in order to lightly draw your feet backward..." timeoffset="796.000000"/>
-            <textevent message="once again in an effort to reduce any jerkiness..." timeoffset="801.000000"/>
-            <textevent message="that might beset the 'bottom' of your pedalstroke" timeoffset="806.000000"/>
-            <textevent message="So yet again..." timeoffset="813.000000"/>
-            <textevent message="the aim is not to create more power..." timeoffset="817.000000"/>
-            <textevent message="nor to redistribute your power elsewhere..." timeoffset="822.000000"/>
-            <textevent message="throughout your pedal revolutions..." timeoffset="826.000000"/>
-            <textevent message="but only to iron out the seams..." timeoffset="830.000000"/>
-            <textevent message="between downward pressing and upward motion" timeoffset="834.000000"/>
-            <textevent message="One more minute..." timeoffset="840.000000"/>
-            <textevent message="of actively moving through the bottom of each pedalstroke" timeoffset="844.000000"/>
+            <textevent message="Beyond the recovery benefits tied to increased blood circulation..." timeoffset="0"/>
+            <textevent message="are potential improvements in pedaling economy..." timeoffset="6"/>
+            <textevent message="attributed to the basic act of turning the pedals for a solid hour..." timeoffset="11"/>
+            <textevent message="but also due to the reinforcement of proper motor patterning..." timeoffset="17"/>
+            <textevent message="that can take place when we hold tired muscles..." timeoffset="23"/>
+            <textevent message="to the same high levels of coordination as fresh ones" timeoffset="28"/>
+            <textevent message="These easy rides are among the best opportunities..." timeoffset="34"/>
+            <textevent message="for deeply ingraining desirable movement patterns..." timeoffset="39"/>
+            <textevent message="and increasing the likelihood..." timeoffset="44"/>
+            <textevent message="that even under high degrees of fatigue..." timeoffset="48"/>
+            <textevent message="you'll still power your bike in a minimally wasteful manner" timeoffset="52"/>
+            <textevent message="To this end..." timeoffset="59"/>
+            <textevent message="low-intensity rides..." timeoffset="63"/>
+            <textevent message="whether you're doing Endurance work around 55-75% FTP..." timeoffset="67"/>
+            <textevent message="or recovery rides just like this one..." timeoffset="73"/>
+            <textevent message="are excellent workouts in which to include some form work" timeoffset="77"/>
+            <textevent message="In the case of active recovery riding..." timeoffset="84"/>
+            <textevent message="it's probably best to steer clear of the more intense form drills..." timeoffset="88"/>
+            <textevent message="like form sprints, saddle transitions, riding out of the saddle..." timeoffset="94"/>
+            <textevent message="and even speed-endurance work done at low power outputs" timeoffset="99"/>
+            <textevent message="Save that stuff for days when your mind &amp; muscles are more up to the task..." timeoffset="105"/>
+            <textevent message="and stand a better chance of reinforcing desired habits..." timeoffset="111"/>
+            <textevent message="rather than succumbing to fatigue and missing the benefit" timeoffset="116"/>
+            <textevent message="Instead, drills that center around joint control..." timeoffset="122"/>
+            <textevent message="or how well your knees track..." timeoffset="127"/>
+            <textevent message="based largely on how well your hips steer them..." timeoffset="131"/>
+            <textevent message="are good examples of low-intensity drills..." timeoffset="136"/>
+            <textevent message="Another: quadrant drills..." timeoffset="141"/>
+            <textevent message="where you target different segments of the pedalstroke..." timeoffset="144"/>
+            <textevent message="in order to cultivate a more fluid pedaling style..." timeoffset="149"/>
+            <textevent message="instead of a mashing, quad-intensive one" timeoffset="153"/>
+            <textevent message="So over the next several minutes..." timeoffset="158"/>
+            <textevent message="feel free to follow along with the optional form drills..." timeoffset="162"/>
+            <textevent message="or maybe just read along if you're not in the mood for drills" timeoffset="167"/>
+            <textevent message="For this first minute..." timeoffset="180"/>
+            <textevent message="just focus on getting squarely placed on your saddle..." timeoffset="184"/>
+            <textevent message="since it's especially challenging to do form work..." timeoffset="189"/>
+            <textevent message="when you aren't working from a position of stability" timeoffset="194"/>
+            <textevent message="Try to feel your sit-bones in constant contact..." timeoffset="200"/>
+            <textevent message="with the widest part of your saddle" timeoffset="204"/>
+            <textevent message="By keeping steady and even weight..." timeoffset="209"/>
+            <textevent message="on both wings of your saddle..." timeoffset="213"/>
+            <textevent message="through the larger bony protruberances on your backside..." timeoffset="217"/>
+            <textevent message="your base of support is all but guaranteed to be solid" timeoffset="222"/>
+            <textevent message="This is of special importance when the power output is low..." timeoffset="228"/>
+            <textevent message="and your leg muscles aren't as supportive as usual" timeoffset="234"/>
+            <textevent message="Now that you're anchored..." timeoffset="240"/>
+            <textevent message="shift most of your attention to only one leg..." timeoffset="244"/>
+            <textevent message="whichever you feel is the less coordinated one" timeoffset="249"/>
+            <textevent message="By simply limiting your attention to a single leg..." timeoffset="254"/>
+            <textevent message="a great deal of  improvement can start to take root almost immediately" timeoffset="259"/>
+            <textevent message="This increase in control is entirely attributable to your nervous system..." timeoffset="266"/>
+            <textevent message="and this added attention can be all that's necessary..." timeoffset="272"/>
+            <textevent message="to strengthen the neuro-muscular link..." timeoffset="277"/>
+            <textevent message="between mind and muscle" timeoffset="281"/>
+            <textevent message="Help your brain send the right messages...." timeoffset="286"/>
+            <textevent message="by doing no more than watching that single leg" timeoffset="290"/>
+            <textevent message="Now shift your attention to your other, possibly more coordinated leg..." timeoffset="300"/>
+            <textevent message="and just watch it rise and fall for a minute" timeoffset="306"/>
+            <textevent message="As you do..." timeoffset="312"/>
+            <textevent message="try to notice any variations in movement..." timeoffset="316"/>
+            <textevent message="that pull your knee out of alignment with your foot" timeoffset="321"/>
+            <textevent message="If possible, try to tone down that lateral movement" timeoffset="327"/>
+            <textevent message="20 more seconds of watching that one leg" timeoffset="340"/>
+            <textevent message="Switch back to your first leg..." timeoffset="360"/>
+            <textevent message="and as you try to minimize..." timeoffset="365"/>
+            <textevent message="any knee-wobble you might have spotted..." timeoffset="369"/>
+            <textevent message="also try to feel your foot on the pedal..." timeoffset="375"/>
+            <textevent message="all the way round each revolution" timeoffset="380"/>
+            <textevent message="Light, even pressure on that foot..." timeoffset="385"/>
+            <textevent message="regardless of where it falls within each 360 degrees" timeoffset="390"/>
+            <textevent message="20 more seconds of a stable knee..." timeoffset="400"/>
+            <textevent message="and a foot that feels the pedal" timeoffset="405"/>
+            <textevent message="Trade sides, same deal on the other leg..." timeoffset="420"/>
+            <textevent message="where you try to reduce lateral knee wobble..." timeoffset="426"/>
+            <textevent message="while also keeping your foot continuously 'connected' to your bike" timeoffset="432"/>
+            <textevent message="So you're both limiting knee movement..." timeoffset="439"/>
+            <textevent message="as well as reducing pedalstroke deadspots" timeoffset="444"/>
+            <textevent message="20 more seconds" timeoffset="460"/>
+            <textevent message="Well done, ditch the focus and pedal smoothly" timeoffset="480"/>
+            <textevent message="Pick anything up?" timeoffset="490"/>
+            <textevent message="Even if your pedaling technique is already dialed..." timeoffset="495"/>
+            <textevent message="occasionally limiting your attention to one leg at a time..." timeoffset="500"/>
+            <textevent message="can prove beneficial..." timeoffset="506"/>
+            <textevent message="even if it only demonstrates superb coordination in each leg" timeoffset="510"/>
+            <textevent message="More likely though..." timeoffset="517"/>
+            <textevent message="you'll notice a small amount of correctable inefficiency..." timeoffset="521"/>
+            <textevent message="in one or both legs" timeoffset="526"/>
+            <textevent message="Just how much energy you then dedicate to correcting the issue..." timeoffset="531"/>
+            <textevent message="should depend on how pronounced it appears..." timeoffset="537"/>
+            <textevent message="and if there's any pain associated with it" timeoffset="542"/>
+            <textevent message="Sometimes..." timeoffset="549"/>
+            <textevent message="trying to iron out so-called inefficiencies..." timeoffset="552"/>
+            <textevent message="leads to more problems that it corrects" timeoffset="556"/>
+            <textevent message="But often, these issues simply haven't reached a point..." timeoffset="561"/>
+            <textevent message="where they actually cause dysfunction..." timeoffset="567"/>
+            <textevent message="but someday very well could" timeoffset="572"/>
+            <textevent message="At least becoming aware of them..." timeoffset="577"/>
+            <textevent message="puts them on your radar..." timeoffset="581"/>
+            <textevent message="and can help inform future decisions" timeoffset="585"/>
+            <textevent message="Ready for another short round of drills?" timeoffset="591"/>
+            <textevent message="This time around, both legs split your attention..." timeoffset="600"/>
+            <textevent message="but we'll limit your focus to just the top of each pedalstroke" timeoffset="606"/>
+            <textevent message="Each time a foot approaches top-dead-center..." timeoffset="613"/>
+            <textevent message="or 12 o'clock..." timeoffset="617"/>
+            <textevent message="actively but very lightly kick your foot forward" timeoffset="620"/>
+            <textevent message="The aim here is not to derive extra power..." timeoffset="626"/>
+            <textevent message="from a comparatively weak muscle action..." timeoffset="631"/>
+            <textevent message="but only to smooth out the transition..." timeoffset="636"/>
+            <textevent message="from a leg that's rising up..." timeoffset="641"/>
+            <textevent message="to a leg that's driving down" timeoffset="645"/>
+            <textevent message="A subtle kick through part of that up-down transition..." timeoffset="651"/>
+            <textevent message="can be the difference between a lumbering, stabbing downstroke..." timeoffset="656"/>
+            <textevent message="and a fluid, supple movement..." timeoffset="662"/>
+            <textevent message="where force in one direction..." timeoffset="666"/>
+            <textevent message="smoothly transitions to force in the opposite direction" timeoffset="670"/>
+            <textevent message="So don't concern yourself with redistributing your power..." timeoffset="677"/>
+            <textevent message="but rather, try to ride more smoothly..." timeoffset="683"/>
+            <textevent message="by moving actively through that highest segment of each revolution" timeoffset="688"/>
+            <textevent message="20 more seconds of kicking over the top" timeoffset="700"/>
+            <textevent message="Time for a short break from form drills" timeoffset="720"/>
+            <textevent message="Pedal lightly and comfortably quickly for the rest of this minute..." timeoffset="727"/>
+            <textevent message="and shed any upper body tension you may have picked up" timeoffset="733"/>
+            <textevent message="Over these final couple of minutes..." timeoffset="765"/>
+            <textevent message="let's shift attention to the bottom of each pedalstroke" timeoffset="771"/>
+            <textevent message="Now the added emphasis occurs..." timeoffset="780"/>
+            <textevent message="as you approach the low point in each pedal revolution..." timeoffset="784"/>
+            <textevent message="and activate the muscles in the backs of each leg..." timeoffset="790"/>
+            <textevent message="in order to lightly draw your feet backward..." timeoffset="796"/>
+            <textevent message="once again in an effort to reduce any jerkiness..." timeoffset="801"/>
+            <textevent message="that might beset the 'bottom' of your pedalstroke" timeoffset="806"/>
+            <textevent message="So yet again..." timeoffset="813"/>
+            <textevent message="the aim is not to create more power..." timeoffset="817"/>
+            <textevent message="nor to redistribute your power elsewhere..." timeoffset="822"/>
+            <textevent message="throughout your pedal revolutions..." timeoffset="826"/>
+            <textevent message="but only to iron out the seams..." timeoffset="830"/>
+            <textevent message="between downward pressing and upward motion" timeoffset="834"/>
+            <textevent message="One more minute..." timeoffset="840"/>
+            <textevent message="of actively moving through the bottom of each pedalstroke" timeoffset="844"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.600" PowerHigh="0.550">
-            <textevent message="Well done" timeoffset="0.000000"/>
-            <textevent message="Time to clear your head..." timeoffset="5.000000"/>
-            <textevent message="rid your body of unnecessary tension..." timeoffset="9.000000"/>
-            <textevent message="reanchor your sit-bones if they shook loose..." timeoffset="14.000000"/>
-            <textevent message="and reestablish your belly-driven breathing" timeoffset="19.000000"/>
-            <textevent message="It's also time for some honesty..." timeoffset="25.000000"/>
-            <textevent message="on the matter of residual fatigue" timeoffset="30.000000"/>
-            <textevent message="If the riding is starting to feel like a bit of work..." timeoffset="36.000000"/>
-            <textevent message="it might be time to end the workout" timeoffset="42.000000"/>
-            <textevent message="Recovery rides seldom last a full hour..." timeoffset="48.000000"/>
-            <textevent message="for the simple reason that a solid hour of uninterrupted pedaling..." timeoffset="53.000000"/>
+            <textevent message="Well done" timeoffset="0"/>
+            <textevent message="Time to clear your head..." timeoffset="5"/>
+            <textevent message="rid your body of unnecessary tension..." timeoffset="9"/>
+            <textevent message="reanchor your sit-bones if they shook loose..." timeoffset="14"/>
+            <textevent message="and reestablish your belly-driven breathing" timeoffset="19"/>
+            <textevent message="It's also time for some honesty..." timeoffset="25"/>
+            <textevent message="on the matter of residual fatigue" timeoffset="30"/>
+            <textevent message="If the riding is starting to feel like a bit of work..." timeoffset="36"/>
+            <textevent message="it might be time to end the workout" timeoffset="42"/>
+            <textevent message="Recovery rides seldom last a full hour..." timeoffset="48"/>
+            <textevent message="for the simple reason that a solid hour of uninterrupted pedaling..." timeoffset="53"/>
         </Cooldown>
         <SteadyState Duration="1080.0" PowerLow="0.550" PowerHigh="0.550">
-            <textevent message="isn't recuperative for many riders" timeoffset="0.000000"/>
-            <textevent message="Try to see things in terms of your next workout" timeoffset="6.000000"/>
-            <textevent message="Will another 20 minutes today cut into its quality?" timeoffset="13.000000"/>
-            <textevent message="If so, you know what to do" timeoffset="20.000000"/>
-            <textevent message="Otherwise..." timeoffset="26.000000"/>
-            <textevent message="let's discuss some alternate uses for a workout like this one" timeoffset="29.000000"/>
-            <textevent message="Easy rides around 50% FTP..." timeoffset="36.000000"/>
-            <textevent message="don't have to be about active recovery..." timeoffset="40.000000"/>
-            <textevent message="and perhaps the most common non-recovery use..." timeoffset="45.000000"/>
-            <textevent message="for a workout that's this light on intensity..." timeoffset="50.000000"/>
-            <textevent message="is one that's aimed at increasing aerobic adaptation..." timeoffset="55.000000"/>
-            <textevent message="by riding in a 'depleted state'" timeoffset="60.000000"/>
-            <textevent message="Coming into a workout with low muscle glycogen stores..." timeoffset="65.000000"/>
-            <textevent message="due to another recent, depleting workout..." timeoffset="71.000000"/>
-            <textevent message="whether it took place the night before or earlier in the same day..." timeoffset="76.000000"/>
-            <textevent message="can set the stage for beneficial genetic signaling..." timeoffset="82.000000"/>
-            <textevent message="assuming you sufficiently ran down your muscle stores" timeoffset="87.000000"/>
-            <textevent message="How will you know?" timeoffset="94.000000"/>
-            <textevent message="You'll know" timeoffset="99.000000"/>
-            <textevent message="From the moment you start pedaling the bike..." timeoffset="103.000000"/>
-            <textevent message="the low-level revolt you feel in your legs..." timeoffset="108.000000"/>
-            <textevent message="will confirm that you are very likely..." timeoffset="113.000000"/>
-            <textevent message="experiencing some level of glycogen depletion..." timeoffset="118.000000"/>
-            <textevent message="that will flip on those genetic switches..." timeoffset="123.000000"/>
-            <textevent message="that indicate a need for greater energy-producing capabilities" timeoffset="128.000000"/>
-            <textevent message="You can actually influence your body's adaptive response..." timeoffset="136.000000"/>
-            <textevent message="by enduring a low-intensity workout..." timeoffset="142.000000"/>
-            <textevent message="while in a low-energy state" timeoffset="147.000000"/>
-            <textevent message="This can lead to small but meaningful increases..." timeoffset="152.000000"/>
-            <textevent message="in your muscle mitochondrial content..." timeoffset="158.000000"/>
-            <textevent message="thereby increasing the amount of work you can do aerobically" timeoffset="163.000000"/>
-            <textevent message="To endurance athletes..." timeoffset="170.000000"/>
-            <textevent message="increases in mitochondrial density are the holy grail" timeoffset="174.000000"/>
-            <textevent message="Again, more mitochondria mean greater aerobic capacity" timeoffset="181.000000"/>
-            <textevent message="This not only means greater abililty to metabolize fat..." timeoffset="188.000000"/>
-            <textevent message="since fat metabolism ONLY takes place within mitochondria..." timeoffset="194.000000"/>
-            <textevent message="but it means far more efficient carbohydrate metabolism..." timeoffset="200.000000"/>
-            <textevent message="because sugar metabolized aerobically yields far, far more energy..." timeoffset="206.000000"/>
-            <textevent message="than when we metabolize glucose anaerobically" timeoffset="212.000000"/>
-            <textevent message="Put another way..." timeoffset="218.000000"/>
-            <textevent message="processing carbs aerobically..." timeoffset="222.000000"/>
-            <textevent message="within the mitochondria inside our muscle cells..." timeoffset="226.000000"/>
-            <textevent message="makes our sugar stores last substantially longer..." timeoffset="232.000000"/>
-            <textevent message="than processing them anaerobically..." timeoffset="237.000000"/>
-            <textevent message="outside of the mitochondria" timeoffset="242.000000"/>
-            <textevent message="These depleted rides..." timeoffset="247.000000"/>
-            <textevent message="sometimes referred to as two-a-days..." timeoffset="251.000000"/>
-            <textevent message="aren't high-intensity affairs" timeoffset="256.000000"/>
-            <textevent message="In fact..." timeoffset="261.000000"/>
-            <textevent message="if your level of glycogen depletion is deep enough..." timeoffset="264.000000"/>
-            <textevent message="high-intensity work simply won't happen..." timeoffset="269.000000"/>
-            <textevent message="regardless of how hard you try..." timeoffset="273.000000"/>
-            <textevent message="or how much you suffer" timeoffset="277.000000"/>
-            <textevent message="Most second workouts performed in a single short span of time..." timeoffset="281.000000"/>
-            <textevent message="will inherently have to take place at a low intensity..." timeoffset="287.000000"/>
-            <textevent message="making this very workout a good fit" timeoffset="293.000000"/>
-            <textevent message="Run your muscles low on fuel in whatever manner you choose..." timeoffset="299.000000"/>
-            <textevent message="and then follow up that workout with something light..." timeoffset="305.000000"/>
-            <textevent message="and primarily aerobically driven..." timeoffset="310.000000"/>
-            <textevent message="and you can increase the potential training benefits..." timeoffset="314.000000"/>
-            <textevent message="of even workouts as short and low on intensity as this one" timeoffset="320.000000"/>
-            <textevent message="The catch, however..." timeoffset="327.000000"/>
-            <textevent message="is that you don't replenish those muscle stores..." timeoffset="331.000000"/>
-            <textevent message="after that first workout" timeoffset="336.000000"/>
-            <textevent message="This doesn't mean starving yourself..." timeoffset="341.000000"/>
-            <textevent message="rather, it means limiting your carbohydrate intake..." timeoffset="345.000000"/>
-            <textevent message="or even postponing it until after your second, easier workout" timeoffset="350.000000"/>
-            <textevent message="Lots to ponder, eh?" timeoffset="357.000000"/>
-            <textevent message="Take a couple minutes to ride without reading..." timeoffset="362.000000"/>
-            <textevent message="and then we'll talk briefly..." timeoffset="368.000000"/>
-            <textevent message="about some of the potential mental aspects of recovery rides" timeoffset="372.000000"/>
-            <textevent message="Yet another potential advantage tied to active recovery..." timeoffset="480.000000"/>
-            <textevent message="has less to do with the body..." timeoffset="486.000000"/>
-            <textevent message="and more to do with the mind" timeoffset="490.000000"/>
-            <textevent message="When every ride you do is physically taxing..." timeoffset="495.000000"/>
-            <textevent message="there exists a cumulative effect..." timeoffset="501.000000"/>
-            <textevent message="beyond the obvious physiological ones" timeoffset="505.000000"/>
-            <textevent message="Endurance training can be mentally very taxing" timeoffset="511.000000"/>
-            <textevent message="Whether the intensity is high..." timeoffset="517.000000"/>
-            <textevent message="or the duration is long..." timeoffset="521.000000"/>
-            <textevent message="or the consistency is unbroken..." timeoffset="525.000000"/>
-            <textevent message="we're forced to compartmentalize discomfort on a frequent basis" timeoffset="530.000000"/>
-            <textevent message="Ignoring or refocusing our attention away from the pain we endure..." timeoffset="537.000000"/>
-            <textevent message="even mild to low levels of it..." timeoffset="543.000000"/>
-            <textevent message="is a pull on our body's resources" timeoffset="547.000000"/>
-            <textevent message="And we can only tolerate stress, in all its forms..." timeoffset="553.000000"/>
-            <textevent message="for so long before something gives" timeoffset="558.000000"/>
-            <textevent message="If we listen to our bodies, track our training stress, nourish properly..." timeoffset="564.000000"/>
-            <textevent message="we can do quite a good job of helping our bodies..." timeoffset="570.000000"/>
-            <textevent message="effectively adapt to our training" timeoffset="575.000000"/>
-            <textevent message="Our minds, however, don't always get the same due attention..." timeoffset="580.000000"/>
-            <textevent message="and we'll often push ourselves to points of mental decline" timeoffset="586.000000"/>
-            <textevent message="Plenty of this is tied to our bodies and the physiological goings-on..." timeoffset="593.000000"/>
-            <textevent message="but some of it is little more than mental fatigue" timeoffset="599.000000"/>
-            <textevent message="Sometimes we just need a break from focusing on hard work..." timeoffset="605.000000"/>
-            <textevent message="from managing discomfort..." timeoffset="611.000000"/>
-            <textevent message="from chasing performance improvement..." timeoffset="615.000000"/>
-            <textevent message="and an active recovery ride can create the cushion..." timeoffset="619.000000"/>
-            <textevent message="between the many different forms of hard work..." timeoffset="625.000000"/>
-            <textevent message="we encounter during training..." timeoffset="631.000000"/>
-            <textevent message="and elsewhere" timeoffset="635.000000"/>
-            <textevent message="So if you ONLY use active recovery workouts..." timeoffset="639.000000"/>
-            <textevent message="as a mechanism for mental restoration..." timeoffset="644.000000"/>
-            <textevent message="few, if any, experienced athletes and coaches..." timeoffset="649.000000"/>
-            <textevent message="would dare to criticize you for it" timeoffset="654.000000"/>
-            <textevent message="Anything that promotes training enthusiasm..." timeoffset="660.000000"/>
-            <textevent message="and maintains motivation..." timeoffset="665.000000"/>
-            <textevent message="is smart training" timeoffset="669.000000"/>
-            <textevent message="Spend the remainder of this segment..." timeoffset="674.000000"/>
-            <textevent message="continuing that same fairly quick, comfortably light pedaling..." timeoffset="679.000000"/>
-            <textevent message="and don't hesitate to bail out a little early..." timeoffset="685.000000"/>
-            <textevent message="if you reach a point of noticeable fatigue" timeoffset="690.000000"/>
-            <textevent message="Recovery rides are about just that..." timeoffset="696.000000"/>
-            <textevent message="RECOVERY" timeoffset="700.000000"/>
-            <textevent message="So if this starts to feel like work..." timeoffset="704.000000"/>
-            <textevent message="don't feel obligated to finish the workout..." timeoffset="708.000000"/>
-            <textevent message="just for the sake of finishing the workout" timeoffset="713.000000"/>
-            <textevent message="In the interest of improving as an athlete..." timeoffset="719.000000"/>
-            <textevent message="and not stubbornly adhering to a training plan..." timeoffset="724.000000"/>
-            <textevent message="in the face of unproductive fatigue..." timeoffset="729.000000"/>
-            <textevent message="learn when to call it a day" timeoffset="733.000000"/>
+            <textevent message="isn't recuperative for many riders" timeoffset="0"/>
+            <textevent message="Try to see things in terms of your next workout" timeoffset="6"/>
+            <textevent message="Will another 20 minutes today cut into its quality?" timeoffset="13"/>
+            <textevent message="If so, you know what to do" timeoffset="20"/>
+            <textevent message="Otherwise..." timeoffset="26"/>
+            <textevent message="let's discuss some alternate uses for a workout like this one" timeoffset="29"/>
+            <textevent message="Easy rides around 50% FTP..." timeoffset="36"/>
+            <textevent message="don't have to be about active recovery..." timeoffset="40"/>
+            <textevent message="and perhaps the most common non-recovery use..." timeoffset="45"/>
+            <textevent message="for a workout that's this light on intensity..." timeoffset="50"/>
+            <textevent message="is one that's aimed at increasing aerobic adaptation..." timeoffset="55"/>
+            <textevent message="by riding in a 'depleted state'" timeoffset="60"/>
+            <textevent message="Coming into a workout with low muscle glycogen stores..." timeoffset="65"/>
+            <textevent message="due to another recent, depleting workout..." timeoffset="71"/>
+            <textevent message="whether it took place the night before or earlier in the same day..." timeoffset="76"/>
+            <textevent message="can set the stage for beneficial genetic signaling..." timeoffset="82"/>
+            <textevent message="assuming you sufficiently ran down your muscle stores" timeoffset="87"/>
+            <textevent message="How will you know?" timeoffset="94"/>
+            <textevent message="You'll know" timeoffset="99"/>
+            <textevent message="From the moment you start pedaling the bike..." timeoffset="103"/>
+            <textevent message="the low-level revolt you feel in your legs..." timeoffset="108"/>
+            <textevent message="will confirm that you are very likely..." timeoffset="113"/>
+            <textevent message="experiencing some level of glycogen depletion..." timeoffset="118"/>
+            <textevent message="that will flip on those genetic switches..." timeoffset="123"/>
+            <textevent message="that indicate a need for greater energy-producing capabilities" timeoffset="128"/>
+            <textevent message="You can actually influence your body's adaptive response..." timeoffset="136"/>
+            <textevent message="by enduring a low-intensity workout..." timeoffset="142"/>
+            <textevent message="while in a low-energy state" timeoffset="147"/>
+            <textevent message="This can lead to small but meaningful increases..." timeoffset="152"/>
+            <textevent message="in your muscle mitochondrial content..." timeoffset="158"/>
+            <textevent message="thereby increasing the amount of work you can do aerobically" timeoffset="163"/>
+            <textevent message="To endurance athletes..." timeoffset="170"/>
+            <textevent message="increases in mitochondrial density are the holy grail" timeoffset="174"/>
+            <textevent message="Again, more mitochondria mean greater aerobic capacity" timeoffset="181"/>
+            <textevent message="This not only means greater abililty to metabolize fat..." timeoffset="188"/>
+            <textevent message="since fat metabolism ONLY takes place within mitochondria..." timeoffset="194"/>
+            <textevent message="but it means far more efficient carbohydrate metabolism..." timeoffset="200"/>
+            <textevent message="because sugar metabolized aerobically yields far, far more energy..." timeoffset="206"/>
+            <textevent message="than when we metabolize glucose anaerobically" timeoffset="212"/>
+            <textevent message="Put another way..." timeoffset="218"/>
+            <textevent message="processing carbs aerobically..." timeoffset="222"/>
+            <textevent message="within the mitochondria inside our muscle cells..." timeoffset="226"/>
+            <textevent message="makes our sugar stores last substantially longer..." timeoffset="232"/>
+            <textevent message="than processing them anaerobically..." timeoffset="237"/>
+            <textevent message="outside of the mitochondria" timeoffset="242"/>
+            <textevent message="These depleted rides..." timeoffset="247"/>
+            <textevent message="sometimes referred to as two-a-days..." timeoffset="251"/>
+            <textevent message="aren't high-intensity affairs" timeoffset="256"/>
+            <textevent message="In fact..." timeoffset="261"/>
+            <textevent message="if your level of glycogen depletion is deep enough..." timeoffset="264"/>
+            <textevent message="high-intensity work simply won't happen..." timeoffset="269"/>
+            <textevent message="regardless of how hard you try..." timeoffset="273"/>
+            <textevent message="or how much you suffer" timeoffset="277"/>
+            <textevent message="Most second workouts performed in a single short span of time..." timeoffset="281"/>
+            <textevent message="will inherently have to take place at a low intensity..." timeoffset="287"/>
+            <textevent message="making this very workout a good fit" timeoffset="293"/>
+            <textevent message="Run your muscles low on fuel in whatever manner you choose..." timeoffset="299"/>
+            <textevent message="and then follow up that workout with something light..." timeoffset="305"/>
+            <textevent message="and primarily aerobically driven..." timeoffset="310"/>
+            <textevent message="and you can increase the potential training benefits..." timeoffset="314"/>
+            <textevent message="of even workouts as short and low on intensity as this one" timeoffset="320"/>
+            <textevent message="The catch, however..." timeoffset="327"/>
+            <textevent message="is that you don't replenish those muscle stores..." timeoffset="331"/>
+            <textevent message="after that first workout" timeoffset="336"/>
+            <textevent message="This doesn't mean starving yourself..." timeoffset="341"/>
+            <textevent message="rather, it means limiting your carbohydrate intake..." timeoffset="345"/>
+            <textevent message="or even postponing it until after your second, easier workout" timeoffset="350"/>
+            <textevent message="Lots to ponder, eh?" timeoffset="357"/>
+            <textevent message="Take a couple minutes to ride without reading..." timeoffset="362"/>
+            <textevent message="and then we'll talk briefly..." timeoffset="368"/>
+            <textevent message="about some of the potential mental aspects of recovery rides" timeoffset="372"/>
+            <textevent message="Yet another potential advantage tied to active recovery..." timeoffset="480"/>
+            <textevent message="has less to do with the body..." timeoffset="486"/>
+            <textevent message="and more to do with the mind" timeoffset="490"/>
+            <textevent message="When every ride you do is physically taxing..." timeoffset="495"/>
+            <textevent message="there exists a cumulative effect..." timeoffset="501"/>
+            <textevent message="beyond the obvious physiological ones" timeoffset="505"/>
+            <textevent message="Endurance training can be mentally very taxing" timeoffset="511"/>
+            <textevent message="Whether the intensity is high..." timeoffset="517"/>
+            <textevent message="or the duration is long..." timeoffset="521"/>
+            <textevent message="or the consistency is unbroken..." timeoffset="525"/>
+            <textevent message="we're forced to compartmentalize discomfort on a frequent basis" timeoffset="530"/>
+            <textevent message="Ignoring or refocusing our attention away from the pain we endure..." timeoffset="537"/>
+            <textevent message="even mild to low levels of it..." timeoffset="543"/>
+            <textevent message="is a pull on our body's resources" timeoffset="547"/>
+            <textevent message="And we can only tolerate stress, in all its forms..." timeoffset="553"/>
+            <textevent message="for so long before something gives" timeoffset="558"/>
+            <textevent message="If we listen to our bodies, track our training stress, nourish properly..." timeoffset="564"/>
+            <textevent message="we can do quite a good job of helping our bodies..." timeoffset="570"/>
+            <textevent message="effectively adapt to our training" timeoffset="575"/>
+            <textevent message="Our minds, however, don't always get the same due attention..." timeoffset="580"/>
+            <textevent message="and we'll often push ourselves to points of mental decline" timeoffset="586"/>
+            <textevent message="Plenty of this is tied to our bodies and the physiological goings-on..." timeoffset="593"/>
+            <textevent message="but some of it is little more than mental fatigue" timeoffset="599"/>
+            <textevent message="Sometimes we just need a break from focusing on hard work..." timeoffset="605"/>
+            <textevent message="from managing discomfort..." timeoffset="611"/>
+            <textevent message="from chasing performance improvement..." timeoffset="615"/>
+            <textevent message="and an active recovery ride can create the cushion..." timeoffset="619"/>
+            <textevent message="between the many different forms of hard work..." timeoffset="625"/>
+            <textevent message="we encounter during training..." timeoffset="631"/>
+            <textevent message="and elsewhere" timeoffset="635"/>
+            <textevent message="So if you ONLY use active recovery workouts..." timeoffset="639"/>
+            <textevent message="as a mechanism for mental restoration..." timeoffset="644"/>
+            <textevent message="few, if any, experienced athletes and coaches..." timeoffset="649"/>
+            <textevent message="would dare to criticize you for it" timeoffset="654"/>
+            <textevent message="Anything that promotes training enthusiasm..." timeoffset="660"/>
+            <textevent message="and maintains motivation..." timeoffset="665"/>
+            <textevent message="is smart training" timeoffset="669"/>
+            <textevent message="Spend the remainder of this segment..." timeoffset="674"/>
+            <textevent message="continuing that same fairly quick, comfortably light pedaling..." timeoffset="679"/>
+            <textevent message="and don't hesitate to bail out a little early..." timeoffset="685"/>
+            <textevent message="if you reach a point of noticeable fatigue" timeoffset="690"/>
+            <textevent message="Recovery rides are about just that..." timeoffset="696"/>
+            <textevent message="RECOVERY" timeoffset="700"/>
+            <textevent message="So if this starts to feel like work..." timeoffset="704"/>
+            <textevent message="don't feel obligated to finish the workout..." timeoffset="708"/>
+            <textevent message="just for the sake of finishing the workout" timeoffset="713"/>
+            <textevent message="In the interest of improving as an athlete..." timeoffset="719"/>
+            <textevent message="and not stubbornly adhering to a training plan..." timeoffset="724"/>
+            <textevent message="in the face of unproductive fatigue..." timeoffset="729"/>
+            <textevent message="learn when to call it a day" timeoffset="733"/>
         </SteadyState>
         <Cooldown Duration="60.0" PowerLow="0.550" PowerHigh="0.400">
-            <textevent message="Time to start wrapping this one up" timeoffset="0.000000"/>
-            <textevent message="Feel welcome to lower your cadence..." timeoffset="7.000000"/>
-            <textevent message="as the resistance declines" timeoffset="12.000000"/>
+            <textevent message="Time to start wrapping this one up" timeoffset="0"/>
+            <textevent message="Feel welcome to lower your cadence..." timeoffset="7"/>
+            <textevent message="as the resistance declines" timeoffset="12"/>
         </Cooldown>
         <SteadyState Duration="180.0" PowerLow="0.400" PowerHigh="0.400">
-            <textevent message="That about does it for now!" timeoffset="0.000000"/>
-            <textevent message="Use the remaining few minutes to honestly assess how you feel..." timeoffset="7.000000"/>
-            <textevent message="and try to decide if 60 continuous minutes of recovery suits you" timeoffset="13.000000"/>
-            <textevent message="Consider your post-workout, recovery-day nutrition..." timeoffset="20.000000"/>
-            <textevent message="certainly address your hydration if you sweated a bit..." timeoffset="25.000000"/>
-            <textevent message="and even if you didn't..." timeoffset="31.000000"/>
-            <textevent message="and we'll see you next time" timeoffset="35.000000"/>
+            <textevent message="That about does it for now!" timeoffset="0"/>
+            <textevent message="Use the remaining few minutes to honestly assess how you feel..." timeoffset="7"/>
+            <textevent message="and try to decide if 60 continuous minutes of recovery suits you" timeoffset="13"/>
+            <textevent message="Consider your post-workout, recovery-day nutrition..." timeoffset="20"/>
+            <textevent message="certainly address your hydration if you sweated a bit..." timeoffset="25"/>
+            <textevent message="and even if you didn't..." timeoffset="31"/>
+            <textevent message="and we'll see you next time" timeoffset="35"/>
         </SteadyState>
     </workout>
 </workout_file>

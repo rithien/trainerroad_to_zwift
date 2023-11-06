@@ -30,7 +30,7 @@ MINUTES	FTP
 [END COURSE DATA]
 
 [COURSE TEXT]
-0	Welcome to Bald Knob!	5	0	0	72	16777215	10
+0	Welcome to Bald!	5	0	0	72	16777215	10
 0	A workout primarily devoted to improving your aerobic capabilities...	5	0	0	72	16777215	17
 0	but one where you'll have the option to incorporate some form work	6	0	0	72	16777215	23
 0	More on the drills later though	4	0	0	72	16777215	31
@@ -262,4 +262,4 @@ MINUTES	FTP
 [MODE DATA]
 [END MODE DATA]
 
-                                                                                                                                                                                                             
+                                                                                                                                                                                                                        
